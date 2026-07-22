@@ -91,13 +91,41 @@ def download_save_file(local_path="Level.sav"):
     return local_path
 
 
+def decompress_sav(data):
+    """
+    Gere les deux formats de sauvegarde Palworld :
+      - PlZ (zlib) : ancien format, gere par palworld-save-tools
+      - PlM (Oodle) : nouveau format depuis la mise a jour ete 2026,
+        gere ici via la librairie kraken-decompressor
+    """
+    import struct
+    import zlib
+
+    uncompressed_len, compressed_len = struct.unpack("<II", data[0:8])
+    magic = data[8:11]
+    save_type = data[11]
+    body = data[12:12 + compressed_len]
+
+    if magic == b"PlZ":
+        from palworld_save_tools.palsav import decompress_sav_to_gvas
+        raw, _ = decompress_sav_to_gvas(data)
+        return raw
+    elif magic == b"PlM":
+        from kraken_decompressor import decompress as kraken_decompress
+        raw = kraken_decompress(body, uncompressed_len)
+        if save_type == 0x32:
+            raw = zlib.decompress(raw)
+        return raw
+    else:
+        raise Exception(f"Format de sauvegarde non reconnu (magic={magic!r})")
+
+
 def parse_pals(save_path, player_id_to_name):
     from palworld_save_tools.gvas import GvasFile
-    from palworld_save_tools.palsav import decompress_sav_to_gvas
     from palworld_save_tools.paltypes import PALWORLD_TYPE_HINTS
 
     with open(save_path, "rb") as f:
-        raw = decompress_sav_to_gvas(f.read())
+        raw = decompress_sav(f.read())
     gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS)
 
     char_map = gvas.properties["worldSaveData"]["value"]["CharacterSaveParameterMap"]["value"]
