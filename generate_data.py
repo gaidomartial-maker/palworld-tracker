@@ -169,8 +169,15 @@ def main():
     server, players = fetch_server_info_and_players()
     player_id_to_name = {p["playerId"]: p["name"] for p in players}
 
-    save_path = download_save_file()
-    pals = parse_pals(save_path, player_id_to_name)
+    pals = []
+    try:
+        save_path = download_save_file()
+        pals = parse_pals(save_path, player_id_to_name)
+    except Exception as e:
+        # Le parsing des Pals est en cours de mise au point (nouveau format
+        # de sauvegarde Oodle/PlM). On ne bloque pas le reste du site pour
+        # autant : on publie quand meme le classement des joueurs.
+        print(f"AVERTISSEMENT -- lecture des Pals impossible pour l'instant : {e}")
 
     data = {
         "generated_at": datetime.datetime.now().astimezone().isoformat(),
