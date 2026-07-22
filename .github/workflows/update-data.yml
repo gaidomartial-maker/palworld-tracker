@@ -1,0 +1,42 @@
+name: Mise a jour des stats Palworld
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # toutes les 10 minutes
+  workflow_dispatch:          # bouton "Run workflow" manuel sur GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Generer data.js
+        env:
+          REST_HOST: ${{ secrets.REST_HOST }}
+          REST_PORT: ${{ secrets.REST_PORT }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_PORT: ${{ secrets.SFTP_PORT }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+          SFTP_SAVE_PATH: ${{ secrets.SFTP_SAVE_PATH }}
+        run: python generate_data.py
+
+      - name: Publier si ca a change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.js
+          git diff --quiet --cached || git commit -m "Mise a jour auto des stats"
+          git push
