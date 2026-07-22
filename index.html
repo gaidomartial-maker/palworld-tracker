@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stats du serveur Palworld</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0f1115;
+    --panel:#171a20;
+    --panel-alt:#1d212a;
+    --line:#262b33;
+    --text:#e8eaed;
+    --muted:#8b93a1;
+    --accent:#5eead4;
+    --accent-dim:#2f7d72;
+    --amber:#f5b942;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter', sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  a{color:var(--accent);}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+  .wrap{max-width:1080px; margin:0 auto; padding:0 20px 80px;}
+
+  header.top{
+    padding:48px 20px 32px;
+    text-align:center;
+    border-bottom:1px solid var(--line);
+  }
+  h1{
+    font-size:clamp(28px, 5vw, 42px);
+    font-weight:700;
+    margin:0 0 8px;
+    color:var(--text);
+  }
+  .subtitle{color:var(--muted); font-size:14px; margin:0 0 22px;}
+
+  .status-bar{
+    display:inline-flex; flex-wrap:wrap; justify-content:center; gap:10px 24px;
+    font-family:'JetBrains Mono', monospace;
+    font-size:13px;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:999px;
+    padding:10px 22px;
+  }
+  .status-bar .dot{
+    display:inline-block; width:8px; height:8px; border-radius:50%;
+    background:#4caf50; margin-right:6px;
+  }
+  .status-bar .dot.off{background:#e05555;}
+  .status-bar .sep{color:var(--line);}
+
+  section{margin-top:48px;}
+  .section-head{margin-bottom:20px;}
+  .section-head h2{font-size:20px; font-weight:700; margin:0 0 4px;}
+  .section-head p{margin:0; color:var(--muted); font-size:13px;}
+
+  table{width:100%; border-collapse:collapse; font-size:14px;}
+  thead th{
+    text-align:left;
+    font-family:'JetBrains Mono', monospace;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+    font-size:11px;
+    color:var(--muted);
+    padding:0 12px 10px;
+    border-bottom:1px solid var(--line);
+    cursor:pointer;
+    user-select:none;
+  }
+  thead th:hover{color:var(--accent);}
+  thead th.sorted::after{content:" ▾"; color:var(--accent);}
+  tbody tr{border-bottom:1px solid var(--line);}
+  tbody tr:hover{background:rgba(94,234,212,0.05);}
+  td{padding:12px; vertical-align:middle;}
+  td.rank{font-family:'JetBrains Mono', monospace; color:var(--muted); width:36px;}
+  td.name{font-weight:600;}
+  .pill{display:inline-flex; align-items:center; gap:6px; font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--muted);}
+  .pill .dot{width:7px; height:7px; border-radius:50%; background:#4caf50;}
+  .pill .dot.off{background:#4a4f58;}
+
+  .pal-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); gap:16px;}
+  .pal-card{
+    background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+    padding:16px 16px 14px; position:relative; transition:border-color .15s ease;
+  }
+  .pal-card:hover{border-color:var(--accent-dim);}
+  .pal-card .rank-star{position:absolute; top:14px; right:14px; font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--amber);}
+  .pal-card .alpha-tag{
+    display:inline-block; font-family:'JetBrains Mono', monospace; font-size:10px; letter-spacing:0.06em;
+    color:#0f1115; background:var(--amber); border-radius:4px; padding:2px 6px; margin-bottom:8px; text-transform:uppercase;
+  }
+  .pal-card h3{font-size:18px; font-weight:700; margin:0 0 2px;}
+  .pal-card .species{color:var(--muted); font-size:12px; font-style:italic; margin-bottom:10px;}
+  .stat-row{display:flex; align-items:center; gap:8px; margin-bottom:6px;}
+  .stat-row .label{width:30px; font-family:'JetBrains Mono', monospace; font-size:10px; color:var(--muted);}
+  .stat-row .bar{flex:1; height:6px; background:var(--panel-alt); border-radius:3px; overflow:hidden;}
+  .stat-row .bar > i{display:block; height:100%; background:linear-gradient(90deg, var(--accent-dim), var(--accent));}
+  .stat-row .val{width:26px; text-align:right; font-family:'JetBrains Mono', monospace; font-size:11px;}
+  .passives{margin-top:8px; display:flex; flex-wrap:wrap; gap:6px;}
+  .passives span{font-size:10px; color:var(--muted); border:1px solid var(--line); border-radius:4px; padding:2px 6px;}
+
+  .owner-row{margin-top:12px; padding-top:10px; border-top:1px solid var(--line); font-size:12px; color:var(--muted);}
+  .owner-row b{color:var(--text); font-weight:600;}
+
+  .roadmap{background:var(--panel); border:1px dashed var(--line); border-radius:var(--radius); padding:20px 22px; color:var(--muted); font-size:14px;}
+  .roadmap b{color:var(--text);}
+
+  footer{margin-top:56px; padding-top:18px; border-top:1px solid var(--line); text-align:center; color:var(--muted); font-size:12px; font-family:'JetBrains Mono', monospace;}
+
+  @media (max-width:600px){
+    thead th:nth-child(3), td:nth-child(3){display:none;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{transition:none !important;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <h1 id="server-name">Chargement…</h1>
+    <p class="subtitle" id="server-desc"></p>
+    <div class="status-bar">
+      <span><span class="dot" id="status-dot"></span><span id="status-text">…</span></span>
+      <span class="sep">|</span>
+      <span id="player-count">— / —</span>
+      <span class="sep">|</span>
+      <span id="server-version">v—</span>
+      <span class="sep">|</span>
+      <span id="last-update">MAJ —</span>
+    </div>
+  </header>
+
+  <section id="players-section">
+    <div class="section-head">
+      <h2>Classement des joueurs</h2>
+      <p>Trié par niveau — clique une colonne pour changer le tri.</p>
+    </div>
+    <table id="players-table">
+      <thead>
+        <tr>
+          <th data-key="rank">#</th>
+          <th data-key="name">Joueur</th>
+          <th data-key="ping">Ping</th>
+          <th data-key="level" class="sorted">Niveau</th>
+          <th data-key="building_count">Bâtiments</th>
+          <th data-key="online">Statut</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section id="pals-section">
+    <div class="section-head">
+      <h2>Meilleurs Pals</h2>
+      <p>Classés par score (niveau + rang + talents), propriétaire indiqué en bas de carte.</p>
+    </div>
+    <div class="pal-grid" id="pal-grid"></div>
+  </section>
+
+  <section id="records-section">
+    <div class="section-head">
+      <h2>Records</h2>
+      <p>Morts, captures, dégâts infligés.</p>
+    </div>
+    <div class="roadmap" id="records-box">
+      Le jeu ne garde pas de compteur de kills/captures dans la sauvegarde — cette section
+      s'activera si on branche un <b>tracker d'évènements</b> (mod côté serveur) qui commence
+      à compter à partir de sa mise en place. En attendant, le classement des Pals ci-dessus
+      se base sur leur niveau, leur rang et leurs talents.
+    </div>
+  </section>
+
+  <footer>Généré automatiquement</footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  const D = window.PALWORLD_DATA || {};
+  const s = D.server || {};
+
+  document.getElementById('server-name').textContent = s.name || 'Serveur Palworld';
+  document.getElementById('server-desc').textContent = s.description || '';
+  document.getElementById('player-count').textContent =
+    (s.current_players ?? '—') + ' / ' + (s.max_players ?? '—') + ' joueurs';
+  document.getElementById('server-version').textContent = s.version || '';
+  const dot = document.getElementById('status-dot');
+  const online = !!s.online;
+  dot.classList.toggle('off', !online);
+  document.getElementById('status-text').textContent = online ? 'En ligne' : 'Hors ligne';
+  if (D.generated_at) {
+    const d = new Date(D.generated_at);
+    document.getElementById('last-update').textContent =
+      'MAJ ' + d.toLocaleDateString('fr-FR') + ' ' + d.toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
+  }
+
+  let players = (D.players || []).slice();
+  let sortKey = 'level', sortDir = -1;
+
+  function renderPlayers(){
+    players.sort((a,b) => {
+      let av = a[sortKey], bv = b[sortKey];
+      if (typeof av === 'string') return sortDir * av.localeCompare(bv);
+      if (typeof av === 'boolean') return sortDir * ((bv?1:0) - (av?1:0));
+      return sortDir * ((bv ?? 0) - (av ?? 0));
+    });
+    const tbody = document.querySelector('#players-table tbody');
+    tbody.innerHTML = players.map((p, i) => `
+      <tr>
+        <td class="rank">${i+1}</td>
+        <td class="name">${escapeHtml(p.name)}</td>
+        <td>${p.ping != null ? p.ping + ' ms' : '—'}</td>
+        <td>${p.level ?? '—'}</td>
+        <td>${p.building_count ?? '—'}</td>
+        <td><span class="pill"><span class="dot ${p.online ? '' : 'off'}"></span>${p.online ? 'En ligne' : 'Hors ligne'}</span></td>
+      </tr>
+    `).join('');
+  }
+
+  document.querySelectorAll('#players-table thead th').forEach(th => {
+    th.addEventListener('click', () => {
+      const key = th.dataset.key;
+      if (sortKey === key) sortDir *= -1; else { sortKey = key; sortDir = -1; }
+      document.querySelectorAll('#players-table thead th').forEach(t => t.classList.remove('sorted'));
+      th.classList.add('sorted');
+      renderPlayers();
+    });
+  });
+  renderPlayers();
+
+  function palScore(p){
+    const t = p.talents || {};
+    const talentSum = (t.hp||0)+(t.melee||0)+(t.shot||0)+(t.defense||0);
+    return (p.level||0)*4 + (p.rank||0)*15 + talentSum + (p.is_alpha ? 50 : 0);
+  }
+  const pals = (D.pals || []).slice().sort((a,b) => palScore(b) - palScore(a));
+
+  const grid = document.getElementById('pal-grid');
+  grid.innerHTML = pals.map(p => {
+    const t = p.talents || {};
+    const stars = '★'.repeat(p.rank || 0) + '☆'.repeat(4 - (p.rank || 0));
+    return `
+      <div class="pal-card">
+        <div class="rank-star">${stars}</div>
+        ${p.is_alpha ? '<div class="alpha-tag">Alpha</div><br>' : ''}
+        <h3>${escapeHtml(p.nickname || p.species)}</h3>
+        <div class="species">${escapeHtml(p.species)} · niv. ${p.level ?? '—'}</div>
+        ${statRow('PV', t.hp)}
+        ${statRow('MEL', t.melee)}
+        ${statRow('TIR', t.shot)}
+        ${statRow('DEF', t.defense)}
+        ${(p.passives && p.passives.length) ? `<div class="passives">${p.passives.map(x=>`<span>${escapeHtml(x)}</span>`).join('')}</div>` : ''}
+        <div class="owner-row">Appartient à <b>${escapeHtml(p.owner || 'inconnu')}</b></div>
+      </div>
+    `;
+  }).join('') || '<p style="color:var(--muted)">Aucun Pal à afficher pour le moment.</p>';
+
+  function statRow(label, val){
+    val = val || 0;
+    return `<div class="stat-row"><span class="label">${label}</span><span class="bar"><i style="width:${Math.min(val,100)}%"></i></span><span class="val">${val}</span></div>`;
+  }
+
+  function escapeHtml(str){
+    return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  if (D.records) {
+    document.getElementById('records-box').textContent = JSON.stringify(D.records);
+  }
+})();
+</script>
+</body>
+</html>
