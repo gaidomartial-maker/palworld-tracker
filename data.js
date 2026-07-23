@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T19:40:58.456882+00:00",
+  "generated_at": "2026-07-23T19:50:59.609137+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 79,
       "building_count": null,
-      "ping": 64.0,
+      "ping": 79.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 49.0,
+      "ping": 56.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -16996,7 +16996,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "Direhowl",
@@ -37643,7 +37643,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "Mammorest Cryst",
@@ -43749,7 +43749,7 @@ window.PALWORLD_DATA = {
         "def": 542
       },
       "passives": [],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "Foxparks Cryst",
@@ -44001,7 +44001,7 @@ window.PALWORLD_DATA = {
           "rank": -3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "Ice Reptyro",
@@ -48060,7 +48060,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "Munchill",
@@ -66003,6 +66003,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Celesdir Noct",
+      "species": "WhiteDeer_Dark",
+      "species_name": "Celesdir Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
+      "level": 2,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 95,
+        "melee": 0,
+        "shot": 94,
+        "defense": 42
+      },
+      "power_stats": {
+        "hp": 664,
+        "atk": 25,
+        "def": 17
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Swee",
       "species": "MopBaby",
       "species_name": "Swee",
@@ -67536,7 +67565,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Martial"
+      "owner": "inconnu"
     },
     {
       "nickname": "Necromus",
@@ -70706,6 +70735,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Celesdir Noct",
+      "species": "WhiteDeer_Dark",
+      "species_name": "Celesdir Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 22,
+        "melee": 0,
+        "shot": 24,
+        "defense": 36
+      },
+      "power_stats": {
+        "hp": 568,
+        "atk": 10,
+        "def": 8
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Solenne",
       "species": "MonochromeQueen",
       "species_name": "Solenne",
@@ -71024,7 +71082,7 @@ window.PALWORLD_DATA = {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 807
+        "pal_count": 808
       },
       {
         "owner": "LawzZ",
@@ -71032,7 +71090,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 535
+        "pal_count": 540
       },
       {
         "owner": "takitome",
@@ -71044,13 +71102,13 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "pal_count": 54
+        "pal_count": 50
       }
     ],
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2383458
+        "total_power": 2384044
       },
       {
         "owner": "LawzZ",
@@ -71058,7 +71116,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1591849
+        "total_power": 1605948
       },
       {
         "owner": "takitome",
@@ -71066,7 +71124,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 236199
+        "total_power": 222806
       },
       {
         "owner": "Prismiti",
@@ -71102,7 +71160,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Theo",
-        "paldeck_count": 206
+        "paldeck_count": 207
       },
       {
         "owner": "Martial",
