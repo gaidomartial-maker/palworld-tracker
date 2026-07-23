@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T11:51:11.721393+00:00",
+  "generated_at": "2026-07-23T11:54:31.629917+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -10,8 +10,24 @@ window.PALWORLD_DATA = {
   },
   "players": [
     {
+      "name": "Theo",
+      "level": 77,
+      "building_count": null,
+      "ping": null,
+      "online": false,
+      "playerId": "9B41274E000000000000000000000000"
+    },
+    {
+      "name": "LawzZ",
+      "level": 77,
+      "building_count": null,
+      "ping": null,
+      "online": false,
+      "playerId": "67587A0F000000000000000000000000"
+    },
+    {
       "name": "Martial",
-      "level": 1,
+      "level": 69,
       "building_count": null,
       "ping": null,
       "online": false,
@@ -19,49 +35,33 @@ window.PALWORLD_DATA = {
     },
     {
       "name": "takitome",
-      "level": 1,
+      "level": 53,
       "building_count": null,
       "ping": null,
       "online": false,
       "playerId": "266A5F29000000000000000000000000"
     },
     {
-      "name": "Theo",
-      "level": 1,
-      "building_count": null,
-      "ping": null,
-      "online": false,
-      "playerId": "9B41274E000000000000000000000000"
-    },
-    {
       "name": "Prismiti",
-      "level": 1,
+      "level": 19,
       "building_count": null,
       "ping": null,
       "online": false,
       "playerId": "72C997D8000000000000000000000000"
-    },
-    {
-      "name": "LawzZ",
-      "level": 1,
-      "building_count": null,
-      "ping": null,
-      "online": false,
-      "playerId": "67587A0F000000000000000000000000"
     }
   ],
   "pals": [
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 40
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -72,14 +72,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 84
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -90,14 +90,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 50
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL",
@@ -108,14 +108,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 25
       },
       "passives": [
         "ElementResist_Leaf_1_PAL",
@@ -127,14 +127,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 6
       },
       "passives": [
         "Deffence_down2"
@@ -144,14 +144,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 92
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -161,14 +161,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 27
       },
       "passives": [
         "ElementBoost_Ice_1_PAL",
@@ -179,14 +179,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 34
       },
       "passives": [
         "PAL_Sanity_Up_2",
@@ -197,14 +197,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 97
       },
       "passives": [
         "CraftSpeed_up2"
@@ -214,14 +214,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 31
       },
       "passives": [
         "NightOwl"
@@ -231,14 +231,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 36
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -248,14 +248,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 32
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -266,14 +266,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 16
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -283,14 +283,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 7
       },
       "passives": [
         "CraftSpeed_down1",
@@ -302,14 +302,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 51
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -319,14 +319,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 49
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -336,14 +336,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 30
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -357,10 +357,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 66
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -370,14 +370,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 13
       },
       "passives": [
         "Noukin"
@@ -391,10 +391,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 28
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -404,14 +404,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 74
       },
       "passives": [
         "ElementBoost_Earth_1_PAL",
@@ -422,14 +422,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 49
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -439,14 +439,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 36
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -456,14 +456,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 12
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -473,14 +473,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 35
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -490,14 +490,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 23,
+        "defense": 41
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -507,14 +507,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 80
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2",
@@ -525,14 +525,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 17
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -543,14 +543,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 31
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -560,14 +560,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 56
       },
       "passives": [
         "SalePrice_Down_1",
@@ -578,14 +578,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 99
       },
       "passives": [
         "Noukin"
@@ -595,14 +595,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 70
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -612,14 +612,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 7
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -630,14 +630,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 2
       },
       "passives": [
         "PAL_rude",
@@ -648,14 +648,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 35
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -665,14 +665,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 67
       },
       "passives": [
         "PAL_sadist"
@@ -682,14 +682,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 48
       },
       "passives": [
         "PAL_conceited",
@@ -700,14 +700,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 62
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -717,14 +717,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Mutant",
       "species": "BOSS_Mutant",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 61
       },
       "passives": [
         "TrainerLogging_up1"
@@ -734,14 +734,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 37
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -751,14 +751,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 74
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -768,14 +768,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 62
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -785,14 +785,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 20
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -802,14 +802,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 82
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -819,14 +819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 42
       },
       "passives": [
         "PAL_oraora",
@@ -837,14 +837,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecPomeranian",
       "species": "ElecPomeranian",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 93
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -854,14 +854,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteShieldDragon",
       "species": "WhiteShieldDragon",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 36
       },
       "passives": [
         "Deffence_up2_2"
@@ -871,14 +871,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 6
       },
       "passives": [],
       "owner": "Martial"
@@ -886,14 +886,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 60
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL",
@@ -904,14 +904,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 28
       },
       "passives": [
         "SalePrice_Up_1",
@@ -922,14 +922,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 25
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -939,14 +939,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 95
       },
       "passives": [
         "PAL_conceited"
@@ -956,14 +956,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku",
       "species": "Suzaku",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 50
       },
       "passives": [],
       "owner": "takitome"
@@ -971,14 +971,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 50
       },
       "passives": [],
       "owner": "Martial"
@@ -986,14 +986,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 3
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -1003,14 +1003,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 98
       },
       "passives": [
         "Stamina_Up_1"
@@ -1020,14 +1020,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 55
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -1037,14 +1037,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 84
       },
       "passives": [
         "SalePrice_Down_1"
@@ -1054,13 +1054,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
+        "shot": 99,
         "defense": 0
       },
       "passives": [
@@ -1071,14 +1071,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 67
       },
       "passives": [
         "PAL_masochist"
@@ -1088,14 +1088,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 100
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -1105,14 +1105,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 55
       },
       "passives": [
         "Noukin"
@@ -1122,14 +1122,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Bastet",
       "species": "Bastet",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 5
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -1139,14 +1139,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 20
       },
       "passives": [
         "Stamina_Up_1"
@@ -1156,14 +1156,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 21
       },
       "passives": [
         "SalePrice_Up_1"
@@ -1173,14 +1173,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 43
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -1190,14 +1190,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 88
       },
       "passives": [
         "Stamina_Up_2"
@@ -1207,14 +1207,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 66
       },
       "passives": [],
       "owner": "Martial"
@@ -1222,14 +1222,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 12
       },
       "passives": [],
       "owner": "LawzZ"
@@ -1237,14 +1237,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 6
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -1254,14 +1254,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 22
       },
       "passives": [
         "Stamina_Up_2"
@@ -1271,14 +1271,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 22
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -1288,13 +1288,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
+        "shot": 90,
         "defense": 0
       },
       "passives": [
@@ -1305,14 +1305,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 57
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -1322,14 +1322,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 72
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -1339,14 +1339,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 17
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -1356,14 +1356,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 38
       },
       "passives": [
         "Deffence_down2"
@@ -1373,14 +1373,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 94
       },
       "passives": [
         "SalePrice_Up_2"
@@ -1390,14 +1390,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 43
       },
       "passives": [
         "SwimSpeed_up_1",
@@ -1408,14 +1408,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 42
       },
       "passives": [
         "CraftSpeed_up2"
@@ -1425,14 +1425,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 65
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -1442,14 +1442,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 23
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -1459,14 +1459,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 56
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -1476,14 +1476,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 61
       },
       "passives": [
         "SalePrice_Up_1"
@@ -1493,14 +1493,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 73
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -1510,14 +1510,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 19
       },
       "passives": [
         "Nocturnal",
@@ -1533,10 +1533,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 70
       },
       "passives": [
         "PAL_sadist"
@@ -1546,13 +1546,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
+        "shot": 38,
         "defense": 0
       },
       "passives": [
@@ -1563,14 +1563,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 11
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -1581,14 +1581,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 23
       },
       "passives": [
         "Noukin"
@@ -1598,14 +1598,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 60
       },
       "passives": [
         "SalePrice_Down_1",
@@ -1616,14 +1616,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 72
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -1633,14 +1633,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 78
       },
       "passives": [
         "NightOwl"
@@ -1650,14 +1650,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 76
       },
       "passives": [],
       "owner": "Martial"
@@ -1665,14 +1665,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 32
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -1682,14 +1682,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 3
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -1701,14 +1701,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 73
       },
       "passives": [
         "Nocturnal"
@@ -1718,14 +1718,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 67
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -1735,14 +1735,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 38
       },
       "passives": [
         "NightOwl",
@@ -1753,14 +1753,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 54
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -1770,14 +1770,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 46
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -1787,14 +1787,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 29
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -1804,14 +1804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 16
       },
       "passives": [],
       "owner": "Martial"
@@ -1819,14 +1819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 56
       },
       "passives": [
         "PAL_rude"
@@ -1836,14 +1836,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 95
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -1853,14 +1853,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 84
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -1870,14 +1870,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 50
       },
       "passives": [
         "TrainerLogging_up1",
@@ -1888,14 +1888,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 86
       },
       "passives": [
         "Stamina_Up_2"
@@ -1905,14 +1905,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 36
       },
       "passives": [
         "ElementResist_Thunder_1_PAL",
@@ -1923,14 +1923,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 19
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -1942,14 +1942,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 89
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -1959,14 +1959,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 95
       },
       "passives": [
         "PAL_ALLAttack_up2",
@@ -1982,9 +1982,9 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
+        "shot": 67,
         "defense": 0
       },
       "passives": [
@@ -1996,14 +1996,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 19
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -2013,14 +2013,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Bastet",
       "species": "Bastet",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 5
       },
       "passives": [
         "PAL_conceited"
@@ -2030,14 +2030,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 10
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -2047,14 +2047,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 61
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -2064,14 +2064,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 66
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -2081,14 +2081,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 86
       },
       "passives": [
         "NightOwl"
@@ -2098,14 +2098,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 61
       },
       "passives": [
         "Deffence_up2"
@@ -2115,14 +2115,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 49
       },
       "passives": [],
       "owner": "Theo"
@@ -2130,14 +2130,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 46
       },
       "passives": [],
       "owner": "takitome"
@@ -2145,14 +2145,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 28
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -2162,14 +2162,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 85
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -2179,14 +2179,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 18
       },
       "passives": [
         "TrainerMining_up1"
@@ -2196,14 +2196,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 50
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -2213,14 +2213,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_WeaselDragon",
       "species": "BOSS_WeaselDragon",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 73
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -2230,14 +2230,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 70
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -2248,14 +2248,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 54
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -2265,14 +2265,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 21
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -2282,14 +2282,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Mutant",
       "species": "Mutant",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 30
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -2299,14 +2299,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 85
       },
       "passives": [
         "PAL_conceited",
@@ -2317,14 +2317,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 86
       },
       "passives": [
         "Deffence_up1"
@@ -2334,14 +2334,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 88
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -2351,14 +2351,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 66
       },
       "passives": [
         "CraftSpeed_down1"
@@ -2368,14 +2368,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 60
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -2385,14 +2385,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 10
       },
       "passives": [
         "Stamina_Down_1"
@@ -2402,14 +2402,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WizardOwl",
       "species": "WizardOwl",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 82
       },
       "passives": [
         "Stamina_Down_1"
@@ -2419,14 +2419,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 20
       },
       "passives": [
         "Deffence_up1"
@@ -2436,14 +2436,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 85
       },
       "passives": [
         "Nocturnal"
@@ -2453,14 +2453,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 23
       },
       "passives": [
         "PAL_sadist",
@@ -2471,14 +2471,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 59
       },
       "passives": [
         "PAL_masochist"
@@ -2488,14 +2488,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 42
       },
       "passives": [
         "PAL_oraora"
@@ -2505,14 +2505,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 19
       },
       "passives": [
         "CraftSpeed_up1"
@@ -2522,14 +2522,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 34
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -2540,14 +2540,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 44
       },
       "passives": [
         "Deffence_down1",
@@ -2558,14 +2558,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 19
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -2576,14 +2576,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 76
       },
       "passives": [
         "CoolTimeReduction_Down_1",
@@ -2595,14 +2595,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 24
       },
       "passives": [],
       "owner": "LawzZ"
@@ -2610,14 +2610,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 16
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -2627,14 +2627,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 99
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -2644,14 +2644,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 54
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -2661,14 +2661,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 4
       },
       "passives": [
         "TrainerLogging_up1"
@@ -2678,14 +2678,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 26
       },
       "passives": [
         "Deffence_up2_2"
@@ -2695,14 +2695,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus",
       "species": "NegativeOctopus",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 15
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -2712,14 +2712,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 14
       },
       "passives": [
         "Stamina_Down_1"
@@ -2729,14 +2729,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 89
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -2746,14 +2746,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 94
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -2763,14 +2763,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 27
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -2780,14 +2780,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 14
       },
       "passives": [
         "Stamina_Down_1"
@@ -2797,14 +2797,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 3
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -2814,14 +2814,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 80
       },
       "passives": [
         "Nocturnal"
@@ -2831,13 +2831,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
+        "shot": 49,
         "defense": 0
       },
       "passives": [
@@ -2848,14 +2848,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 8
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -2865,14 +2865,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 37
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -2886,10 +2886,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 62
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -2899,14 +2899,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 42
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -2916,14 +2916,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 59
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -2933,14 +2933,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 81
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -2950,14 +2950,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 36
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -2968,14 +2968,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 36
       },
       "passives": [
         "PAL_oraora"
@@ -2985,14 +2985,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 64
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -3002,14 +3002,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 80
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -3020,14 +3020,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 25
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -3037,14 +3037,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 83
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -3054,14 +3054,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_WeaselDragon",
       "species": "BOSS_WeaselDragon",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 61
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -3071,14 +3071,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 18
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -3088,14 +3088,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 11
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -3105,14 +3105,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 51
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -3122,14 +3122,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 5
       },
       "passives": [
         "CraftSpeed_down1"
@@ -3139,14 +3139,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 1
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -3156,14 +3156,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 90
       },
       "passives": [],
       "owner": "LawzZ"
@@ -3171,14 +3171,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 20
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -3188,14 +3188,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 60
       },
       "passives": [
         "ElementResist_Dragon_1_PAL",
@@ -3206,14 +3206,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 92
       },
       "passives": [],
       "owner": "Martial"
@@ -3221,14 +3221,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 66
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -3238,14 +3238,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 51
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -3255,14 +3255,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 64
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -3272,14 +3272,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 47
       },
       "passives": [
         "NonKilling"
@@ -3289,14 +3289,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Male_People02",
       "species": "Male_People02",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 42
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -3306,14 +3306,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 22
       },
       "passives": [
         "CraftSpeed_down1"
@@ -3323,14 +3323,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 92
       },
       "passives": [
         "Noukin"
@@ -3340,14 +3340,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 40
       },
       "passives": [
         "CraftSpeed_up2"
@@ -3357,14 +3357,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 17
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -3374,14 +3374,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 7
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -3391,14 +3391,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 37
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -3408,14 +3408,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 76
       },
       "passives": [],
       "owner": "inconnu"
@@ -3423,14 +3423,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 43
       },
       "passives": [
         "Noukin"
@@ -3440,14 +3440,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 45
       },
       "passives": [
         "Deffence_up2_2"
@@ -3457,14 +3457,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 1
       },
       "passives": [
         "SalePrice_Down_1"
@@ -3474,14 +3474,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 47
       },
       "passives": [
         "PAL_masochist"
@@ -3491,14 +3491,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 47
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -3508,14 +3508,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 62
       },
       "passives": [
         "ElementResist_Leaf_1_PAL",
@@ -3526,14 +3526,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 97
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -3543,14 +3543,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 8
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -3560,14 +3560,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBlackCat",
       "species": "GhostBlackCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 24
       },
       "passives": [
         "Nocturnal"
@@ -3577,14 +3577,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 3
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -3594,13 +3594,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
+        "shot": 66,
         "defense": 0
       },
       "passives": [
@@ -3611,14 +3611,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_JellyfishFairy",
       "species": "BOSS_JellyfishFairy",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 100
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -3628,14 +3628,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 49
       },
       "passives": [
         "TrainerLogging_up1"
@@ -3645,14 +3645,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 100
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -3662,14 +3662,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 15
       },
       "passives": [
         "Deffence_up2_2"
@@ -3679,14 +3679,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 22
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -3696,14 +3696,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 65
       },
       "passives": [
         "PAL_oraora",
@@ -3714,14 +3714,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 83
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -3731,14 +3731,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 89
       },
       "passives": [
         "CraftSpeed_down2"
@@ -3748,14 +3748,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 2
       },
       "passives": [
         "PAL_conceited"
@@ -3765,14 +3765,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 20
       },
       "passives": [
         "CraftSpeed_up1"
@@ -3782,14 +3782,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBlackCat",
       "species": "GhostBlackCat",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 35
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -3799,14 +3799,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 53
       },
       "passives": [
         "Deffence_up2"
@@ -3816,14 +3816,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 13
       },
       "passives": [
         "CraftSpeed_down2"
@@ -3833,14 +3833,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 1
       },
       "passives": [
         "PAL_oraora"
@@ -3850,14 +3850,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 7
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -3867,14 +3867,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 63
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -3884,14 +3884,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 74
       },
       "passives": [
         "PAL_sadist",
@@ -3902,14 +3902,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 27
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -3919,14 +3919,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 64
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -3936,14 +3936,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 31
       },
       "passives": [
         "CraftSpeed_down2"
@@ -3953,14 +3953,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 40
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -3970,14 +3970,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 16
       },
       "passives": [
         "Deffence_up1"
@@ -3987,14 +3987,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 100
       },
       "passives": [
         "CraftSpeed_down1",
@@ -4005,14 +4005,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 67
       },
       "passives": [
         "Deffence_down1"
@@ -4022,14 +4022,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 100
       },
       "passives": [
         "PAL_Sanity_Down_1",
@@ -4041,14 +4041,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 81
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -4058,14 +4058,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 21
       },
       "passives": [
         "Deffence_down2"
@@ -4075,14 +4075,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 39
       },
       "passives": [
         "Stamina_Down_1"
@@ -4092,14 +4092,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 59
       },
       "passives": [
         "PAL_sadist"
@@ -4109,14 +4109,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 26
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -4126,14 +4126,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 12
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -4143,14 +4143,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 31
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -4160,14 +4160,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 27
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -4177,14 +4177,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 31
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -4194,14 +4194,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 51
       },
       "passives": [
         "Nocturnal"
@@ -4215,10 +4215,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 29
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -4228,14 +4228,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 97
       },
       "passives": [],
       "owner": "Martial"
@@ -4243,14 +4243,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 5
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -4260,14 +4260,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 43
       },
       "passives": [
         "Nocturnal"
@@ -4277,14 +4277,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 57
       },
       "passives": [
         "Deffence_down1"
@@ -4294,14 +4294,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 73
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -4311,14 +4311,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 19
       },
       "passives": [
         "Stamina_Up_2"
@@ -4328,14 +4328,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 27
       },
       "passives": [
         "Noukin"
@@ -4345,14 +4345,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 24
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -4362,14 +4362,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 78
       },
       "passives": [],
       "owner": "Martial"
@@ -4377,14 +4377,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 93
       },
       "passives": [],
       "owner": "takitome"
@@ -4392,14 +4392,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 73
       },
       "passives": [
         "PAL_masochist"
@@ -4409,14 +4409,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 1
       },
       "passives": [
         "Noukin",
@@ -4428,14 +4428,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 61
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -4445,14 +4445,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 91
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -4462,14 +4462,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 4
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -4479,14 +4479,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 3
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -4497,14 +4497,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 92
       },
       "passives": [
         "CraftSpeed_down1"
@@ -4514,14 +4514,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 26
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -4531,14 +4531,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 63
       },
       "passives": [
         "PAL_Sanity_Up_2",
@@ -4549,14 +4549,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 36
       },
       "passives": [
         "SalePrice_Up_1"
@@ -4566,14 +4566,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 51
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -4583,14 +4583,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 93
       },
       "passives": [
         "SalePrice_Up_2"
@@ -4600,14 +4600,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Female_People03",
       "species": "BOSS_Female_People03",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 83
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -4617,14 +4617,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 56
       },
       "passives": [],
       "owner": "Prismiti"
@@ -4632,14 +4632,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 65
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -4649,14 +4649,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 42
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -4666,14 +4666,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 22
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -4683,14 +4683,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 93
       },
       "passives": [],
       "owner": "LawzZ"
@@ -4698,14 +4698,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 66
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -4715,14 +4715,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 35
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -4732,14 +4732,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 40
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -4749,14 +4749,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 76
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -4766,14 +4766,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 11
       },
       "passives": [
         "SalePrice_Up_2"
@@ -4783,14 +4783,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 19
       },
       "passives": [],
       "owner": "Theo"
@@ -4798,14 +4798,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 61
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -4817,14 +4817,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 43
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -4834,14 +4834,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 8
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -4851,14 +4851,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 78
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -4868,14 +4868,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 94
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -4885,14 +4885,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 93
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -4902,14 +4902,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 10
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -4919,14 +4919,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 9
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -4936,14 +4936,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 62
       },
       "passives": [
         "CraftSpeed_down2",
@@ -4954,14 +4954,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 15
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -4971,14 +4971,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 20
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -4988,14 +4988,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 68
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -5005,14 +5005,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 55
       },
       "passives": [
         "CraftSpeed_down1",
@@ -5024,14 +5024,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 56
       },
       "passives": [
         "ElementResist_Fire_1_PAL",
@@ -5042,14 +5042,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_NaughtyCat",
       "species": "BOSS_NaughtyCat",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 55
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -5059,14 +5059,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 44
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -5076,14 +5076,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 78
       },
       "passives": [
         "Deffence_down1",
@@ -5094,14 +5094,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 50
       },
       "passives": [
         "PAL_ALLAttack_down2",
@@ -5112,14 +5112,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 56
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -5129,14 +5129,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 44
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -5146,14 +5146,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 93
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -5163,14 +5163,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 44
       },
       "passives": [
         "Deffence_down2"
@@ -5180,14 +5180,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FengyunDeeper",
       "species": "BOSS_FengyunDeeper",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 87
       },
       "passives": [
         "Deffence_up2"
@@ -5197,14 +5197,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 91
       },
       "passives": [
         "Stamina_Down_1",
@@ -5216,14 +5216,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 42
       },
       "passives": [
         "PAL_CorporateSlave",
@@ -5234,14 +5234,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood",
       "species": "RobinHood",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 42
       },
       "passives": [],
       "owner": "inconnu"
@@ -5249,14 +5249,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 9
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -5266,14 +5266,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 30
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -5283,14 +5283,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 79
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -5300,14 +5300,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 99
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -5318,14 +5318,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 72
       },
       "passives": [
         "NightOwl"
@@ -5335,14 +5335,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 76
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -5352,14 +5352,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 7
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -5369,14 +5369,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 88
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -5386,14 +5386,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 38
       },
       "passives": [],
       "owner": "takitome"
@@ -5401,14 +5401,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 52
       },
       "passives": [
         "PAL_rude",
@@ -5419,14 +5419,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 71,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 22
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -5436,14 +5436,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 30
       },
       "passives": [
         "Stamina_Down_1"
@@ -5453,14 +5453,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 20
       },
       "passives": [
         "PAL_sadist"
@@ -5470,14 +5470,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 39
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -5487,14 +5487,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 11
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -5504,14 +5504,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 20
       },
       "passives": [
         "TrainerMining_up1"
@@ -5521,14 +5521,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 30
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -5538,14 +5538,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 33
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -5555,14 +5555,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 41
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -5572,14 +5572,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 52
       },
       "passives": [
         "ElementBoost_Fire_1_PAL",
@@ -5590,14 +5590,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 7
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -5607,14 +5607,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 5
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -5624,14 +5624,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 100
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -5641,14 +5641,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 71
       },
       "passives": [
         "CraftSpeed_up1"
@@ -5658,14 +5658,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 66
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -5675,14 +5675,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 45
       },
       "passives": [
         "TrainerMining_up1"
@@ -5692,14 +5692,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 27
       },
       "passives": [
         "Deffence_down1",
@@ -5710,14 +5710,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 88
       },
       "passives": [],
       "owner": "takitome"
@@ -5725,14 +5725,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBlackCat",
       "species": "GhostBlackCat",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 74
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -5744,14 +5744,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 99
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -5761,14 +5761,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 31
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -5778,14 +5778,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 46
       },
       "passives": [],
       "owner": "inconnu"
@@ -5793,14 +5793,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 58
       },
       "passives": [
         "SwimSpeed_up_1",
@@ -5812,14 +5812,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 97
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -5829,14 +5829,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SheepBall",
       "species": "SheepBall",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 38
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -5846,14 +5846,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PurpleSpider",
       "species": "PurpleSpider",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 16
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -5867,10 +5867,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 58
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -5880,14 +5880,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 87
       },
       "passives": [],
       "owner": "Theo"
@@ -5895,14 +5895,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 61
       },
       "passives": [
         "PAL_FullStomach_Down_2",
@@ -5913,14 +5913,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 68
       },
       "passives": [],
       "owner": "Theo"
@@ -5928,14 +5928,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 98
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -5945,14 +5945,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon",
       "species": "FairyDragon",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 59
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -5962,14 +5962,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 6
       },
       "passives": [],
       "owner": "Prismiti"
@@ -5977,14 +5977,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 3
       },
       "passives": [
         "NightOwl"
@@ -5994,14 +5994,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 7
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -6011,14 +6011,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 60
       },
       "passives": [
         "CraftSpeed_down2"
@@ -6028,14 +6028,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 27
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -6045,14 +6045,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 75
       },
       "passives": [
         "Nocturnal"
@@ -6066,10 +6066,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 28
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -6080,14 +6080,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 80
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -6098,14 +6098,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 32
       },
       "passives": [
         "SalePrice_Down_1"
@@ -6115,14 +6115,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 9
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -6132,14 +6132,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus",
       "species": "NegativeOctopus",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 29
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -6149,14 +6149,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 32
       },
       "passives": [
         "NonKilling",
@@ -6169,14 +6169,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 10
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -6186,14 +6186,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 74
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -6207,10 +6207,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 46
       },
       "passives": [
         "Deffence_up2_2"
@@ -6220,14 +6220,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 97
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -6237,14 +6237,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 20
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -6254,14 +6254,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 27
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -6271,14 +6271,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 31
       },
       "passives": [
         "SalePrice_Down_1"
@@ -6288,14 +6288,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 7
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -6305,14 +6305,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 97
       },
       "passives": [],
       "owner": "Theo"
@@ -6320,14 +6320,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 92
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -6337,14 +6337,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 77
       },
       "passives": [
         "PAL_Sanity_Down_3"
@@ -6354,14 +6354,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 95
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -6372,14 +6372,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 94
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -6389,14 +6389,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 74
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -6409,14 +6409,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 5
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -6426,14 +6426,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 51
       },
       "passives": [
         "PAL_CorporateSlave",
@@ -6444,14 +6444,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 8
       },
       "passives": [
         "PAL_masochist"
@@ -6461,14 +6461,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 15
       },
       "passives": [
         "Stamina_Down_1"
@@ -6478,14 +6478,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 79
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -6496,14 +6496,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage",
       "species": "CatMage",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 12
       },
       "passives": [
         "CraftSpeed_down1"
@@ -6513,14 +6513,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 32
       },
       "passives": [],
       "owner": "takitome"
@@ -6528,14 +6528,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 5
       },
       "passives": [
         "AutoHPRegeneRate_Passive",
@@ -6546,14 +6546,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 67
       },
       "passives": [],
       "owner": "Prismiti"
@@ -6561,14 +6561,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog_Ice",
       "species": "Hedgehog_Ice",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 78
       },
       "passives": [
         "Nocturnal"
@@ -6578,14 +6578,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 92
       },
       "passives": [],
       "owner": "LawzZ"
@@ -6593,14 +6593,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 87
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -6610,14 +6610,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 54
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -6627,14 +6627,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 29
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -6644,14 +6644,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 35
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -6661,14 +6661,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 62
       },
       "passives": [
         "Stamina_Up_2",
@@ -6679,14 +6679,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 23
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -6696,14 +6696,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 20
       },
       "passives": [
         "Nocturnal"
@@ -6717,10 +6717,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 58
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -6730,14 +6730,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 25
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -6747,14 +6747,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 100
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -6765,14 +6765,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 5
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -6782,14 +6782,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 71
       },
       "passives": [
         "CraftSpeed_down1",
@@ -6800,14 +6800,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 67
       },
       "passives": [
         "Vampire"
@@ -6817,14 +6817,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 53
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -6834,14 +6834,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 6
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -6851,14 +6851,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 40
       },
       "passives": [
         "SalePrice_Up_1"
@@ -6868,14 +6868,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 54
       },
       "passives": [
         "Deffence_up2_2"
@@ -6885,14 +6885,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 84
       },
       "passives": [],
       "owner": "takitome"
@@ -6900,14 +6900,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 10
       },
       "passives": [
         "SalePrice_Up_2"
@@ -6917,14 +6917,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 2
       },
       "passives": [
         "PAL_sadist"
@@ -6934,14 +6934,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 7
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -6951,14 +6951,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 22
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -6968,14 +6968,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 99
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -6985,14 +6985,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 23
       },
       "passives": [
         "Stamina_Up_1"
@@ -7002,14 +7002,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 15
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -7019,14 +7019,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 5
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -7036,14 +7036,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 14
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -7053,14 +7053,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PlantSlime",
       "species": "PlantSlime",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 47
       },
       "passives": [
         "NonKilling"
@@ -7070,14 +7070,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 2
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL",
@@ -7089,14 +7089,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 69
       },
       "passives": [
         "PAL_Sanity_Down_1",
@@ -7107,14 +7107,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 59
       },
       "passives": [
         "Noukin"
@@ -7124,14 +7124,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 98
       },
       "passives": [
         "PAL_ALLAttack_up1",
@@ -7142,14 +7142,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 84
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -7159,14 +7159,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SakuraSaurus",
       "species": "SakuraSaurus",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 77
       },
       "passives": [
         "Deffence_up2_2",
@@ -7177,14 +7177,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 26
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -7194,14 +7194,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 3
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -7211,13 +7211,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SakuraSaurus",
       "species": "SakuraSaurus",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
+        "shot": 8,
         "defense": 0
       },
       "passives": [
@@ -7229,14 +7229,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 1
       },
       "passives": [
         "CraftSpeed_down1"
@@ -7246,14 +7246,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird",
       "species": "HadesBird",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 80
       },
       "passives": [
         "SalePrice_Up_1"
@@ -7263,14 +7263,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 74
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -7280,14 +7280,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 97
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -7298,14 +7298,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 70
       },
       "passives": [
         "Deffence_up1"
@@ -7315,14 +7315,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 29
       },
       "passives": [
         "CraftSpeed_down2"
@@ -7332,14 +7332,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 64
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -7349,14 +7349,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 85
       },
       "passives": [
         "Nocturnal"
@@ -7366,14 +7366,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 92
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -7383,14 +7383,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 72
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -7400,14 +7400,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 95
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -7417,14 +7417,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkCat",
       "species": "PinkCat",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 82
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -7435,14 +7435,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 45
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -7452,14 +7452,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 28
       },
       "passives": [
         "Deffence_up2_2",
@@ -7470,14 +7470,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 76
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -7487,14 +7487,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 68
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -7504,14 +7504,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 94
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -7521,14 +7521,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 55
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -7538,14 +7538,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 77
       },
       "passives": [],
       "owner": "LawzZ"
@@ -7557,10 +7557,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 23
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -7570,14 +7570,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WoolFox",
       "species": "WoolFox",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 69
       },
       "passives": [
         "CraftSpeed_down2"
@@ -7587,14 +7587,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 19
       },
       "passives": [
         "Deffence_up2_2"
@@ -7604,14 +7604,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 17
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -7621,14 +7621,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 68
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -7638,14 +7638,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 89
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -7655,14 +7655,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 49
       },
       "passives": [
         "TrainerMining_up1"
@@ -7672,14 +7672,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 60
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -7689,14 +7689,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 80
       },
       "passives": [
         "PAL_sadist"
@@ -7706,14 +7706,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 22
       },
       "passives": [
         "PAL_ALLAttack_down2",
@@ -7724,14 +7724,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 12
       },
       "passives": [
         "ElementBoost_Dark_1_PAL",
@@ -7742,14 +7742,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 6
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -7759,14 +7759,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 70
       },
       "passives": [],
       "owner": "takitome"
@@ -7774,14 +7774,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 93
       },
       "passives": [
         "PAL_conceited",
@@ -7792,14 +7792,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 19
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -7809,14 +7809,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 61
       },
       "passives": [
         "Deffence_up2"
@@ -7826,14 +7826,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 12
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -7845,14 +7845,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 44
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -7862,14 +7862,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 26
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -7880,13 +7880,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
+        "shot": 65,
         "defense": 0
       },
       "passives": [
@@ -7897,14 +7897,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 37
       },
       "passives": [
         "Deffence_up2_2"
@@ -7914,14 +7914,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 5
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -7931,13 +7931,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
+        "shot": 25,
         "defense": 0
       },
       "passives": [
@@ -7948,14 +7948,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 46
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -7965,14 +7965,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 14
       },
       "passives": [
         "NonKilling"
@@ -7982,14 +7982,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 1
       },
       "passives": [
         "Stamina_Down_1"
@@ -7999,14 +7999,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 58
       },
       "passives": [
         "CraftSpeed_down1"
@@ -8016,14 +8016,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 29
       },
       "passives": [],
       "owner": "Theo"
@@ -8031,14 +8031,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 6
       },
       "passives": [
         "Stamina_Up_1",
@@ -8050,14 +8050,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin",
       "species": "BOSS_CaptainPenguin",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 76
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL",
@@ -8068,14 +8068,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Bastet",
       "species": "Bastet",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 45
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -8085,14 +8085,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 52
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -8102,14 +8102,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 9
       },
       "passives": [],
       "owner": "Theo"
@@ -8117,14 +8117,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 45
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -8134,14 +8134,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 18
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -8151,14 +8151,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 50
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -8168,14 +8168,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 99
       },
       "passives": [
         "MoveSpeed_up_2",
@@ -8187,14 +8187,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 42
       },
       "passives": [
         "CraftSpeed_up1"
@@ -8204,14 +8204,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 23
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -8221,14 +8221,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 26
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -8238,14 +8238,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PurpleSpider",
       "species": "PurpleSpider",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 94
       },
       "passives": [
         "Deffence_up1"
@@ -8255,14 +8255,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 86
       },
       "passives": [],
       "owner": "LawzZ"
@@ -8270,14 +8270,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 4
       },
       "passives": [
         "PAL_FullStomach_Down_1",
@@ -8288,14 +8288,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 96
       },
       "passives": [
         "Stamina_Down_1"
@@ -8305,14 +8305,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 51
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -8322,14 +8322,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 51
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -8339,14 +8339,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 65
       },
       "passives": [
         "Stamina_Down_1",
@@ -8358,14 +8358,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 14
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -8376,14 +8376,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 38
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -8393,14 +8393,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 97
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -8410,14 +8410,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 62
       },
       "passives": [
         "CraftSpeed_up2"
@@ -8427,14 +8427,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 37
       },
       "passives": [
         "Deffence_up2_2",
@@ -8445,14 +8445,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassPanda",
       "species": "GrassPanda",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 81
       },
       "passives": [
         "PAL_conceited"
@@ -8462,14 +8462,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 20
       },
       "passives": [
         "Deffence_up2_2",
@@ -8480,14 +8480,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 43
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -8497,14 +8497,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 50
       },
       "passives": [
         "Deffence_up2_2",
@@ -8515,14 +8515,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 88
       },
       "passives": [],
       "owner": "takitome"
@@ -8530,14 +8530,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ChickenPal",
       "species": "ChickenPal",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 51
       },
       "passives": [
         "NonKilling"
@@ -8547,14 +8547,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 53
       },
       "passives": [],
       "owner": "takitome"
@@ -8562,14 +8562,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 42
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -8583,10 +8583,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 40
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -8596,14 +8596,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 70
       },
       "passives": [
         "PAL_masochist"
@@ -8613,14 +8613,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 90
       },
       "passives": [
         "MoveSpeed_up_2",
@@ -8632,14 +8632,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 71
       },
       "passives": [
         "Deffence_up2_2",
@@ -8650,14 +8650,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 88
       },
       "passives": [
         "SalePrice_Up_1"
@@ -8667,14 +8667,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 75
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -8684,14 +8684,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 1
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -8701,14 +8701,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 57
       },
       "passives": [
         "PAL_oraora"
@@ -8718,14 +8718,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 36
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -8735,14 +8735,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 19
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -8753,14 +8753,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 44
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -8770,14 +8770,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 77
       },
       "passives": [
         "PAL_conceited"
@@ -8787,14 +8787,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 59
       },
       "passives": [
         "CraftSpeed_down2"
@@ -8804,14 +8804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 99
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -8822,14 +8822,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 25
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -8840,14 +8840,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 21
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -8861,10 +8861,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 58
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -8874,14 +8874,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 16
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -8891,14 +8891,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 7
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -8908,14 +8908,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 97
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -8925,14 +8925,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 47
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -8942,14 +8942,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 93
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -8959,14 +8959,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 37
       },
       "passives": [
         "Deffence_up2"
@@ -8976,14 +8976,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie_Fire",
       "species": "Kelpie_Fire",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 80
       },
       "passives": [
         "Stamina_Up_1"
@@ -8993,14 +8993,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 43
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -9010,14 +9010,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 49
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -9027,14 +9027,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 57
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -9044,14 +9044,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 70
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -9062,14 +9062,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 23
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -9080,14 +9080,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 64
       },
       "passives": [
         "Deffence_up1"
@@ -9097,14 +9097,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 38
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -9114,14 +9114,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 36
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -9131,14 +9131,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 3
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -9148,14 +9148,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 19
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -9165,14 +9165,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 71
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -9182,14 +9182,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SoldierBee",
       "species": "SoldierBee",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 75
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -9200,14 +9200,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 9
       },
       "passives": [
         "CraftSpeed_down1"
@@ -9217,14 +9217,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SoldierBee",
       "species": "SoldierBee",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 28
       },
       "passives": [],
       "owner": "Theo"
@@ -9232,14 +9232,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 67
       },
       "passives": [],
       "owner": "LawzZ"
@@ -9247,14 +9247,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon_Water",
       "species": "FairyDragon_Water",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 70
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -9264,14 +9264,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Alpaca",
       "species": "Alpaca",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 21
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -9281,14 +9281,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 81
       },
       "passives": [
         "PAL_sadist"
@@ -9298,14 +9298,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 41
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -9315,14 +9315,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 71
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -9332,14 +9332,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 30
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -9349,14 +9349,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 60
       },
       "passives": [
         "PAL_conceited"
@@ -9366,14 +9366,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -9383,14 +9383,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 57
       },
       "passives": [
         "NonKilling"
@@ -9400,14 +9400,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 58
       },
       "passives": [
         "Deffence_down2",
@@ -9418,14 +9418,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 88
       },
       "passives": [
         "SalePrice_Up_2",
@@ -9436,14 +9436,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 91
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -9454,14 +9454,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WizardOwl",
       "species": "WizardOwl",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 70
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -9471,14 +9471,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 27
       },
       "passives": [],
       "owner": "Martial"
@@ -9486,14 +9486,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 11
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -9504,14 +9504,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 40
       },
       "passives": [
         "Deffence_down1"
@@ -9521,14 +9521,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 61
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -9539,14 +9539,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 98
       },
       "passives": [
         "PAL_rude"
@@ -9556,14 +9556,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin",
       "species": "BOSS_CaptainPenguin",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 77
       },
       "passives": [
         "PAL_oraora"
@@ -9573,14 +9573,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey_Fire",
       "species": "Monkey_Fire",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 97
       },
       "passives": [
         "SwimSpeed_up_1",
@@ -9593,14 +9593,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan_Fire",
       "species": "LizardMan_Fire",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 81
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -9614,10 +9614,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 69
       },
       "passives": [
         "Stamina_Up_2",
@@ -9629,14 +9629,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 61
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -9646,14 +9646,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 17
       },
       "passives": [
         "Deffence_down2"
@@ -9663,14 +9663,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FluffyBird",
       "species": "FluffyBird",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 22
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -9681,14 +9681,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 63
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -9698,14 +9698,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 53
       },
       "passives": [
         "NonKilling"
@@ -9715,14 +9715,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 10
       },
       "passives": [
         "PAL_masochist"
@@ -9732,14 +9732,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 6
       },
       "passives": [
         "ElementBoost_Earth_1_PAL",
@@ -9754,10 +9754,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 43
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -9767,14 +9767,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 88
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -9785,14 +9785,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 64
       },
       "passives": [
         "TrainerLogging_up1"
@@ -9802,14 +9802,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 3
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -9819,14 +9819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 29
       },
       "passives": [
         "Deffence_up2_2",
@@ -9838,14 +9838,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 83
       },
       "passives": [
         "MoveSpeed_up_3"
@@ -9855,14 +9855,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 27
       },
       "passives": [
         "ElementResist_Dark_1_PAL",
@@ -9878,10 +9878,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 49
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -9891,14 +9891,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore",
       "species": "Manticore",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 99
       },
       "passives": [],
       "owner": "LawzZ"
@@ -9906,14 +9906,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanoDragon",
       "species": "VolcanoDragon",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 61
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -9923,14 +9923,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 63
       },
       "passives": [
         "Nocturnal"
@@ -9940,14 +9940,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FengyunDeeper",
       "species": "BOSS_FengyunDeeper",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 61
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -9957,14 +9957,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 17
       },
       "passives": [],
       "owner": "LawzZ"
@@ -9972,14 +9972,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 41
       },
       "passives": [
         "PAL_conceited"
@@ -9989,14 +9989,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkLizard",
       "species": "PinkLizard",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 85
       },
       "passives": [
         "ElementResist_Normal_1_PAL",
@@ -10007,14 +10007,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 53
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -10029,10 +10029,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 53
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -10042,14 +10042,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 98
       },
       "passives": [],
       "owner": "LawzZ"
@@ -10057,14 +10057,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_MopKing",
       "species": "BOSS_MopKing",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 72
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -10074,14 +10074,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird",
       "species": "HadesBird",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 86
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -10091,14 +10091,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 23
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -10108,14 +10108,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 32
       },
       "passives": [
         "Stamina_Up_1"
@@ -10125,14 +10125,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage",
       "species": "FoxMage",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 48
       },
       "passives": [],
       "owner": "Martial"
@@ -10140,14 +10140,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingAlpaca",
       "species": "BOSS_KingAlpaca",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 82
       },
       "passives": [
         "Deffence_up2_2",
@@ -10158,14 +10158,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 82
       },
       "passives": [
         "SalePrice_Down_1"
@@ -10175,14 +10175,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 11
       },
       "passives": [],
       "owner": "Martial"
@@ -10194,10 +10194,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 12
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -10207,14 +10207,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 21
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -10224,14 +10224,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 32
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -10241,14 +10241,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon_Electric",
       "species": "LazyDragon_Electric",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 24
       },
       "passives": [
         "Stamina_Up_2"
@@ -10258,14 +10258,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 62
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -10275,14 +10275,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 14
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -10292,14 +10292,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 48
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -10309,14 +10309,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 72,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 66
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -10326,14 +10326,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 1
       },
       "passives": [
         "TrainerLogging_up1"
@@ -10343,14 +10343,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 46
       },
       "passives": [
         "Noukin"
@@ -10360,14 +10360,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MimicDog",
       "species": "MimicDog",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 2
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -10377,14 +10377,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 12
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -10394,14 +10394,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MimicDog",
       "species": "MimicDog",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 87
       },
       "passives": [
         "Stamina_Down_1"
@@ -10411,14 +10411,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 7
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -10428,14 +10428,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 37
       },
       "passives": [
         "SalePrice_Up_2",
@@ -10446,14 +10446,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 56
       },
       "passives": [
         "Stamina_Down_1"
@@ -10463,14 +10463,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 38
       },
       "passives": [
         "Stamina_Up_1"
@@ -10480,14 +10480,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 71
       },
       "passives": [
         "PAL_FullStomach_Down_2",
@@ -10498,14 +10498,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ClioneTwins",
       "species": "ClioneTwins",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 5
       },
       "passives": [
         "CraftSpeed_down1"
@@ -10515,14 +10515,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 66
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -10532,14 +10532,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 86
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -10549,14 +10549,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage",
       "species": "FoxMage",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 46
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -10566,14 +10566,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 68
       },
       "passives": [
         "ElementBoost_Earth_1_PAL",
@@ -10584,14 +10584,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 40
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -10601,14 +10601,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 11
       },
       "passives": [
         "PAL_conceited"
@@ -10618,14 +10618,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 16
       },
       "passives": [
         "Deffence_up2_2",
@@ -10638,14 +10638,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi",
       "species": "Kitsunebi",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 56
       },
       "passives": [
         "SalePrice_Up_1"
@@ -10655,14 +10655,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 46
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -10673,14 +10673,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 31
       },
       "passives": [
         "Nocturnal",
@@ -10691,14 +10691,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 11
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -10708,14 +10708,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 45
       },
       "passives": [
         "SalePrice_Down_1"
@@ -10725,14 +10725,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin_Dark",
       "species": "FireKirin_Dark",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 66
       },
       "passives": [
         "MoveSpeed_up_2",
@@ -10744,13 +10744,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ClioneTwins",
       "species": "ClioneTwins",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
+        "shot": 11,
         "defense": 0
       },
       "passives": [
@@ -10761,14 +10761,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 95
       },
       "passives": [],
       "owner": "LawzZ"
@@ -10776,14 +10776,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 61
       },
       "passives": [
         "PAL_sadist"
@@ -10793,14 +10793,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ClioneTwins",
       "species": "ClioneTwins",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 21
       },
       "passives": [],
       "owner": "LawzZ"
@@ -10808,14 +10808,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Carbunclo",
       "species": "BOSS_Carbunclo",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 72
       },
       "passives": [
         "CraftSpeed_down2"
@@ -10825,14 +10825,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 54
       },
       "passives": [
         "Deffence_up2_2",
@@ -10844,14 +10844,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 76
       },
       "passives": [],
       "owner": "LawzZ"
@@ -10859,14 +10859,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus",
       "species": "NegativeOctopus",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 24
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -10876,14 +10876,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 50
       },
       "passives": [
         "Stamina_Up_1"
@@ -10893,14 +10893,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FlameBuffalo",
       "species": "BOSS_FlameBuffalo",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 86
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -10910,14 +10910,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ClioneTwins",
       "species": "ClioneTwins",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 89
       },
       "passives": [
         "Nocturnal"
@@ -10927,14 +10927,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 67
       },
       "passives": [
         "PAL_masochist"
@@ -10944,14 +10944,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 34
       },
       "passives": [
         "PAL_conceited"
@@ -10961,14 +10961,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan_Fire",
       "species": "LizardMan_Fire",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 70
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -10978,14 +10978,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 69
       },
       "passives": [
         "NonKilling"
@@ -10999,10 +10999,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 67
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -11013,14 +11013,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer",
       "species": "Deer",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 82
       },
       "passives": [
         "Deffence_up2_2"
@@ -11030,14 +11030,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DreamDemon",
       "species": "DreamDemon",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 19
       },
       "passives": [
         "Deffence_up2_2"
@@ -11047,14 +11047,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon",
       "species": "SkyDragon",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 64
       },
       "passives": [
         "ElementBoost_Normal_1_PAL",
@@ -11065,14 +11065,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ClioneTwins",
       "species": "ClioneTwins",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 46
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -11082,14 +11082,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ClioneTwins",
       "species": "ClioneTwins",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 1
       },
       "passives": [
         "ElementResist_Dragon_1_PAL",
@@ -11100,14 +11100,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 14
       },
       "passives": [
         "ElementBoost_Ice_1_PAL",
@@ -11118,14 +11118,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 98
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -11135,14 +11135,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 48
       },
       "passives": [
         "ElementResist_Thunder_1_PAL",
@@ -11153,14 +11153,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_DreamDemon",
       "species": "BOSS_DreamDemon",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 62
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -11171,14 +11171,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 57
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -11192,10 +11192,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 32
       },
       "passives": [
         "ElementResist_Leaf_1_PAL",
@@ -11207,14 +11207,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore_Dark",
       "species": "Manticore_Dark",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 68
       },
       "passives": [
         "Stamina_Down_1"
@@ -11224,14 +11224,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 32
       },
       "passives": [
         "Deffence_up2_2",
@@ -11243,14 +11243,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 94
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -11264,10 +11264,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 81
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -11277,14 +11277,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 79
       },
       "passives": [
         "PAL_sadist"
@@ -11294,14 +11294,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 73
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -11311,14 +11311,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 16
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -11328,14 +11328,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 79
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -11345,14 +11345,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes_Ice",
       "species": "WindChimes_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 85
       },
       "passives": [
         "Stamina_Up_2"
@@ -11362,14 +11362,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanicMonster_Ice",
       "species": "VolcanicMonster_Ice",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 63
       },
       "passives": [
         "Deffence_up2_2"
@@ -11379,14 +11379,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 49
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -11397,14 +11397,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 21
       },
       "passives": [
         "Deffence_up1",
@@ -11420,10 +11420,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 82
       },
       "passives": [
         "CraftSpeed_down2"
@@ -11433,14 +11433,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 24
       },
       "passives": [
         "Deffence_up1"
@@ -11450,14 +11450,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 10
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -11467,14 +11467,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 26
       },
       "passives": [
         "Nocturnal"
@@ -11488,10 +11488,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 11
       },
       "passives": [
         "SalePrice_Down_1"
@@ -11501,14 +11501,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteMoth",
       "species": "WhiteMoth",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 98
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -11518,14 +11518,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 54
       },
       "passives": [
         "CraftSpeed_up2",
@@ -11540,10 +11540,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 20
       },
       "passives": [
         "PAL_conceited"
@@ -11553,14 +11553,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 67
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -11574,10 +11574,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 34
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -11587,14 +11587,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CuteFox",
       "species": "BOSS_CuteFox",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 73
       },
       "passives": [
         "Deffence_down2"
@@ -11604,14 +11604,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 77
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -11621,14 +11621,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 55
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -11638,14 +11638,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PandaGirl",
       "species": "PandaGirl",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 85
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -11655,14 +11655,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 31
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -11672,14 +11672,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 25
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -11689,14 +11689,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 24
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -11706,14 +11706,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus",
       "species": "NegativeOctopus",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 26
       },
       "passives": [
         "ElementResist_Earth_1_PAL",
@@ -11725,14 +11725,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 50
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -11742,14 +11742,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 51
       },
       "passives": [
         "Deffence_up1"
@@ -11759,14 +11759,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 85
       },
       "passives": [
         "NightOwl"
@@ -11776,14 +11776,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 23,
+        "defense": 22
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -11793,14 +11793,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 57
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -11815,10 +11815,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 83
       },
       "passives": [
         "Deffence_down2"
@@ -11828,14 +11828,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 74
       },
       "passives": [
         "SalePrice_Down_1"
@@ -11845,14 +11845,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GrassMammoth",
       "species": "BOSS_GrassMammoth",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 89
       },
       "passives": [
         "Deffence_up2_2",
@@ -11865,14 +11865,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 48
       },
       "passives": [
         "Deffence_up1"
@@ -11886,10 +11886,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 38
       },
       "passives": [
         "NightOwl"
@@ -11899,14 +11899,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 23
       },
       "passives": [],
       "owner": "LawzZ"
@@ -11914,14 +11914,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 77
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -11931,14 +11931,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 37
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -11948,14 +11948,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon_Electric",
       "species": "LazyDragon_Electric",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 64
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -11965,14 +11965,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 80
       },
       "passives": [],
       "owner": "LawzZ"
@@ -11980,14 +11980,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CaptainPenguin",
       "species": "CaptainPenguin",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 3
       },
       "passives": [],
       "owner": "LawzZ"
@@ -11995,14 +11995,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon_Electric",
       "species": "LazyDragon_Electric",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 66
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -12012,14 +12012,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 50
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -12029,14 +12029,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 18
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -12046,14 +12046,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 87
       },
       "passives": [
         "Stamina_Up_1"
@@ -12063,14 +12063,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird",
       "species": "HadesBird",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 77
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -12080,14 +12080,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 29
       },
       "passives": [
         "Vampire"
@@ -12097,14 +12097,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 61
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -12118,10 +12118,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 94
       },
       "passives": [
         "Deffence_up2_2",
@@ -12132,14 +12132,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 22
       },
       "passives": [],
       "owner": "LawzZ"
@@ -12151,10 +12151,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 33
       },
       "passives": [
         "Deffence_up2_2",
@@ -12169,10 +12169,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 80
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -12182,14 +12182,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 55
       },
       "passives": [
         "NightOwl",
@@ -12200,14 +12200,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon",
       "species": "WeaselDragon",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 40
       },
       "passives": [
         "PAL_rude"
@@ -12217,14 +12217,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 25
       },
       "passives": [
         "ElementBoost_Normal_1_PAL",
@@ -12235,14 +12235,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 71
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -12256,10 +12256,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 43
       },
       "passives": [
         "Deffence_up2"
@@ -12269,14 +12269,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 58
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -12286,14 +12286,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 69
       },
       "passives": [
         "Deffence_up2_2",
@@ -12304,14 +12304,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 19
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -12321,14 +12321,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 9
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -12338,14 +12338,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kirin",
       "species": "Kirin",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 94
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -12355,14 +12355,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WereWolf_Ice",
       "species": "WereWolf_Ice",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 86
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -12372,14 +12372,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 86
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -12389,14 +12389,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Penguin",
       "species": "Penguin",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 67
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -12406,14 +12406,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 17
       },
       "passives": [],
       "owner": "LawzZ"
@@ -12421,14 +12421,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 17
       },
       "passives": [
         "Deffence_up2_2",
@@ -12443,10 +12443,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 10
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -12456,14 +12456,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon",
       "species": "WeaselDragon",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 68
       },
       "passives": [
         "SalePrice_Down_1",
@@ -12474,14 +12474,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteTiger",
       "species": "WhiteTiger",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 73
       },
       "passives": [
         "Noukin"
@@ -12491,14 +12491,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 77
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -12512,10 +12512,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 90
       },
       "passives": [
         "CraftSpeed_down1"
@@ -12525,14 +12525,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 52
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -12542,14 +12542,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 18
       },
       "passives": [
         "Deffence_down1"
@@ -12559,14 +12559,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 34
       },
       "passives": [
         "NonKilling"
@@ -12580,10 +12580,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 1
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -12593,14 +12593,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 80
       },
       "passives": [
         "PAL_oraora",
@@ -12612,14 +12612,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 53
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -12633,10 +12633,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 99
       },
       "passives": [
         "Deffence_up2_2",
@@ -12647,14 +12647,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Suzaku",
       "species": "BOSS_Suzaku",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 92
       },
       "passives": [],
       "owner": "takitome"
@@ -12662,14 +12662,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 36
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -12683,10 +12683,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 6
       },
       "passives": [],
       "owner": "takitome"
@@ -12694,14 +12694,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 40
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -12711,14 +12711,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 77
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -12728,14 +12728,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 95
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -12745,14 +12745,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PandaGirl",
       "species": "PandaGirl",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 46
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -12762,14 +12762,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 97
       },
       "passives": [
         "ElementResist_Dark_1_PAL",
@@ -12780,14 +12780,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 96
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -12797,14 +12797,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 79
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -12814,14 +12814,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse",
       "species": "BOSS_IceHorse",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 52
       },
       "passives": [
         "Legend",
@@ -12832,14 +12832,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 32
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -12849,14 +12849,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 31
       },
       "passives": [
         "Stamina_Up_2"
@@ -12866,14 +12866,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 22
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -12883,14 +12883,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 11
       },
       "passives": [
         "PAL_conceited"
@@ -12900,14 +12900,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 15
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -12917,14 +12917,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 74
       },
       "passives": [
         "SalePrice_Up_2"
@@ -12934,14 +12934,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon",
       "species": "BirdDragon",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 84
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -12951,14 +12951,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 18
       },
       "passives": [
         "Deffence_up1"
@@ -12968,14 +12968,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 15
       },
       "passives": [],
       "owner": "takitome"
@@ -12983,14 +12983,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 57
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -13000,14 +13000,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 55
       },
       "passives": [
         "Deffence_up1",
@@ -13018,14 +13018,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 67
       },
       "passives": [],
       "owner": "LawzZ"
@@ -13033,14 +13033,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 90
       },
       "passives": [
         "Stamina_Up_2"
@@ -13050,14 +13050,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 58
       },
       "passives": [
         "PAL_conceited",
@@ -13068,14 +13068,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 87
       },
       "passives": [
         "Deffence_up1"
@@ -13085,14 +13085,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 92
       },
       "passives": [
         "Deffence_up2_2",
@@ -13103,14 +13103,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 31
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -13120,14 +13120,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 15
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -13141,10 +13141,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 20
       },
       "passives": [
         "Deffence_up1",
@@ -13155,14 +13155,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 32
       },
       "passives": [
         "Deffence_up2_2"
@@ -13172,14 +13172,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 13
       },
       "passives": [
         "PAL_masochist"
@@ -13189,14 +13189,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 33
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -13206,14 +13206,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 80
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -13223,14 +13223,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 20
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -13240,14 +13240,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 61
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -13258,14 +13258,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PandaGirl",
       "species": "BOSS_PandaGirl",
-      "level": 1,
-      "rank": 0,
+      "level": 35,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 70
       },
       "passives": [
         "Rare",
@@ -13276,14 +13276,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 17
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -13293,14 +13293,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 42
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -13314,10 +13314,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 16
       },
       "passives": [],
       "owner": "LawzZ"
@@ -13325,14 +13325,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 19
       },
       "passives": [
         "Stamina_Down_1"
@@ -13346,10 +13346,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 29
       },
       "passives": [
         "Deffence_up2_2",
@@ -13360,14 +13360,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 20
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -13377,14 +13377,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Carbunclo",
       "species": "BOSS_Carbunclo",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 51
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -13395,14 +13395,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassPanda",
       "species": "GrassPanda",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 5
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -13412,14 +13412,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 63
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -13429,14 +13429,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WoolFox",
       "species": "WoolFox",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 65
       },
       "passives": [],
       "owner": "takitome"
@@ -13444,14 +13444,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 80
       },
       "passives": [],
       "owner": "takitome"
@@ -13459,14 +13459,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CowPal",
       "species": "CowPal",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 73
       },
       "passives": [
         "CraftSpeed_down1"
@@ -13476,14 +13476,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 54
       },
       "passives": [
         "SalePrice_Up_1"
@@ -13493,14 +13493,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SakuraSaurus_Water",
       "species": "SakuraSaurus_Water",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 48
       },
       "passives": [
         "Deffence_up2_2",
@@ -13512,14 +13512,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 72
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -13529,14 +13529,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 59
       },
       "passives": [
         "TrainerLogging_up1"
@@ -13546,14 +13546,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 13
       },
       "passives": [],
       "owner": "Theo"
@@ -13561,14 +13561,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 16
       },
       "passives": [
         "Deffence_down1",
@@ -13579,14 +13579,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 3
       },
       "passives": [
         "PAL_Sanity_Up_2",
@@ -13598,14 +13598,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 78
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -13615,14 +13615,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus",
       "species": "BluePlatypus",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 11
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -13632,14 +13632,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FlameBuffalo",
       "species": "BOSS_FlameBuffalo",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 76
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -13649,14 +13649,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 10
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -13666,14 +13666,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 68
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -13683,14 +13683,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 78
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -13700,14 +13700,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 33
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -13721,10 +13721,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 100
       },
       "passives": [
         "Deffence_up2_2",
@@ -13735,14 +13735,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 78
       },
       "passives": [],
       "owner": "takitome"
@@ -13750,14 +13750,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 51
       },
       "passives": [],
       "owner": "takitome"
@@ -13765,14 +13765,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 32
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -13786,10 +13786,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 63
       },
       "passives": [
         "SalePrice_Up_2",
@@ -13801,14 +13801,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 90
       },
       "passives": [
         "Deffence_up2_2",
@@ -13825,10 +13825,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 85
       },
       "passives": [
         "PAL_masochist"
@@ -13838,14 +13838,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WoolFox",
       "species": "WoolFox",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 15
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -13855,14 +13855,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 48
       },
       "passives": [
         "NightOwl"
@@ -13872,14 +13872,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 32
       },
       "passives": [],
       "owner": "LawzZ"
@@ -13887,14 +13887,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 58
       },
       "passives": [],
       "owner": "takitome"
@@ -13902,14 +13902,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 15
       },
       "passives": [
         "TrainerLogging_up1",
@@ -13921,14 +13921,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 74
       },
       "passives": [
         "SalePrice_Down_1"
@@ -13938,14 +13938,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon",
       "species": "BlueDragon",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 34
       },
       "passives": [
         "PAL_conceited"
@@ -13955,14 +13955,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 80
       },
       "passives": [
         "Deffence_up2_2",
@@ -13973,14 +13973,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 37
       },
       "passives": [
         "Nocturnal",
@@ -13991,14 +13991,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid",
       "species": "SharkKid",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 14
       },
       "passives": [
         "SalePrice_Up_2"
@@ -14008,14 +14008,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 23,
+        "defense": 42
       },
       "passives": [
         "Deffence_up2_2"
@@ -14025,14 +14025,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 59
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -14042,14 +14042,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 31
       },
       "passives": [
         "Deffence_down2",
@@ -14060,14 +14060,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep",
       "species": "SweetsSheep",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 75
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -14077,14 +14077,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 60
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -14094,14 +14094,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 90
       },
       "passives": [
         "PAL_rude",
@@ -14112,14 +14112,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 22
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -14129,14 +14129,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingAlpaca",
       "species": "BOSS_KingAlpaca",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 79
       },
       "passives": [
         "Deffence_up2_2",
@@ -14147,14 +14147,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PandaGirl",
       "species": "PandaGirl",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 50
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -14164,14 +14164,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_DarkScorpion",
       "species": "BOSS_DarkScorpion",
-      "level": 1,
-      "rank": 0,
+      "level": 45,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 94
       },
       "passives": [
         "Rare",
@@ -14184,14 +14184,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CatBat",
       "species": "BOSS_CatBat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 88
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -14201,14 +14201,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 82
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -14218,14 +14218,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 52
       },
       "passives": [
         "PAL_rude",
@@ -14236,14 +14236,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 12
       },
       "passives": [
         "Deffence_up1",
@@ -14254,14 +14254,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 12
       },
       "passives": [
         "Deffence_up1"
@@ -14271,14 +14271,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 45
       },
       "passives": [
         "PAL_masochist"
@@ -14288,14 +14288,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 34
       },
       "passives": [
         "PAL_rude",
@@ -14306,14 +14306,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 98
       },
       "passives": [
         "ElementBoost_Ice_1_PAL",
@@ -14324,14 +14324,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 3
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -14345,10 +14345,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 84
       },
       "passives": [
         "Nocturnal"
@@ -14358,14 +14358,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 89
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -14375,14 +14375,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteTiger_Ground",
       "species": "WhiteTiger_Ground",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 53
       },
       "passives": [
         "PAL_conceited",
@@ -14393,14 +14393,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 87
       },
       "passives": [
         "CraftSpeed_down2",
@@ -14412,14 +14412,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 91
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -14429,14 +14429,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll_Dark",
       "species": "CactusDoll_Dark",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 71
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -14446,14 +14446,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 74
       },
       "passives": [
         "PAL_rude",
@@ -14464,14 +14464,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkLizard",
       "species": "PinkLizard",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 61
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -14481,14 +14481,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 58
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -14498,14 +14498,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 7
       },
       "passives": [],
       "owner": "Theo"
@@ -14513,14 +14513,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 52
       },
       "passives": [
         "Deffence_up2_2",
@@ -14531,14 +14531,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boss_IceFox",
       "species": "Boss_IceFox",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 58
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -14548,14 +14548,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 1
       },
       "passives": [
         "TrainerMining_up1"
@@ -14565,14 +14565,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 13
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -14582,14 +14582,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku",
       "species": "Suzaku",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 68
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -14600,14 +14600,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SakuraSaurus",
       "species": "SakuraSaurus",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 58
       },
       "passives": [
         "Deffence_up2_2"
@@ -14617,14 +14617,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Feldup",
       "species": "BOSS_FengyunDeeper",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 74
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -14634,14 +14634,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassPanda",
       "species": "GrassPanda",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 46
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -14651,14 +14651,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 76
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -14668,14 +14668,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -14685,14 +14685,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll_Dark",
       "species": "CactusDoll_Dark",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 94
       },
       "passives": [
         "TrainerLogging_up1"
@@ -14702,14 +14702,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 52
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -14719,14 +14719,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 29
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -14736,14 +14736,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 48
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -14753,14 +14753,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 19
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -14770,14 +14770,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 3
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -14787,14 +14787,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie_Fire",
       "species": "Kelpie_Fire",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 52
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -14804,14 +14804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 53
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -14821,14 +14821,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 77
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -14838,14 +14838,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus_Neutral",
       "species": "NegativeOctopus_Neutral",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 35
       },
       "passives": [
         "Stamina_Up_1",
@@ -14856,14 +14856,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 44
       },
       "passives": [
         "PAL_sadist"
@@ -14873,14 +14873,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 63
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -14890,14 +14890,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 79
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -14907,14 +14907,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 11
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -14924,14 +14924,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 79
       },
       "passives": [
         "PAL_FullStomach_Down_1",
@@ -14944,14 +14944,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 21
       },
       "passives": [
         "NightOwl"
@@ -14961,14 +14961,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 30
       },
       "passives": [
         "ElementResist_Leaf_1_PAL",
@@ -14979,14 +14979,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 68
       },
       "passives": [],
       "owner": "Theo"
@@ -14994,14 +14994,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WoolFox",
       "species": "WoolFox",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 90
       },
       "passives": [
         "SalePrice_Up_2"
@@ -15011,14 +15011,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 59
       },
       "passives": [
         "PAL_rude",
@@ -15029,14 +15029,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "balsamique",
       "species": "KingBahamut",
-      "level": 1,
-      "rank": 0,
+      "level": 72,
+      "rank": 2,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 18
       },
       "passives": [
         "ElementBoost_Fire_2_PAL"
@@ -15046,14 +15046,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon",
       "species": "BlueDragon",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 14
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -15063,14 +15063,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 45
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -15080,14 +15080,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 28
       },
       "passives": [],
       "owner": "Martial"
@@ -15095,14 +15095,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan_Fire",
       "species": "LizardMan_Fire",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 58
       },
       "passives": [],
       "owner": "Theo"
@@ -15110,14 +15110,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HerculesBeetle",
       "species": "HerculesBeetle",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 13
       },
       "passives": [
         "Deffence_up1",
@@ -15128,14 +15128,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit",
       "species": "PinkRabbit",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 86
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -15145,14 +15145,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 10
       },
       "passives": [],
       "owner": "Martial"
@@ -15160,14 +15160,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 89
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -15177,14 +15177,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 68
       },
       "passives": [],
       "owner": "Theo"
@@ -15192,14 +15192,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog",
       "species": "Hedgehog",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 87
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -15213,10 +15213,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 83
       },
       "passives": [
         "SalePrice_Up_2"
@@ -15226,14 +15226,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 8
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -15243,14 +15243,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 57
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -15262,14 +15262,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 47
       },
       "passives": [
         "ElementResist_Thunder_1_PAL",
@@ -15281,14 +15281,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 90
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -15298,14 +15298,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 21
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -15315,14 +15315,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 68
       },
       "passives": [
         "Deffence_up1",
@@ -15334,14 +15334,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 63
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -15351,14 +15351,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDinosaur",
       "species": "FlowerDinosaur",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 58
       },
       "passives": [
         "Stamina_Up_1"
@@ -15368,14 +15368,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kirin",
       "species": "Kirin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 2
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -15385,14 +15385,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan_Fire",
       "species": "LizardMan_Fire",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 11
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -15402,14 +15402,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 31
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -15419,14 +15419,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 8
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -15436,14 +15436,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 57
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -15457,10 +15457,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 49
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -15470,14 +15470,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 95
       },
       "passives": [
         "PAL_oraora"
@@ -15487,14 +15487,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan_Fire",
       "species": "LizardMan_Fire",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 8
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -15504,14 +15504,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boar",
       "species": "Boar",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 23
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -15521,14 +15521,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 15
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -15538,14 +15538,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 23
       },
       "passives": [
         "ElementBoost_Fire_1_PAL",
@@ -15558,14 +15558,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 50
       },
       "passives": [],
       "owner": "Martial"
@@ -15573,14 +15573,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird",
       "species": "HadesBird",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 37
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -15590,14 +15590,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 3
       },
       "passives": [
         "PAL_masochist"
@@ -15607,14 +15607,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 33
       },
       "passives": [
         "PAL_FullStomach_Down_1",
@@ -15626,14 +15626,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanoDragon",
       "species": "VolcanoDragon",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 71
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -15643,14 +15643,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 33
       },
       "passives": [
         "PAL_masochist"
@@ -15660,14 +15660,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 74
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -15677,14 +15677,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 37
       },
       "passives": [
         "ElementResist_Fire_1_PAL",
@@ -15696,14 +15696,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_MopKing",
       "species": "BOSS_MopKing",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 53
       },
       "passives": [
         "ElementResist_Ice_1_PAL",
@@ -15714,14 +15714,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 22
       },
       "passives": [
         "SalePrice_Up_1"
@@ -15731,14 +15731,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 75
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -15748,14 +15748,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WizardOwl",
       "species": "WizardOwl",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 63
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -15765,14 +15765,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 95
       },
       "passives": [
         "Deffence_up2_2",
@@ -15783,14 +15783,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBuffalo",
       "species": "FlameBuffalo",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 100
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -15800,14 +15800,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 19
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -15817,14 +15817,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 60
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -15834,14 +15834,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceDeer",
       "species": "IceDeer",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -15851,14 +15851,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 20
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -15868,14 +15868,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "QueenBee",
       "species": "QueenBee",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 6
       },
       "passives": [
         "CraftSpeed_down2"
@@ -15885,14 +15885,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 33
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -15902,14 +15902,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 74
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -15919,14 +15919,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 30
       },
       "passives": [
         "PAL_Sanity_Down_1",
@@ -15938,14 +15938,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 28
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -15955,14 +15955,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 87
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -15972,14 +15972,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 39
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -15989,14 +15989,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CloverFairy",
       "species": "CloverFairy",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 55
       },
       "passives": [],
       "owner": "Theo"
@@ -16004,14 +16004,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kirin",
       "species": "Kirin",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 50
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -16026,10 +16026,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 91
       },
       "passives": [
         "TrainerDEF_UP_1",
@@ -16040,14 +16040,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 92
       },
       "passives": [
         "TrainerLogging_up1"
@@ -16057,14 +16057,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 78
       },
       "passives": [],
       "owner": "takitome"
@@ -16072,14 +16072,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SakuraSaurus",
       "species": "BOSS_SakuraSaurus",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 96
       },
       "passives": [
         "Deffence_up2_2",
@@ -16090,14 +16090,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 50
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -16107,14 +16107,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 36
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -16124,14 +16124,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 82
       },
       "passives": [
         "CraftSpeed_down2",
@@ -16142,14 +16142,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 44
       },
       "passives": [
         "CraftSpeed_down1"
@@ -16159,14 +16159,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MimicDog",
       "species": "MimicDog",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 8
       },
       "passives": [
         "CraftSpeed_down1"
@@ -16176,14 +16176,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 55
       },
       "passives": [
         "Deffence_up2_2"
@@ -16193,14 +16193,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kirin",
       "species": "Kirin",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 72
       },
       "passives": [
         "PAL_masochist",
@@ -16213,14 +16213,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Boar",
       "species": "BOSS_Boar",
-      "level": 1,
-      "rank": 0,
+      "level": 18,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 81
       },
       "passives": [
         "Rare",
@@ -16231,14 +16231,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 47
       },
       "passives": [
         "PAL_conceited"
@@ -16248,14 +16248,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boss_IceFox",
       "species": "Boss_IceFox",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 63
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -16265,14 +16265,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog",
       "species": "KendoFrog",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 47
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -16282,14 +16282,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 5
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL",
@@ -16301,14 +16301,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 20
       },
       "passives": [
         "PAL_sadist"
@@ -16318,14 +16318,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 65
       },
       "passives": [],
       "owner": "Prismiti"
@@ -16333,14 +16333,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MimicDog",
       "species": "MimicDog",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 28
       },
       "passives": [
         "CraftSpeed_up1"
@@ -16350,14 +16350,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 58
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -16367,14 +16367,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 10
       },
       "passives": [],
       "owner": "Theo"
@@ -16382,14 +16382,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_WingGolem",
       "species": "BOSS_WingGolem",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 67
       },
       "passives": [
         "Deffence_up2_2"
@@ -16399,14 +16399,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 58
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -16416,14 +16416,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 57
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -16433,14 +16433,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 93
       },
       "passives": [
         "Deffence_down1"
@@ -16450,14 +16450,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore",
       "species": "Manticore",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 72
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -16467,14 +16467,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 52
       },
       "passives": [
         "PAL_ALLAttack_up2",
@@ -16485,14 +16485,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanoDragon",
       "species": "VolcanoDragon",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 72
       },
       "passives": [
         "Deffence_up2"
@@ -16502,14 +16502,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 81
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -16519,14 +16519,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 52
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -16536,14 +16536,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 14
       },
       "passives": [
         "PAL_rude",
@@ -16554,14 +16554,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FairyDragon",
       "species": "BOSS_FairyDragon",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 79
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -16571,14 +16571,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CatBat",
       "species": "BOSS_CatBat",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 71
       },
       "passives": [],
       "owner": "takitome"
@@ -16586,14 +16586,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeKoala",
       "species": "NegativeKoala",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 19
       },
       "passives": [
         "NonKilling"
@@ -16603,14 +16603,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_VioletFairy",
       "species": "BOSS_VioletFairy",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 82
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -16620,14 +16620,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 46
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -16637,14 +16637,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WizardOwl",
       "species": "WizardOwl",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 53
       },
       "passives": [
         "CraftSpeed_up2"
@@ -16654,14 +16654,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WizardOwl",
       "species": "WizardOwl",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 96
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -16671,14 +16671,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 95
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -16688,14 +16688,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 67
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -16705,14 +16705,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 71
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -16723,14 +16723,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 38
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -16740,14 +16740,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 46
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -16757,14 +16757,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Eagle",
       "species": "Eagle",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 12
       },
       "passives": [
         "PAL_oraora"
@@ -16774,14 +16774,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 75
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -16791,14 +16791,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kirin",
       "species": "Kirin",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 69
       },
       "passives": [
         "SalePrice_Down_1",
@@ -16813,10 +16813,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 62
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -16826,14 +16826,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 49
       },
       "passives": [
         "Nocturnal"
@@ -16843,14 +16843,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 83
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -16860,14 +16860,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 5
       },
       "passives": [],
       "owner": "Theo"
@@ -16875,14 +16875,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 65
       },
       "passives": [
         "ElementBoost_Dark_1_PAL",
@@ -16895,14 +16895,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 87
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -16912,14 +16912,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore",
       "species": "Manticore",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 27
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -16929,14 +16929,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 62
       },
       "passives": [],
       "owner": "Theo"
@@ -16944,14 +16944,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 19
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -16961,14 +16961,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 86
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -16978,14 +16978,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 12
       },
       "passives": [
         "PAL_ALLAttack_up3"
@@ -16995,14 +16995,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 46
       },
       "passives": [
         "TrainerWorkSpeed_UP_1",
@@ -17013,14 +17013,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 22
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -17030,14 +17030,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 17
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -17047,14 +17047,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 40
       },
       "passives": [],
       "owner": "Theo"
@@ -17062,14 +17062,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanicMonster_Ice",
       "species": "VolcanicMonster_Ice",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 19
       },
       "passives": [
         "Deffence_up2_2",
@@ -17084,10 +17084,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 35
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -17098,14 +17098,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 78
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -17115,14 +17115,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 62
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -17132,14 +17132,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 38
       },
       "passives": [
         "Deffence_down2"
@@ -17149,14 +17149,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassGolem",
       "species": "GrassGolem",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 22
       },
       "passives": [
         "Deffence_up2_2",
@@ -17167,14 +17167,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 81
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -17184,14 +17184,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Ronin",
       "species": "BOSS_Ronin",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 86
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -17201,14 +17201,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_HerculesBeetle",
       "species": "BOSS_HerculesBeetle",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 57
       },
       "passives": [
         "Deffence_up1",
@@ -17219,14 +17219,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BerryGoat_Dark",
       "species": "BOSS_BerryGoat_Dark",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 83
       },
       "passives": [],
       "owner": "Theo"
@@ -17234,14 +17234,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 24
       },
       "passives": [
         "PAL_FullStomach_Up_2",
@@ -17252,14 +17252,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 46
       },
       "passives": [
         "Stamina_Up_1"
@@ -17269,14 +17269,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 79
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -17286,14 +17286,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PlantSlime",
       "species": "BOSS_PlantSlime",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 86
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -17303,14 +17303,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 47
       },
       "passives": [
         "CraftSpeed_down2"
@@ -17320,14 +17320,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 2
       },
       "passives": [
         "ElementResist_Normal_1_PAL",
@@ -17340,14 +17340,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kirin",
       "species": "Kirin",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 55
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -17357,14 +17357,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 69
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -17374,14 +17374,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 4
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -17391,14 +17391,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 48
       },
       "passives": [
         "Deffence_up2"
@@ -17408,14 +17408,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 40
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -17426,14 +17426,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku",
       "species": "Suzaku",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 83
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -17443,14 +17443,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MimicDog",
       "species": "MimicDog",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 68
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -17461,14 +17461,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 79
       },
       "passives": [
         "Deffence_up2_2",
@@ -17479,14 +17479,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 94
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -17496,14 +17496,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth",
       "species": "GrassMammoth",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 14
       },
       "passives": [
         "Deffence_up2_2",
@@ -17514,14 +17514,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 75
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -17531,14 +17531,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightFox",
       "species": "NightFox",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 33
       },
       "passives": [
         "PAL_oraora"
@@ -17548,14 +17548,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 1
       },
       "passives": [
         "CoolTimeReduction_Up_1",
@@ -17568,14 +17568,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet_Dark",
       "species": "Baphomet_Dark",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 34
       },
       "passives": [
         "PAL_sadist"
@@ -17585,14 +17585,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 16
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -17602,14 +17602,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 100
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -17619,14 +17619,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkRabbit_Grass",
       "species": "PinkRabbit_Grass",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 29
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -17636,14 +17636,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 3
       },
       "passives": [],
       "owner": "Theo"
@@ -17651,14 +17651,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Boss_LazyCatFish",
       "species": "Boss_LazyCatFish",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 77
       },
       "passives": [
         "Nocturnal"
@@ -17668,14 +17668,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 39
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL",
@@ -17686,14 +17686,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PinkLizard",
       "species": "PinkLizard",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 4
       },
       "passives": [
         "ElementResist_Normal_1_PAL",
@@ -17704,14 +17704,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -17721,14 +17721,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 56
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -17738,14 +17738,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 72
       },
       "passives": [
         "Stamina_Down_1"
@@ -17755,14 +17755,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 11
       },
       "passives": [],
       "owner": "takitome"
@@ -17770,14 +17770,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Serpent",
       "species": "BOSS_Serpent",
-      "level": 1,
-      "rank": 0,
+      "level": 61,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 55
       },
       "passives": [
         "Rare",
@@ -17789,14 +17789,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WoolFox",
       "species": "WoolFox",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 33
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -17806,14 +17806,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 67
       },
       "passives": [
         "CraftSpeed_up2"
@@ -17823,14 +17823,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 84
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -17841,14 +17841,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 82
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -17858,14 +17858,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat",
       "species": "BerryGoat",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 5
       },
       "passives": [
         "SalePrice_Up_1"
@@ -17875,14 +17875,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 99
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -17892,14 +17892,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 65
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -17909,14 +17909,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 39
       },
       "passives": [
         "SalePrice_Up_2"
@@ -17926,14 +17926,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 99
       },
       "passives": [
         "PAL_FullStomach_Down_1",
@@ -17944,14 +17944,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Anubis",
       "species": "BOSS_Anubis",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 99
       },
       "passives": [
         "ElementBoost_Earth_2_PAL",
@@ -17962,14 +17962,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceDeer",
       "species": "IceDeer",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 28
       },
       "passives": [
         "Vampire",
@@ -17980,14 +17980,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerRabbit",
       "species": "FlowerRabbit",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 90
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -17997,14 +17997,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 83
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -18014,14 +18014,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl",
       "species": "OctopusGirl",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 32
       },
       "passives": [
         "PAL_sadist"
@@ -18031,14 +18031,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 21
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -18048,14 +18048,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 99
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -18065,14 +18065,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 67
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -18082,14 +18082,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 34
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -18099,14 +18099,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 12
       },
       "passives": [
         "TrainerLogging_up1"
@@ -18116,14 +18116,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 23,
+        "defense": 51
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -18133,14 +18133,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 90
       },
       "passives": [
         "NightOwl"
@@ -18150,14 +18150,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 96
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -18167,14 +18167,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 21
       },
       "passives": [
         "PAL_rude",
@@ -18186,14 +18186,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage",
       "species": "CatMage",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 60
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -18203,14 +18203,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 58
       },
       "passives": [
         "CraftSpeed_up1"
@@ -18220,14 +18220,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDinosaur_Electric",
       "species": "FlowerDinosaur_Electric",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 9
       },
       "passives": [
         "SalePrice_Up_1"
@@ -18237,14 +18237,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 2
       },
       "passives": [
         "Deffence_up1",
@@ -18256,14 +18256,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 31
       },
       "passives": [
         "ElementBoost_Fire_2_PAL"
@@ -18273,14 +18273,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 1
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -18290,14 +18290,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HawkBird",
       "species": "HawkBird",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 7
       },
       "passives": [
         "PAL_conceited"
@@ -18307,14 +18307,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Anubis",
       "species": "BOSS_Anubis",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 63
       },
       "passives": [
         "ElementBoost_Earth_2_PAL",
@@ -18325,14 +18325,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 58
       },
       "passives": [
         "PAL_ALLAttack_down2",
@@ -18343,14 +18343,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon",
       "species": "WeaselDragon",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 99
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -18360,14 +18360,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 89
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -18377,14 +18377,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon",
       "species": "FairyDragon",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 51
       },
       "passives": [
         "Deffence_up3"
@@ -18394,14 +18394,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 59
       },
       "passives": [],
       "owner": "Theo"
@@ -18409,14 +18409,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus_Neutral",
       "species": "NegativeOctopus_Neutral",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 35
       },
       "passives": [],
       "owner": "LawzZ"
@@ -18424,14 +18424,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 37
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -18441,14 +18441,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 13
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -18458,14 +18458,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 29
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -18475,14 +18475,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 38
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -18492,14 +18492,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 28
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -18509,14 +18509,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WoolFox",
       "species": "WoolFox",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 80
       },
       "passives": [
         "NonKilling"
@@ -18526,14 +18526,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 28
       },
       "passives": [
         "CraftSpeed_down2"
@@ -18543,14 +18543,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 40
       },
       "passives": [
         "Deffence_up2"
@@ -18560,14 +18560,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta",
       "species": "FlyingManta",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 62
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -18577,14 +18577,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Carbunclo",
       "species": "Carbunclo",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 20
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -18594,14 +18594,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 72
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -18611,14 +18611,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon",
       "species": "WeaselDragon",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 76
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -18628,14 +18628,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 77
       },
       "passives": [
         "CraftSpeed_down2"
@@ -18645,14 +18645,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku",
       "species": "Suzaku",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 94
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -18662,14 +18662,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 55
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -18679,14 +18679,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 15
       },
       "passives": [
         "SalePrice_Up_1"
@@ -18696,14 +18696,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 47
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -18717,10 +18717,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 31
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -18730,14 +18730,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla",
       "species": "Gorilla",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 8
       },
       "passives": [
         "PAL_rude",
@@ -18748,14 +18748,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 12
       },
       "passives": [
         "Stamina_Up_1"
@@ -18765,14 +18765,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 71
       },
       "passives": [
         "CraftSpeed_down2"
@@ -18782,14 +18782,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 41
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -18799,14 +18799,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 72
       },
       "passives": [
         "Deffence_up1",
@@ -18817,14 +18817,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes_Ice",
       "species": "WindChimes_Ice",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 43
       },
       "passives": [
         "Stamina_Up_2",
@@ -18835,14 +18835,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 24
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -18852,14 +18852,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl",
       "species": "OctopusGirl",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 2
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -18869,14 +18869,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish_Fire",
       "species": "SwordCutlassfish_Fire",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 22
       },
       "passives": [],
       "owner": "Martial"
@@ -18884,14 +18884,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 24
       },
       "passives": [
         "CraftSpeed_down2"
@@ -18901,14 +18901,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 98
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -18918,14 +18918,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 28
       },
       "passives": [
         "Stamina_Up_2",
@@ -18936,14 +18936,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 22
       },
       "passives": [
         "Stamina_Up_2"
@@ -18953,14 +18953,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 65
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -18970,14 +18970,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 2
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -18987,14 +18987,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 23
       },
       "passives": [
         "SalePrice_Down_1"
@@ -19004,14 +19004,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes_Ice",
       "species": "WindChimes_Ice",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 93
       },
       "passives": [
         "SalePrice_Up_1"
@@ -19021,14 +19021,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 97
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -19038,14 +19038,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 43
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -19055,14 +19055,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla",
       "species": "Gorilla",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 68
       },
       "passives": [
         "PAL_rude",
@@ -19073,14 +19073,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 99
       },
       "passives": [
         "PAL_rude",
@@ -19091,14 +19091,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 23
       },
       "passives": [
         "PAL_sadist"
@@ -19108,14 +19108,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 94
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -19125,14 +19125,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 11
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -19142,14 +19142,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 27
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -19159,14 +19159,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl",
       "species": "OctopusGirl",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 5
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -19176,14 +19176,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 68
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -19193,14 +19193,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 24
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -19210,14 +19210,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes",
       "species": "WindChimes",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 56
       },
       "passives": [
         "TrainerLogging_up1"
@@ -19227,14 +19227,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Gorilla",
       "species": "BOSS_Gorilla",
-      "level": 1,
-      "rank": 0,
+      "level": 37,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 88
       },
       "passives": [
         "PAL_rude",
@@ -19247,14 +19247,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 89
       },
       "passives": [
         "Stamina_Up_3"
@@ -19264,14 +19264,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 86
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -19281,14 +19281,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 19
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -19298,14 +19298,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Anubis",
       "species": "BOSS_Anubis",
-      "level": 1,
+      "level": 72,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 89
       },
       "passives": [
         "ElementBoost_Earth_2_PAL",
@@ -19316,14 +19316,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 74
       },
       "passives": [],
       "owner": "Theo"
@@ -19331,14 +19331,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_DrillGame",
       "species": "BOSS_DrillGame",
-      "level": 1,
-      "rank": 0,
+      "level": 61,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 97
       },
       "passives": [
         "Deffence_up1",
@@ -19351,14 +19351,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 56
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -19368,14 +19368,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 55
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -19385,14 +19385,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin_Dark",
       "species": "FireKirin_Dark",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 96
       },
       "passives": [],
       "owner": "Theo"
@@ -19400,14 +19400,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 80
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -19417,14 +19417,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 43
       },
       "passives": [
         "Deffence_up1",
@@ -19439,10 +19439,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 39
       },
       "passives": [
         "Deffence_up2_2"
@@ -19452,14 +19452,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MummyPal",
       "species": "MummyPal",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 86
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -19469,14 +19469,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin_Dark",
       "species": "FireKirin_Dark",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 55
       },
       "passives": [
         "SalePrice_Down_1"
@@ -19486,14 +19486,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 100
       },
       "passives": [
         "Deffence_down1"
@@ -19503,14 +19503,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MummyPal",
       "species": "MummyPal",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 76
       },
       "passives": [
         "NonKilling"
@@ -19520,13 +19520,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
+        "shot": 40,
         "defense": 0
       },
       "passives": [
@@ -19537,14 +19537,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 81
       },
       "passives": [
         "Stamina_Up_1"
@@ -19554,14 +19554,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanoDragon",
       "species": "VolcanoDragon",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 22
       },
       "passives": [
         "CraftSpeed_up2"
@@ -19571,14 +19571,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 53
       },
       "passives": [
         "SalePrice_Up_1"
@@ -19588,14 +19588,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 79
       },
       "passives": [
         "Deffence_up1",
@@ -19606,14 +19606,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 82
       },
       "passives": [
         "Deffence_up2"
@@ -19623,14 +19623,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl",
       "species": "OctopusGirl",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 58
       },
       "passives": [
         "NightOwl",
@@ -19641,14 +19641,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 4
       },
       "passives": [
         "TrainerLogging_up1"
@@ -19658,14 +19658,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 18
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -19675,14 +19675,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 43
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -19692,14 +19692,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 1
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_2"
@@ -19709,14 +19709,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 92
       },
       "passives": [
         "TrainerLogging_up1"
@@ -19726,14 +19726,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 88
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -19743,14 +19743,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 57
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -19760,14 +19760,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 48
       },
       "passives": [],
       "owner": "Theo"
@@ -19775,14 +19775,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 70
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -19794,14 +19794,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 97
       },
       "passives": [
         "Deffence_up1",
@@ -19812,14 +19812,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 48
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -19829,14 +19829,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 49
       },
       "passives": [
         "Deffence_up1",
@@ -19847,14 +19847,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl",
       "species": "OctopusGirl",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 51
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -19864,14 +19864,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 97
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -19881,14 +19881,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 77
       },
       "passives": [
         "TrainerLogging_up1"
@@ -19898,14 +19898,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 64
       },
       "passives": [
         "TrainerMining_up1"
@@ -19915,14 +19915,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 7
       },
       "passives": [
         "Stamina_Up_2"
@@ -19932,14 +19932,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 26
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -19949,14 +19949,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 18
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -19966,14 +19966,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 65
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -19983,14 +19983,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 7
       },
       "passives": [
         "Deffence_down2"
@@ -20000,14 +20000,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 55
       },
       "passives": [
         "Deffence_up1"
@@ -20017,14 +20017,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 56
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -20034,14 +20034,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 96
       },
       "passives": [
         "TrainerMining_up1"
@@ -20051,14 +20051,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 16
       },
       "passives": [
         "Deffence_up1",
@@ -20069,14 +20069,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie_Fire",
       "species": "Kelpie_Fire",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 94
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -20086,14 +20086,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 48
       },
       "passives": [
         "PAL_sadist"
@@ -20103,14 +20103,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 65
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -20120,14 +20120,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 98
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -20137,14 +20137,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_WhiteAlienDragon",
       "species": "BOSS_WhiteAlienDragon",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 83
       },
       "passives": [
         "Alien",
@@ -20155,14 +20155,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 87
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -20172,14 +20172,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 2
       },
       "passives": [
         "PAL_rude",
@@ -20192,14 +20192,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MummyPal",
       "species": "MummyPal",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 21
       },
       "passives": [
         "NightOwl",
@@ -20210,14 +20210,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 63
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -20227,14 +20227,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Bastet",
       "species": "Bastet",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 26
       },
       "passives": [
         "Stamina_Up_1"
@@ -20244,14 +20244,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle",
       "species": "TentacleTurtle",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 40
       },
       "passives": [],
       "owner": "Theo"
@@ -20259,14 +20259,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 27
       },
       "passives": [],
       "owner": "Theo"
@@ -20274,14 +20274,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Anubis",
       "species": "BOSS_Anubis",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 53
       },
       "passives": [
         "ElementBoost_Earth_2_PAL",
@@ -20292,14 +20292,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 14
       },
       "passives": [
         "Deffence_up2_2",
@@ -20310,14 +20310,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 83
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -20327,14 +20327,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 36
       },
       "passives": [
         "PAL_oraora"
@@ -20344,14 +20344,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceDeer",
       "species": "IceDeer",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 54
       },
       "passives": [
         "NightOwl"
@@ -20361,14 +20361,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BadCatgirl",
       "species": "BadCatgirl",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 39
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -20378,14 +20378,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 22
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -20395,14 +20395,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 39
       },
       "passives": [
         "Stamina_Up_1"
@@ -20412,14 +20412,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SnowPeafowl",
       "species": "SnowPeafowl",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 58
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -20429,14 +20429,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper_Electric",
       "species": "FengyunDeeper_Electric",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 47
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -20446,14 +20446,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 62
       },
       "passives": [],
       "owner": "Martial"
@@ -20461,14 +20461,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 63
       },
       "passives": [
         "Deffence_up2_2"
@@ -20478,14 +20478,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 36
       },
       "passives": [
         "Deffence_up2_2"
@@ -20495,14 +20495,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 11
       },
       "passives": [
         "Deffence_up1"
@@ -20512,14 +20512,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 26
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -20529,14 +20529,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie_Fire",
       "species": "Kelpie_Fire",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 82
       },
       "passives": [
         "Noukin",
@@ -20547,14 +20547,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SnowPeafowl",
       "species": "SnowPeafowl",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 30
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -20564,14 +20564,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie_Fire",
       "species": "Kelpie_Fire",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 32
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -20581,14 +20581,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll_Dark",
       "species": "CactusDoll_Dark",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 34
       },
       "passives": [],
       "owner": "Theo"
@@ -20596,14 +20596,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll_Dark",
       "species": "CactusDoll_Dark",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 50
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -20613,14 +20613,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 51
       },
       "passives": [
         "Deffence_up2"
@@ -20630,14 +20630,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 32
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -20648,14 +20648,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 77
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -20665,14 +20665,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 50
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -20682,14 +20682,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 38
       },
       "passives": [
         "Deffence_up2"
@@ -20699,14 +20699,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 72
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -20717,14 +20717,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 94
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -20734,14 +20734,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 29
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -20751,14 +20751,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 60
       },
       "passives": [],
       "owner": "LawzZ"
@@ -20766,14 +20766,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 77
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -20786,14 +20786,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FlowerDinosaur",
       "species": "BOSS_FlowerDinosaur",
-      "level": 1,
-      "rank": 0,
+      "level": 32,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 90
       },
       "passives": [
         "Rare",
@@ -20804,14 +20804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll_Dark",
       "species": "CactusDoll_Dark",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 31
       },
       "passives": [],
       "owner": "LawzZ"
@@ -20819,14 +20819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 62
       },
       "passives": [
         "Deffence_up2_2",
@@ -20837,14 +20837,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 64
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -20856,14 +20856,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 100
       },
       "passives": [
         "PAL_conceited"
@@ -20873,14 +20873,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_StuffedShark",
       "species": "BOSS_StuffedShark",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 65
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -20890,14 +20890,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VioletFairy",
       "species": "VioletFairy",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 17
       },
       "passives": [],
       "owner": "LawzZ"
@@ -20905,14 +20905,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti",
       "species": "Yeti",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 23
       },
       "passives": [
         "Deffence_up2_2",
@@ -20923,14 +20923,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 3
       },
       "passives": [],
       "owner": "Martial"
@@ -20938,14 +20938,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 1
       },
       "passives": [
         "Deffence_up2_2"
@@ -20955,14 +20955,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteMoth",
       "species": "WhiteMoth",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 85
       },
       "passives": [
         "CraftSpeed_down1"
@@ -20972,14 +20972,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 97
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -20989,14 +20989,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin_Dark",
       "species": "Ronin_Dark",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 90
       },
       "passives": [
         "PAL_ALLAttack_up2",
@@ -21007,14 +21007,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 95
       },
       "passives": [
         "Deffence_up2_2",
@@ -21025,14 +21025,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 72
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -21042,14 +21042,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 61
       },
       "passives": [
         "Deffence_up2_2",
@@ -21060,14 +21060,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 67
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -21077,14 +21077,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 19
       },
       "passives": [
         "PAL_rude"
@@ -21094,14 +21094,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CubeTurtle",
       "species": "CubeTurtle",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 7
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -21115,10 +21115,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 98
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -21128,14 +21128,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 24
       },
       "passives": [],
       "owner": "Theo"
@@ -21143,14 +21143,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 23
       },
       "passives": [
         "Deffence_up1"
@@ -21160,14 +21160,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti",
       "species": "Yeti",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 83
       },
       "passives": [
         "Deffence_up2_2",
@@ -21178,14 +21178,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 64
       },
       "passives": [
         "PAL_oraora"
@@ -21195,14 +21195,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 23
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -21213,14 +21213,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 56
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -21231,14 +21231,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 93
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -21248,14 +21248,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 67
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -21265,14 +21265,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteMoth",
       "species": "WhiteMoth",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 52
       },
       "passives": [
         "Deffence_down1"
@@ -21286,10 +21286,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 100
       },
       "passives": [
         "Deffence_up1",
@@ -21300,14 +21300,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 83
       },
       "passives": [
         "ElementResist_Fire_1_PAL",
@@ -21319,14 +21319,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 34
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -21336,14 +21336,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 56
       },
       "passives": [
         "PAL_oraora"
@@ -21353,14 +21353,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 29
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -21370,14 +21370,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 85
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -21387,14 +21387,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hunter_Bat",
       "species": "Hunter_Bat",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 74
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -21404,14 +21404,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy",
       "species": "BlackPuppy",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 78
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -21421,14 +21421,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WereWolf_Ice",
       "species": "WereWolf_Ice",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 53
       },
       "passives": [
         "Deffence_up1"
@@ -21438,14 +21438,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanicMonster_Ice",
       "species": "VolcanicMonster_Ice",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 61
       },
       "passives": [
         "Deffence_up2_2",
@@ -21456,14 +21456,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Bastet",
       "species": "Bastet",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 24
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -21473,14 +21473,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hunter_Bat",
       "species": "Hunter_Bat",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 77
       },
       "passives": [
         "Stamina_Down_1",
@@ -21491,14 +21491,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LeafPrincess",
       "species": "BOSS_LeafPrincess",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 93
       },
       "passives": [
         "Stamina_Up_3",
@@ -21509,14 +21509,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PinkCat",
       "species": "BOSS_PinkCat",
-      "level": 1,
-      "rank": 0,
+      "level": 61,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 70
       },
       "passives": [
         "PAL_ALLAttack_down1",
@@ -21528,14 +21528,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LilyQueen_Dark",
       "species": "BOSS_LilyQueen_Dark",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 93
       },
       "passives": [
         "PAL_Sanity_Down_3"
@@ -21545,14 +21545,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 100
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -21564,14 +21564,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 91
       },
       "passives": [
         "Deffence_up2_2"
@@ -21581,14 +21581,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingAlpaca_Ice",
       "species": "BOSS_KingAlpaca_Ice",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 74
       },
       "passives": [
         "Deffence_up2_2",
@@ -21599,14 +21599,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 97
       },
       "passives": [
         "Deffence_down1"
@@ -21616,14 +21616,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 3
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -21633,14 +21633,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 96
       },
       "passives": [
         "TrainerLogging_up1"
@@ -21650,14 +21650,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 94
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -21667,14 +21667,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 2
       },
       "passives": [
         "PAL_CorporateSlave",
@@ -21685,14 +21685,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 83
       },
       "passives": [
         "Stamina_Down_1"
@@ -21702,14 +21702,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 75
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -21719,14 +21719,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage",
       "species": "CatMage",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 60
       },
       "passives": [
         "PAL_rude"
@@ -21736,14 +21736,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie_Fire",
       "species": "Kelpie_Fire",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 63
       },
       "passives": [],
       "owner": "LawzZ"
@@ -21751,14 +21751,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MysteryMask",
       "species": "MysteryMask",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 48
       },
       "passives": [
         "TrainerMining_up1"
@@ -21768,14 +21768,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteFox",
       "species": "CuteFox",
-      "level": 1,
+      "level": 2,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 75
       },
       "passives": [
         "PAL_Sanity_Down_3"
@@ -21785,14 +21785,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SakuraSaurus",
       "species": "SakuraSaurus",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 28
       },
       "passives": [
         "Deffence_up2_2"
@@ -21802,14 +21802,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 39
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -21819,14 +21819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SakuraSaurus",
       "species": "SakuraSaurus",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 99
       },
       "passives": [
         "Deffence_up2_2",
@@ -21837,14 +21837,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 42
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -21854,14 +21854,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 61
       },
       "passives": [
         "CraftSpeed_up3"
@@ -21871,14 +21871,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 77
       },
       "passives": [
         "TrainerMining_up1",
@@ -21889,14 +21889,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 79
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -21906,14 +21906,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus",
       "species": "NegativeOctopus",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 81
       },
       "passives": [
         "PAL_sadist"
@@ -21923,14 +21923,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CaptainPenguin",
       "species": "CaptainPenguin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 96
       },
       "passives": [],
       "owner": "Martial"
@@ -21938,14 +21938,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 82
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -21956,14 +21956,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 16,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 84
       },
       "passives": [
         "SalePrice_Up_1"
@@ -21973,14 +21973,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SakuraSaurus",
       "species": "BOSS_SakuraSaurus",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 58
       },
       "passives": [
         "Deffence_up2_2",
@@ -21991,14 +21991,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 84
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -22008,14 +22008,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse",
       "species": "BOSS_IceHorse",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 90
       },
       "passives": [
         "Legend",
@@ -22028,14 +22028,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CandleGhost",
       "species": "CandleGhost",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 87
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -22045,14 +22045,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LilyQueen",
       "species": "BOSS_LilyQueen",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 77
       },
       "passives": [
         "ElementBoost_Leaf_2_PAL",
@@ -22063,14 +22063,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 74
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -22080,14 +22080,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteDeer",
       "species": "WhiteDeer",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 97
       },
       "passives": [
         "PAL_oraora",
@@ -22098,14 +22098,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteButterfly",
       "species": "CuteButterfly",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 29
       },
       "passives": [
         "Deffence_down2"
@@ -22115,14 +22115,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage",
       "species": "CatMage",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 82
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -22132,14 +22132,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Werewolf",
       "species": "Werewolf",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 95
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -22149,14 +22149,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LittleBriarRose",
       "species": "LittleBriarRose",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 86
       },
       "passives": [],
       "owner": "LawzZ"
@@ -22164,14 +22164,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 83
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -22181,14 +22181,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 96
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -22198,14 +22198,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 13
       },
       "passives": [
         "SalePrice_Up_1",
@@ -22216,14 +22216,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 16
       },
       "passives": [],
       "owner": "Martial"
@@ -22231,14 +22231,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 76
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -22248,14 +22248,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 79
       },
       "passives": [],
       "owner": "Martial"
@@ -22263,14 +22263,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 50
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -22280,14 +22280,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 30
       },
       "passives": [
         "Deffence_up2_2"
@@ -22297,14 +22297,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BerryGoat_Dark",
       "species": "BOSS_BerryGoat_Dark",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 88
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -22314,14 +22314,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 70
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -22331,14 +22331,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse",
       "species": "BOSS_IceHorse",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 88
       },
       "passives": [
         "Legend",
@@ -22353,10 +22353,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 78
       },
       "passives": [
         "Deffence_up2_2",
@@ -22367,14 +22367,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 64
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -22384,14 +22384,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MoonQueen",
       "species": "MoonQueen",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 1
       },
       "passives": [
         "PAL_masochist"
@@ -22401,14 +22401,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 44
       },
       "passives": [],
       "owner": "Martial"
@@ -22416,14 +22416,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FlameBuffalo",
       "species": "BOSS_FlameBuffalo",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 75
       },
       "passives": [
         "PAL_oraora"
@@ -22433,14 +22433,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 75
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -22450,14 +22450,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 1
       },
       "passives": [
         "Stamina_Up_2",
@@ -22468,14 +22468,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 31
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -22485,14 +22485,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 67
       },
       "passives": [
         "Deffence_up1",
@@ -22503,14 +22503,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Monkey",
       "species": "Monkey",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 36
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -22520,14 +22520,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 93
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -22537,14 +22537,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 43
       },
       "passives": [
         "Stamina_Down_1"
@@ -22554,14 +22554,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 38
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -22571,14 +22571,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 39
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -22588,14 +22588,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 59
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -22605,14 +22605,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VioletFairy",
       "species": "VioletFairy",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 65
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -22622,14 +22622,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VioletFairy",
       "species": "VioletFairy",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 73
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -22639,14 +22639,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 4
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -22658,14 +22658,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LavaGirl",
       "species": "LavaGirl",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 18
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -22675,14 +22675,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CaptainPenguin",
       "species": "CaptainPenguin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 59
       },
       "passives": [],
       "owner": "Martial"
@@ -22690,14 +22690,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon",
       "species": "BirdDragon",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 34
       },
       "passives": [
         "PAL_FullStomach_Up_2",
@@ -22708,14 +22708,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ganesha",
       "species": "Ganesha",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 80
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -22725,14 +22725,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VioletFairy",
       "species": "VioletFairy",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 41
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -22742,14 +22742,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 56
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -22760,14 +22760,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CaptainPenguin",
       "species": "CaptainPenguin",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 21
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -22777,14 +22777,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 5
       },
       "passives": [
         "Deffence_down2"
@@ -22794,14 +22794,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 79
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -22812,14 +22812,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlameBambi",
       "species": "FlameBambi",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 14,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 2
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -22829,14 +22829,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 59
       },
       "passives": [
         "Deffence_down1"
@@ -22846,14 +22846,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 61
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -22863,14 +22863,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 60
       },
       "passives": [
         "PAL_ALLAttack_up1",
@@ -22882,14 +22882,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 24
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -22899,14 +22899,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kelpie",
       "species": "Kelpie",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 60
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -22916,14 +22916,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 13,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 82
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -22933,14 +22933,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 55
       },
       "passives": [
         "Deffence_down1"
@@ -22950,14 +22950,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_MopKing",
       "species": "BOSS_MopKing",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 97
       },
       "passives": [
         "Deffence_down2",
@@ -22969,14 +22969,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 11
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -22986,14 +22986,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 3
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -23003,14 +23003,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 58
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -23020,14 +23020,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 30
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -23037,14 +23037,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 50
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -23054,14 +23054,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 99
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -23071,14 +23071,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 11
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -23088,14 +23088,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Garm",
       "species": "Garm",
-      "level": 1,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 92
       },
       "passives": [
         "PAL_masochist"
@@ -23105,14 +23105,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon",
       "species": "BOSS_BlueDragon",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 65
       },
       "passives": [
         "Nocturnal"
@@ -23122,14 +23122,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 87
       },
       "passives": [],
       "owner": "Martial"
@@ -23137,14 +23137,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 85
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -23154,14 +23154,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 56
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -23171,14 +23171,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 84
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -23188,14 +23188,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 33
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -23205,14 +23205,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 19
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -23222,14 +23222,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_YakushimaBoss001",
       "species": "BOSS_YakushimaBoss001",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 96
       },
       "passives": [
         "ElementResist_Normal_1_PAL",
@@ -23241,14 +23241,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 70
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -23258,14 +23258,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 82
       },
       "passives": [],
       "owner": "Martial"
@@ -23273,14 +23273,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 46
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -23290,14 +23290,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 9
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -23307,14 +23307,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 22
       },
       "passives": [
         "Stamina_Up_2"
@@ -23324,14 +23324,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "StuffedShark",
       "species": "StuffedShark",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 21
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -23341,14 +23341,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 64
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -23358,14 +23358,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 95
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -23375,14 +23375,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 34
       },
       "passives": [
         "MoveSpeed_up_1",
@@ -23393,14 +23393,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 63
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -23410,14 +23410,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MoonQueen",
       "species": "MoonQueen",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 27
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -23427,14 +23427,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 72
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -23444,14 +23444,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 87
       },
       "passives": [
         "PAL_rude"
@@ -23461,14 +23461,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 86
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -23478,14 +23478,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 13
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -23496,14 +23496,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon",
       "species": "BirdDragon",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 57
       },
       "passives": [],
       "owner": "Martial"
@@ -23511,14 +23511,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon",
       "species": "BirdDragon",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 94
       },
       "passives": [
         "CraftSpeed_up2"
@@ -23528,14 +23528,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon",
       "species": "BirdDragon",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 36
       },
       "passives": [
         "TrainerLogging_up1"
@@ -23545,14 +23545,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LizardMan",
       "species": "LizardMan",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 88
       },
       "passives": [
         "CraftSpeed_down1",
@@ -23563,14 +23563,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 68
       },
       "passives": [],
       "owner": "Martial"
@@ -23578,14 +23578,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 2
       },
       "passives": [
         "MoveSpeed_up_1",
@@ -23596,14 +23596,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 64
       },
       "passives": [
         "CraftSpeed_up1"
@@ -23613,14 +23613,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 7
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -23630,14 +23630,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 77
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -23647,14 +23647,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 66
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -23664,14 +23664,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 64
       },
       "passives": [
         "PAL_conceited"
@@ -23681,14 +23681,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 10
       },
       "passives": [
         "NightOwl"
@@ -23702,10 +23702,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 22
       },
       "passives": [
         "SalePrice_Up_1",
@@ -23716,14 +23716,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 96
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -23733,14 +23733,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy",
       "species": "BlackPuppy",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 92
       },
       "passives": [
         "SalePrice_Down_1"
@@ -23750,14 +23750,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 60
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -23767,14 +23767,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 79
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -23784,14 +23784,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti",
       "species": "Yeti",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 72
       },
       "passives": [
         "Deffence_up2_2",
@@ -23803,14 +23803,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 85
       },
       "passives": [
         "PAL_masochist"
@@ -23820,14 +23820,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 38
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -23837,14 +23837,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 91
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -23858,10 +23858,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 80
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -23875,10 +23875,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 3
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -23890,14 +23890,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BerryGoat_Dark",
       "species": "BerryGoat_Dark",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 13
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -23907,14 +23907,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse_Dark",
       "species": "BOSS_IceHorse_Dark",
-      "level": 1,
+      "level": 74,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 52
       },
       "passives": [
         "Legend",
@@ -23930,10 +23930,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 24
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -23945,14 +23945,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 3
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -23962,14 +23962,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 90
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -23983,10 +23983,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 40
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -23996,14 +23996,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 70
       },
       "passives": [
         "Deffence_up2_2"
@@ -24013,14 +24013,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "AmaterasuWolf",
       "species": "AmaterasuWolf",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 57
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -24030,14 +24030,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle_Ground",
       "species": "TentacleTurtle_Ground",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 17
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -24051,10 +24051,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 7
       },
       "passives": [
         "CraftSpeed_up2"
@@ -24064,14 +24064,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 98
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -24081,14 +24081,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 44
       },
       "passives": [
         "TrainerMining_up1"
@@ -24098,14 +24098,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 36
       },
       "passives": [
         "Deffence_up2_2",
@@ -24116,14 +24116,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 94
       },
       "passives": [
         "Deffence_up2_2",
@@ -24140,10 +24140,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 42
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -24159,10 +24159,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 80
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -24172,14 +24172,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 37
       },
       "passives": [
         "AutoHPRegeneRate_Passive",
@@ -24191,14 +24191,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 56
       },
       "passives": [
         "CraftSpeed_up1"
@@ -24208,14 +24208,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GoldenHorse",
       "species": "GoldenHorse",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 55
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -24229,10 +24229,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 85
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -24242,14 +24242,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 64
       },
       "passives": [
         "PAL_conceited",
@@ -24262,14 +24262,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep_Ground",
       "species": "SweetsSheep_Ground",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 59
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -24279,14 +24279,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 71
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -24296,14 +24296,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 33
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -24313,14 +24313,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 45
       },
       "passives": [
         "Noukin"
@@ -24330,14 +24330,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NightBlueHorse",
       "species": "NightBlueHorse",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 58
       },
       "passives": [],
       "owner": "LawzZ"
@@ -24345,14 +24345,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage",
       "species": "CatMage",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 49
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -24363,14 +24363,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 99
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -24380,14 +24380,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 10
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -24397,14 +24397,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy",
       "species": "BlackPuppy",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 82
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -24418,10 +24418,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 3
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -24431,14 +24431,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueberryFairy",
       "species": "BlueberryFairy",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 3
       },
       "passives": [
         "Stamina_Up_2",
@@ -24454,10 +24454,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 12
       },
       "passives": [
         "PAL_conceited"
@@ -24467,14 +24467,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 35
       },
       "passives": [],
       "owner": "Martial"
@@ -24482,14 +24482,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_HerculesBeetle_Ground",
       "species": "BOSS_HerculesBeetle_Ground",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 52
       },
       "passives": [
         "Deffence_up1",
@@ -24500,14 +24500,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet_Dark",
       "species": "Baphomet_Dark",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 80
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -24521,10 +24521,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 40
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL",
@@ -24541,10 +24541,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 87
       },
       "passives": [
         "PAL_conceited"
@@ -24554,14 +24554,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle_Ground",
       "species": "TentacleTurtle_Ground",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 28
       },
       "passives": [
         "CraftSpeed_up1"
@@ -24571,14 +24571,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Suzaku",
       "species": "BOSS_Suzaku",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 65
       },
       "passives": [
         "TrainerLogging_up1"
@@ -24592,10 +24592,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 97
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -24608,14 +24608,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 64
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -24632,10 +24632,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 46
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -24645,14 +24645,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostRabbit",
       "species": "GhostRabbit",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 61
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -24666,10 +24666,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 74
       },
       "passives": [
         "PAL_ALLAttack_up1",
@@ -24684,10 +24684,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 80
       },
       "passives": [
         "PAL_conceited",
@@ -24704,10 +24704,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 80
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL",
@@ -24722,10 +24722,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 19
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL",
@@ -24741,10 +24741,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 7
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -24754,14 +24754,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 82
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -24775,10 +24775,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 60
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -24788,14 +24788,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 13
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -24805,14 +24805,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 18
       },
       "passives": [
         "Deffence_up2_2",
@@ -24823,14 +24823,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 30
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -24840,14 +24840,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 23
       },
       "passives": [
         "PAL_FullStomach_Down_1",
@@ -24858,14 +24858,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 97
       },
       "passives": [
         "Deffence_up2_2",
@@ -24880,10 +24880,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 43
       },
       "passives": [
         "PAL_oraora"
@@ -24897,10 +24897,27 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 94
+      },
+      "passives": [
+        "PAL_Sanity_Down_2"
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "BlackGriffon",
+      "species": "BlackGriffon",
+      "level": 47,
+      "rank": 0,
+      "is_alpha": false,
+      "talents": {
+        "hp": 49,
+        "melee": 0,
+        "shot": 97,
+        "defense": 3
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -24914,27 +24931,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
-      },
-      "passives": [
-        "PAL_Sanity_Down_2"
-      ],
-      "owner": "Martial"
-    },
-    {
-      "nickname": "BlackGriffon",
-      "species": "BlackGriffon",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "talents": {
-        "hp": 0,
-        "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 54
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -24946,14 +24946,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 48
       },
       "passives": [
         "ElementResist_Dragon_1_PAL",
@@ -24964,14 +24964,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PoseidonOrca",
       "species": "BOSS_PoseidonOrca",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 67
       },
       "passives": [
         "Legend",
@@ -24982,14 +24982,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 49
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -24999,14 +24999,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteDeer",
       "species": "WhiteDeer",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 42
       },
       "passives": [],
       "owner": "inconnu"
@@ -25014,14 +25014,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 7
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -25031,14 +25031,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 30
       },
       "passives": [
         "Deffence_up2_2"
@@ -25048,14 +25048,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 35
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -25065,14 +25065,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin_Dark",
       "species": "FireKirin_Dark",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 29
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -25087,10 +25087,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 98
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -25103,14 +25103,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkFlameFox",
       "species": "DarkFlameFox",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 55
       },
       "passives": [
         "PAL_conceited"
@@ -25120,14 +25120,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BadCatgirl",
       "species": "BadCatgirl",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 92
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -25137,14 +25137,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "AmaterasuWolf_Dark",
       "species": "AmaterasuWolf_Dark",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 62
       },
       "passives": [
         "CraftSpeed_down2"
@@ -25154,14 +25154,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanicMonster_Ice",
       "species": "VolcanicMonster_Ice",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 77
       },
       "passives": [
         "Deffence_up2_2",
@@ -25172,14 +25172,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti",
       "species": "Yeti",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 21
       },
       "passives": [
         "Deffence_up2_2",
@@ -25190,14 +25190,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackMetalDragon",
       "species": "BOSS_BlackMetalDragon",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 79
       },
       "passives": [
         "Deffence_up1",
@@ -25208,14 +25208,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 72
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -25225,14 +25225,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy",
       "species": "BlackPuppy",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 61
       },
       "passives": [
         "Deffence_down1"
@@ -25242,14 +25242,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy_Ice",
       "species": "BlackPuppy_Ice",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 72
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -25263,10 +25263,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 26
       },
       "passives": [
         "Deffence_up1"
@@ -25276,14 +25276,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 92
       },
       "passives": [
         "Deffence_up2_2",
@@ -25295,14 +25295,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanoDragon",
       "species": "VolcanoDragon",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 88
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -25312,14 +25312,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 18
       },
       "passives": [
         "CraftSpeed_up2"
@@ -25329,14 +25329,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteMoth",
       "species": "WhiteMoth",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 51
       },
       "passives": [
         "Stamina_Down_1"
@@ -25346,14 +25346,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 16
       },
       "passives": [
         "PAL_masochist"
@@ -25363,14 +25363,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 76
       },
       "passives": [
         "PAL_FullStomach_Down_1",
@@ -25381,14 +25381,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 56
       },
       "passives": [],
       "owner": "Theo"
@@ -25396,14 +25396,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_WhiteShieldDragon",
       "species": "BOSS_WhiteShieldDragon",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 51
       },
       "passives": [
         "Deffence_up2_2",
@@ -25415,14 +25415,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 10
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -25432,14 +25432,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 26
       },
       "passives": [
         "Noukin"
@@ -25449,14 +25449,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 62
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -25466,14 +25466,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteTiger",
       "species": "WhiteTiger",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 18
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -25483,14 +25483,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 97
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -25500,14 +25500,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 28
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -25521,10 +25521,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 64
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -25534,14 +25534,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 36
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -25551,14 +25551,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 38
       },
       "passives": [],
       "owner": "Theo"
@@ -25566,14 +25566,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 62
       },
       "passives": [
         "Deffence_up2_2",
@@ -25584,14 +25584,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -25601,14 +25601,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 92
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -25622,10 +25622,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 68
       },
       "passives": [
         "PAL_ALLAttack_up1",
@@ -25638,14 +25638,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -25655,14 +25655,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 84
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -25672,14 +25672,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 88
       },
       "passives": [
         "Deffence_up1"
@@ -25689,14 +25689,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 37
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -25706,14 +25706,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "StuffedShark",
       "species": "StuffedShark",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 97
       },
       "passives": [],
       "owner": "Theo"
@@ -25721,14 +25721,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingBahamut",
       "species": "BOSS_KingBahamut",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 65
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -25739,14 +25739,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 11
       },
       "passives": [
         "PAL_CorporateSlave",
@@ -25758,14 +25758,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 97
       },
       "passives": [
         "Deffence_up2",
@@ -25778,14 +25778,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 95
       },
       "passives": [
         "PAL_ALLAttack_up2",
@@ -25796,14 +25796,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 92
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -25813,14 +25813,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 98
       },
       "passives": [
         "Deffence_up2_2",
@@ -25831,14 +25831,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMammoth_Ice",
       "species": "GrassMammoth_Ice",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 26
       },
       "passives": [
         "Deffence_up2_2",
@@ -25849,14 +25849,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 16
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -25866,14 +25866,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 24
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -25883,14 +25883,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 5
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -25900,14 +25900,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 48
       },
       "passives": [
         "Deffence_up1",
@@ -25918,14 +25918,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 98
       },
       "passives": [
         "PAL_masochist"
@@ -25935,14 +25935,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 47
       },
       "passives": [
         "SalePrice_Up_2"
@@ -25952,14 +25952,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 95
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -25969,14 +25969,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 21
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -25986,14 +25986,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LeafPrincess",
       "species": "BOSS_LeafPrincess",
-      "level": 1,
-      "rank": 0,
+      "level": 62,
+      "rank": 4,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 98
       },
       "passives": [
         "Rare"
@@ -26003,14 +26003,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FoxMage",
       "species": "BOSS_FoxMage",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 73
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -26020,14 +26020,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 47
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -26037,14 +26037,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 88
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -26054,14 +26054,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 11
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -26071,14 +26071,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 9
       },
       "passives": [
         "Stamina_Up_2"
@@ -26088,14 +26088,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 8
       },
       "passives": [],
       "owner": "Theo"
@@ -26103,14 +26103,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 90
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -26120,14 +26120,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus_Fire",
       "species": "BluePlatypus_Fire",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 93
       },
       "passives": [
         "MoveSpeed_up_2",
@@ -26138,13 +26138,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus_Fire",
       "species": "BluePlatypus_Fire",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
+        "shot": 85,
         "defense": 0
       },
       "passives": [],
@@ -26153,14 +26153,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 70
       },
       "passives": [
         "ElementBoost_Fire_2_PAL"
@@ -26170,14 +26170,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 98
       },
       "passives": [
         "PAL_ALLAttack_up1",
@@ -26190,14 +26190,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 85
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -26207,14 +26207,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 100
       },
       "passives": [
         "Nocturnal"
@@ -26224,14 +26224,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 84
       },
       "passives": [],
       "owner": "Theo"
@@ -26239,14 +26239,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 42
       },
       "passives": [],
       "owner": "Theo"
@@ -26254,14 +26254,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 92
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -26271,14 +26271,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 46
       },
       "passives": [
         "Deffence_up1",
@@ -26289,14 +26289,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 32
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -26306,14 +26306,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 62
       },
       "passives": [
         "Nocturnal"
@@ -26323,14 +26323,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 98
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -26342,14 +26342,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 72,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 38
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -26359,14 +26359,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 59
       },
       "passives": [
         "CraftSpeed_up2"
@@ -26376,14 +26376,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SharkKid_Fire",
       "species": "BOSS_SharkKid_Fire",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 61
       },
       "passives": [
         "Stamina_Down_1"
@@ -26393,14 +26393,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 38
       },
       "passives": [
         "CoolTimeReduction_Down_1",
@@ -26412,14 +26412,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper_Electric",
       "species": "FengyunDeeper_Electric",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 56
       },
       "passives": [
         "AutoHPRegeneRate_Passive",
@@ -26430,14 +26430,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 84
       },
       "passives": [],
       "owner": "Theo"
@@ -26445,14 +26445,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 6
       },
       "passives": [],
       "owner": "Theo"
@@ -26460,14 +26460,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostAnglerFish",
       "species": "GhostAnglerFish",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 34
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -26477,14 +26477,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 13
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -26494,14 +26494,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 11
       },
       "passives": [
         "CraftSpeed_down2",
@@ -26512,14 +26512,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 23
       },
       "passives": [],
       "owner": "LawzZ"
@@ -26527,14 +26527,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 100
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -26544,14 +26544,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus_Fire",
       "species": "BluePlatypus_Fire",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 99
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -26561,14 +26561,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 90
       },
       "passives": [
         "PAL_Sanity_Down_1",
@@ -26579,14 +26579,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 57
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -26596,14 +26596,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage",
       "species": "FoxMage",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 65
       },
       "passives": [
         "NonKilling"
@@ -26613,14 +26613,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 52
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -26634,10 +26634,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 64
       },
       "passives": [
         "Deffence_up2_2",
@@ -26648,14 +26648,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 45
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -26665,14 +26665,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 8
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -26682,14 +26682,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 73
       },
       "passives": [
         "Noukin"
@@ -26699,14 +26699,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore_Dark",
       "species": "Manticore_Dark",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 69
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2",
@@ -26717,14 +26717,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 99
       },
       "passives": [
         "CoolTimeReduction_Up_1",
@@ -26735,14 +26735,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 36
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -26753,14 +26753,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog_Ice",
       "species": "Hedgehog_Ice",
-      "level": 1,
+      "level": 15,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 79
       },
       "passives": [
         "SalePrice_Up_1"
@@ -26774,10 +26774,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 8
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -26787,14 +26787,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteDeer_Dark",
       "species": "WhiteDeer_Dark",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 42
       },
       "passives": [
         "CraftSpeed_down2"
@@ -26804,14 +26804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 79
       },
       "passives": [
         "Noukin"
@@ -26825,10 +26825,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 72
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -26838,14 +26838,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 1
       },
       "passives": [],
       "owner": "Theo"
@@ -26853,14 +26853,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin_Dark",
       "species": "FireKirin_Dark",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 58
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -26870,14 +26870,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_YakushimaBoss001",
       "species": "BOSS_YakushimaBoss001",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 61
       },
       "passives": [
         "Nocturnal"
@@ -26887,14 +26887,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 94
       },
       "passives": [
         "CraftSpeed_up2"
@@ -26904,14 +26904,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 68
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -26922,14 +26922,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 39
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -26939,14 +26939,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 73
       },
       "passives": [
         "Stamina_Up_1",
@@ -26957,14 +26957,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore_Dark",
       "species": "Manticore_Dark",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 96
       },
       "passives": [
         "ElementResist_Leaf_1_PAL",
@@ -26979,10 +26979,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 80
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -26992,14 +26992,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 41
       },
       "passives": [
         "ReloadSpeedUp_Passive",
@@ -27011,14 +27011,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 10
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -27028,14 +27028,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CubeTurtle",
       "species": "BOSS_CubeTurtle",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 86
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -27045,14 +27045,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteDeer_Dark",
       "species": "WhiteDeer_Dark",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 74
       },
       "passives": [
         "CraftSpeed_down2"
@@ -27062,14 +27062,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 92
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -27081,14 +27081,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 23
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -27098,14 +27098,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 35
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -27116,14 +27116,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 55
       },
       "passives": [
         "Nocturnal"
@@ -27133,14 +27133,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 38
       },
       "passives": [],
       "owner": "Theo"
@@ -27148,14 +27148,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 36
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -27165,14 +27165,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 21
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -27182,14 +27182,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent_Ground",
       "species": "Serpent_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 38
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -27199,14 +27199,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 4
       },
       "passives": [],
       "owner": "Theo"
@@ -27214,14 +27214,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 71
       },
       "passives": [],
       "owner": "Theo"
@@ -27229,14 +27229,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CactusDoll",
       "species": "CactusDoll",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 68
       },
       "passives": [
         "Stamina_Up_2"
@@ -27246,14 +27246,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Umihebi_Fire",
       "species": "Umihebi_Fire",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 43
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -27263,14 +27263,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 71
       },
       "passives": [],
       "owner": "LawzZ"
@@ -27282,10 +27282,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 62
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL",
@@ -27298,14 +27298,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 27
       },
       "passives": [],
       "owner": "Theo"
@@ -27313,14 +27313,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BluePlatypus_Fire",
       "species": "BluePlatypus_Fire",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 41
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -27330,14 +27330,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VolcanoDragon",
       "species": "VolcanoDragon",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 25
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -27351,10 +27351,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 80
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL",
@@ -27366,14 +27366,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 24
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -27383,14 +27383,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse_Dark",
       "species": "BOSS_IceHorse_Dark",
-      "level": 1,
+      "level": 72,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 64
       },
       "passives": [
         "Legend",
@@ -27402,14 +27402,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 24
       },
       "passives": [],
       "owner": "Theo"
@@ -27421,10 +27421,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 64
       },
       "passives": [
         "SalePrice_Up_1",
@@ -27436,14 +27436,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_ElecPanda",
       "species": "BOSS_ElecPanda",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 98
       },
       "passives": [
         "SalePrice_Up_1"
@@ -27453,14 +27453,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceCrocodile",
       "species": "BOSS_IceCrocodile",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 66
       },
       "passives": [
         "MiniNushi",
@@ -27473,14 +27473,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 49
       },
       "passives": [
         "Stamina_Up_2"
@@ -27490,14 +27490,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 72
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -27507,14 +27507,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 67
       },
       "passives": [
         "Deffence_up1",
@@ -27525,14 +27525,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 51
       },
       "passives": [
         "Nocturnal"
@@ -27542,14 +27542,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 29
       },
       "passives": [
         "PAL_FullStomach_Up_2",
@@ -27562,14 +27562,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 55
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -27579,14 +27579,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 35
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -27596,14 +27596,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 18
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -27613,14 +27613,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 9
       },
       "passives": [],
       "owner": "Theo"
@@ -27632,10 +27632,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 64
       },
       "passives": [
         "PAL_conceited",
@@ -27648,14 +27648,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceWitch",
       "species": "IceWitch",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 32
       },
       "passives": [
         "ElementBoost_Dark_1_PAL",
@@ -27670,10 +27670,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 61
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -27683,14 +27683,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Rainbow",
       "species": "YakushimaMonster001_Rainbow",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 70
       },
       "passives": [
         "Stamina_Up_2"
@@ -27700,14 +27700,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 76,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 61
       },
       "passives": [
         "TrainerMining_up1"
@@ -27717,14 +27717,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 43
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -27734,14 +27734,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 80
       },
       "passives": [
         "Stamina_Up_1"
@@ -27751,14 +27751,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 84
       },
       "passives": [
         "SwimSpeed_up_1",
@@ -27770,14 +27770,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 7
       },
       "passives": [
         "PAL_oraora"
@@ -27787,14 +27787,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 68
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -27804,14 +27804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 3,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 80
       },
       "passives": [],
       "owner": "LawzZ"
@@ -27819,14 +27819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 26
       },
       "passives": [],
       "owner": "LawzZ"
@@ -27834,14 +27834,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 49
       },
       "passives": [
         "Deffence_up1",
@@ -27852,14 +27852,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDinosaur_Electric",
       "species": "FlowerDinosaur_Electric",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 93
       },
       "passives": [
         "ElementBoost_Dark_1_PAL",
@@ -27870,14 +27870,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 34
       },
       "passives": [
         "CraftSpeed_up1"
@@ -27887,14 +27887,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 70
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -27904,14 +27904,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDinosaur_Electric",
       "species": "FlowerDinosaur_Electric",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 86
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -27921,14 +27921,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 4
       },
       "passives": [
         "PAL_rude"
@@ -27938,14 +27938,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 23
       },
       "passives": [
         "Deffence_down2"
@@ -27955,14 +27955,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 88
       },
       "passives": [
         "TrainerLogging_up1"
@@ -27972,14 +27972,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 36
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -27989,14 +27989,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 30
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -28006,14 +28006,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 44
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -28023,14 +28023,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 7
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -28040,14 +28040,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 57
       },
       "passives": [
         "NonKilling"
@@ -28057,14 +28057,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BirdDragon_Ice",
       "species": "BirdDragon_Ice",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 58
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL",
@@ -28076,14 +28076,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 92
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -28093,14 +28093,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 86
       },
       "passives": [],
       "owner": "LawzZ"
@@ -28108,14 +28108,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 44
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -28126,14 +28126,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostAnglerFish",
       "species": "GhostAnglerFish",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 18
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -28143,14 +28143,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 55
       },
       "passives": [],
       "owner": "LawzZ"
@@ -28158,14 +28158,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 5
       },
       "passives": [
         "SalePrice_Up_2",
@@ -28176,14 +28176,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 70
       },
       "passives": [],
       "owner": "LawzZ"
@@ -28191,14 +28191,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog_Ice",
       "species": "Hedgehog_Ice",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 25
       },
       "passives": [
         "Deffence_up1"
@@ -28208,14 +28208,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 63
       },
       "passives": [
         "Noukin"
@@ -28225,14 +28225,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 7
       },
       "passives": [],
       "owner": "LawzZ"
@@ -28240,14 +28240,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 50
       },
       "passives": [
         "PAL_conceited"
@@ -28257,14 +28257,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 49
       },
       "passives": [
         "ElementResist_Dragon_1_PAL",
@@ -28275,14 +28275,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 31
       },
       "passives": [
         "PAL_sadist",
@@ -28293,14 +28293,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FoxExorcist",
       "species": "BOSS_FoxExorcist",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 87
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -28314,10 +28314,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 87
       },
       "passives": [
         "CraftSpeed_down2",
@@ -28328,14 +28328,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "PandaGirl",
       "species": "PandaGirl",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 86
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -28346,14 +28346,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 71
       },
       "passives": [
         "PAL_oraora"
@@ -28363,14 +28363,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WereWolf_Ice",
       "species": "WereWolf_Ice",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 73
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -28380,14 +28380,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon_Electric",
       "species": "LazyDragon_Electric",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 14
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -28397,14 +28397,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 26
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -28414,14 +28414,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 21
       },
       "passives": [
         "Stamina_Down_1"
@@ -28431,14 +28431,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_JetDragon",
       "species": "BOSS_JetDragon",
-      "level": 1,
+      "level": 70,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 67
       },
       "passives": [
         "Legend",
@@ -28450,14 +28450,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderFluffyBird",
       "species": "ThunderFluffyBird",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 35
       },
       "passives": [
         "ElementResist_Fire_1_PAL",
@@ -28468,14 +28468,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 81
       },
       "passives": [
         "Deffence_up2"
@@ -28485,14 +28485,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 84
       },
       "passives": [
         "Nushi",
@@ -28503,14 +28503,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 44
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -28520,14 +28520,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin_Dark",
       "species": "Ronin_Dark",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 59
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -28539,14 +28539,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingSunfish",
       "species": "KingSunfish",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 55
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -28556,14 +28556,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin_Dark",
       "species": "Ronin_Dark",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 85
       },
       "passives": [],
       "owner": "Theo"
@@ -28575,10 +28575,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 96
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL",
@@ -28590,14 +28590,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostAnglerFish",
       "species": "GhostAnglerFish",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 71
       },
       "passives": [
         "Deffence_up1"
@@ -28607,14 +28607,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_MoonChild",
       "species": "BOSS_MoonChild",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 100
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -28624,14 +28624,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderFluffyBird",
       "species": "ThunderFluffyBird",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 65
       },
       "passives": [
         "NonKilling",
@@ -28646,10 +28646,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 42
       },
       "passives": [
         "CraftSpeed_down2"
@@ -28659,14 +28659,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 97
       },
       "passives": [
         "Deffence_down1"
@@ -28676,14 +28676,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OniGhostGirl",
       "species": "OniGhostGirl",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 80
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -28697,10 +28697,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 50
       },
       "passives": [
         "ReloadSpeedUp_Passive",
@@ -28711,14 +28711,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 6
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -28728,14 +28728,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 56
       },
       "passives": [],
       "owner": "LawzZ"
@@ -28743,14 +28743,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 11
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2",
@@ -28761,14 +28761,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy",
       "species": "BlackPuppy",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 70
       },
       "passives": [
         "CraftSpeed_down2"
@@ -28782,10 +28782,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 89
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -28795,14 +28795,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 82
       },
       "passives": [
         "PAL_conceited"
@@ -28812,14 +28812,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Kelpie",
       "species": "BOSS_Kelpie",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 65
       },
       "passives": [
         "MiniNushi",
@@ -28832,14 +28832,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 37
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -28849,14 +28849,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SaintCentaur",
       "species": "BOSS_SaintCentaur",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 96
       },
       "passives": [
         "Legend",
@@ -28869,14 +28869,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 72,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 66
       },
       "passives": [
         "Legend",
@@ -28888,14 +28888,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 19
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -28905,14 +28905,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PoseidonOrca",
       "species": "BOSS_PoseidonOrca",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 60
       },
       "passives": [
         "Legend",
@@ -28928,10 +28928,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 98
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -28942,14 +28942,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceCrocodile",
       "species": "BOSS_IceCrocodile",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 98
       },
       "passives": [
         "MiniNushi",
@@ -28960,14 +28960,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 70
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL",
@@ -28983,10 +28983,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 53
       },
       "passives": [
         "Nocturnal"
@@ -28996,14 +28996,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_YakushimaBoss001",
       "species": "BOSS_YakushimaBoss001",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 80
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -29013,14 +29013,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 10,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 58
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -29030,14 +29030,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WereWolf_Ice",
       "species": "WereWolf_Ice",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 79
       },
       "passives": [
         "NonKilling"
@@ -29047,14 +29047,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 37
       },
       "passives": [
         "MoveSpeed_up_3"
@@ -29064,14 +29064,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 88
       },
       "passives": [
         "Stamina_Up_2"
@@ -29081,14 +29081,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 65
       },
       "passives": [
         "ElementBoost_Fire_1_PAL",
@@ -29101,14 +29101,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 17
       },
       "passives": [
         "CraftSpeed_up2"
@@ -29118,14 +29118,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 57
       },
       "passives": [
         "Deffence_down2"
@@ -29135,13 +29135,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
+        "shot": 27,
         "defense": 0
       },
       "passives": [
@@ -29152,14 +29152,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 69
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -29169,14 +29169,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceCrocodile",
       "species": "BOSS_IceCrocodile",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 75
       },
       "passives": [
         "MiniNushi",
@@ -29187,14 +29187,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 50
       },
       "passives": [
         "SalePrice_Down_1"
@@ -29204,14 +29204,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 57
       },
       "passives": [],
       "owner": "LawzZ"
@@ -29219,14 +29219,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecCat",
       "species": "ElecCat",
-      "level": 1,
+      "level": 12,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 65
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -29236,14 +29236,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "AmaterasuWolf_Dark",
       "species": "AmaterasuWolf_Dark",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 28
       },
       "passives": [
         "PAL_rude"
@@ -29253,14 +29253,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 11
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -29270,14 +29270,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostAnglerFish",
       "species": "GhostAnglerFish",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 94
       },
       "passives": [
         "CoolTimeReduction_Down_1",
@@ -29288,14 +29288,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 35
       },
       "passives": [
         "SalePrice_Up_1",
@@ -29311,10 +29311,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 88
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -29327,14 +29327,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 37
       },
       "passives": [
         "Deffence_up1"
@@ -29344,14 +29344,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 45
       },
       "passives": [
         "CraftSpeed_up2"
@@ -29361,14 +29361,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecSnail",
       "species": "ElecSnail",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 80
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -29378,14 +29378,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceNarwhal",
       "species": "BOSS_IceNarwhal",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 67
       },
       "passives": [
         "MiniNushi",
@@ -29396,14 +29396,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishFairy",
       "species": "JellyfishFairy",
-      "level": 1,
+      "level": 14,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 56
       },
       "passives": [
         "TrainerWorkSpeed_UP_1"
@@ -29413,13 +29413,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BadCatgirl",
       "species": "BadCatgirl",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
+        "shot": 7,
         "defense": 0
       },
       "passives": [
@@ -29430,14 +29430,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OniGhostGirl",
       "species": "OniGhostGirl",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 71
       },
       "passives": [
         "Deffence_up1"
@@ -29447,14 +29447,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecSnail",
       "species": "ElecSnail",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 41
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -29464,14 +29464,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OniGhostGirl",
       "species": "OniGhostGirl",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 21
       },
       "passives": [],
       "owner": "LawzZ"
@@ -29479,14 +29479,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 40
       },
       "passives": [
         "CoolTimeReduction_Up_2",
@@ -29497,14 +29497,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 20
       },
       "passives": [],
       "owner": "LawzZ"
@@ -29512,14 +29512,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostAnglerFish",
       "species": "GhostAnglerFish",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 63
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -29529,14 +29529,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 88
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -29546,14 +29546,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 21
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -29563,14 +29563,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 78
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -29580,14 +29580,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 68
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -29597,14 +29597,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SleeveRabbit",
       "species": "SleeveRabbit",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 83
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -29614,14 +29614,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_JetDragon",
       "species": "BOSS_JetDragon",
-      "level": 1,
+      "level": 74,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 73
       },
       "passives": [
         "Legend",
@@ -29633,14 +29633,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Hedgehog_Ice",
       "species": "Hedgehog_Ice",
-      "level": 1,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 64
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -29650,14 +29650,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 44
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -29667,14 +29667,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 2,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 1
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -29684,14 +29684,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 80
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -29701,14 +29701,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 19
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -29718,14 +29718,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BrownRabbit",
       "species": "BrownRabbit",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 61
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -29735,14 +29735,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostDragon",
       "species": "BOSS_GhostDragon",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 70
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -29752,14 +29752,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingSunfish",
       "species": "KingSunfish",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 53
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -29769,14 +29769,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 66
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -29786,14 +29786,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 38
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -29804,14 +29804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 88
       },
       "passives": [
         "TrainerMining_up1"
@@ -29821,14 +29821,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceCrocodile",
       "species": "IceCrocodile",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 70
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -29838,14 +29838,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 78
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -29855,14 +29855,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingSunfish_Thunder",
       "species": "KingSunfish_Thunder",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 10
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -29876,10 +29876,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 89
       },
       "passives": [],
       "owner": "LawzZ"
@@ -29887,14 +29887,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceSeal",
       "species": "IceSeal",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 67
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -29904,14 +29904,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 20
       },
       "passives": [
         "CraftSpeed_up2",
@@ -29924,14 +29924,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 8
       },
       "passives": [],
       "owner": "LawzZ"
@@ -29939,14 +29939,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 85
       },
       "passives": [
         "Stamina_Up_2"
@@ -29956,14 +29956,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 66
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -29973,14 +29973,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteDeer_Dark",
       "species": "WhiteDeer_Dark",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 42
       },
       "passives": [
         "CraftSpeed_down2",
@@ -29991,14 +29991,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 70
       },
       "passives": [
         "MiniNushi",
@@ -30010,14 +30010,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Kelpie",
       "species": "BOSS_Kelpie",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 65
       },
       "passives": [
         "MiniNushi",
@@ -30028,14 +30028,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WhiteDeer_Dark",
       "species": "WhiteDeer_Dark",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 62
       },
       "passives": [
         "CraftSpeed_down2"
@@ -30045,14 +30045,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 57
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -30066,10 +30066,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 58
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -30079,14 +30079,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HerculesBeetle_Ground",
       "species": "HerculesBeetle_Ground",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 21
       },
       "passives": [
         "Deffence_up1",
@@ -30097,14 +30097,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HoodGhost",
       "species": "HoodGhost",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 40
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -30114,14 +30114,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 63
       },
       "passives": [
         "Deffence_up3",
@@ -30133,14 +30133,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingSunfish",
       "species": "KingSunfish",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 7
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -30150,14 +30150,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DandelionGirl",
       "species": "DandelionGirl",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 55
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -30167,14 +30167,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 59
       },
       "passives": [],
       "owner": "LawzZ"
@@ -30182,14 +30182,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter_Water",
       "species": "RaijinDaughter_Water",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 17
       },
       "passives": [
         "Deffence_up2_2"
@@ -30199,14 +30199,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecLizard",
       "species": "ElecLizard",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 38
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -30216,14 +30216,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 31
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -30233,14 +30233,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FeatherOstrich",
       "species": "FeatherOstrich",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 66
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -30250,13 +30250,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
+        "shot": 67,
         "defense": 0
       },
       "passives": [
@@ -30268,14 +30268,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SwordCutlassfish_Fire",
       "species": "BOSS_SwordCutlassfish_Fire",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 93
       },
       "passives": [
         "Nushi",
@@ -30286,14 +30286,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 45
       },
       "passives": [
         "PAL_rude",
@@ -30304,14 +30304,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep_Ground",
       "species": "SweetsSheep_Ground",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 58
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -30321,14 +30321,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceSeal_Ground",
       "species": "BOSS_IceSeal_Ground",
-      "level": 1,
-      "rank": 0,
+      "level": 63,
+      "rank": 4,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 76
       },
       "passives": [
         "Rare",
@@ -30339,14 +30339,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceCrocodile",
       "species": "BOSS_IceCrocodile",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 80
       },
       "passives": [
         "Nushi",
@@ -30357,14 +30357,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 79
       },
       "passives": [
         "Deffence_up1",
@@ -30375,14 +30375,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 93
       },
       "passives": [
         "Vampire"
@@ -30392,14 +30392,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku",
       "species": "Suzaku",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 60
       },
       "passives": [
         "CraftSpeed_up1"
@@ -30409,14 +30409,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 51
       },
       "passives": [
         "MiniNushi",
@@ -30427,14 +30427,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 33
       },
       "passives": [],
       "owner": "Martial"
@@ -30442,14 +30442,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 86
       },
       "passives": [
         "Deffence_up2_2",
@@ -30460,14 +30460,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 51
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -30477,14 +30477,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle_Ground",
       "species": "TentacleTurtle_Ground",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 13
       },
       "passives": [
         "NightOwl"
@@ -30494,14 +30494,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 32
       },
       "passives": [
         "Deffence_up2_2",
@@ -30512,14 +30512,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_RockBeast",
       "species": "BOSS_RockBeast",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 97
       },
       "passives": [
         "Deffence_up2_2",
@@ -30530,14 +30530,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 59
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -30547,14 +30547,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon_Water",
       "species": "FairyDragon_Water",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 90
       },
       "passives": [
         "Deffence_up1"
@@ -30564,14 +30564,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 51
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -30581,14 +30581,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 16
       },
       "passives": [
         "Deffence_up2_2",
@@ -30599,14 +30599,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 32
       },
       "passives": [
         "Deffence_up2_2",
@@ -30617,14 +30617,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 19
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -30634,14 +30634,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 93
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -30651,14 +30651,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafPrincess",
       "species": "LeafPrincess",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 95
       },
       "passives": [
         "Stamina_Down_1",
@@ -30670,14 +30670,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 43
       },
       "passives": [
         "PAL_sadist"
@@ -30687,14 +30687,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 21
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -30704,14 +30704,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 7
       },
       "passives": [
         "TrainerMining_up1",
@@ -30722,14 +30722,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafPrincess",
       "species": "LeafPrincess",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 2
       },
       "passives": [
         "NightOwl"
@@ -30739,14 +30739,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 53
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -30756,14 +30756,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon_Water",
       "species": "FairyDragon_Water",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 27,
+        "defense": 47
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -30773,14 +30773,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 81
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -30790,14 +30790,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceDeer",
       "species": "IceDeer",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 67
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -30807,14 +30807,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 22,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 56
       },
       "passives": [
         "Noukin"
@@ -30824,14 +30824,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 62
       },
       "passives": [
         "Deffence_up2"
@@ -30841,14 +30841,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 27
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -30861,14 +30861,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostAnglerFish_Fire",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 53
       },
       "passives": [
         "MiniNushi",
@@ -30879,14 +30879,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceDeer",
       "species": "IceDeer",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 64
       },
       "passives": [
         "PAL_rude"
@@ -30896,14 +30896,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 39
       },
       "passives": [
         "CraftSpeed_up2"
@@ -30913,14 +30913,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon",
       "species": "SkyDragon",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 75,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 22
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -30930,14 +30930,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish_Fire",
       "species": "SwordCutlassfish_Fire",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 44
       },
       "passives": [
         "ElementBoost_Earth_1_PAL"
@@ -30947,14 +30947,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 1
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -30965,14 +30965,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafPrincess",
       "species": "LeafPrincess",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 80
       },
       "passives": [
         "TrainerMining_up1",
@@ -30983,14 +30983,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 94
       },
       "passives": [
         "PAL_oraora",
@@ -31001,14 +31001,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 90
       },
       "passives": [
         "MoveSpeed_up_2",
@@ -31019,14 +31019,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle_Ground",
       "species": "TentacleTurtle_Ground",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 51
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -31036,14 +31036,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 55
       },
       "passives": [],
       "owner": "Martial"
@@ -31051,14 +31051,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WindChimes_Ice",
       "species": "WindChimes_Ice",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 92
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -31068,14 +31068,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 59
       },
       "passives": [
         "Deffence_up2_2",
@@ -31086,14 +31086,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostDragon",
       "species": "BOSS_GhostDragon",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 57
       },
       "passives": [],
       "owner": "Martial"
@@ -31101,14 +31101,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 35
       },
       "passives": [],
       "owner": "Martial"
@@ -31116,14 +31116,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 34
       },
       "passives": [
         "Deffence_up2_2",
@@ -31134,14 +31134,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle_Ground",
       "species": "TentacleTurtle_Ground",
-      "level": 1,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 58
       },
       "passives": [
         "PAL_FullStomach_Down_3",
@@ -31152,14 +31152,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 28
       },
       "passives": [
         "Stamina_Up_2"
@@ -31169,14 +31169,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 40,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 50
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -31186,14 +31186,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 11
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -31203,14 +31203,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 36,
+        "defense": 27
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -31221,14 +31221,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceDeer",
       "species": "IceDeer",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 65
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -31238,14 +31238,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse",
       "species": "BOSS_IceHorse",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 59
       },
       "passives": [
         "Legend",
@@ -31261,10 +31261,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 92
       },
       "passives": [],
       "owner": "Theo"
@@ -31272,14 +31272,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CubeTurtle",
       "species": "CubeTurtle",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 51
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -31289,14 +31289,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 56
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -31306,14 +31306,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon",
       "species": "SkyDragon",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 93
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL",
@@ -31324,14 +31324,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 51
       },
       "passives": [
         "Legend",
@@ -31343,14 +31343,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 72
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -31360,14 +31360,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon_Water",
       "species": "FairyDragon_Water",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 31
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -31377,14 +31377,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SheepBall",
       "species": "BOSS_SheepBall",
-      "level": 1,
-      "rank": 0,
+      "level": 24,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 78
       },
       "passives": [
         "Rare",
@@ -31395,14 +31395,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 89
       },
       "passives": [],
       "owner": "Martial"
@@ -31410,14 +31410,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 76
       },
       "passives": [
         "Deffence_up1",
@@ -31428,14 +31428,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003_Purple",
       "species": "YakushimaMonster003_Purple",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 85
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -31447,14 +31447,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 58
       },
       "passives": [
         "SalePrice_Down_1"
@@ -31464,14 +31464,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 11,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 57
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -31481,14 +31481,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkAlien",
       "species": "DarkAlien",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 54
       },
       "passives": [
         "Alien",
@@ -31499,14 +31499,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CandleGhost",
       "species": "CandleGhost",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 92
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -31516,14 +31516,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PoseidonOrca",
       "species": "BOSS_PoseidonOrca",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 59
       },
       "passives": [
         "Legend",
@@ -31535,14 +31535,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Sekhmet",
       "species": "Sekhmet",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 24
       },
       "passives": [
         "PAL_CorporateSlave",
@@ -31553,14 +31553,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 32
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -31570,14 +31570,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 85
       },
       "passives": [
         "Deffence_up2_2"
@@ -31587,14 +31587,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassPanda_Electric",
       "species": "GrassPanda_Electric",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 46
       },
       "passives": [
         "PAL_sadist"
@@ -31604,14 +31604,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003",
       "species": "YakushimaMonster003",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 2
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -31621,14 +31621,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 58
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -31638,14 +31638,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 45
       },
       "passives": [
         "Stamina_Down_1"
@@ -31655,14 +31655,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 96
       },
       "passives": [
         "Deffence_up2_2",
@@ -31673,14 +31673,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus_Neutral",
       "species": "NegativeOctopus_Neutral",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 85
       },
       "passives": [
         "Deffence_down1"
@@ -31690,14 +31690,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FoxMage_Dark",
       "species": "BOSS_FoxMage_Dark",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 62
       },
       "passives": [],
       "owner": "Martial"
@@ -31705,14 +31705,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 6
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -31722,14 +31722,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 60
       },
       "passives": [
         "TrainerMining_up1"
@@ -31739,14 +31739,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 60
       },
       "passives": [
         "PAL_rude",
@@ -31757,14 +31757,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_ElecPanda",
       "species": "BOSS_ElecPanda",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 50
       },
       "passives": [
         "Deffence_down1"
@@ -31774,14 +31774,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueDragon_Ice",
       "species": "BlueDragon_Ice",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 17
       },
       "passives": [
         "AutoHPRegeneRate_Passive"
@@ -31791,14 +31791,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin_Dark",
       "species": "Ronin_Dark",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 26
       },
       "passives": [
         "TrainerLogging_up1"
@@ -31808,14 +31808,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 9
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -31825,14 +31825,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 64
       },
       "passives": [
         "Deffence_up1"
@@ -31842,14 +31842,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 25
       },
       "passives": [
         "Deffence_up2_2"
@@ -31859,14 +31859,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 13
       },
       "passives": [],
       "owner": "Martial"
@@ -31874,14 +31874,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon_Water",
       "species": "FairyDragon_Water",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 70
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -31891,14 +31891,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 25
       },
       "passives": [
         "SalePrice_Down_1"
@@ -31908,14 +31908,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 57
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -31925,14 +31925,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 34
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL",
@@ -31943,14 +31943,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 48,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 42
       },
       "passives": [
         "PAL_sadist"
@@ -31960,14 +31960,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 35
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -31977,14 +31977,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafPrincess",
       "species": "LeafPrincess",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 7
       },
       "passives": [
         "Deffence_down1"
@@ -31994,14 +31994,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 27
       },
       "passives": [
         "Deffence_up2_2",
@@ -32017,10 +32017,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 58
       },
       "passives": [
         "MoveSpeed_up_1",
@@ -32031,14 +32031,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 87
       },
       "passives": [
         "PAL_masochist"
@@ -32048,14 +32048,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 53
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -32066,14 +32066,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 73
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -32083,14 +32083,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 25
       },
       "passives": [
         "Deffence_up2_2"
@@ -32100,14 +32100,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkCrow",
       "species": "DarkCrow",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 59
       },
       "passives": [
         "NightOwl"
@@ -32117,14 +32117,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 83
       },
       "passives": [],
       "owner": "Martial"
@@ -32132,14 +32132,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MoonQueen",
       "species": "MoonQueen",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 7
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -32149,14 +32149,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CubeTurtle",
       "species": "CubeTurtle",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 24,
+        "defense": 85
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -32166,14 +32166,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FairyDragon_Water",
       "species": "FairyDragon_Water",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 98
       },
       "passives": [
         "Stamina_Up_1"
@@ -32183,14 +32183,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SaintCentaur",
       "species": "BOSS_SaintCentaur",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 75
       },
       "passives": [
         "Legend",
@@ -32203,14 +32203,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceFox",
       "species": "IceFox",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 36
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -32220,14 +32220,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin",
       "species": "Ronin",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 6
       },
       "passives": [
         "Deffence_up1"
@@ -32237,14 +32237,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 9
       },
       "passives": [
         "PAL_FullStomach_Up_2",
@@ -32256,14 +32256,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ScorpionMan",
       "species": "ScorpionMan",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 15
       },
       "passives": [
         "Stamina_Up_1"
@@ -32273,14 +32273,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Plesiosaur",
       "species": "Plesiosaur",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 90
       },
       "passives": [
         "Deffence_up2_2"
@@ -32290,14 +32290,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 91
       },
       "passives": [
         "ElementResist_Ice_1_PAL",
@@ -32308,14 +32308,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CuteMole",
       "species": "BOSS_CuteMole",
-      "level": 1,
-      "rank": 0,
+      "level": 36,
+      "rank": 2,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 80
       },
       "passives": [
         "Rare"
@@ -32325,14 +32325,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 80
       },
       "passives": [
         "MiniNushi",
@@ -32344,14 +32344,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 87
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -32361,14 +32361,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin_Dark",
       "species": "Ronin_Dark",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 22
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -32378,14 +32378,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SmallArmadillo",
       "species": "SmallArmadillo",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 52
       },
       "passives": [],
       "owner": "Martial"
@@ -32393,14 +32393,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 17
       },
       "passives": [
         "Deffence_up2"
@@ -32410,14 +32410,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 16
       },
       "passives": [
         "Deffence_down2"
@@ -32427,14 +32427,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingAlpaca_Ice",
       "species": "BOSS_KingAlpaca_Ice",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 80
       },
       "passives": [
         "Deffence_up2_2",
@@ -32445,14 +32445,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 27
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -32462,14 +32462,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku",
       "species": "Suzaku",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 23
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -32479,14 +32479,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus_Neutral",
       "species": "NegativeOctopus_Neutral",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 83
       },
       "passives": [],
       "owner": "Theo"
@@ -32498,10 +32498,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 98
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -32514,14 +32514,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin_Black",
       "species": "BOSS_CaptainPenguin_Black",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 68
       },
       "passives": [
         "MiniNushi",
@@ -32532,14 +32532,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 37
       },
       "passives": [
         "NonKilling",
@@ -32550,14 +32550,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 100
       },
       "passives": [
         "CraftSpeed_up1"
@@ -32567,14 +32567,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 25,
+        "defense": 66
       },
       "passives": [
         "Stamina_Up_1"
@@ -32584,14 +32584,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog",
       "species": "ThunderDog",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 88
       },
       "passives": [
         "SalePrice_Down_1"
@@ -32601,14 +32601,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 41
       },
       "passives": [
         "Deffence_down1",
@@ -32620,14 +32620,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GoldenHorse",
       "species": "GoldenHorse",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 10
       },
       "passives": [
         "CoolTimeReduction_Up_1",
@@ -32639,14 +32639,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 99
       },
       "passives": [
         "PAL_oraora"
@@ -32656,14 +32656,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 37
       },
       "passives": [
         "Nocturnal"
@@ -32677,10 +32677,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 88
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -32691,14 +32691,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TentacleTurtle_Ground",
       "species": "TentacleTurtle_Ground",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 90
       },
       "passives": [
         "Deffence_up1"
@@ -32708,14 +32708,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 91
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -32725,14 +32725,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderDog_Ice",
       "species": "ThunderDog_Ice",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 42
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -32742,14 +32742,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 71,
+        "defense": 22
       },
       "passives": [
         "TrainerMining_up1",
@@ -32761,14 +32761,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackGriffon",
       "species": "BlackGriffon",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 93
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -32778,14 +32778,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 98
       },
       "passives": [
         "Stamina_Down_1"
@@ -32795,14 +32795,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CandleGhost",
       "species": "CandleGhost",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 26
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -32812,14 +32812,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 1
       },
       "passives": [
         "Deffence_up2_2",
@@ -32831,14 +32831,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_VolcanicMonster",
       "species": "BOSS_VolcanicMonster",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 61
       },
       "passives": [
         "Deffence_up2_2",
@@ -32849,14 +32849,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 4
       },
       "passives": [
         "ElementBoost_Fire_2_PAL"
@@ -32866,14 +32866,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_ColorfulBird",
       "species": "BOSS_ColorfulBird",
-      "level": 1,
-      "rank": 0,
+      "level": 51,
+      "rank": 4,
       "is_alpha": true,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 54
       },
       "passives": [
         "Rare",
@@ -32884,14 +32884,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VioletFairy",
       "species": "VioletFairy",
-      "level": 1,
+      "level": 20,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 75
       },
       "passives": [
         "Stamina_Up_1"
@@ -32901,14 +32901,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 97
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -32918,13 +32918,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
+        "shot": 6,
         "defense": 0
       },
       "passives": [
@@ -32936,14 +32936,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish_Fire",
       "species": "SwordCutlassfish_Fire",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 52
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -32953,14 +32953,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 90
       },
       "passives": [
         "MiniNushi",
@@ -32972,14 +32972,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostRabbit_Grass",
       "species": "GhostRabbit_Grass",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 89
       },
       "passives": [
         "Nocturnal"
@@ -32989,14 +32989,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish_Fire",
       "species": "SwordCutlassfish_Fire",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 50
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -33006,14 +33006,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Rainbow",
       "species": "YakushimaMonster001_Rainbow",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 96
       },
       "passives": [
         "PAL_sadist",
@@ -33024,14 +33024,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostAnglerFish_Fire",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 53
       },
       "passives": [
         "MiniNushi",
@@ -33042,14 +33042,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 16
       },
       "passives": [
         "CoolTimeReduction_Up_1",
@@ -33060,14 +33060,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 43
       },
       "passives": [
         "TrainerLogging_up1"
@@ -33077,14 +33077,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NegativeOctopus_Neutral",
       "species": "NegativeOctopus_Neutral",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 52
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -33094,14 +33094,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse_Dark",
       "species": "BOSS_IceHorse_Dark",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 59
       },
       "passives": [
         "Legend",
@@ -33113,14 +33113,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 53
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -33130,14 +33130,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CubeTurtle_Neutral",
       "species": "BOSS_CubeTurtle_Neutral",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 98
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -33147,14 +33147,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 64
       },
       "passives": [
         "Legend",
@@ -33166,14 +33166,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 89,
+        "defense": 81
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -33184,14 +33184,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish_Fire",
       "species": "SwordCutlassfish_Fire",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 65
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -33201,14 +33201,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostRabbit_Grass",
       "species": "GhostRabbit_Grass",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 15
       },
       "passives": [
         "Stamina_Up_2"
@@ -33218,14 +33218,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 31
       },
       "passives": [
         "ElementResist_Ice_1_PAL"
@@ -33235,14 +33235,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Red",
       "species": "YakushimaMonster001_Red",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 31,
+        "defense": 3
       },
       "passives": [],
       "owner": "Theo"
@@ -33250,14 +33250,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 51
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -33267,14 +33267,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003",
       "species": "YakushimaMonster003",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 79
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -33284,14 +33284,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Rainbow",
       "species": "YakushimaMonster001_Rainbow",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 9
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -33301,14 +33301,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Mutant",
       "species": "Mutant",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 57
       },
       "passives": [
         "SalePrice_Down_1"
@@ -33318,14 +33318,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast",
       "species": "RockBeast",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 77,
+        "defense": 34
       },
       "passives": [
         "Deffence_up2_2",
@@ -33336,14 +33336,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 49
       },
       "passives": [
         "Stamina_Down_1"
@@ -33353,14 +33353,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 94
       },
       "passives": [
         "Stamina_Down_1"
@@ -33370,14 +33370,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 87
       },
       "passives": [
         "PAL_rude",
@@ -33388,14 +33388,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 7
       },
       "passives": [
         "PAL_rude",
@@ -33406,14 +33406,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafPrincess",
       "species": "LeafPrincess",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 11
       },
       "passives": [
         "CoolTimeReduction_Up_2"
@@ -33423,14 +33423,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003_Purple",
       "species": "YakushimaMonster003_Purple",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 51
       },
       "passives": [
         "ElementResist_Normal_1_PAL"
@@ -33440,14 +33440,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 47
       },
       "passives": [
         "Nocturnal"
@@ -33457,14 +33457,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 82
       },
       "passives": [
         "Nushi",
@@ -33477,14 +33477,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostAnglerFish_Fire",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 71
       },
       "passives": [
         "MiniNushi",
@@ -33495,14 +33495,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FengyunDeeper",
       "species": "FengyunDeeper",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 100
       },
       "passives": [
         "Deffence_down1",
@@ -33513,14 +33513,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 27
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -33530,14 +33530,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderBird",
       "species": "ThunderBird",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 24
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -33547,14 +33547,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 43,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 58,
+        "defense": 56
       },
       "passives": [
         "Deffence_up2_2",
@@ -33565,14 +33565,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 48
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -33582,14 +33582,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003_Purple",
       "species": "YakushimaMonster003_Purple",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 75
       },
       "passives": [
         "PAL_masochist"
@@ -33599,14 +33599,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Horus_Water",
       "species": "Horus_Water",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 95
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -33616,14 +33616,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 53
       },
       "passives": [
         "PAL_rude",
@@ -33636,14 +33636,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 7
       },
       "passives": [
         "PAL_sadist",
@@ -33654,14 +33654,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 64
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -33672,14 +33672,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 55
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -33689,13 +33689,13 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
+        "shot": 10,
         "defense": 0
       },
       "passives": [],
@@ -33704,14 +33704,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 1
       },
       "passives": [
         "Stamina_Up_1"
@@ -33721,14 +33721,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 64
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -33742,10 +33742,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 77
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -33755,14 +33755,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 79
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -33772,14 +33772,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 31
       },
       "passives": [],
       "owner": "Theo"
@@ -33787,14 +33787,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 89
       },
       "passives": [
         "CraftSpeed_down1"
@@ -33804,14 +33804,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 72
       },
       "passives": [
         "ElementResist_Dark_1_PAL"
@@ -33821,14 +33821,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 3
       },
       "passives": [
         "Noukin"
@@ -33838,14 +33838,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 51
       },
       "passives": [],
       "owner": "Martial"
@@ -33853,14 +33853,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog_Dark",
       "species": "KendoFrog_Dark",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 56
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -33870,14 +33870,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003_Purple",
       "species": "YakushimaMonster003_Purple",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 49
       },
       "passives": [
         "Noukin"
@@ -33887,14 +33887,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 99
       },
       "passives": [
         "Stamina_Down_1"
@@ -33904,14 +33904,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 87
       },
       "passives": [
         "PAL_sadist"
@@ -33921,14 +33921,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003_Purple",
       "species": "YakushimaMonster003_Purple",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 55
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -33938,14 +33938,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 100
       },
       "passives": [
         "SalePrice_Up_1"
@@ -33955,14 +33955,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingBahamut",
       "species": "BOSS_KingBahamut",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 68
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -33973,14 +33973,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 5,
+        "defense": 48
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -33990,14 +33990,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 29,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 74
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -34007,14 +34007,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 73
       },
       "passives": [],
       "owner": "takitome"
@@ -34022,14 +34022,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostRabbit_Grass",
       "species": "GhostRabbit_Grass",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 75
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -34039,14 +34039,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin",
       "species": "BOSS_CaptainPenguin",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 98
       },
       "passives": [
         "Nushi",
@@ -34057,14 +34057,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VioletFairy",
       "species": "VioletFairy",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 1
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -34078,10 +34078,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 61
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -34091,14 +34091,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_WingGolem",
       "species": "BOSS_WingGolem",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 67
       },
       "passives": [
         "Deffence_up2_2"
@@ -34108,14 +34108,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 33
       },
       "passives": [
         "Deffence_up2_2"
@@ -34125,14 +34125,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CandleGhost",
       "species": "CandleGhost",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 30
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -34144,14 +34144,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin",
       "species": "BOSS_CaptainPenguin",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 62,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 92
       },
       "passives": [
         "Nushi",
@@ -34162,14 +34162,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 92
       },
       "passives": [
         "AutoHPRegeneRate_Passive",
@@ -34180,14 +34180,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KendoFrog_Dark",
       "species": "BOSS_KendoFrog_Dark",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 81
       },
       "passives": [
         "Nushi",
@@ -34199,14 +34199,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 55
       },
       "passives": [
         "PAL_sadist"
@@ -34216,14 +34216,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SaintCentaur",
       "species": "BOSS_SaintCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 62
       },
       "passives": [
         "Legend",
@@ -34235,14 +34235,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 34,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 10
       },
       "passives": [
         "Stamina_Up_2"
@@ -34252,14 +34252,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LilyQueen",
       "species": "BOSS_LilyQueen",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 90
       },
       "passives": [
         "ElementBoost_Leaf_2_PAL",
@@ -34270,14 +34270,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PoseidonOrca",
       "species": "BOSS_PoseidonOrca",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 68
       },
       "passives": [
         "Legend",
@@ -34289,14 +34289,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem_Fire",
       "species": "WingGolem_Fire",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 3
       },
       "passives": [
         "Deffence_up2_2"
@@ -34306,14 +34306,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "StuffedShark",
       "species": "StuffedShark",
-      "level": 1,
+      "level": 9,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 60
       },
       "passives": [
         "TrainerMining_up1"
@@ -34323,14 +34323,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin",
       "species": "BOSS_CaptainPenguin",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 85
       },
       "passives": [
         "Nushi",
@@ -34343,14 +34343,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GrassGolem",
       "species": "BOSS_GrassGolem",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 71
       },
       "passives": [
         "Deffence_up2_2",
@@ -34361,14 +34361,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep_Ground",
       "species": "SweetsSheep_Ground",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 11,
+        "defense": 58
       },
       "passives": [
         "CraftSpeed_up1",
@@ -34383,10 +34383,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 8
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -34396,14 +34396,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 45,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 22
       },
       "passives": [
         "SalePrice_Down_1"
@@ -34413,14 +34413,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 31
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -34430,14 +34430,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 21
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -34447,14 +34447,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 72
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -34469,10 +34469,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 11
       },
       "passives": [
         "Deffence_up1",
@@ -34483,14 +34483,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "HadesBird_Electric",
       "species": "HadesBird_Electric",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 20
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -34504,10 +34504,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 55
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -34517,14 +34517,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse_Dark",
       "species": "BOSS_IceHorse_Dark",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 56,
+        "defense": 96
       },
       "passives": [
         "Legend",
@@ -34536,14 +34536,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlyingManta_Thunder",
       "species": "FlyingManta_Thunder",
-      "level": 1,
+      "level": 27,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 8,
+        "defense": 42
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -34553,14 +34553,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SweetsSheep_Ground",
       "species": "SweetsSheep_Ground",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 89
       },
       "passives": [],
       "owner": "Theo"
@@ -34568,14 +34568,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 57
       },
       "passives": [],
       "owner": "Theo"
@@ -34583,14 +34583,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 14,
+        "defense": 82
       },
       "passives": [
         "NightOwl"
@@ -34600,14 +34600,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KingBahamut",
       "species": "KingBahamut",
-      "level": 1,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 68
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -34618,14 +34618,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 76
       },
       "passives": [
         "Stamina_Up_1",
@@ -34636,14 +34636,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 58
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -34653,14 +34653,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 99
       },
       "passives": [
         "PAL_sadist",
@@ -34671,14 +34671,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FlowerDoll",
       "species": "FlowerDoll",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 57
       },
       "passives": [],
       "owner": "Martial"
@@ -34686,14 +34686,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon_Electric",
       "species": "LazyDragon_Electric",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 31
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -34703,14 +34703,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 53,
+        "defense": 24
       },
       "passives": [
         "ElementBoost_Fire_1_PAL"
@@ -34720,14 +34720,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 6
       },
       "passives": [
         "PAL_sadist",
@@ -34738,14 +34738,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SwordCutlassfish",
       "species": "SwordCutlassfish",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 20
       },
       "passives": [
         "SalePrice_Down_1"
@@ -34755,14 +34755,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore",
       "species": "Manticore",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 50
       },
       "passives": [
         "Stamina_Up_1"
@@ -34772,14 +34772,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 95
       },
       "passives": [
         "PAL_FullStomach_Down_3"
@@ -34789,14 +34789,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 56
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -34806,14 +34806,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 28
       },
       "passives": [],
       "owner": "Theo"
@@ -34821,14 +34821,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 88
       },
       "passives": [
         "Nushi",
@@ -34841,14 +34841,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 98
       },
       "passives": [
         "Stamina_Up_1"
@@ -34858,14 +34858,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem",
       "species": "WingGolem",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 84
       },
       "passives": [
         "Deffence_up2_2",
@@ -34877,14 +34877,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "VenusFlytrap",
       "species": "VenusFlytrap",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 37
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -34894,14 +34894,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostRabbit_Grass",
       "species": "GhostRabbit_Grass",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 7,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 68
       },
       "passives": [
         "PAL_Sanity_Up_1",
@@ -34912,14 +34912,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 32
       },
       "passives": [
         "Deffence_down2"
@@ -34929,14 +34929,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion_Ground",
       "species": "DarkScorpion_Ground",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 39
       },
       "passives": [
         "Deffence_up2_2"
@@ -34946,14 +34946,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 58
       },
       "passives": [
         "CoolTimeReduction_Down_1",
@@ -34965,14 +34965,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 13,
+        "defense": 64
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -34982,14 +34982,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 83
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -35003,10 +35003,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 1,
+        "defense": 64
       },
       "passives": [
         "PAL_Sanity_Up_2"
@@ -35016,14 +35016,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_FireKirin",
       "species": "BOSS_FireKirin",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 79
       },
       "passives": [
         "WorkSuitabilityAddRank_MonsterFarm_1"
@@ -35033,14 +35033,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 74
       },
       "passives": [
         "PAL_rude"
@@ -35050,14 +35050,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 98
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -35067,14 +35067,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 54
       },
       "passives": [
         "CraftSpeed_up2"
@@ -35084,14 +35084,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 31
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -35101,14 +35101,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostRabbit_Grass",
       "species": "GhostRabbit_Grass",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 35
       },
       "passives": [
         "CraftSpeed_up1",
@@ -35120,14 +35120,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 91,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 71
       },
       "passives": [
         "SalePrice_Up_2"
@@ -35137,14 +35137,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 49,
+        "defense": 71
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -35154,14 +35154,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 59
       },
       "passives": [
         "Nocturnal",
@@ -35173,14 +35173,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FireKirin",
       "species": "FireKirin",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 35,
+        "defense": 66
       },
       "passives": [
         "NightOwl"
@@ -35190,14 +35190,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 69
       },
       "passives": [
         "SalePrice_Up_2"
@@ -35207,14 +35207,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 18
       },
       "passives": [
         "NightOwl",
@@ -35225,14 +35225,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 54
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up",
@@ -35243,14 +35243,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 21
       },
       "passives": [],
       "owner": "Theo"
@@ -35258,14 +35258,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Kelpie_Fire",
       "species": "BOSS_Kelpie_Fire",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 64
       },
       "passives": [
         "MiniNushi",
@@ -35276,14 +35276,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 32,
+        "defense": 97
       },
       "passives": [
         "PAL_Sanity_Down_2",
@@ -35296,14 +35296,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 60
       },
       "passives": [
         "Deffence_up1"
@@ -35313,14 +35313,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 63,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 96
       },
       "passives": [
         "Legend",
@@ -35332,14 +35332,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 3
       },
       "passives": [
         "PAL_sadist"
@@ -35349,14 +35349,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 18
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -35366,14 +35366,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MysteryMask",
       "species": "MysteryMask",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 44
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -35387,10 +35387,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 65
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -35401,14 +35401,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "NaughtyCat",
       "species": "NaughtyCat",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 10
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -35418,14 +35418,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 77
       },
       "passives": [
         "Legend",
@@ -35437,14 +35437,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueThunderHorse",
       "species": "BlueThunderHorse",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 37
       },
       "passives": [
         "ElementBoost_Aqua_1_PAL"
@@ -35454,14 +35454,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Kelpie_Fire",
       "species": "BOSS_Kelpie_Fire",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 66,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 66
       },
       "passives": [
         "Nushi",
@@ -35472,14 +35472,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Umihebi_Fire",
       "species": "Umihebi_Fire",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 100,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 68
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -35489,14 +35489,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 97
       },
       "passives": [],
       "owner": "LawzZ"
@@ -35504,14 +35504,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 30,
+        "defense": 57
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -35521,14 +35521,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 65
       },
       "passives": [
         "Nushi",
@@ -35540,14 +35540,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GrassMammoth",
       "species": "BOSS_GrassMammoth",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 52
       },
       "passives": [
         "Deffence_up2_2",
@@ -35558,14 +35558,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlueThunderHorse",
       "species": "BlueThunderHorse",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 92
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -35575,14 +35575,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 94
       },
       "passives": [],
       "owner": "LawzZ"
@@ -35590,14 +35590,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 100
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -35611,10 +35611,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 73
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -35624,14 +35624,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkScorpion",
       "species": "DarkScorpion",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 42,
+        "defense": 84
       },
       "passives": [
         "Deffence_up2"
@@ -35641,14 +35641,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin_Black",
       "species": "BOSS_CaptainPenguin_Black",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 81
       },
       "passives": [
         "Nushi",
@@ -35659,14 +35659,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Bastet",
       "species": "Bastet",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 25
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -35676,14 +35676,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "KendoFrog_Dark",
       "species": "KendoFrog_Dark",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 65
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -35693,14 +35693,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 9
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -35710,14 +35710,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 95,
+        "defense": 76
       },
       "passives": [
         "Deffence_up2_2",
@@ -35728,14 +35728,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceCrocodile",
       "species": "BOSS_IceCrocodile",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 86
       },
       "passives": [
         "Nushi",
@@ -35746,14 +35746,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 74
       },
       "passives": [
         "Nocturnal"
@@ -35763,14 +35763,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PoseidonOrca",
       "species": "BOSS_PoseidonOrca",
-      "level": 1,
+      "level": 70,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 51,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 50
       },
       "passives": [
         "Legend",
@@ -35782,14 +35782,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 52
       },
       "passives": [],
       "owner": "takitome"
@@ -35797,14 +35797,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GoldenHorse",
       "species": "GoldenHorse",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 61
       },
       "passives": [
         "Deffence_down2"
@@ -35814,14 +35814,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse",
       "species": "BOSS_IceHorse",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 66,
+        "defense": 74
       },
       "passives": [
         "Legend",
@@ -35833,14 +35833,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 70,
+        "defense": 18
       },
       "passives": [
         "Deffence_up2_2",
@@ -35851,14 +35851,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Kitsunebi_Ice",
       "species": "BOSS_Kitsunebi_Ice",
-      "level": 1,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 65
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -35868,14 +35868,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 21,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 22
       },
       "passives": [
         "PAL_sadist",
@@ -35886,14 +35886,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet_Dark",
       "species": "Baphomet_Dark",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 57
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -35907,10 +35907,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 16,
+        "defense": 71
       },
       "passives": [
         "Nocturnal"
@@ -35920,14 +35920,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Kitsunebi_Ice",
       "species": "Kitsunebi_Ice",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 75
       },
       "passives": [
         "MoveSpeed_up_2"
@@ -35937,14 +35937,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 74
       },
       "passives": [
         "Legend",
@@ -35956,14 +35956,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 15,
+        "defense": 16
       },
       "passives": [
         "CraftSpeed_down2"
@@ -35973,14 +35973,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 47,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 49
       },
       "passives": [
         "PAL_rude",
@@ -35991,14 +35991,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassRabbitMan",
       "species": "GrassRabbitMan",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 5
       },
       "passives": [
         "CoolTimeReduction_Down_1",
@@ -36009,14 +36009,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 51
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -36026,14 +36026,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 97
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -36043,14 +36043,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 93
       },
       "passives": [],
       "owner": "Theo"
@@ -36058,14 +36058,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrimGirl",
       "species": "GrimGirl",
-      "level": 1,
+      "level": 58,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 24
       },
       "passives": [
         "PAL_sadist"
@@ -36075,14 +36075,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 65,
+        "defense": 63
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -36092,14 +36092,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 3,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 93
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -36109,14 +36109,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 24,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 97,
+        "defense": 61
       },
       "passives": [
         "ElementBoost_Ice_1_PAL"
@@ -36126,14 +36126,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 28,
+        "defense": 31
       },
       "passives": [
         "TrainerLogging_up1"
@@ -36143,14 +36143,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 26,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 44
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -36160,14 +36160,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SumoDog",
       "species": "SumoDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 99,
+        "defense": 36
       },
       "passives": [
         "PAL_Sanity_Down_2"
@@ -36177,14 +36177,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Yeti_Grass",
       "species": "Yeti_Grass",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 12,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 11
       },
       "passives": [
         "Deffence_up2_2",
@@ -36195,14 +36195,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 33
       },
       "passives": [
         "PAL_FullStomach_Up_2"
@@ -36212,14 +36212,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 56
       },
       "passives": [],
       "owner": "Theo"
@@ -36227,14 +36227,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "TropicalOstrich",
       "species": "TropicalOstrich",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 46,
+        "defense": 43
       },
       "passives": [
         "PAL_FullStomach_Up_2",
@@ -36246,14 +36246,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GhostBeast",
       "species": "GhostBeast",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 19
       },
       "passives": [
         "CraftSpeed_up1"
@@ -36263,14 +36263,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WeaselDragon_Fire",
       "species": "WeaselDragon_Fire",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 44
       },
       "passives": [
         "NightOwl"
@@ -36280,14 +36280,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 90
       },
       "passives": [
         "Nushi",
@@ -36299,14 +36299,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SifuDog",
       "species": "SifuDog",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 60
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -36316,14 +36316,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 52
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -36333,14 +36333,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 9
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -36351,14 +36351,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 16,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 32
       },
       "passives": [
         "PAL_ALLAttack_up2"
@@ -36368,14 +36368,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 52,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 36
       },
       "passives": [
         "PAL_rude",
@@ -36386,14 +36386,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 44,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 35
       },
       "passives": [
         "ReloadSpeedUp_Passive"
@@ -36403,14 +36403,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 37,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 20
       },
       "passives": [
         "ElementResist_Earth_1_PAL"
@@ -36420,14 +36420,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 72
       },
       "passives": [],
       "owner": "LawzZ"
@@ -36435,14 +36435,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CandleGhost",
       "species": "CandleGhost",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 86,
+        "defense": 41
       },
       "passives": [
         "SwimSpeed_up_2",
@@ -36454,14 +36454,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackMetalDragon",
       "species": "BOSS_BlackMetalDragon",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 64
       },
       "passives": [
         "Deffence_up1",
@@ -36472,14 +36472,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 84
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -36489,14 +36489,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SkyDragon_Grass",
       "species": "SkyDragon_Grass",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 62,
+        "defense": 98
       },
       "passives": [
         "TrainerMining_up1"
@@ -36506,14 +36506,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon_Electric",
       "species": "LazyDragon_Electric",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 21
       },
       "passives": [
         "CoolTimeReduction_Up_1"
@@ -36523,14 +36523,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 2
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -36541,14 +36541,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyDragon",
       "species": "LazyDragon",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
         "hp": 0,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 4,
+        "defense": 49
       },
       "passives": [
         "PAL_FullStomach_Up_1",
@@ -36559,14 +36559,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 79
       },
       "passives": [
         "PlayerSP_DecreaseRate_Passive"
@@ -36580,10 +36580,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 96,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 51
       },
       "passives": [
         "Stamina_Down_1"
@@ -36593,14 +36593,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Manticore_Dark",
       "species": "Manticore_Dark",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 35
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -36610,14 +36610,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MimicDog",
       "species": "MimicDog",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 57
       },
       "passives": [
         "ElementResist_Earth_1_PAL",
@@ -36629,14 +36629,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 38
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -36646,14 +36646,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 54
       },
       "passives": [
         "Nushi"
@@ -36663,14 +36663,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GuardianDog",
       "species": "GuardianDog",
-      "level": 1,
+      "level": 54,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 73,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 44,
+        "defense": 32
       },
       "passives": [
         "Deffence_down2"
@@ -36680,14 +36680,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 19
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -36697,14 +36697,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CaptainPenguin_Black",
       "species": "BOSS_CaptainPenguin_Black",
-      "level": 1,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 74
       },
       "passives": [
         "Nushi",
@@ -36715,14 +36715,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_CatMage_Fire",
       "species": "BOSS_CatMage_Fire",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 91,
+        "defense": 95
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -36732,14 +36732,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 30
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -36749,14 +36749,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatMage_Fire",
       "species": "CatMage_Fire",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 35,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 62
       },
       "passives": [
         "PAL_ALLAttack_up2",
@@ -36767,14 +36767,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Male_Ninja01",
       "species": "Male_Ninja01",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 13,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 88
       },
       "passives": [
         "SalePrice_Up_2"
@@ -36784,14 +36784,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 6
       },
       "passives": [
         "Stamina_Up_1"
@@ -36801,14 +36801,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_HerculesBeetle_Ground",
       "species": "BOSS_HerculesBeetle_Ground",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 68,
+        "defense": 94
       },
       "passives": [
         "Deffence_up1",
@@ -36819,14 +36819,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingBahamut",
       "species": "BOSS_KingBahamut",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 60
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -36837,14 +36837,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Ronin_Dark",
       "species": "Ronin_Dark",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 12
       },
       "passives": [],
       "owner": "Theo"
@@ -36852,14 +36852,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CuteMole",
       "species": "CuteMole",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 41,
+        "defense": 19
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -36869,14 +36869,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 90,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 21,
+        "defense": 59
       },
       "passives": [],
       "owner": "takitome"
@@ -36884,14 +36884,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Umihebi",
       "species": "BOSS_Umihebi",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 57
       },
       "passives": [
         "ElementBoost_Aqua_2_PAL",
@@ -36903,14 +36903,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 27,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 56
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -36920,14 +36920,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 36,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 92
       },
       "passives": [
         "Noukin"
@@ -36937,14 +36937,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Anubis",
       "species": "BOSS_Anubis",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 95
       },
       "passives": [
         "ElementBoost_Earth_2_PAL",
@@ -36955,14 +36955,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KendoFrog_Dark",
       "species": "BOSS_KendoFrog_Dark",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 64,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 55
       },
       "passives": [
         "Nushi",
@@ -36973,14 +36973,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CandleGhost",
       "species": "CandleGhost",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 11
       },
       "passives": [
         "PAL_ALLAttack_down1"
@@ -36990,14 +36990,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 20,
+        "defense": 54
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -37007,14 +37007,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 93,
+        "defense": 92
       },
       "passives": [
         "PAL_rude",
@@ -37025,14 +37025,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 25,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 22,
+        "defense": 63
       },
       "passives": [
         "PAL_FullStomach_Down_2"
@@ -37042,14 +37042,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "WingGolem_Fire",
       "species": "WingGolem_Fire",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 67,
+        "defense": 65
       },
       "passives": [
         "Deffence_up2_2",
@@ -37060,14 +37060,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 49,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 49
       },
       "passives": [
         "PAL_rude",
@@ -37078,14 +37078,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Suzaku",
       "species": "BOSS_Suzaku",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 85
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -37095,14 +37095,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkFlameFox",
       "species": "DarkFlameFox",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 38,
+        "defense": 77
       },
       "passives": [
         "MoveSpeed_up_1"
@@ -37112,14 +37112,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RobinHood_Ground",
       "species": "RobinHood_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 79
       },
       "passives": [
         "PAL_rude"
@@ -37129,14 +37129,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 6,
+        "defense": 65
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -37146,14 +37146,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 93,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 10
       },
       "passives": [],
       "owner": "takitome"
@@ -37161,14 +37161,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish_Gold",
       "species": "LazyCatfish_Gold",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 6,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 61,
+        "defense": 76
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -37178,14 +37178,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 9,
         "melee": 0,
         "shot": 0,
-        "defense": 0
+        "defense": 26
       },
       "passives": [],
       "owner": "LawzZ"
@@ -37197,10 +37197,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 84
       },
       "passives": [
         "ElementBoost_Thunder_1_PAL"
@@ -37210,14 +37210,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Serpent",
       "species": "Serpent",
-      "level": 1,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 73,
+        "defense": 80
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -37227,14 +37227,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 96
       },
       "passives": [
         "ElementBoost_Dark_1_PAL"
@@ -37244,14 +37244,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 56,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 96,
+        "defense": 62
       },
       "passives": [
         "PAL_CorporateSlave"
@@ -37261,14 +37261,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SamuraiDog",
       "species": "SamuraiDog",
-      "level": 1,
+      "level": 4,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 94,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 7,
+        "defense": 8
       },
       "passives": [
         "TrainerATK_UP_1"
@@ -37278,14 +37278,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 23,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 54
       },
       "passives": [
         "PAL_masochist"
@@ -37295,14 +37295,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaBoss001_Small",
       "species": "YakushimaBoss001_Small",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 54
       },
       "passives": [
         "CraftSpeed_down1"
@@ -37316,10 +37316,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 75
       },
       "passives": [
         "Deffence_up2_2",
@@ -37331,14 +37331,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 47,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 74,
+        "defense": 73
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -37348,14 +37348,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "FoxMage_Dark",
       "species": "FoxMage_Dark",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 61
       },
       "passives": [
         "PAL_Sanity_Down_1"
@@ -37365,14 +37365,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy_Ice",
       "species": "BlackPuppy_Ice",
-      "level": 1,
+      "level": 63,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 88,
+        "defense": 37
       },
       "passives": [],
       "owner": "Theo"
@@ -37380,14 +37380,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 49
       },
       "passives": [
         "Stamina_Down_1"
@@ -37397,14 +37397,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 90,
+        "defense": 32
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -37414,14 +37414,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 39,
+        "defense": 72
       },
       "passives": [
         "PAL_sadist"
@@ -37431,14 +37431,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 40,
+        "defense": 70
       },
       "passives": [
         "SwimSpeed_up_1"
@@ -37448,14 +37448,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 4
       },
       "passives": [
         "Deffence_up1",
@@ -37466,14 +37466,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 1,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 59
       },
       "passives": [
         "Deffence_down1"
@@ -37483,14 +37483,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 20,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 5
       },
       "passives": [
         "PAL_Sanity_Up_1"
@@ -37500,14 +37500,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedFlowerBird",
       "species": "RedFlowerBird",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 67,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 87
       },
       "passives": [
         "PAL_oraora"
@@ -37517,14 +37517,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RaijinDaughter",
       "species": "RaijinDaughter",
-      "level": 1,
+      "level": 30,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 36
       },
       "passives": [
         "Noukin"
@@ -37534,14 +37534,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 18
       },
       "passives": [
         "PAL_FullStomach_Up_1"
@@ -37551,14 +37551,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopKing",
       "species": "MopKing",
-      "level": 1,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 31,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 75
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL",
@@ -37571,14 +37571,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 42,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 45
       },
       "passives": [
         "PAL_FullStomach_Down_1"
@@ -37588,14 +37588,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DrillGame",
       "species": "DrillGame",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 76
       },
       "passives": [
         "Deffence_up1",
@@ -37606,14 +37606,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RedArmorBird",
       "species": "RedArmorBird",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 56
       },
       "passives": [
         "SalePrice_Up_2"
@@ -37623,14 +37623,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy_Ice",
       "species": "BlackPuppy_Ice",
-      "level": 1,
+      "level": 64,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 88
       },
       "passives": [
         "SalePrice_Up_1"
@@ -37640,14 +37640,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BlackPuppy_Ice",
       "species": "BlackPuppy_Ice",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 28,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 55,
+        "defense": 82
       },
       "passives": [
         "ElementBoost_Dragon_1_PAL"
@@ -37657,14 +37657,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 10,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 79,
+        "defense": 92
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -37674,14 +37674,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_VolcanoDragon",
       "species": "BOSS_VolcanoDragon",
-      "level": 1,
+      "level": 70,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 68,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 85
       },
       "passives": [
         "ElementResist_Aqua_1_PAL",
@@ -37692,14 +37692,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "DarkAlien",
       "species": "DarkAlien",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 89,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 4
       },
       "passives": [
         "Alien"
@@ -37709,14 +37709,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingSunfish_Thunder",
       "species": "BOSS_KingSunfish_Thunder",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 55
       },
       "passives": [
         "MiniNushi",
@@ -37728,14 +37728,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Pink",
       "species": "YakushimaMonster001_Pink",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 92
       },
       "passives": [
         "Noukin"
@@ -37745,14 +37745,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 18,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 19,
+        "defense": 12
       },
       "passives": [],
       "owner": "LawzZ"
@@ -37760,14 +37760,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "JellyfishGhost",
       "species": "JellyfishGhost",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 83,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 8
       },
       "passives": [
         "TrainerDEF_UP_1"
@@ -37777,14 +37777,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 95
       },
       "passives": [
         "Nushi"
@@ -37794,14 +37794,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LazyCatfish_Gold",
       "species": "BOSS_LazyCatfish_Gold",
-      "level": 1,
+      "level": 50,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 60,
+        "defense": 88
       },
       "passives": [
         "MiniNushi"
@@ -37811,14 +37811,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "OctopusGirl_Neutral",
       "species": "OctopusGirl_Neutral",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 15,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 85,
+        "defense": 21
       },
       "passives": [
         "PAL_ALLAttack_up3",
@@ -37829,14 +37829,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 52
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -37846,14 +37846,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "IceNarwhal",
       "species": "IceNarwhal",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 8
       },
       "passives": [
         "ElementResist_Fire_1_PAL"
@@ -37863,14 +37863,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SnowPeafowl",
       "species": "SnowPeafowl",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 61,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 18,
+        "defense": 72
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2",
@@ -37881,14 +37881,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 41,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 100,
+        "defense": 50
       },
       "passives": [
         "PAL_rude",
@@ -37903,10 +37903,10 @@ window.PALWORLD_DATA = {
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 50,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 69,
+        "defense": 81
       },
       "passives": [
         "ElementResist_Dark_1_PAL",
@@ -37917,14 +37917,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafMomonga",
       "species": "LeafMomonga",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 37,
+        "defense": 19
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -37934,14 +37934,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingSunfish_Thunder",
       "species": "BOSS_KingSunfish_Thunder",
-      "level": 1,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 57,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 90
       },
       "passives": [
         "MiniNushi"
@@ -37951,14 +37951,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GrassGolem_Dark",
       "species": "BOSS_GrassGolem_Dark",
-      "level": 1,
+      "level": 70,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 50,
+        "defense": 56
       },
       "passives": [
         "Deffence_up2_2",
@@ -37969,14 +37969,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_KingBahamut",
       "species": "BOSS_KingBahamut",
-      "level": 1,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 60,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 99
       },
       "passives": [
         "ElementBoost_Fire_2_PAL",
@@ -37987,14 +37987,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 5,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 27
       },
       "passives": [
         "TrainerMining_up1"
@@ -38004,14 +38004,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_TentacleTurtle_Ground",
       "species": "BOSS_TentacleTurtle_Ground",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 88,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 80
       },
       "passives": [
         "MiniNushi",
@@ -38023,14 +38023,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 87,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 80,
+        "defense": 72
       },
       "passives": [
         "MiniNushi",
@@ -38041,14 +38041,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001",
       "species": "YakushimaMonster001",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 33,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 48,
+        "defense": 48
       },
       "passives": [
         "Test_PalEgg_HatchingSpeed_Up"
@@ -38058,14 +38058,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Blue",
       "species": "YakushimaMonster001_Blue",
-      "level": 1,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 34,
+        "defense": 6
       },
       "passives": [
         "ElementResist_Thunder_1_PAL"
@@ -38075,14 +38075,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 78,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 70
       },
       "passives": [
         "Stamina_Up_1"
@@ -38092,14 +38092,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ColorfulBird",
       "species": "ColorfulBird",
-      "level": 1,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 85,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 29,
+        "defense": 82
       },
       "passives": [
         "PAL_ALLAttack_up1"
@@ -38109,14 +38109,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceHorse_Dark",
       "species": "BOSS_IceHorse_Dark",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 72,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 97
       },
       "passives": [
         "Legend",
@@ -38128,14 +38128,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MopBaby",
       "species": "MopBaby",
-      "level": 1,
+      "level": 5,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 23,
+        "defense": 24
       },
       "passives": [
         "SwimSpeed_up_2"
@@ -38145,14 +38145,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 4,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 23
       },
       "passives": [
         "ElementResist_Earth_1_PAL",
@@ -38164,14 +38164,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 30,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 63,
+        "defense": 49
       },
       "passives": [
         "PAL_FullStomach_Down_2",
@@ -38183,14 +38183,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 72,
+        "defense": 97
       },
       "passives": [],
       "owner": "takitome"
@@ -38198,14 +38198,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "CatBat",
       "species": "CatBat",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 99,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 44
       },
       "passives": [
         "Stamina_Up_1"
@@ -38215,14 +38215,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Gorilla_Ground",
       "species": "Gorilla_Ground",
-      "level": 1,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 29,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 64,
+        "defense": 59
       },
       "passives": [
         "PAL_rude",
@@ -38233,14 +38233,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Rainbow",
       "species": "YakushimaMonster001_Rainbow",
-      "level": 1,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 79,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 83,
+        "defense": 62
       },
       "passives": [
         "PAL_masochist"
@@ -38250,14 +38250,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster002",
       "species": "YakushimaMonster002",
-      "level": 1,
+      "level": 44,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 17,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 26,
+        "defense": 62
       },
       "passives": [
         "ReloadSpeedUp_Passive",
@@ -38269,14 +38269,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 84,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 9,
+        "defense": 80
       },
       "passives": [
         "CoolTimeReduction_Down_1"
@@ -38286,14 +38286,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon_Dark",
       "species": "MushroomDragon_Dark",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 55,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 73
       },
       "passives": [],
       "owner": "LawzZ"
@@ -38301,14 +38301,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 46,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 13
       },
       "passives": [
         "Stamina_Down_1"
@@ -38318,14 +38318,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "MushroomDragon",
       "species": "MushroomDragon",
-      "level": 1,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 80,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 3,
+        "defense": 12
       },
       "passives": [
         "ElementResist_Leaf_1_PAL"
@@ -38335,14 +38335,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 32,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 45,
+        "defense": 35
       },
       "passives": [
         "ElementResist_Aqua_1_PAL"
@@ -38352,14 +38352,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LazyCatfish",
       "species": "LazyCatfish",
-      "level": 1,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 19,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 54,
+        "defense": 64
       },
       "passives": [
         "Stamina_Up_1"
@@ -38369,14 +38369,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Suzaku_Water",
       "species": "Suzaku_Water",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 39,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 12,
+        "defense": 82
       },
       "passives": [],
       "owner": "LawzZ"
@@ -38384,14 +38384,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster003",
       "species": "YakushimaMonster003",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 65,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 57,
+        "defense": 16
       },
       "passives": [
         "PAL_masochist"
@@ -38401,14 +38401,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ElecPomeranian",
       "species": "ElecPomeranian",
-      "level": 1,
+      "level": 65,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 38,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 33,
+        "defense": 11
       },
       "passives": [
         "RideJumpCount_Increase1"
@@ -38418,14 +38418,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlackCentaur",
       "species": "BOSS_BlackCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 92,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 85
       },
       "passives": [
         "Legend",
@@ -38436,14 +38436,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_SaintCentaur",
       "species": "BOSS_SaintCentaur",
-      "level": 1,
+      "level": 60,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 81,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 51,
+        "defense": 78
       },
       "passives": [
         "Legend",
@@ -38455,14 +38455,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LazyCatfish_Gold",
       "species": "BOSS_LazyCatfish_Gold",
-      "level": 1,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 86,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 76,
+        "defense": 59
       },
       "passives": [
         "MiniNushi",
@@ -38473,14 +38473,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_LotusDragon",
       "species": "BOSS_LotusDragon",
-      "level": 1,
+      "level": 69,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 82,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 94,
+        "defense": 99
       },
       "passives": [
         "ElementBoost_Leaf_1_PAL"
@@ -38490,14 +38490,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "RockBeast_Ice",
       "species": "RockBeast_Ice",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 69,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 87,
+        "defense": 63
       },
       "passives": [
         "Deffence_up2_2",
@@ -38510,14 +38510,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "YakushimaMonster001_Purple",
       "species": "YakushimaMonster001_Purple",
-      "level": 1,
+      "level": 40,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 97,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 75
       },
       "passives": [
         "SelfDeathAddItemDrop_up_2"
@@ -38527,14 +38527,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 59,
+        "defense": 64
       },
       "passives": [
         "Nushi",
@@ -38545,14 +38545,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_Anubis",
       "species": "BOSS_Anubis",
-      "level": 1,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 77,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 82,
+        "defense": 50
       },
       "passives": [
         "ElementBoost_Earth_2_PAL",
@@ -38563,14 +38563,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostAnglerFish_Fire",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "level": 1,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 92,
+        "defense": 51
       },
       "passives": [
         "Nushi"
@@ -38580,14 +38580,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_PoseidonOrca",
       "species": "BOSS_PoseidonOrca",
-      "level": 1,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 71,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 75,
+        "defense": 93
       },
       "passives": [
         "Legend",
@@ -38599,14 +38599,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 61,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 74,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 52,
+        "defense": 100
       },
       "passives": [
         "Nushi",
@@ -38618,14 +38618,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "SharkKid_Fire",
       "species": "SharkKid_Fire",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 95,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 2,
+        "defense": 63
       },
       "passives": [
         "PAL_ALLAttack_down2"
@@ -38635,14 +38635,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "GrassMinotaur",
       "species": "GrassMinotaur",
-      "level": 1,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 98,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 43,
+        "defense": 42
       },
       "passives": [
         "ElementResist_Dragon_1_PAL"
@@ -38652,14 +38652,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_GhostAnglerFish",
       "species": "BOSS_GhostAnglerFish",
-      "level": 1,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 98,
+        "defense": 74
       },
       "passives": [
         "Nushi",
@@ -38670,14 +38670,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "LeafPrincess",
       "species": "LeafPrincess",
-      "level": 1,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 8,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 10,
+        "defense": 70
       },
       "passives": [
         "TrainerATK_UP_1",
@@ -38688,14 +38688,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_IceSeal",
       "species": "BOSS_IceSeal",
-      "level": 1,
+      "level": 56,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 59,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 81,
+        "defense": 91
       },
       "passives": [
         "Nushi"
@@ -38705,14 +38705,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "ThunderFluffyBird",
       "species": "ThunderFluffyBird",
-      "level": 1,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 70,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 78,
+        "defense": 77
       },
       "passives": [
         "ElementBoost_Normal_1_PAL"
@@ -38722,14 +38722,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Deer_Ground",
       "species": "Deer_Ground",
-      "level": 1,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 58,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 47,
+        "defense": 98
       },
       "passives": [],
       "owner": "LawzZ"
@@ -38737,14 +38737,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "BOSS_BlueDragon_Ice",
       "species": "BOSS_BlueDragon_Ice",
-      "level": 1,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 54,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 84,
+        "defense": 78
       },
       "passives": [
         "Nushi",
@@ -38755,14 +38755,14 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Baphomet",
       "species": "Baphomet",
-      "level": 1,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "talents": {
-        "hp": 0,
+        "hp": 53,
         "melee": 0,
-        "shot": 0,
-        "defense": 0
+        "shot": 17,
+        "defense": 65
       },
       "passives": [
         "PAL_FullStomach_Up_2"
