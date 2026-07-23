@@ -372,7 +372,9 @@ def parse_characters(save_path, online_players):
             "species_name": pal_info["name"],
             "icon": pal_info["icon"],
             "level": _byte_prop_value(params.get("Level"), 1),
-            "rank": _byte_prop_value(params.get("Rank"), 0),
+            # Rank est stocke decale de +1 par rapport aux etoiles affichees
+            # en jeu (verifie : Lullu stockee a 4 s'affiche avec 3 etoiles).
+            "rank": max(0, _byte_prop_value(params.get("Rank"), 1) - 1),
             "is_alpha": params.get("IsRarePal", {}).get("value", False),
             "is_awakened": params.get("bIsAwakening", {}).get("value", False),
             "talents": {

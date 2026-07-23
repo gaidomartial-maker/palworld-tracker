@@ -279,12 +279,12 @@
   const grid = document.getElementById('pal-grid');
   grid.innerHTML = pals.map(p => {
     const t = p.talents || {};
-    const stars = '★'.repeat(p.rank || 0) + '☆'.repeat(4 - (p.rank || 0));
+    const stars = '★'.repeat(p.rank || 0);
     const speciesName = p.species_name || p.species;
     const passives = (p.passives || []).map(x => (typeof x === 'string') ? {name: x, rank: 0} : x);
     return `
       <div class="pal-card">
-        <div class="rank-star">${stars}</div>
+        ${stars ? `<div class="rank-star">${stars}</div>` : ''}
         ${p.icon ? `<img class="pal-icon" src="${p.icon}" alt="" loading="lazy" onerror="this.remove()">` : ''}
         ${p.is_alpha ? '<div class="alpha-tag">Alpha</div>' : ''}
         ${p.is_awakened ? '<div class="awakened-tag">Éveillé</div>' : ''}
@@ -292,8 +292,7 @@
         <h3>${escapeHtml(p.nickname || speciesName)}</h3>
         <div class="species">${escapeHtml(speciesName)} · niv. ${p.level ?? '—'}</div>
         ${statRow('PV', t.hp)}
-        ${statRow('MEL', t.melee)}
-        ${statRow('TIR', t.shot)}
+        ${statRow('ATQ', t.shot)}
         ${statRow('DEF', t.defense)}
         ${passives.length ? `<div class="passives">${passives.map(x=>`<span class="${passiveClass(x.rank)}">${escapeHtml(x.name)}</span>`).join('')}</div>` : ''}
         <div class="owner-row">Appartient à <b>${escapeHtml(p.owner || 'inconnu')}</b></div>
