@@ -74,21 +74,45 @@ def _lookup_passive(passive_id):
     return {"id": passive_id, "name": name, "rank": entry.get("rank", 0)}
 
 
-def _passive_stat_bonus(passive_ids):
+def _pal_elements(char_id):
+    """Meme logique de lookup que _compute_pal_power_stats (cle exacte
+    d'abord, repli sur la forme de base si la variante Boss n'a pas sa
+    propre entree)."""
+    key = str(char_id).lower()
+    sd = PAL_STATS.get(key)
+    if not sd and key.startswith("boss_"):
+        sd = PAL_STATS.get(key[5:])
+    return (sd or {}).get("elements", [])
+
+
+def _passive_stat_bonus(passive_ids, pal_elements):
     """
     Somme, sur tous les passifs d'un Pal, les bonus en % qui boostent
     directement PV/ATQ/DEF (ex: Legend = +20% ATQ, +20% DEF). Necessaire
     pour que le classement de puissance soit complet -- sans ca, un Pal
     avec Legend etait sous-estime par rapport a un Pal sans passifs.
+
+    Les passifs "Empereur elementaire" (ElementBoost_X, ex: Empereur
+    Enflamme = +30% degats Feu) ne comptent que si le Pal est bien de cet
+    element -- verifie en jeu : Blazamut (Feu) avec Empereur Enflamme
+    (Feu) applique bien son bonus, donc on l'ajoute au complet dans ce
+    cas plutot que d'essayer de deviner un facteur de dilution.
     """
+    pal_elements = set(pal_elements or [])
     bonus = {"hp": 0.0, "atk": 0.0, "def": 0.0}
     for pid in passive_ids:
         entry = PASSIVE_NAMES.get(str(pid).lower())
-        effects = entry.get("effects") if entry else None
-        if not effects:
+        if not entry:
             continue
-        for stat in bonus:
-            bonus[stat] += effects.get(stat, 0)
+        effects = entry.get("effects")
+        if effects:
+            for stat in bonus:
+                bonus[stat] += effects.get(stat, 0)
+        element_atk = entry.get("element_atk")
+        if element_atk:
+            for element, value in element_atk.items():
+                if element in pal_elements:
+                    bonus["atk"] += value
     return {k: v / 100 for k, v in bonus.items()}
 
 
@@ -549,7 +573,7 @@ def parse_characters(save_path, online_players):
         rank_attack = talent("Rank_Attack")
         rank_defense = talent("Rank_Defence")
         friendship_points = _byte_prop_value(params.get("FriendshipPoint"), 0)
-        pal_passive_bonus = _passive_stat_bonus(passive_ids)
+        pal_passive_bonus = _passive_stat_bonus(passive_ids, _pal_elements(char_id))
 
         nickname_for_diag = params.get("NickName", {}).get("value") or ""
         if nickname_for_diag in ("balsamique", "Necromus"):

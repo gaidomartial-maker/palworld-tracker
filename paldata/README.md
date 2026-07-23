@@ -27,6 +27,20 @@ tout est deja mecaniquement inclus dans PV/ATQ/DEF final, donc sommer ces
 trois valeurs suffit sans compter separement le rang ou l'eveil (qui
 biaiserait le score en les comptant deux fois).
 
+Les passifs "Empereur elementaire" (ElementBoost_Fire/Earth/Water/...)
+utilisent un type d'effet a part (pas ShotAttack) et boostent les degats
+d'un element specifique -- extraits separement dans `passive_names.json`
+(cle `element_atk`, ex: `{"Fire": 30}`) et dans `pal_stats.json` (cle
+`elements`, ex: `["Fire"]` pour KingBahamut/Blazamut). Le bonus n'est
+ajoute a l'ATQ que si l'element du passif correspond a un des elements du
+Pal (verifie en jeu : Blazamut, de type Feu, avec Empereur Enflamme
+applique bien son bonus). Approximation assumee : on ajoute la valeur
+brute (30% ici) sans chercher a reproduire un eventuel facteur de
+dilution que le jeu semble appliquer sur l'affichage de la stat generique
+(exemple observe : 30% de bonus brut, mais +16% affiche sur "Attaque" en
+jeu) -- accepte comme compromis raisonnable plutot que d'ignorer
+totalement ces passifs tres frequents sur les Pals forts.
+
 - Cle : l'ID interne (`CharacterID` / nom de passif) en minuscules.
 - Valeur pour les Pals : `{"name": "...", "name_fr": "..." (optionnel), "icon": "..."}`.
   `icon` = chemin relatif servi par https://github.com/deafdudecomputers/PalworldSaveTools,
