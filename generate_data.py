@@ -267,8 +267,12 @@ def diagnose_player_save_structure():
         from palsav_lite.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
 
         gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
-        record_data = gvas.properties.get("SaveData", {}).get("value", {}).get("RecordData", {})
-        print(f"[diag] {sample_name} -- RecordData brut : {record_data!r}"[:4000])
+        record_data = gvas.properties.get("SaveData", {}).get("value", {}).get("RecordData", {}).get("value", {})
+        print(f"[diag] {sample_name} -- cles de RecordData : {sorted(record_data.keys())}")
+        for key in sorted(record_data.keys()):
+            if key in ("TowerBossDefeatFlag", "TowerBossDefeatCount", "NormalBossDefeatFlag", "PalCaptureCount"):
+                continue  # deja vus, on evite de re-spammer les logs
+            print(f"[diag] {sample_name} -- RecordData.{key} = {record_data[key]!r}"[:1000])
     except Exception as e:
         print(f"[diag] echec exploration Players/ : {e}")
 
