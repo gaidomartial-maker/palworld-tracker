@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T17:31:10.267128+00:00",
+  "generated_at": "2026-07-23T17:40:53.020434+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 78,
       "building_count": null,
-      "ping": 65.0,
+      "ping": 70.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 46.0,
+      "ping": 43.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 56.0,
+      "ping": 55.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -17907,7 +17907,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 73,
+      "level": 74,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -17918,9 +17918,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 6727,
-        "atk": 865,
-        "def": 795
+        "hp": 6812,
+        "atk": 877,
+        "def": 806
       },
       "passives": [
         {
@@ -51920,7 +51920,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_JetDragon",
       "species_name": "Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
-      "level": 74,
+      "level": 75,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -51931,9 +51931,9 @@ window.PALWORLD_DATA = {
         "defense": 73
       },
       "power_stats": {
-        "hp": 7327,
-        "atk": 1382,
-        "def": 1128
+        "hp": 7420,
+        "atk": 1400,
+        "def": 1143
       },
       "passives": [
         {
@@ -66746,6 +66746,29 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Bastigor",
+      "species": "SnowTigerBeastman",
+      "species_name": "Bastigor",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SnowTigerBeastman_icon_normal.webp",
+      "level": 77,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 94,
+        "melee": 0,
+        "shot": 83,
+        "defense": 3
+      },
+      "power_stats": {
+        "hp": 7794,
+        "atk": 1052,
+        "def": 756
+      },
+      "passives": [],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Bristla",
       "species": "LittleBriarRose",
       "species_name": "Bristla",
@@ -67792,6 +67815,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Snock Lux",
+      "species": "ElecSnail_Ground",
+      "species_name": "Snock Lux",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecSnail_Ground_icon_normal.webp",
+      "level": 74,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 73,
+        "defense": 10
+      },
+      "power_stats": {
+        "hp": 3996,
+        "atk": 759,
+        "def": 512
+      },
+      "passives": [
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Loomen",
       "species": "LanternButler",
       "species_name": "Loomen",
@@ -68467,6 +68519,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Snock Lux",
+      "species": "ElecSnail_Ground",
+      "species_name": "Snock Lux",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecSnail_Ground_icon_normal.webp",
+      "level": 74,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 54,
+        "melee": 0,
+        "shot": 96,
+        "defense": 67
+      },
+      "power_stats": {
+        "hp": 3664,
+        "atk": 611,
+        "def": 588
+      },
+      "passives": [
+        {
+          "id": "Stamina_Down_1",
+          "name": "Sickly",
+          "rank": -1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Pierdon Cryst",
       "species": "RockBeast_Ice",
       "species_name": "Pierdon Cryst",
@@ -68893,6 +68974,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Wispaw",
+      "species": "GhostBlackCat",
+      "species_name": "Wispaw",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostBlackCat_icon_normal.webp",
+      "level": 73,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 21,
+        "melee": 0,
+        "shot": 79,
+        "defense": 60
+      },
+      "power_stats": {
+        "hp": 4162,
+        "atk": 752,
+        "def": 506
+      },
+      "passives": [
+        {
+          "id": "PAL_Sanity_Up_1",
+          "name": "Mentalement instable",
+          "rank": -1
+        }
+      ],
+      "owner": "LawzZ"
+    },
+    {
       "nickname": "Lullu",
       "species": "LeafPrincess",
       "species_name": "Lullu",
@@ -69264,21 +69374,89 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Theo"
+    },
+    {
+      "nickname": "Orserk",
+      "species": "ThunderDragonMan",
+      "species_name": "Orserk",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ThunderDragonMan_icon_normal.webp",
+      "level": 75,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 82,
+        "melee": 0,
+        "shot": 19,
+        "defense": 19
+      },
+      "power_stats": {
+        "hp": 6482,
+        "atk": 884,
+        "def": 739
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Thunder_2_PAL",
+          "name": "Empereur orageux",
+          "rank": 3
+        },
+        {
+          "id": "TrainerWorkSpeed_UP_1",
+          "name": "Motivateur",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Grizzbolt",
+      "species": "ElecPanda",
+      "species_name": "Grizzbolt",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecPanda_icon_normal.webp",
+      "level": 71,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 45,
+        "melee": 0,
+        "shot": 9,
+        "defense": 10
+      },
+      "power_stats": {
+        "hp": 5690,
+        "atk": 781,
+        "def": 628
+      },
+      "passives": [
+        {
+          "id": "PAL_rude",
+          "name": "Grossier",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        }
+      ],
+      "owner": "LawzZ"
     }
   ],
   "records": {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 793
+        "pal_count": 796
       },
       {
         "owner": "LawzZ",
-        "pal_count": 618
+        "pal_count": 620
       },
       {
         "owner": "Martial",
-        "pal_count": 519
+        "pal_count": 520
       },
       {
         "owner": "takitome",
@@ -69296,15 +69474,15 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2306079
+        "total_power": 2325811
       },
       {
         "owner": "LawzZ",
-        "total_power": 1865143
+        "total_power": 1877896
       },
       {
         "owner": "Martial",
-        "total_power": 1489875
+        "total_power": 1497980
       },
       {
         "owner": "takitome",
