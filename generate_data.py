@@ -295,6 +295,9 @@ def parse_characters(save_path, online_players):
             uid = _normalize_uid(entry.get("key", {}).get("PlayerUId", {}).get("value"))
             if not uid or uid == "0" * 32:
                 continue
+            if uid not in players_by_uid:
+                print(f"[parse_characters] Level brut pour joueur {uid} : {params.get('Level')!r}")
+                print(f"[parse_characters] Talent_HP brut pour joueur {uid} : {params.get('Talent_HP')!r}")
             online_info = online_by_uid.get(uid)
             players_by_uid[uid] = {
                 "name": params.get("NickName", {}).get("value") or (online_info["name"] if online_info else "Joueur inconnu"),
