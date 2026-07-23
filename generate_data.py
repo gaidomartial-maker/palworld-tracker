@@ -267,11 +267,8 @@ def diagnose_player_save_structure():
         from palsav_lite.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
 
         gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
-        print(f"[diag] {sample_name} -- cles racine : {sorted(gvas.properties.keys())}")
-        for key, val in gvas.properties.items():
-            inner = val.get("value") if isinstance(val, dict) else None
-            if isinstance(inner, dict):
-                print(f"[diag] {sample_name} -- sous-cles de {key} : {sorted(inner.keys())}")
+        record_data = gvas.properties.get("SaveData", {}).get("value", {}).get("RecordData", {})
+        print(f"[diag] {sample_name} -- RecordData brut : {record_data!r}"[:4000])
     except Exception as e:
         print(f"[diag] echec exploration Players/ : {e}")
 
