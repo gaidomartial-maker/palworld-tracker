@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T19:31:09.831529+00:00",
+  "generated_at": "2026-07-23T19:40:58.456882+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 79,
       "building_count": null,
-      "ping": 60.0,
+      "ping": 64.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 50.0,
+      "ping": 49.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -12178,7 +12178,7 @@ window.PALWORLD_DATA = {
       "species": "ScorpionMan",
       "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
-      "level": 58,
+      "level": 59,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -12189,9 +12189,9 @@ window.PALWORLD_DATA = {
         "defense": 14
       },
       "power_stats": {
-        "hp": 4451,
-        "atk": 714,
-        "def": 482
+        "hp": 4519,
+        "atk": 727,
+        "def": 491
       },
       "passives": [
         {
@@ -68785,7 +68785,7 @@ window.PALWORLD_DATA = {
       "species": "MushroomDragon",
       "species_name": "Shroomer",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MushroomDragon_icon_normal.webp",
-      "level": 40,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -68796,9 +68796,9 @@ window.PALWORLD_DATA = {
         "defense": 12
       },
       "power_stats": {
-        "hp": 3428,
-        "atk": 302,
-        "def": 309
+        "hp": 3501,
+        "atk": 309,
+        "def": 316
       },
       "passives": [
         {
@@ -69175,6 +69175,40 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "en_text",
+      "species": "WingGolem",
+      "species_name": "en_text",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 67,
+        "melee": 0,
+        "shot": 19,
+        "defense": 33
+      },
+      "power_stats": {
+        "hp": 568,
+        "atk": 9,
+        "def": 13
+      },
+      "passives": [
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        },
+        {
+          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
+          "name": "Farmhand",
+          "rank": 3
+        }
+      ],
+      "owner": "Theo"
     },
     {
       "nickname": "Ophydia",
@@ -70391,6 +70425,74 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 52,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 77,
+        "melee": 0,
+        "shot": 11,
+        "defense": 77
+      },
+      "power_stats": {
+        "hp": 4600,
+        "atk": 561,
+        "def": 711
+      },
+      "passives": [
+        {
+          "id": "PAL_Sanity_Down_2",
+          "name": "Acharné",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Venusa",
+      "species": "SnakeGirl",
+      "species_name": "Venusa",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SnakeGirl_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 38,
+        "melee": 0,
+        "shot": 23,
+        "defense": 37
+      },
+      "power_stats": {
+        "hp": 549,
+        "atk": 7,
+        "def": 8
+      },
+      "passives": [
+        {
+          "id": "WorldTree_MoveSpeed",
+          "name": "Dimensional Leap",
+          "rank": 5
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Frostplume",
       "species": "SnowPeafowl",
       "species_name": "Frostplume",
@@ -70922,7 +71024,7 @@ window.PALWORLD_DATA = {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 805
+        "pal_count": 807
       },
       {
         "owner": "LawzZ",
@@ -70930,7 +71032,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 534
+        "pal_count": 535
       },
       {
         "owner": "takitome",
@@ -70948,7 +71050,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2382304
+        "total_power": 2383458
       },
       {
         "owner": "LawzZ",
@@ -70956,7 +71058,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1585887
+        "total_power": 1591849
       },
       {
         "owner": "takitome",
@@ -70964,7 +71066,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 236112
+        "total_power": 236199
       },
       {
         "owner": "Prismiti",
@@ -70993,26 +71095,26 @@ window.PALWORLD_DATA = {
         "species_bonus_count": 8
       }
     ],
-    "total_captures": [
+    "paldeck": [
       {
         "owner": "LawzZ",
-        "total_captures": 233
+        "paldeck_count": 233
       },
       {
         "owner": "Theo",
-        "total_captures": 205
+        "paldeck_count": 206
       },
       {
         "owner": "Martial",
-        "total_captures": 160
+        "paldeck_count": 160
       },
       {
         "owner": "takitome",
-        "total_captures": 100
+        "paldeck_count": 100
       },
       {
         "owner": "Prismiti",
-        "total_captures": 24
+        "paldeck_count": 24
       }
     ]
   }
