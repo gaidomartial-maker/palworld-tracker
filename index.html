@@ -88,27 +88,26 @@
   .section-head h2{font-family:'Sora', sans-serif; font-size:21px; font-weight:700; margin:0 0 4px;}
   .section-head p{margin:0; color:var(--muted); font-size:13px;}
 
-  .sort-controls{display:flex; gap:6px; flex-wrap:wrap;}
-  .sort-controls button{
-    font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:0.03em; text-transform:uppercase;
-    background:var(--panel-alt); color:var(--muted); border:1px solid var(--line-soft); border-radius:999px;
-    padding:6px 12px; cursor:pointer; transition:all .15s ease;
-  }
-  .sort-controls button:hover{color:var(--text); border-color:var(--accent-dim);}
-  .sort-controls button.active{color:#0a0c10; background:var(--accent); border-color:var(--accent); font-weight:600;}
-
   /* ---- Joueurs ---- */
-  .player-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:14px;}
+  .player-list{display:flex; flex-direction:column; gap:10px;}
   .player-card{
-    display:flex; align-items:center; gap:14px;
+    display:flex; align-items:center; gap:16px;
     background:var(--panel); backdrop-filter:blur(14px);
     border:1px solid var(--line-soft); border-radius:var(--radius);
-    padding:14px 16px; position:relative; transition:transform .15s ease, border-color .15s ease;
+    padding:14px 20px; position:relative; transition:transform .15s ease, border-color .15s ease;
   }
-  .player-card:hover{transform:translateY(-2px); border-color:var(--accent-dim);}
+  .player-card:hover{transform:translateX(2px); border-color:var(--accent-dim);}
   .player-card.medal-gold{border-color:var(--gold); box-shadow:0 0 26px rgba(240,196,84,0.16);}
   .player-card.medal-silver{border-color:var(--silver); box-shadow:0 0 20px rgba(201,210,220,0.12);}
   .player-card.medal-bronze{border-color:var(--bronze); box-shadow:0 0 20px rgba(211,138,86,0.12);}
+  .player-rank{
+    flex-shrink:0; width:40px; text-align:center;
+    font-family:'Sora', sans-serif; font-weight:800; font-size:20px; color:var(--muted);
+  }
+  .player-rank .medal-icon{font-size:24px;}
+  .player-card.medal-gold .player-rank{color:var(--gold);}
+  .player-card.medal-silver .player-rank{color:var(--silver);}
+  .player-card.medal-bronze .player-rank{color:var(--bronze);}
   .player-avatar{
     position:relative; flex-shrink:0; width:52px; height:52px; border-radius:50%;
     background:var(--panel-alt); border:1px solid var(--line-soft);
@@ -116,14 +115,14 @@
   }
   .player-avatar img{width:78%; height:78%; object-fit:contain;}
   .player-avatar .initial{font-family:'Sora',sans-serif; font-weight:700; font-size:18px; color:var(--muted);}
-  .player-avatar .medal{
-    position:absolute; bottom:-4px; right:-4px; font-size:15px; line-height:1;
-    background:#12151b; border-radius:50%; padding:2px;
-  }
   .player-info{flex:1; min-width:0;}
-  .player-info .p-name{font-weight:700; font-size:15px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .player-info .p-name{font-weight:700; font-size:16px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
   .player-info .p-meta{display:flex; gap:10px; flex-wrap:wrap; margin-top:4px; font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--muted);}
-  .player-info .p-meta .lvl{color:var(--accent);}
+  .player-level{
+    flex-shrink:0; text-align:right; font-family:'JetBrains Mono', monospace;
+  }
+  .player-level b{display:block; font-size:22px; color:var(--accent); line-height:1.1;}
+  .player-level span{font-size:10px; color:var(--muted); text-transform:uppercase; letter-spacing:0.05em;}
   .p-status{flex-shrink:0;}
   .pill{display:inline-flex; align-items:center; gap:6px; font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--muted);}
   .pill .dot{width:7px; height:7px; border-radius:50%; background:#4caf50; box-shadow:0 0 6px #4caf50;}
@@ -246,11 +245,10 @@
     <div class="section-head">
       <div>
         <h2>Classement des joueurs</h2>
-        <p>Avatar = meilleur Pal du joueur (aucune photo in-game n'existe dans le jeu).</p>
+        <p>Trié par niveau, du plus haut au plus bas. Avatar = meilleur Pal du joueur (aucune photo in-game n'existe dans le jeu).</p>
       </div>
-      <div class="sort-controls" id="player-sort"></div>
     </div>
-    <div class="player-grid" id="player-grid"></div>
+    <div class="player-list" id="player-grid"></div>
   </section>
 
   <section id="pals-section">
@@ -352,24 +350,7 @@
   }
 
   /* ---------------- Joueurs ---------------- */
-  let players = (D.players || []).slice();
-  let sortKey = 'level', sortDir = -1;
-  const SORT_OPTIONS = [
-    {key:'level', label:'Niveau'},
-    {key:'building_count', label:'Bâtiments'},
-    {key:'ping', label:'Ping'},
-    {key:'name', label:'Nom'},
-  ];
-
-  const sortBar = document.getElementById('player-sort');
-  sortBar.innerHTML = SORT_OPTIONS.map(o => `<button data-key="${o.key}">${o.label}</button>`).join('');
-  sortBar.querySelectorAll('button').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const key = btn.dataset.key;
-      if (sortKey === key) sortDir *= -1; else { sortKey = key; sortDir = key === 'name' ? 1 : -1; }
-      renderPlayers();
-    });
-  });
+  const players = (D.players || []).slice().sort((a,b) => (b.level ?? 0) - (a.level ?? 0));
 
   function medalEmoji(i){
     return i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : '';
@@ -379,14 +360,6 @@
   }
 
   function renderPlayers(){
-    players.sort((a,b) => {
-      let av = a[sortKey], bv = b[sortKey];
-      if (typeof av === 'string') return sortDir * av.localeCompare(bv);
-      if (typeof av === 'boolean') return sortDir * ((bv?1:0) - (av?1:0));
-      return sortDir * ((bv ?? 0) - (av ?? 0));
-    });
-    sortBar.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.key === sortKey));
-
     const grid = document.getElementById('player-grid');
     grid.innerHTML = players.map((p, i) => {
       const best = bestPalFor(p.name);
@@ -394,20 +367,20 @@
       const cardMedalClass = medalClass(i);
       return `
       <div class="player-card ${cardMedalClass}">
+        <div class="player-rank">${medal ? `<span class="medal-icon">${medal}</span>` : (i + 1)}</div>
         <div class="player-avatar">
           ${best && best.icon
             ? `<img src="${best.icon}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<span class=&quot;initial&quot;>${escapeHtml((p.name||'?')[0].toUpperCase())}</span>'">`
             : `<span class="initial">${escapeHtml((p.name||'?')[0].toUpperCase())}</span>`}
-          ${medal ? `<span class="medal">${medal}</span>` : ''}
         </div>
         <div class="player-info">
           <div class="p-name">${escapeHtml(p.name)}</div>
           <div class="p-meta">
-            <span class="lvl">Niv. ${p.level ?? '—'}</span>
             <span>${p.building_count ?? '—'} bât.</span>
             <span>${p.ping != null ? p.ping + ' ms' : '—'}</span>
           </div>
         </div>
+        <div class="player-level"><b>${p.level ?? '—'}</b><span>Niveau</span></div>
         <div class="p-status">
           <span class="pill"><span class="dot ${p.online ? '' : 'off'}"></span>${p.online ? 'En ligne' : 'Hors ligne'}</span>
         </div>
