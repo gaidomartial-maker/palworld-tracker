@@ -243,13 +243,22 @@ def _normalize_uid(value):
 
 
 def _as_int(value, default=0):
-    """
-    Certaines entrees renvoient une valeur imbriquee (dict) au lieu d'un
-    nombre pour des proprietes normalement scalaires comme Level -- meme
-    schema de surprise que pour PassiveSkillList. On ne fait pas confiance
-    au type et on retombe sur `default` si ce n'est pas un nombre.
-    """
     return value if isinstance(value, (int, float)) else default
+
+
+def _byte_prop_value(prop, default=0):
+    """
+    Level, Rank et les Talent_* sont serialises comme des ByteProperty :
+    {"value": {"type": "None", "value": N}} -- un niveau d'imbrication de
+    plus qu'une propriete scalaire classique ({"value": N}). Sans ce
+    deuxieme deballage, on retombe systematiquement sur `default`.
+    """
+    if not isinstance(prop, dict):
+        return default
+    value = prop.get("value")
+    if isinstance(value, dict):
+        value = value.get("value")
+    return _as_int(value, default)
 
 
 def parse_characters(save_path, online_players):
@@ -295,13 +304,10 @@ def parse_characters(save_path, online_players):
             uid = _normalize_uid(entry.get("key", {}).get("PlayerUId", {}).get("value"))
             if not uid or uid == "0" * 32:
                 continue
-            if uid not in players_by_uid:
-                print(f"[parse_characters] Level brut pour joueur {uid} : {params.get('Level')!r}")
-                print(f"[parse_characters] Talent_HP brut pour joueur {uid} : {params.get('Talent_HP')!r}")
             online_info = online_by_uid.get(uid)
             players_by_uid[uid] = {
                 "name": params.get("NickName", {}).get("value") or (online_info["name"] if online_info else "Joueur inconnu"),
-                "level": _as_int(params.get("Level", {}).get("value"), 1),
+                "level": _byte_prop_value(params.get("Level"), 1),
                 "building_count": online_info["building_count"] if online_info else None,
                 "ping": online_info["ping"] if online_info else None,
                 "online": online_info is not None,
@@ -312,15 +318,15 @@ def parse_characters(save_path, online_players):
         owner_uid = _normalize_uid(params.get("OwnerPlayerUId", {}).get("value"))
 
         def talent(key):
-            return _as_int(params.get(key, {}).get("value"), 0)
+            return _byte_prop_value(params.get(key), 0)
 
         passives_raw = params.get("PassiveSkillList", {}).get("value", {}).get("values", [])
 
         pals_raw.append((owner_uid, {
             "nickname": params.get("NickName", {}).get("value") or params.get("CharacterID", {}).get("value", "???"),
             "species": params.get("CharacterID", {}).get("value", "???"),
-            "level": _as_int(params.get("Level", {}).get("value"), 1),
-            "rank": _as_int(params.get("Rank", {}).get("value"), 0),
+            "level": _byte_prop_value(params.get("Level"), 1),
+            "rank": _byte_prop_value(params.get("Rank"), 0),
             "is_alpha": params.get("IsRarePal", {}).get("value", False),
             "talents": {
                 "hp": talent("Talent_HP"),
