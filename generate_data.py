@@ -328,7 +328,6 @@ def parse_characters(save_path, online_players):
     online_by_uid = {_normalize_uid(p["playerId"]): p for p in online_players}
     players_by_uid = {}
     pals_raw = []
-    pal_param_keys = set()  # diagnostic : voir _lookup_pal / note "Eveille" plus bas
 
     for entry in char_map:
         try:
@@ -352,7 +351,6 @@ def parse_characters(save_path, online_players):
             continue
 
         owner_uid = _normalize_uid(params.get("OwnerPlayerUId", {}).get("value"))
-        pal_param_keys.update(params.keys())
 
         def talent(key):
             return _byte_prop_value(params.get(key), 0)
@@ -371,6 +369,7 @@ def parse_characters(save_path, online_players):
             "level": _byte_prop_value(params.get("Level"), 1),
             "rank": _byte_prop_value(params.get("Rank"), 0),
             "is_alpha": params.get("IsRarePal", {}).get("value", False),
+            "is_awakened": params.get("bIsAwakening", {}).get("value", False),
             "talents": {
                 "hp": talent("Talent_HP"),
                 "melee": talent("Talent_Melee"),
@@ -384,10 +383,6 @@ def parse_characters(save_path, online_players):
         f"[parse_characters] char_map={len(char_map)} entrees, "
         f"joueurs_trouves={len(players_by_uid)}, pals_trouves={len(pals_raw)}"
     )
-    # Diagnostic temporaire : liste de toutes les cles vues sur les Pals, pour
-    # trouver le nom exact du champ "Eveille" (aucune piste trouvee dans les
-    # sources disponibles -- si le champ existe, il doit apparaitre ici).
-    print(f"[parse_characters] cles SaveParameter (Pals) vues : {sorted(pal_param_keys)}")
 
     # Un joueur qui vient de se connecter pour la premiere fois peut ne pas
     # encore avoir ete ecrit dans Level.sav -- on le rajoute quand meme.

@@ -105,6 +105,11 @@
   .pal-card .alpha-tag{
     display:inline-block; font-family:'JetBrains Mono', monospace; font-size:10px; letter-spacing:0.06em;
     color:#0f1115; background:var(--amber); border-radius:4px; padding:2px 6px; margin-bottom:8px; text-transform:uppercase;
+    margin-right:6px;
+  }
+  .pal-card .awakened-tag{
+    display:inline-block; font-family:'JetBrains Mono', monospace; font-size:10px; letter-spacing:0.06em;
+    color:#0f1115; background:var(--accent); border-radius:4px; padding:2px 6px; margin-bottom:8px; text-transform:uppercase;
   }
   .pal-card h3{font-size:18px; font-weight:700; margin:0 0 2px;}
   .pal-card .species{color:var(--muted); font-size:12px; font-style:italic; margin-bottom:10px;}
@@ -268,7 +273,9 @@
       <div class="pal-card">
         <div class="rank-star">${stars}</div>
         ${p.icon ? `<img class="pal-icon" src="${p.icon}" alt="" loading="lazy" onerror="this.remove()">` : ''}
-        ${p.is_alpha ? '<div class="alpha-tag">Alpha</div><br>' : ''}
+        ${p.is_alpha ? '<div class="alpha-tag">Alpha</div>' : ''}
+        ${p.is_awakened ? '<div class="awakened-tag">Éveillé</div>' : ''}
+        ${(p.is_alpha || p.is_awakened) ? '<br>' : ''}
         <h3>${escapeHtml(p.nickname || speciesName)}</h3>
         <div class="species">${escapeHtml(speciesName)} · niv. ${p.level ?? '—'}</div>
         ${statRow('PV', t.hp)}
