@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T12:21:20.803898+00:00",
+  "generated_at": "2026-07-23T12:42:18.811618+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 0,
+    "current_players": 1,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -29,8 +29,8 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 69,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 65.0,
+      "online": true,
       "playerId": "75567350000000000000000000000000"
     },
     {
@@ -59,6 +59,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -87,6 +88,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -115,6 +117,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -143,6 +146,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -176,6 +180,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -199,6 +204,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -222,6 +228,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -250,6 +257,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -278,6 +286,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -301,6 +310,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -324,6 +334,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -347,6 +358,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -375,6 +387,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -398,6 +411,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -431,6 +445,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -454,6 +469,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -477,6 +493,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -500,6 +517,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -523,6 +541,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -546,6 +565,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -569,6 +589,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -597,6 +618,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -620,6 +642,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -643,6 +666,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -666,6 +690,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -689,6 +714,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -712,6 +738,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -740,6 +767,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -768,6 +796,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -791,6 +820,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -819,6 +849,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -842,6 +873,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -865,6 +897,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -893,6 +926,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -921,6 +955,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -944,6 +979,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -967,6 +1003,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -995,6 +1032,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -1011,13 +1049,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Visiteur venu d'ailleurs Lunaris",
+      "nickname": "Lunaris",
       "species": "BOSS_Mutant",
-      "species_name": "Visiteur venu d'ailleurs Lunaris",
+      "species_name": "Lunaris",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Mutant_icon_normal.webp",
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -1041,6 +1080,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -1064,6 +1104,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -1087,6 +1128,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -1110,6 +1152,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -1133,6 +1176,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -1156,6 +1200,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -1184,6 +1229,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -1207,6 +1253,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -1230,6 +1277,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -1247,6 +1295,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -1275,6 +1324,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -1303,6 +1353,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -1326,6 +1377,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -1349,6 +1401,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -1366,6 +1419,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -1383,6 +1437,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -1406,6 +1461,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -1429,6 +1485,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -1452,6 +1509,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -1475,6 +1533,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -1498,6 +1557,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -1521,6 +1581,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -1544,6 +1605,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -1567,6 +1629,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -1590,6 +1653,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -1613,6 +1677,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -1636,6 +1701,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -1659,6 +1725,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -1682,6 +1749,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -1699,6 +1767,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -1716,6 +1785,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -1739,6 +1809,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -1762,6 +1833,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -1785,6 +1857,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -1808,6 +1881,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -1831,6 +1905,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -1854,6 +1929,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -1877,6 +1953,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -1900,6 +1977,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -1923,6 +2001,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -1951,6 +2030,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -1974,6 +2054,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -1997,6 +2078,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -2020,6 +2102,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -2043,6 +2126,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -2066,6 +2150,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -2089,6 +2174,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -2122,6 +2208,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -2145,6 +2232,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -2168,6 +2256,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -2196,6 +2285,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -2219,6 +2309,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -2247,6 +2338,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -2270,6 +2362,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -2293,6 +2386,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -2310,6 +2404,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -2333,6 +2428,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -2366,6 +2462,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -2389,6 +2486,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -2412,6 +2510,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -2440,6 +2539,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -2463,6 +2563,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -2486,6 +2587,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -2509,6 +2611,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -2526,6 +2629,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -2549,6 +2653,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -2572,6 +2677,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -2595,6 +2701,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -2623,6 +2730,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -2646,6 +2754,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -2674,6 +2783,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -2707,6 +2817,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -2730,6 +2841,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -2763,6 +2875,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -2791,6 +2904,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -2814,6 +2928,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -2837,6 +2952,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -2860,6 +2976,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -2883,6 +3000,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -2906,6 +3024,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -2929,6 +3048,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -2952,6 +3072,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -2969,6 +3090,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -2986,6 +3108,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -3009,6 +3132,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -3032,6 +3156,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -3055,6 +3180,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -3071,13 +3197,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Danseuse des plaines Chillet",
+      "nickname": "Chillet",
       "species": "BOSS_WeaselDragon",
-      "species_name": "Danseuse des plaines Chillet",
+      "species_name": "Chillet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WeaselDragon_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -3101,6 +3228,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -3129,6 +3257,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -3152,6 +3281,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -3175,6 +3305,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -3198,6 +3329,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -3226,6 +3358,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -3249,6 +3382,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -3272,6 +3406,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -3295,6 +3430,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -3318,6 +3454,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -3341,6 +3478,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -3364,6 +3502,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -3387,6 +3526,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -3410,6 +3550,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -3438,6 +3579,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -3461,6 +3603,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -3484,6 +3627,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -3507,6 +3651,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -3535,6 +3680,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -3563,6 +3709,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -3591,6 +3738,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -3624,6 +3772,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -3641,6 +3790,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -3664,6 +3814,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -3687,6 +3838,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -3710,6 +3862,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -3733,6 +3886,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -3756,6 +3910,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -3779,6 +3934,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -3802,6 +3958,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -3825,6 +3982,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -3848,6 +4006,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -3871,6 +4030,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -3894,6 +4054,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -3917,6 +4078,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -3940,6 +4102,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -3963,6 +4126,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -3986,6 +4150,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -4009,6 +4174,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -4032,6 +4198,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -4055,6 +4222,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -4078,6 +4246,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -4101,6 +4270,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -4129,6 +4299,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -4152,6 +4323,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -4175,6 +4347,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -4203,6 +4376,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -4226,6 +4400,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -4242,13 +4417,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Danseuse des plaines Chillet",
+      "nickname": "Chillet",
       "species": "BOSS_WeaselDragon",
-      "species_name": "Danseuse des plaines Chillet",
+      "species_name": "Chillet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WeaselDragon_icon_normal.webp",
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -4272,6 +4448,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -4295,6 +4472,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -4318,6 +4496,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -4341,6 +4520,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -4364,6 +4544,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -4387,6 +4568,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -4404,6 +4586,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -4427,6 +4610,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -4455,6 +4639,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -4472,6 +4657,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -4495,6 +4681,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -4518,6 +4705,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -4541,6 +4729,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -4564,6 +4753,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -4587,6 +4777,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -4610,6 +4801,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -4633,6 +4825,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -4656,6 +4849,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -4679,6 +4873,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -4702,6 +4897,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -4725,6 +4921,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -4742,6 +4939,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -4765,6 +4963,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -4788,6 +4987,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -4811,6 +5011,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -4834,6 +5035,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -4857,6 +5059,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -4885,6 +5088,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -4908,6 +5112,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -4931,6 +5136,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -4954,6 +5160,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -4977,6 +5184,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -4993,13 +5201,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Jelliette (Boss)",
+      "nickname": "Jelliette",
       "species": "BOSS_JellyfishFairy",
-      "species_name": "Jelliette (Boss)",
+      "species_name": "Jelliette",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JellyfishFairy_icon_normal.webp",
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -5023,6 +5232,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -5046,6 +5256,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -5069,6 +5280,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -5092,6 +5304,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -5115,6 +5328,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -5143,6 +5357,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -5166,6 +5381,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -5189,6 +5405,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -5212,6 +5429,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -5235,6 +5453,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -5258,6 +5477,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -5281,6 +5501,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -5304,6 +5525,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -5327,6 +5549,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -5350,6 +5573,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -5373,6 +5597,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -5401,6 +5626,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -5424,6 +5650,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -5447,6 +5674,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -5470,6 +5698,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -5493,6 +5722,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -5516,6 +5746,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -5544,6 +5775,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -5567,6 +5799,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -5600,6 +5833,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -5623,6 +5857,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -5646,6 +5881,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -5669,6 +5905,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -5692,6 +5929,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -5715,6 +5953,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -5738,6 +5977,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -5761,6 +6001,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -5784,6 +6025,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -5807,6 +6049,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -5830,6 +6073,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -5853,6 +6097,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -5870,6 +6115,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -5893,6 +6139,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -5916,6 +6163,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -5939,6 +6187,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -5962,6 +6211,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -5985,6 +6235,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -6008,6 +6259,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -6031,6 +6283,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -6048,6 +6301,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -6065,6 +6319,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -6088,6 +6343,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -6121,6 +6377,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -6144,6 +6401,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -6167,6 +6425,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -6190,6 +6449,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -6218,6 +6478,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -6241,6 +6502,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -6264,6 +6526,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -6292,6 +6555,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -6315,6 +6579,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -6338,6 +6603,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -6354,13 +6620,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "BOSS_Female_People03",
+      "nickname": "Female_People03",
       "species": "BOSS_Female_People03",
-      "species_name": "BOSS_Female_People03",
+      "species_name": "Female_People03",
       "icon": null,
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -6384,6 +6651,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -6401,6 +6669,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -6424,6 +6693,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -6447,6 +6717,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -6470,6 +6741,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -6487,6 +6759,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -6510,6 +6783,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -6533,6 +6807,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -6556,6 +6831,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -6579,6 +6855,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -6602,6 +6879,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -6619,6 +6897,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -6652,6 +6931,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -6675,6 +6955,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -6698,6 +6979,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -6721,6 +7003,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -6744,6 +7027,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -6767,6 +7051,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -6790,6 +7075,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -6813,6 +7099,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -6841,6 +7128,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -6864,6 +7152,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -6887,6 +7176,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -6910,6 +7200,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -6943,6 +7234,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -6964,13 +7256,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "La Guimauve Grintale",
+      "nickname": "Grintale",
       "species": "BOSS_NaughtyCat",
-      "species_name": "La Guimauve Grintale",
+      "species_name": "Grintale",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_NaughtyCat_icon_normal.webp",
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -6994,6 +7287,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -7017,6 +7311,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -7045,6 +7340,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -7073,6 +7369,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -7096,6 +7393,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -7119,6 +7417,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -7142,6 +7441,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -7158,13 +7458,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Nuage flottant Fenglope",
+      "nickname": "Fenglope",
       "species": "BOSS_FengyunDeeper",
-      "species_name": "Nuage flottant Fenglope",
+      "species_name": "Fenglope",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FengyunDeeper_icon_normal.webp",
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -7188,6 +7489,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -7221,6 +7523,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -7249,6 +7552,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -7266,6 +7570,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -7289,6 +7594,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -7312,6 +7618,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -7335,6 +7642,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -7363,6 +7671,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -7386,6 +7695,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -7409,6 +7719,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -7432,6 +7743,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -7455,6 +7767,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -7472,6 +7785,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -7500,6 +7814,7 @@ window.PALWORLD_DATA = {
       "level": 71,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -7523,6 +7838,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -7546,6 +7862,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -7569,6 +7886,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -7592,6 +7910,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -7615,6 +7934,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -7638,6 +7958,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -7661,6 +7982,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -7684,6 +8006,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -7707,6 +8030,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -7735,6 +8059,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -7758,6 +8083,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -7781,6 +8107,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -7804,6 +8131,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -7827,6 +8155,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -7850,6 +8179,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -7873,6 +8203,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -7901,6 +8232,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -7918,6 +8250,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -7951,6 +8284,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -7974,6 +8308,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -7997,6 +8332,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -8014,6 +8350,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -8047,6 +8384,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -8070,6 +8408,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -8093,6 +8432,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -8116,6 +8456,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -8139,6 +8480,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -8156,6 +8498,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -8184,6 +8527,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -8201,6 +8545,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -8224,6 +8569,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -8247,6 +8593,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -8264,6 +8611,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -8287,6 +8635,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -8310,6 +8659,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -8333,6 +8683,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -8356,6 +8707,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -8379,6 +8731,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -8407,6 +8760,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -8435,6 +8789,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -8458,6 +8813,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -8481,6 +8837,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -8504,6 +8861,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -8542,6 +8900,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -8565,6 +8924,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -8588,6 +8948,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -8611,6 +8972,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -8634,6 +8996,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -8657,6 +9020,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -8680,6 +9044,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -8703,6 +9068,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -8726,6 +9092,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -8743,6 +9110,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -8766,6 +9134,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -8789,6 +9158,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -8817,6 +9187,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -8840,6 +9211,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -8878,6 +9250,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -8901,6 +9274,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -8929,6 +9303,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -8952,6 +9327,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -8975,6 +9351,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -9003,6 +9380,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -9026,6 +9404,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -9043,6 +9422,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -9071,6 +9451,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -9088,6 +9469,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -9111,6 +9493,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -9128,6 +9511,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -9151,6 +9535,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -9174,6 +9559,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -9197,6 +9583,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -9220,6 +9607,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -9248,6 +9636,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -9271,6 +9660,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -9294,6 +9684,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -9317,6 +9708,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -9340,6 +9732,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -9368,6 +9761,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -9391,6 +9785,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -9419,6 +9814,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -9442,6 +9838,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -9465,6 +9862,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -9488,6 +9886,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -9511,6 +9910,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -9534,6 +9934,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -9551,6 +9952,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -9574,6 +9976,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -9597,6 +10000,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -9620,6 +10024,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -9643,6 +10048,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -9666,6 +10072,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -9689,6 +10096,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -9712,6 +10120,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -9735,6 +10144,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -9758,6 +10168,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -9781,6 +10192,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -9814,6 +10226,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -9842,6 +10255,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -9865,6 +10279,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -9893,6 +10308,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -9916,6 +10332,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -9944,6 +10361,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -9967,6 +10385,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -9990,6 +10409,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -10018,6 +10438,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -10041,6 +10462,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -10064,6 +10486,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -10087,6 +10510,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -10115,6 +10539,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -10138,6 +10563,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -10161,6 +10587,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -10184,6 +10611,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -10207,6 +10635,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -10230,6 +10659,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -10253,6 +10683,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -10276,6 +10707,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -10304,6 +10736,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -10327,6 +10760,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -10355,6 +10789,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -10378,6 +10813,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -10401,6 +10837,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -10424,6 +10861,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -10447,6 +10885,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -10464,6 +10903,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -10487,6 +10927,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -10510,6 +10951,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -10533,6 +10975,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -10556,6 +10999,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -10579,6 +11023,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -10602,6 +11047,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -10625,6 +11071,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -10648,6 +11095,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -10671,6 +11119,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -10699,6 +11148,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -10727,6 +11177,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -10750,6 +11201,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -10767,6 +11219,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -10795,6 +11248,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -10818,6 +11272,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -10841,6 +11296,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -10874,6 +11330,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -10897,6 +11354,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -10925,6 +11383,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -10948,6 +11407,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -10971,6 +11431,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -10994,6 +11455,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -11017,6 +11479,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -11040,6 +11503,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -11063,6 +11527,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -11086,6 +11551,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -11109,6 +11575,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -11126,6 +11593,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -11152,13 +11620,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Pionnier des mers gelées Penking",
+      "nickname": "Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Pionnier des mers gelées Penking",
+      "species_name": "Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -11187,6 +11656,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -11210,6 +11680,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -11233,6 +11704,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -11250,6 +11722,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -11273,6 +11746,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -11296,6 +11770,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -11319,6 +11794,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -11352,6 +11828,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -11375,6 +11852,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -11398,6 +11876,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -11421,6 +11900,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -11444,6 +11924,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -11461,6 +11942,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -11489,6 +11971,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -11512,6 +11995,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -11535,6 +12019,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -11558,6 +12043,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -11591,6 +12077,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -11619,6 +12106,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -11642,6 +12130,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -11665,6 +12154,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -11688,6 +12178,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -11716,6 +12207,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -11739,6 +12231,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -11767,6 +12260,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -11790,6 +12284,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -11818,6 +12313,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -11835,6 +12331,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -11858,6 +12355,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -11875,6 +12373,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -11898,6 +12397,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -11921,6 +12421,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -11944,6 +12445,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -11977,6 +12479,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -12005,6 +12508,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -12028,6 +12532,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -12051,6 +12556,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -12074,6 +12580,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -12097,6 +12604,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -12120,6 +12628,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -12148,6 +12657,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -12171,6 +12681,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -12194,6 +12705,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -12217,6 +12729,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -12245,6 +12758,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -12273,6 +12787,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -12296,6 +12811,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -12319,6 +12835,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -12342,6 +12859,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -12365,6 +12883,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -12388,6 +12907,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -12411,6 +12931,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -12434,6 +12955,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -12457,6 +12979,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -12480,6 +13003,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -12503,6 +13027,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -12526,6 +13051,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -12549,6 +13075,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -12577,6 +13104,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -12605,6 +13133,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -12628,6 +13157,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -12651,6 +13181,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -12674,6 +13205,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -12697,6 +13229,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -12720,6 +13253,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -12743,6 +13277,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -12771,6 +13306,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -12794,6 +13330,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -12811,6 +13348,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -12828,6 +13366,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -12851,6 +13390,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -12874,6 +13414,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -12897,6 +13438,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -12920,6 +13462,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -12943,6 +13486,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -12966,6 +13510,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -12989,6 +13534,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -13012,6 +13558,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -13035,6 +13582,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -13063,6 +13611,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -13091,6 +13640,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -13119,6 +13669,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -13142,6 +13693,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -13159,6 +13711,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -13187,6 +13740,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -13210,6 +13764,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -13238,6 +13793,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -13254,13 +13810,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pionnier des mers gelées Penking",
+      "nickname": "Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Pionnier des mers gelées Penking",
+      "species_name": "Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -13284,6 +13841,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -13322,6 +13880,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -13345,6 +13904,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -13378,6 +13938,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -13401,6 +13962,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -13424,6 +13986,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -13452,6 +14015,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -13475,6 +14039,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -13498,6 +14063,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -13521,6 +14087,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -13549,6 +14116,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -13572,6 +14140,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -13600,6 +14169,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -13623,6 +14193,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -13643,9 +14214,10 @@ window.PALWORLD_DATA = {
       "species": "Yeti_Grass",
       "species_name": "Wumpo Botan",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Yeti_Grass_icon_normal.webp",
-      "level": 31,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -13679,6 +14251,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -13702,6 +14275,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -13735,6 +14309,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -13758,6 +14333,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -13775,6 +14351,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -13798,6 +14375,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -13814,13 +14392,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Nuage flottant Fenglope",
+      "nickname": "Fenglope",
       "species": "BOSS_FengyunDeeper",
-      "species_name": "Nuage flottant Fenglope",
+      "species_name": "Fenglope",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FengyunDeeper_icon_normal.webp",
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -13844,6 +14423,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -13861,6 +14441,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -13884,6 +14465,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -13912,6 +14494,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -13933,13 +14516,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Monarque aux cent flammes Blazehowl",
+      "nickname": "Blazehowl",
       "species": "BOSS_Manticore",
-      "species_name": "Monarque aux cent flammes Blazehowl",
+      "species_name": "Blazehowl",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Manticore_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -13963,6 +14547,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -13973,13 +14558,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Roi duvet énigmatique Sweepa",
+      "nickname": "Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Roi duvet énigmatique Sweepa",
+      "species_name": "Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -14003,6 +14589,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -14026,6 +14613,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -14049,6 +14637,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -14072,6 +14661,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -14082,13 +14672,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Conquérant duveteux Kingpaca",
+      "nickname": "Kingpaca",
       "species": "BOSS_KingAlpaca",
-      "species_name": "Conquérant duveteux Kingpaca",
+      "species_name": "Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_icon_normal.webp",
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -14117,6 +14708,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -14140,6 +14732,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -14157,6 +14750,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -14180,6 +14774,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -14203,6 +14798,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -14226,6 +14822,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -14249,6 +14846,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -14272,6 +14870,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -14295,6 +14894,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -14318,6 +14918,7 @@ window.PALWORLD_DATA = {
       "level": 72,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -14341,6 +14942,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -14364,6 +14966,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -14387,6 +14990,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -14410,6 +15014,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -14433,6 +15038,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -14456,6 +15062,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -14479,6 +15086,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -14507,6 +15115,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -14530,6 +15139,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -14553,6 +15163,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -14581,6 +15192,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -14604,6 +15216,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -14627,6 +15240,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -14650,6 +15264,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -14673,6 +15288,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -14701,6 +15317,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -14724,6 +15341,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -14747,6 +15365,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -14785,6 +15404,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -14808,6 +15428,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -14836,6 +15457,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -14864,6 +15486,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -14887,6 +15510,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -14910,6 +15534,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -14943,6 +15568,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -14966,6 +15592,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -14983,6 +15610,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -15006,6 +15634,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -15016,13 +15645,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Mauviette des plaines Lifmunk",
+      "nickname": "Lifmunk",
       "species": "BOSS_Carbunclo",
-      "species_name": "Mauviette des plaines Lifmunk",
+      "species_name": "Lifmunk",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Carbunclo_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -15046,6 +15676,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -15079,6 +15710,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -15096,6 +15728,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -15119,6 +15752,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -15135,13 +15769,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Bête à cornes incandescente Arsox",
+      "nickname": "Arsox",
       "species": "BOSS_FlameBuffalo",
-      "species_name": "Bête à cornes incandescente Arsox",
+      "species_name": "Arsox",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlameBuffalo_icon_normal.webp",
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -15165,6 +15800,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -15188,6 +15824,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -15211,6 +15848,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -15234,6 +15872,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -15257,6 +15896,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -15280,6 +15920,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -15308,6 +15949,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -15331,6 +15973,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -15354,6 +15997,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -15382,6 +16026,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -15405,6 +16050,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -15433,6 +16079,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -15461,6 +16108,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -15484,6 +16132,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -15505,13 +16154,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Mange-rêves Daedream",
+      "nickname": "Daedream",
       "species": "BOSS_DreamDemon",
-      "species_name": "Mange-rêves Daedream",
+      "species_name": "Daedream",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DreamDemon_icon_normal.webp",
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -15540,6 +16190,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -15563,6 +16214,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -15596,6 +16248,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -15619,6 +16272,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -15652,6 +16306,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -15675,6 +16330,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -15698,6 +16354,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -15721,6 +16378,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -15744,6 +16402,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -15767,6 +16426,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -15790,6 +16450,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -15813,6 +16474,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -15836,6 +16498,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -15864,6 +16527,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -15897,6 +16561,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -15920,6 +16585,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -15943,6 +16609,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -15966,6 +16633,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -15989,6 +16657,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -16012,6 +16681,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -16035,6 +16705,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -16063,6 +16734,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -16086,6 +16758,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -16109,6 +16782,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -16125,13 +16799,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Idole des près Vixy",
+      "nickname": "Vixy",
       "species": "BOSS_CuteFox",
-      "species_name": "Idole des près Vixy",
+      "species_name": "Vixy",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CuteFox_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -16155,6 +16830,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -16178,6 +16854,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -16201,6 +16878,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -16224,6 +16902,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -16247,6 +16926,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -16270,6 +16950,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -16293,6 +16974,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -16326,6 +17008,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -16349,6 +17032,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -16372,6 +17056,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -16395,6 +17080,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -16418,6 +17104,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -16439,13 +17126,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Mage noir félidé Katress",
+      "nickname": "Katress",
       "species": "BOSS_CatMage",
-      "species_name": "Mage noir félidé Katress",
+      "species_name": "Katress",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatMage_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -16469,6 +17157,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -16485,13 +17174,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Crocs enragés Mammorest",
+      "nickname": "Mammorest",
       "species": "BOSS_GrassMammoth",
-      "species_name": "Crocs enragés Mammorest",
+      "species_name": "Mammorest",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassMammoth_icon_normal.webp",
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -16530,6 +17220,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -16553,6 +17244,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -16576,6 +17268,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -16593,6 +17286,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -16616,6 +17310,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -16639,6 +17334,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -16662,6 +17358,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -16679,6 +17376,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -16696,6 +17394,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -16719,6 +17418,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -16742,6 +17442,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -16765,6 +17466,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -16788,6 +17490,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -16811,6 +17514,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -16834,6 +17538,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -16857,6 +17562,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -16885,6 +17591,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -16902,6 +17609,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -16930,6 +17638,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -16953,6 +17662,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -16981,6 +17691,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -17004,6 +17715,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -17032,6 +17744,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -17055,6 +17768,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -17078,6 +17792,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -17101,6 +17816,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -17129,6 +17845,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -17152,6 +17869,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -17175,6 +17893,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -17198,6 +17917,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -17221,6 +17941,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -17244,6 +17965,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -17267,6 +17989,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -17284,6 +18007,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -17312,6 +18036,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -17335,6 +18060,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -17363,6 +18089,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -17386,6 +18113,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -17402,13 +18130,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Roi duvet énigmatique Sweepa",
+      "nickname": "Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Roi duvet énigmatique Sweepa",
+      "species_name": "Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -17432,6 +18161,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -17455,6 +18185,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -17478,6 +18209,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -17501,6 +18233,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -17524,6 +18257,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -17557,6 +18291,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -17580,6 +18315,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -17601,13 +18337,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Roi éthéré Suzaku",
+      "nickname": "Suzaku",
       "species": "BOSS_Suzaku",
-      "species_name": "Roi éthéré Suzaku",
+      "species_name": "Suzaku",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Suzaku_icon_normal.webp",
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -17625,6 +18362,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -17648,6 +18386,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -17665,6 +18404,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -17688,6 +18428,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -17711,6 +18452,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -17734,6 +18476,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -17757,6 +18500,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -17785,6 +18529,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -17808,6 +18553,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -17824,13 +18570,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Pégase des glaces légendaire Frostallion",
+      "nickname": "Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Pégase des glaces légendaire Frostallion",
+      "species_name": "Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -17859,6 +18606,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -17882,6 +18630,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -17905,6 +18654,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -17928,6 +18678,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -17951,6 +18702,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -17974,6 +18726,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -17997,6 +18750,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -18020,6 +18774,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -18043,6 +18798,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -18060,6 +18816,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -18083,6 +18840,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -18111,6 +18869,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -18128,6 +18887,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -18151,6 +18911,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -18179,6 +18940,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -18202,6 +18964,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -18230,6 +18993,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -18253,6 +19017,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -18276,6 +19041,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -18304,6 +19070,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -18327,6 +19094,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -18350,6 +19118,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -18373,6 +19142,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -18396,6 +19166,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -18419,6 +19190,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -18440,13 +19212,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Leafan (Boss)",
+      "nickname": "Leafan",
       "species": "BOSS_PandaGirl",
-      "species_name": "Leafan (Boss)",
+      "species_name": "Leafan",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PandaGirl_icon_normal.webp",
       "level": 35,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -18475,6 +19248,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -18498,6 +19272,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -18521,6 +19296,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -18538,6 +19314,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -18561,6 +19338,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -18589,6 +19367,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -18605,13 +19384,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Mauviette des plaines Lifmunk",
+      "nickname": "Lifmunk",
       "species": "BOSS_Carbunclo",
-      "species_name": "Mauviette des plaines Lifmunk",
+      "species_name": "Lifmunk",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Carbunclo_icon_normal.webp",
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -18640,6 +19420,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -18663,6 +19444,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -18686,6 +19468,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -18703,6 +19486,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -18720,6 +19504,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -18743,6 +19528,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -18766,6 +19552,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -18799,6 +19586,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -18822,6 +19610,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -18845,6 +19634,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -18862,6 +19652,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -18890,6 +19681,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -18923,6 +19715,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -18946,6 +19739,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -18962,13 +19756,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Bête à cornes incandescente Arsox",
+      "nickname": "Arsox",
       "species": "BOSS_FlameBuffalo",
-      "species_name": "Bête à cornes incandescente Arsox",
+      "species_name": "Arsox",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlameBuffalo_icon_normal.webp",
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -18992,6 +19787,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -19015,6 +19811,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -19038,6 +19835,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -19061,6 +19859,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -19084,6 +19883,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -19112,6 +19912,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -19129,6 +19930,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -19146,6 +19948,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -19169,6 +19972,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -19202,6 +20006,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -19240,6 +20045,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -19263,6 +20069,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -19286,6 +20093,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -19309,6 +20117,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -19326,6 +20135,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -19343,6 +20153,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -19376,6 +20187,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -19399,6 +20211,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -19422,6 +20235,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -19450,6 +20264,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -19478,6 +20293,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -19501,6 +20317,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -19524,6 +20341,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -19547,6 +20365,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -19575,6 +20394,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -19598,6 +20418,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -19621,6 +20442,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -19649,6 +20471,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -19665,13 +20488,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Conquérant duveteux Kingpaca",
+      "nickname": "Kingpaca",
       "species": "BOSS_KingAlpaca",
-      "species_name": "Conquérant duveteux Kingpaca",
+      "species_name": "Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_icon_normal.webp",
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -19700,6 +20524,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -19716,13 +20541,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Lance transperce-tout Menasting",
+      "nickname": "Menasting",
       "species": "BOSS_DarkScorpion",
-      "species_name": "Lance transperce-tout Menasting",
+      "species_name": "Menasting",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DarkScorpion_icon_normal.webp",
       "level": 45,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -19754,13 +20580,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Le Fripon Tombat",
+      "nickname": "Tombat",
       "species": "BOSS_CatBat",
-      "species_name": "Le Fripon Tombat",
+      "species_name": "Tombat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatBat_icon_normal.webp",
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -19784,6 +20611,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -19807,6 +20635,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -19835,6 +20664,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -19863,6 +20693,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -19886,6 +20717,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -19909,6 +20741,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -19937,6 +20770,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -19965,6 +20799,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -19988,6 +20823,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -20011,6 +20847,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -20034,6 +20871,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -20062,6 +20900,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -20095,6 +20934,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -20118,6 +20958,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -20141,6 +20982,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -20169,6 +21011,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -20192,6 +21035,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -20215,6 +21059,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -20232,6 +21077,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -20253,13 +21099,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Renard de glace Foxcicle",
+      "nickname": "Foxcicle",
       "species": "Boss_IceFox",
-      "species_name": "Renard de glace Foxcicle",
+      "species_name": "Foxcicle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -20283,6 +21130,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -20306,6 +21154,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -20329,6 +21178,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -20357,6 +21207,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -20375,11 +21226,12 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Feldup",
       "species": "BOSS_FengyunDeeper",
-      "species_name": "Nuage flottant Fenglope",
+      "species_name": "Fenglope",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FengyunDeeper_icon_normal.webp",
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -20403,6 +21255,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -20426,6 +21279,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -20449,6 +21303,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -20472,6 +21327,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -20495,6 +21351,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -20518,6 +21375,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -20541,6 +21399,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -20564,6 +21423,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -20587,6 +21447,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -20610,6 +21471,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -20633,6 +21495,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -20656,6 +21519,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -20679,6 +21543,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -20707,6 +21572,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -20730,6 +21596,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -20753,6 +21620,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -20776,6 +21644,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -20799,6 +21668,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -20837,6 +21707,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -20860,6 +21731,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -20888,6 +21760,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -20905,6 +21778,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -20928,6 +21802,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -20954,8 +21829,9 @@ window.PALWORLD_DATA = {
       "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 72,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -20979,6 +21855,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -21002,6 +21879,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -21025,6 +21903,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -21042,6 +21921,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -21059,6 +21939,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -21087,6 +21968,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -21110,6 +21992,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -21127,6 +22010,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -21150,6 +22034,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -21167,6 +22052,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -21190,6 +22076,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -21213,6 +22100,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -21236,6 +22124,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -21269,6 +22158,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -21302,6 +22192,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -21325,6 +22216,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -21348,6 +22240,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -21381,6 +22274,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -21404,6 +22298,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -21427,6 +22322,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -21450,6 +22346,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -21473,6 +22370,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -21496,6 +22394,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -21519,6 +22418,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -21542,6 +22442,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -21565,6 +22466,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -21588,6 +22490,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -21611,6 +22514,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -21634,6 +22538,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -21657,6 +22562,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -21695,6 +22601,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -21712,6 +22619,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -21735,6 +22643,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -21758,6 +22667,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -21791,6 +22701,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -21814,6 +22725,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -21837,6 +22749,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -21860,6 +22773,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -21886,13 +22800,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Roi duvet énigmatique Sweepa",
+      "nickname": "Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Roi duvet énigmatique Sweepa",
+      "species_name": "Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -21921,6 +22836,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -21944,6 +22860,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -21967,6 +22884,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -21990,6 +22908,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -22018,6 +22937,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -22041,6 +22961,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -22064,6 +22985,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -22087,6 +23009,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -22110,6 +23033,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -22133,6 +23057,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -22156,6 +23081,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -22179,6 +23105,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -22202,6 +23129,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -22235,6 +23163,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -22258,6 +23187,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -22281,6 +23211,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -22304,6 +23235,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -22321,6 +23253,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -22349,6 +23282,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -22377,6 +23311,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -22400,6 +23335,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -22410,13 +23346,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Brise printanière Broncherry",
+      "nickname": "Broncherry",
       "species": "BOSS_SakuraSaurus",
-      "species_name": "Brise printanière Broncherry",
+      "species_name": "Broncherry",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_icon_normal.webp",
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -22445,6 +23382,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -22468,6 +23406,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -22491,6 +23430,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -22519,6 +23459,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -22542,6 +23483,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -22565,6 +23507,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -22588,6 +23531,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -22619,13 +23563,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Bête sauvage des bois Rushoar",
+      "nickname": "Rushoar",
       "species": "BOSS_Boar",
-      "species_name": "Bête sauvage des bois Rushoar",
+      "species_name": "Rushoar",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Boar_icon_normal.webp",
       "level": 18,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -22654,6 +23599,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -22670,13 +23616,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Renard de glace Foxcicle",
+      "nickname": "Foxcicle",
       "species": "Boss_IceFox",
-      "species_name": "Renard de glace Foxcicle",
+      "species_name": "Foxcicle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -22700,6 +23647,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -22723,6 +23671,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -22756,6 +23705,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -22779,6 +23729,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -22796,6 +23747,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -22819,6 +23771,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -22842,6 +23795,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -22852,13 +23806,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "fr_Text en_text",
+      "nickname": "en_text",
       "species": "BOSS_WingGolem",
-      "species_name": "fr_Text en_text",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -22882,6 +23837,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -22905,6 +23861,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -22928,6 +23885,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -22951,6 +23909,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -22974,6 +23933,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -23002,6 +23962,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -23025,6 +23986,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -23048,6 +24010,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -23071,6 +24034,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -23092,13 +24056,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Dragon céleste mignonnet Elphidran",
+      "nickname": "Elphidran",
       "species": "BOSS_FairyDragon",
-      "species_name": "Dragon céleste mignonnet Elphidran",
+      "species_name": "Elphidran",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FairyDragon_icon_normal.webp",
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -23115,13 +24080,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Le Fripon Tombat",
+      "nickname": "Tombat",
       "species": "BOSS_CatBat",
-      "species_name": "Le Fripon Tombat",
+      "species_name": "Tombat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatBat_icon_normal.webp",
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -23139,6 +24105,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -23155,13 +24122,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Herbe fantôme violette Vaelet",
+      "nickname": "Vaelet",
       "species": "BOSS_VioletFairy",
-      "species_name": "Herbe fantôme violette Vaelet",
+      "species_name": "Vaelet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VioletFairy_icon_normal.webp",
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -23185,6 +24153,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -23208,6 +24177,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -23231,6 +24201,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -23254,6 +24225,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -23277,6 +24249,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -23300,6 +24273,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -23328,6 +24302,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -23351,6 +24326,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -23374,6 +24350,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -23397,6 +24374,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -23420,6 +24398,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -23441,13 +24420,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Porteur de bonne fortune Hangyu",
+      "nickname": "Hangyu",
       "species": "BOSS_WindChimes",
-      "species_name": "Porteur de bonne fortune Hangyu",
+      "species_name": "Hangyu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WindChimes_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -23471,6 +24451,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -23494,6 +24475,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -23517,6 +24499,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -23534,6 +24517,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -23572,6 +24556,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -23595,6 +24580,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -23618,6 +24604,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -23635,6 +24622,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -23658,6 +24646,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -23681,6 +24670,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -23704,6 +24694,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -23732,6 +24723,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -23755,6 +24747,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -23778,6 +24771,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -23795,6 +24789,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -23823,6 +24818,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -23851,6 +24847,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -23874,6 +24871,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -23897,6 +24895,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -23920,6 +24919,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -23948,6 +24948,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -23964,13 +24965,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Samouraï errant Bushi",
+      "nickname": "Bushi",
       "species": "BOSS_Ronin",
-      "species_name": "Samouraï errant Bushi",
+      "species_name": "Bushi",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Ronin_icon_normal.webp",
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -23987,13 +24989,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Combattant en armure Warsect ",
+      "nickname": "Warsect ",
       "species": "BOSS_HerculesBeetle",
-      "species_name": "Combattant en armure Warsect ",
+      "species_name": "Warsect ",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HerculesBeetle_icon_normal.webp",
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -24015,13 +25018,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Caprity Noct (Boss)",
+      "nickname": "Caprity Noct",
       "species": "BOSS_BerryGoat_Dark",
-      "species_name": "Caprity Noct (Boss)",
+      "species_name": "Caprity Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BerryGoat_Dark_icon_normal.webp",
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -24039,6 +25043,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -24067,6 +25072,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -24090,6 +25096,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -24106,13 +25113,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Le Mutant Gumoss",
+      "nickname": "Gumoss",
       "species": "BOSS_PlantSlime",
-      "species_name": "Le Mutant Gumoss",
+      "species_name": "Gumoss",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PlantSlime_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -24136,6 +25144,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -24159,6 +25168,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -24197,6 +25207,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -24220,6 +25231,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -24243,6 +25255,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -24266,6 +25279,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -24289,6 +25303,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -24317,6 +25332,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -24340,6 +25356,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -24368,6 +25385,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -24396,6 +25414,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -24419,6 +25438,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -24447,6 +25467,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -24470,6 +25491,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -24493,6 +25515,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -24531,6 +25554,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -24554,6 +25578,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -24577,6 +25602,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -24600,6 +25626,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -24623,6 +25650,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -24633,13 +25661,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Le Procrastinateur Dumud",
+      "nickname": "Dumud",
       "species": "Boss_LazyCatFish",
-      "species_name": "Le Procrastinateur Dumud",
+      "species_name": "Dumud",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LazyCatfish_icon_normal.webp",
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -24663,6 +25692,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -24691,6 +25721,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -24719,6 +25750,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -24742,6 +25774,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -24765,6 +25798,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -24788,6 +25822,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -24798,13 +25833,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Incarnation de l'écume Surfent",
+      "nickname": "Surfent",
       "species": "BOSS_Serpent",
-      "species_name": "Incarnation de l'écume Surfent",
+      "species_name": "Surfent",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Serpent_icon_normal.webp",
       "level": 61,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -24838,6 +25874,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -24861,6 +25898,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -24884,6 +25922,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -24912,6 +25951,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -24935,6 +25975,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -24958,6 +25999,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -24981,6 +26023,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -25004,6 +26047,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -25027,6 +26071,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -25048,13 +26093,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Gardien du soleil ténébreux Anubis",
+      "nickname": "Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Gardien du soleil ténébreux Anubis",
+      "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -25083,6 +26129,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -25111,6 +26158,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -25134,6 +26182,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -25157,6 +26206,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -25180,6 +26230,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -25203,6 +26254,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -25226,6 +26278,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -25249,6 +26302,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -25272,6 +26326,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -25295,6 +26350,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -25318,6 +26374,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -25341,6 +26398,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -25364,6 +26422,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -25397,6 +26456,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -25420,6 +26480,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -25443,6 +26504,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -25466,6 +26528,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -25499,6 +26562,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -25522,6 +26586,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -25545,6 +26610,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -25561,13 +26627,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Gardien du soleil ténébreux Anubis",
+      "nickname": "Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Gardien du soleil ténébreux Anubis",
+      "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -25596,6 +26663,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -25624,6 +26692,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -25647,6 +26716,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -25670,6 +26740,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -25693,6 +26764,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -25710,6 +26782,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -25727,6 +26800,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -25750,6 +26824,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -25773,6 +26848,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -25796,6 +26872,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -25819,6 +26896,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -25842,6 +26920,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -25865,6 +26944,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -25888,6 +26968,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -25911,6 +26992,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -25934,6 +27016,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -25957,6 +27040,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -25980,6 +27064,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -26003,6 +27088,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -26026,6 +27112,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -26049,6 +27136,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -26072,6 +27160,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -26095,6 +27184,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -26118,6 +27208,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -26141,6 +27232,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -26169,6 +27261,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -26192,6 +27285,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -26215,6 +27309,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -26238,6 +27333,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -26266,6 +27362,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -26294,6 +27391,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -26317,6 +27415,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -26340,6 +27439,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -26357,6 +27457,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -26380,6 +27481,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -26403,6 +27505,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -26431,6 +27534,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -26454,6 +27558,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -26477,6 +27582,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -26500,6 +27606,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -26523,6 +27630,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -26546,6 +27654,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -26569,6 +27678,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -26592,6 +27702,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -26620,6 +27731,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -26648,6 +27760,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -26671,6 +27784,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -26694,6 +27808,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -26717,6 +27832,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -26740,6 +27856,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -26763,6 +27880,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -26786,6 +27904,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -26809,6 +27928,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -26825,13 +27945,14 @@ window.PALWORLD_DATA = {
       "owner": "Prismiti"
     },
     {
-      "nickname": "Le Champion Gorirat",
+      "nickname": "Gorirat",
       "species": "BOSS_Gorilla",
-      "species_name": "Le Champion Gorirat",
+      "species_name": "Gorirat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Gorilla_icon_normal.webp",
       "level": 37,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -26870,6 +27991,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -26893,6 +28015,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -26916,6 +28039,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -26932,13 +28056,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Gardien du soleil ténébreux Anubis",
+      "nickname": "Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Gardien du soleil ténébreux Anubis",
+      "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 72,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -26967,6 +28092,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -26977,13 +28103,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tourni-piqueur Digtoise",
+      "nickname": "Digtoise",
       "species": "BOSS_DrillGame",
-      "species_name": "Tourni-piqueur Digtoise",
+      "species_name": "Digtoise",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DrillGame_icon_normal.webp",
       "level": 61,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": true,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -27022,6 +28149,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -27045,6 +28173,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -27068,6 +28197,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -27085,6 +28215,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -27108,6 +28239,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -27136,6 +28268,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -27159,6 +28292,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -27182,6 +28316,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -27205,6 +28340,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -27228,6 +28364,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -27251,6 +28388,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -27274,6 +28412,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -27297,6 +28436,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -27320,6 +28460,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -27343,6 +28484,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -27371,6 +28513,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -27394,6 +28537,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -27422,6 +28566,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -27445,6 +28590,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -27468,6 +28614,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -27491,6 +28638,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -27514,6 +28662,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -27537,6 +28686,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -27560,6 +28710,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -27583,6 +28734,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -27600,6 +28752,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -27633,6 +28786,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -27661,6 +28815,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -27684,6 +28839,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -27712,6 +28868,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -27735,6 +28892,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -27758,6 +28916,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -27781,6 +28940,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -27804,6 +28964,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -27827,6 +28988,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -27850,6 +29012,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -27873,6 +29036,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -27896,6 +29060,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -27919,6 +29084,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -27942,6 +29108,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -27965,6 +29132,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -27988,6 +29156,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -28016,6 +29185,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -28039,6 +29209,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -28062,6 +29233,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -28085,6 +29257,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -28101,13 +29274,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Xenogard (Boss)",
+      "nickname": "Xenogard",
       "species": "BOSS_WhiteAlienDragon",
-      "species_name": "Xenogard (Boss)",
+      "species_name": "Xenogard",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteAlienDragon_icon_normal.webp",
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -28136,6 +29310,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -28159,6 +29334,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -28197,6 +29373,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -28225,6 +29402,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -28248,6 +29426,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -28271,6 +29450,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -28288,6 +29468,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -28298,13 +29479,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Gardien du soleil ténébreux Anubis",
+      "nickname": "Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Gardien du soleil ténébreux Anubis",
+      "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -28333,6 +29515,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -28361,6 +29544,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -28384,6 +29568,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -28407,6 +29592,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -28430,6 +29616,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -28453,6 +29640,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -28476,6 +29664,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -28499,6 +29688,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -28522,6 +29712,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -28545,6 +29736,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -28562,6 +29754,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -28585,6 +29778,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -28608,6 +29802,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -28631,6 +29826,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -28654,6 +29850,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -28682,6 +29879,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -28705,6 +29903,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -28728,6 +29927,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -28745,6 +29945,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -28768,6 +29969,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -28791,6 +29993,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -28819,6 +30022,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -28842,6 +30046,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -28865,6 +30070,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -28888,6 +30094,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -28916,6 +30123,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -28939,6 +30147,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -28962,6 +30171,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -28979,6 +30189,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -29010,13 +30221,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Dragon gardien des floraisons Dinossom",
+      "nickname": "Dinossom",
       "species": "BOSS_FlowerDinosaur",
-      "species_name": "Dragon gardien des floraisons Dinossom",
+      "species_name": "Dinossom",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlowerDinosaur_icon_normal.webp",
       "level": 32,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -29045,6 +30257,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -29062,6 +30275,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -29090,6 +30304,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -29123,6 +30338,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -29139,13 +30355,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Finsider (Boss)",
+      "nickname": "Finsider",
       "species": "BOSS_StuffedShark",
-      "species_name": "Finsider (Boss)",
+      "species_name": "Finsider",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_StuffedShark_icon_normal.webp",
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -29169,6 +30386,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -29186,6 +30404,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -29214,6 +30433,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -29231,6 +30451,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -29254,6 +30475,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -29277,6 +30499,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -29300,6 +30523,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -29328,6 +30552,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -29356,6 +30581,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -29379,6 +30605,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -29407,6 +30634,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -29430,6 +30658,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -29453,6 +30682,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -29469,13 +30699,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Cygne noir furtif Cawgnito",
+      "nickname": "Cawgnito",
       "species": "BOSS_DarkCrow",
-      "species_name": "Cygne noir furtif Cawgnito",
+      "species_name": "Cawgnito",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DarkCrow_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -29499,6 +30730,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -29516,6 +30748,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -29539,6 +30772,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -29567,6 +30801,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -29590,6 +30825,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -29618,6 +30854,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -29646,6 +30883,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -29669,6 +30907,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -29692,6 +30931,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -29715,6 +30955,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -29743,6 +30984,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -29776,6 +31018,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -29799,6 +31042,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -29822,6 +31066,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -29845,6 +31090,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -29868,6 +31114,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -29891,6 +31138,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -29914,6 +31162,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -29937,6 +31186,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -29965,6 +31215,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -29988,6 +31239,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -30009,13 +31261,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Lullu (Boss)",
+      "nickname": "Lullu",
       "species": "BOSS_LeafPrincess",
-      "species_name": "Lullu (Boss)",
+      "species_name": "Lullu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafPrincess_icon_normal.webp",
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -30037,13 +31290,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Imbu de sa personne Cattiva",
+      "nickname": "Cattiva",
       "species": "BOSS_PinkCat",
-      "species_name": "Imbu de sa personne Cattiva",
+      "species_name": "Cattiva",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkCat_icon_normal.webp",
       "level": 61,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -30070,13 +31324,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Impératrice des abysses Lyleen Noct",
+      "nickname": "Lyleen Noct",
       "species": "BOSS_LilyQueen_Dark",
-      "species_name": "Impératrice des abysses Lyleen Noct",
+      "species_name": "Lyleen Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LilyQueen_Dark_icon_normal.webp",
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -30100,6 +31355,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -30133,6 +31389,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -30149,13 +31406,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Conquérant bleu-doux Ice Kingpaca",
+      "nickname": "Ice Kingpaca",
       "species": "BOSS_KingAlpaca_Ice",
-      "species_name": "Conquérant bleu-doux Ice Kingpaca",
+      "species_name": "Ice Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_Ice_icon_normal.webp",
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -30184,6 +31442,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -30207,6 +31466,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -30230,6 +31490,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -30253,6 +31514,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -30276,6 +31538,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -30304,6 +31567,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -30327,6 +31591,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -30350,6 +31615,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -30373,6 +31639,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -30390,6 +31657,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -30413,6 +31681,7 @@ window.PALWORLD_DATA = {
       "level": 2,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -30436,6 +31705,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -30459,6 +31729,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -30482,6 +31753,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -30510,6 +31782,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -30533,6 +31806,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -30556,6 +31830,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -30584,6 +31859,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -30607,6 +31883,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -30630,6 +31907,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -30647,6 +31925,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -30675,6 +31954,7 @@ window.PALWORLD_DATA = {
       "level": 16,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -30691,13 +31971,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Brise printanière Broncherry",
+      "nickname": "Broncherry",
       "species": "BOSS_SakuraSaurus",
-      "species_name": "Brise printanière Broncherry",
+      "species_name": "Broncherry",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_icon_normal.webp",
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -30726,6 +32007,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -30742,13 +32024,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Pégase des glaces légendaire Frostallion",
+      "nickname": "Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Pégase des glaces légendaire Frostallion",
+      "species_name": "Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -30787,6 +32070,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -30803,13 +32087,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Impératrice du lys Lyleen",
+      "nickname": "Lyleen",
       "species": "BOSS_LilyQueen",
-      "species_name": "Impératrice du lys Lyleen",
+      "species_name": "Lyleen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LilyQueen_icon_normal.webp",
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -30838,6 +32123,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -30861,6 +32147,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -30889,6 +32176,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -30912,6 +32200,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -30935,6 +32224,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -30958,6 +32248,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -30975,6 +32266,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -30998,6 +32290,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -31021,6 +32314,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -31049,6 +32343,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -31066,6 +32361,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -31089,6 +32385,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -31106,6 +32403,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -31129,6 +32427,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -31145,13 +32444,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Caprity Noct (Boss)",
+      "nickname": "Caprity Noct",
       "species": "BOSS_BerryGoat_Dark",
-      "species_name": "Caprity Noct (Boss)",
+      "species_name": "Caprity Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BerryGoat_Dark_icon_normal.webp",
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -31175,6 +32475,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -31191,13 +32492,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Pégase des glaces légendaire Frostallion",
+      "nickname": "Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Pégase des glaces légendaire Frostallion",
+      "species_name": "Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -31219,13 +32521,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Silvegis (Boss)",
+      "nickname": "Silvegis",
       "species": "BOSS_WhiteShieldDragon",
-      "species_name": "Silvegis (Boss)",
+      "species_name": "Silvegis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteShieldDragon_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -31254,6 +32557,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -31277,6 +32581,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -31300,6 +32605,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -31310,13 +32616,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Bête à cornes incandescente Arsox",
+      "nickname": "Arsox",
       "species": "BOSS_FlameBuffalo",
-      "species_name": "Bête à cornes incandescente Arsox",
+      "species_name": "Arsox",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlameBuffalo_icon_normal.webp",
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -31340,6 +32647,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -31363,6 +32671,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -31391,6 +32700,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -31414,6 +32724,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -31442,6 +32753,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -31465,6 +32777,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -31488,6 +32801,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -31511,6 +32825,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -31534,6 +32849,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -31557,6 +32873,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -31580,6 +32897,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -31603,6 +32921,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -31626,6 +32945,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -31659,6 +32979,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -31682,6 +33003,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -31699,6 +33021,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -31727,6 +33050,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -31750,6 +33074,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -31773,6 +33098,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -31801,6 +33127,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -31824,6 +33151,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -31847,6 +33175,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -31875,6 +33204,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 14,
         "melee": 0,
@@ -31898,6 +33228,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -31921,6 +33252,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -31944,6 +33276,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -31977,6 +33310,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -32000,6 +33334,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -32023,6 +33358,7 @@ window.PALWORLD_DATA = {
       "level": 13,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -32046,6 +33382,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -32062,13 +33399,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Roi duvet énigmatique Sweepa",
+      "nickname": "Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Roi duvet énigmatique Sweepa",
+      "species_name": "Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -32102,6 +33440,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -32125,6 +33464,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -32148,6 +33488,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -32171,6 +33512,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -32194,6 +33536,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -32217,6 +33560,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -32240,6 +33584,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -32263,6 +33608,7 @@ window.PALWORLD_DATA = {
       "level": 11,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -32279,13 +33625,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Reine du lac Azurobe",
+      "nickname": "Azurobe",
       "species": "BOSS_BlueDragon",
-      "species_name": "Reine du lac Azurobe",
+      "species_name": "Azurobe",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_icon_normal.webp",
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -32309,6 +33656,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -32326,6 +33674,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -32349,6 +33698,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -32372,6 +33722,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -32395,6 +33746,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -32418,6 +33770,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -32434,13 +33787,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Eye of Cthulhu (Boss)",
+      "nickname": "Eye of Cthulhu",
       "species": "BOSS_YakushimaBoss001",
-      "species_name": "Eye of Cthulhu (Boss)",
+      "species_name": "Eye of Cthulhu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_YakushimaBoss001_icon_normal.webp",
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -32474,6 +33828,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -32497,6 +33852,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -32514,6 +33870,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -32537,6 +33894,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -32560,6 +33918,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -32583,6 +33942,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -32606,6 +33966,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -32629,6 +33990,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -32652,6 +34014,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -32680,6 +34043,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -32703,6 +34067,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -32726,6 +34091,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -32749,6 +34115,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -32772,6 +34139,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -32795,6 +34163,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -32823,6 +34192,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -32840,6 +34210,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -32863,6 +34234,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -32886,6 +34258,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -32914,6 +34287,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -32931,6 +34305,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -32959,6 +34334,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -32982,6 +34358,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -33005,6 +34382,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -33028,6 +34406,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -33051,6 +34430,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -33074,6 +34454,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -33097,6 +34478,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -33125,6 +34507,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -33148,6 +34531,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -33171,6 +34555,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -33194,6 +34579,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -33217,6 +34603,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -33250,6 +34637,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -33273,6 +34661,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -33296,6 +34685,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -33319,6 +34709,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -33342,6 +34733,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -33375,6 +34767,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -33391,13 +34784,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Pégase des ombres légendaire Frostallion Noct",
+      "nickname": "Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Pégase des ombres légendaire Frostallion Noct",
+      "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 74,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -33431,6 +34825,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -33464,6 +34859,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -33487,6 +34883,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -33503,13 +34900,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Forme de vie inconnue Shadowbeak",
+      "nickname": "Shadowbeak",
       "species": "BOSS_BlackGriffon",
-      "species_name": "Forme de vie inconnue Shadowbeak",
+      "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -33533,6 +34931,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -33556,6 +34955,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -33579,6 +34979,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -33602,6 +35003,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -33625,6 +35027,7 @@ window.PALWORLD_DATA = {
       "level": 6,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -33648,6 +35051,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -33671,6 +35075,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -33699,6 +35104,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -33737,6 +35143,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -33770,6 +35177,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -33793,6 +35201,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -33826,6 +35235,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -33849,6 +35259,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -33865,13 +35276,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Forme de vie inconnue Shadowbeak",
+      "nickname": "Shadowbeak",
       "species": "BOSS_BlackGriffon",
-      "species_name": "Forme de vie inconnue Shadowbeak",
+      "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -33895,6 +35307,7 @@ window.PALWORLD_DATA = {
       "level": 7,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -33933,6 +35346,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -33956,6 +35370,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -33979,6 +35394,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -34002,6 +35418,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -34025,6 +35442,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -34042,6 +35460,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -34070,6 +35489,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -34093,6 +35513,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -34116,6 +35537,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -34139,6 +35561,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -34162,6 +35585,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -34195,6 +35619,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -34218,6 +35643,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -34228,13 +35654,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Warsect Terra (Boss)",
+      "nickname": "Warsect Terra",
       "species": "BOSS_HerculesBeetle_Ground",
-      "species_name": "Warsect Terra (Boss)",
+      "species_name": "Warsect Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HerculesBeetle_Ground_icon_normal.webp",
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -34263,6 +35690,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -34286,6 +35714,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -34324,6 +35753,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -34347,6 +35777,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -34363,13 +35794,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Roi éthéré Suzaku",
+      "nickname": "Suzaku",
       "species": "BOSS_Suzaku",
-      "species_name": "Roi éthéré Suzaku",
+      "species_name": "Suzaku",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Suzaku_icon_normal.webp",
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -34393,6 +35825,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -34431,6 +35864,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -34462,13 +35896,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Forme de vie inconnue Shadowbeak",
+      "nickname": "Shadowbeak",
       "species": "BOSS_BlackGriffon",
-      "species_name": "Forme de vie inconnue Shadowbeak",
+      "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -34492,6 +35927,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -34515,6 +35951,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -34543,6 +35980,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -34581,6 +36019,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -34609,6 +36048,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -34642,6 +36082,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -34665,6 +36106,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -34688,6 +36130,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -34711,6 +36154,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -34734,6 +36178,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -34762,6 +36207,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -34785,6 +36231,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -34813,6 +36260,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -34841,6 +36289,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -34864,6 +36313,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -34887,6 +36337,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -34910,6 +36361,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -34943,6 +36395,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -34964,13 +36417,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Neptilius (Boss)",
+      "nickname": "Neptilius",
       "species": "BOSS_PoseidonOrca",
-      "species_name": "Neptilius (Boss)",
+      "species_name": "Neptilius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PoseidonOrca_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -34999,6 +36453,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -35022,6 +36477,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -35039,6 +36495,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -35062,6 +36519,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -35085,6 +36543,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -35108,6 +36567,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -35136,6 +36596,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -35174,6 +36635,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -35197,6 +36659,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -35220,6 +36683,7 @@ window.PALWORLD_DATA = {
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -35243,6 +36707,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -35271,6 +36736,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -35292,13 +36758,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Roi dragon d'acier Astegon",
+      "nickname": "Astegon",
       "species": "BOSS_BlackMetalDragon",
-      "species_name": "Roi dragon d'acier Astegon",
+      "species_name": "Astegon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackMetalDragon_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -35327,6 +36794,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -35350,6 +36818,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -35373,6 +36842,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -35396,6 +36866,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -35419,6 +36890,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -35452,6 +36924,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -35475,6 +36948,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -35498,6 +36972,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -35521,6 +36996,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -35544,6 +37020,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -35572,6 +37049,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -35582,13 +37060,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Silvegis (Boss)",
+      "nickname": "Silvegis",
       "species": "BOSS_WhiteShieldDragon",
-      "species_name": "Silvegis (Boss)",
+      "species_name": "Silvegis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteShieldDragon_icon_normal.webp",
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -35622,6 +37101,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -35645,6 +37125,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -35668,6 +37149,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -35691,6 +37173,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -35714,6 +37197,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -35737,6 +37221,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -35760,6 +37245,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -35783,6 +37269,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -35806,6 +37293,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -35823,6 +37311,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -35851,6 +37340,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -35874,6 +37364,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -35897,6 +37388,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -35935,6 +37427,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -35958,6 +37451,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -35981,6 +37475,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -36004,6 +37499,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -36027,6 +37523,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -36037,13 +37534,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tyran du purgatoire Blazamut",
+      "nickname": "Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Tyran du purgatoire Blazamut",
+      "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -36072,6 +37570,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -36105,6 +37604,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -36143,6 +37643,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -36171,6 +37672,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -36194,6 +37696,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -36222,6 +37725,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -36250,6 +37754,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -36273,6 +37778,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -36296,6 +37802,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -36319,6 +37826,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -36347,6 +37855,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -36370,6 +37879,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -36393,6 +37903,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -36416,6 +37927,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -36432,13 +37944,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Lullu (Boss)",
+      "nickname": "Lullu",
       "species": "BOSS_LeafPrincess",
-      "species_name": "Lullu (Boss)",
+      "species_name": "Lullu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafPrincess_icon_normal.webp",
       "level": 62,
-      "rank": 4,
+      "rank": 3,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -36455,13 +37968,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Goupil mage écarlate Wixen",
+      "nickname": "Wixen",
       "species": "BOSS_FoxMage",
-      "species_name": "Goupil mage écarlate Wixen",
+      "species_name": "Wixen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxMage_icon_normal.webp",
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -36485,6 +37999,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -36508,6 +38023,7 @@ window.PALWORLD_DATA = {
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -36531,6 +38047,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -36554,6 +38071,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -36577,6 +38095,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -36594,6 +38113,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -36617,6 +38137,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -36645,6 +38166,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -36662,6 +38184,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -36685,6 +38208,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -36723,6 +38247,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -36746,6 +38271,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -36769,6 +38295,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -36786,6 +38313,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -36803,6 +38331,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -36826,6 +38355,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -36854,6 +38384,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -36877,6 +38408,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -36900,6 +38432,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -36933,6 +38466,7 @@ window.PALWORLD_DATA = {
       "level": 72,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -36956,6 +38490,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -36972,13 +38507,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Terreur volcanique Gobfin Ignis",
+      "nickname": "Gobfin Ignis",
       "species": "BOSS_SharkKid_Fire",
-      "species_name": "Terreur volcanique Gobfin Ignis",
+      "species_name": "Gobfin Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SharkKid_Fire_icon_normal.webp",
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -37002,6 +38538,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -37035,6 +38572,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -37063,6 +38601,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -37080,6 +38619,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -37097,6 +38637,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -37120,6 +38661,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -37143,6 +38685,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -37171,6 +38714,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -37188,6 +38732,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -37211,6 +38756,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -37234,6 +38780,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -37262,6 +38809,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -37285,6 +38833,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -37308,6 +38857,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -37331,6 +38881,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -37359,6 +38910,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -37382,6 +38934,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -37405,6 +38958,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -37428,6 +38982,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -37456,6 +39011,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -37484,6 +39040,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -37512,6 +39069,7 @@ window.PALWORLD_DATA = {
       "level": 15,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -37535,6 +39093,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -37558,6 +39117,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -37581,6 +39141,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -37597,13 +39158,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Goupil mage écarlate Wixen",
+      "nickname": "Wixen",
       "species": "BOSS_FoxMage",
-      "species_name": "Goupil mage écarlate Wixen",
+      "species_name": "Wixen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxMage_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -37627,6 +39189,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -37644,6 +39207,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -37660,13 +39224,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Eye of Cthulhu (Boss)",
+      "nickname": "Eye of Cthulhu",
       "species": "BOSS_YakushimaBoss001",
-      "species_name": "Eye of Cthulhu (Boss)",
+      "species_name": "Eye of Cthulhu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_YakushimaBoss001_icon_normal.webp",
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -37690,6 +39255,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -37713,6 +39279,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -37741,6 +39308,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -37764,6 +39332,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -37792,6 +39361,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -37820,6 +39390,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -37843,6 +39414,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -37876,6 +39448,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -37892,13 +39465,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tetroise  (Boss)",
+      "nickname": "Tetroise ",
       "species": "BOSS_CubeTurtle",
-      "species_name": "Tetroise  (Boss)",
+      "species_name": "Tetroise ",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CubeTurtle_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -37922,6 +39496,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -37945,6 +39520,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -37978,6 +39554,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -38001,6 +39578,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -38029,6 +39607,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -38052,6 +39631,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -38069,6 +39649,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -38092,6 +39673,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -38115,6 +39697,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -38138,6 +39721,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -38155,6 +39739,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -38172,6 +39757,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -38195,6 +39781,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -38218,6 +39805,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -38235,6 +39823,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -38273,6 +39862,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -38290,6 +39880,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -38313,6 +39904,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -38336,6 +39928,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -38369,6 +39962,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -38385,13 +39979,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pégase des ombres légendaire Frostallion Noct",
+      "nickname": "Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Pégase des ombres légendaire Frostallion Noct",
+      "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 72,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -38425,6 +40020,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -38442,6 +40038,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -38468,13 +40065,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Griffes des orages Grizzbolt",
+      "nickname": "Grizzbolt",
       "species": "BOSS_ElecPanda",
-      "species_name": "Griffes des orages Grizzbolt",
+      "species_name": "Grizzbolt",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecPanda_icon_normal.webp",
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -38491,13 +40089,14 @@ window.PALWORLD_DATA = {
       "owner": "inconnu"
     },
     {
-      "nickname": "Munchill (Boss)",
+      "nickname": "Munchill",
       "species": "BOSS_IceCrocodile",
-      "species_name": "Munchill (Boss)",
+      "species_name": "Munchill",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceCrocodile_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -38536,6 +40135,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -38559,6 +40159,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -38582,6 +40183,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -38610,6 +40212,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -38633,6 +40236,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -38671,6 +40275,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -38694,6 +40299,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -38717,6 +40323,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -38740,6 +40347,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -38757,6 +40365,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -38795,6 +40404,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -38823,6 +40433,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -38846,6 +40457,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -38869,6 +40481,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 76,
         "melee": 0,
@@ -38892,6 +40505,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -38915,6 +40529,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -38938,6 +40553,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -38971,6 +40587,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -38994,6 +40611,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -39017,6 +40635,7 @@ window.PALWORLD_DATA = {
       "level": 3,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -39034,6 +40653,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -39051,6 +40671,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -39079,6 +40700,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -39107,6 +40729,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -39130,6 +40753,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -39153,6 +40777,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -39176,6 +40801,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -39199,6 +40825,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -39222,6 +40849,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -39245,6 +40873,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -39268,6 +40897,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -39291,6 +40921,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -39314,6 +40945,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -39337,6 +40969,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -39360,6 +40993,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -39393,6 +41027,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -39416,6 +41051,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -39433,6 +41069,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -39461,6 +41098,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -39484,6 +41122,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -39501,6 +41140,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -39529,6 +41169,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -39546,6 +41187,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -39569,6 +41211,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -39592,6 +41235,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -39609,6 +41253,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -39632,6 +41277,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -39660,6 +41306,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -39681,13 +41328,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Flaracle (Boss)",
+      "nickname": "Flaracle",
       "species": "BOSS_FoxExorcist",
-      "species_name": "Flaracle (Boss)",
+      "species_name": "Flaracle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxExorcist_icon_normal.webp",
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -39711,6 +41359,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -39739,6 +41388,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -39767,6 +41417,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -39790,6 +41441,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -39813,6 +41465,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -39836,6 +41489,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -39859,6 +41513,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -39875,13 +41530,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dragon météore légendaire Jetragon",
+      "nickname": "Jetragon",
       "species": "BOSS_JetDragon",
-      "species_name": "Dragon météore légendaire Jetragon",
+      "species_name": "Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
       "level": 70,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -39915,6 +41571,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -39943,6 +41600,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -39959,13 +41617,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -39994,6 +41653,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -40017,6 +41677,7 @@ window.PALWORLD_DATA = {
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -40050,6 +41711,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -40073,6 +41735,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -40083,13 +41746,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Vampire du crépuscule Felbat",
+      "nickname": "Felbat",
       "species": "BOSS_CatVampire",
-      "species_name": "Vampire du crépuscule Felbat",
+      "species_name": "Felbat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatVampire_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -40123,6 +41787,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -40139,13 +41804,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Wistella (Boss)",
+      "nickname": "Wistella",
       "species": "BOSS_MoonChild",
-      "species_name": "Wistella (Boss)",
+      "species_name": "Wistella",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MoonChild_icon_normal.webp",
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -40169,6 +41835,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -40197,6 +41864,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -40220,6 +41888,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -40243,6 +41912,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -40266,6 +41936,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -40294,6 +41965,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -40317,6 +41989,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -40334,6 +42007,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -40362,6 +42036,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -40385,6 +42060,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -40408,6 +42084,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -40424,13 +42101,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Calamité des profondeurs Kelpsea",
+      "nickname": "Kelpsea",
       "species": "BOSS_Kelpie",
-      "species_name": "Calamité des profondeurs Kelpsea",
+      "species_name": "Kelpsea",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_icon_normal.webp",
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -40469,6 +42147,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -40485,13 +42164,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Chevalier saint légendaire Paladius",
+      "nickname": "Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Chevalier saint légendaire Paladius",
+      "species_name": "Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -40523,13 +42203,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 72,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -40563,6 +42244,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -40579,13 +42261,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Neptilius (Boss)",
+      "nickname": "Neptilius",
       "species": "BOSS_PoseidonOrca",
-      "species_name": "Neptilius (Boss)",
+      "species_name": "Neptilius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PoseidonOrca_icon_normal.webp",
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -40619,6 +42302,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -40640,13 +42324,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Munchill (Boss)",
+      "nickname": "Munchill",
       "species": "BOSS_IceCrocodile",
-      "species_name": "Munchill (Boss)",
+      "species_name": "Munchill",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceCrocodile_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -40675,6 +42360,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -40701,13 +42387,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Coureur vif-éclair Rayhound",
+      "nickname": "Rayhound",
       "species": "BOSS_ThunderDog",
-      "species_name": "Coureur vif-éclair Rayhound",
+      "species_name": "Rayhound",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ThunderDog_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -40724,13 +42411,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Eye of Cthulhu (Boss)",
+      "nickname": "Eye of Cthulhu",
       "species": "BOSS_YakushimaBoss001",
-      "species_name": "Eye of Cthulhu (Boss)",
+      "species_name": "Eye of Cthulhu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_YakushimaBoss001_icon_normal.webp",
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -40754,6 +42442,7 @@ window.PALWORLD_DATA = {
       "level": 10,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -40777,6 +42466,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -40800,6 +42490,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -40823,6 +42514,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -40846,6 +42538,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -40884,6 +42577,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -40907,6 +42601,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -40930,6 +42625,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -40953,6 +42649,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -40969,13 +42666,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Munchill (Boss)",
+      "nickname": "Munchill",
       "species": "BOSS_IceCrocodile",
-      "species_name": "Munchill (Boss)",
+      "species_name": "Munchill",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceCrocodile_icon_normal.webp",
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -41004,6 +42702,7 @@ window.PALWORLD_DATA = {
       "level": 17,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -41027,6 +42726,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -41044,6 +42744,7 @@ window.PALWORLD_DATA = {
       "level": 12,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -41067,6 +42768,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -41090,6 +42792,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -41113,6 +42816,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -41141,6 +42845,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -41174,6 +42879,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -41212,6 +42918,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -41235,6 +42942,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -41258,6 +42966,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -41274,13 +42983,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Whalaska (Boss)",
+      "nickname": "Whalaska",
       "species": "BOSS_IceNarwhal",
-      "species_name": "Whalaska (Boss)",
+      "species_name": "Whalaska",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceNarwhal_icon_normal.webp",
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -41309,6 +43019,7 @@ window.PALWORLD_DATA = {
       "level": 14,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -41332,6 +43043,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -41355,6 +43067,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -41378,6 +43091,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -41401,6 +43115,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -41418,6 +43133,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -41446,6 +43162,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -41463,6 +43180,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -41486,6 +43204,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -41509,6 +43228,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -41532,6 +43252,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -41555,6 +43276,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -41578,6 +43300,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -41594,13 +43317,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dragon météore légendaire Jetragon",
+      "nickname": "Jetragon",
       "species": "BOSS_JetDragon",
-      "species_name": "Dragon météore légendaire Jetragon",
+      "species_name": "Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
       "level": 74,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -41634,6 +43358,7 @@ window.PALWORLD_DATA = {
       "level": 18,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -41657,6 +43382,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -41680,6 +43406,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 2,
         "melee": 0,
@@ -41703,6 +43430,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -41726,6 +43454,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -41749,6 +43478,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -41765,13 +43495,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Eidrolon (Boss)",
+      "nickname": "Eidrolon",
       "species": "BOSS_GhostDragon",
-      "species_name": "Eidrolon (Boss)",
+      "species_name": "Eidrolon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostDragon_icon_normal.webp",
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -41795,6 +43526,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -41818,6 +43550,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -41841,6 +43574,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -41869,6 +43603,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -41892,6 +43627,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -41915,6 +43651,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -41938,6 +43675,7 @@ window.PALWORLD_DATA = {
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -41954,13 +43692,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Incarnation du sirocco Surfent Terra",
+      "nickname": "Surfent Terra",
       "species": "BOSS_Serpent_Ground",
-      "species_name": "Incarnation du sirocco Surfent Terra",
+      "species_name": "Surfent Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Serpent_Ground_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -41978,6 +43717,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -42001,6 +43741,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -42039,6 +43780,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -42056,6 +43798,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -42079,6 +43822,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -42102,6 +43846,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -42123,13 +43868,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -42156,13 +43902,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Calamité des profondeurs Kelpsea",
+      "nickname": "Kelpsea",
       "species": "BOSS_Kelpie",
-      "species_name": "Calamité des profondeurs Kelpsea",
+      "species_name": "Kelpsea",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_icon_normal.webp",
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -42191,6 +43938,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -42214,6 +43962,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -42237,6 +43986,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -42260,6 +44010,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -42288,6 +44039,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -42311,6 +44063,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -42344,6 +44097,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -42367,6 +44121,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -42390,6 +44145,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -42407,6 +44163,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -42430,6 +44187,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -42453,6 +44211,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -42476,6 +44235,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -42499,6 +44259,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -42520,13 +44281,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Skutlass Ignis (Boss)",
+      "nickname": "Skutlass Ignis",
       "species": "BOSS_SwordCutlassfish_Fire",
-      "species_name": "Skutlass Ignis (Boss)",
+      "species_name": "Skutlass Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SwordCutlassfish_Fire_icon_normal.webp",
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -42555,6 +44317,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -42583,6 +44346,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -42599,13 +44363,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Polapup Terra (Boss)",
+      "nickname": "Polapup Terra",
       "species": "BOSS_IceSeal_Ground",
-      "species_name": "Polapup Terra (Boss)",
+      "species_name": "Polapup Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceSeal_Ground_icon_normal.webp",
       "level": 63,
-      "rank": 4,
+      "rank": 3,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -42627,13 +44392,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Munchill (Boss)",
+      "nickname": "Munchill",
       "species": "BOSS_IceCrocodile",
-      "species_name": "Munchill (Boss)",
+      "species_name": "Munchill",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceCrocodile_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -42662,6 +44428,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -42690,6 +44457,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -42713,6 +44481,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -42729,13 +44498,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -42764,6 +44534,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -42781,6 +44552,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -42809,6 +44581,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -42832,6 +44605,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -42855,6 +44629,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -42876,13 +44651,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pierdon (Boss)",
+      "nickname": "Pierdon",
       "species": "BOSS_RockBeast",
-      "species_name": "Pierdon (Boss)",
+      "species_name": "Pierdon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RockBeast_icon_normal.webp",
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -42911,6 +44687,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -42934,6 +44711,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -42957,6 +44735,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -42980,6 +44759,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -43008,6 +44788,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -43036,6 +44817,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -43059,6 +44841,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -43082,6 +44865,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -43115,6 +44899,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -43138,6 +44923,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -43161,6 +44947,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -43189,6 +44976,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -43212,6 +45000,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -43235,6 +45024,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -43258,6 +45048,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -43281,6 +45072,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -43304,6 +45096,7 @@ window.PALWORLD_DATA = {
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 22,
         "melee": 0,
@@ -43327,6 +45120,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -43350,6 +45144,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -43381,13 +45176,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Ghangler Ignis (Boss)",
+      "nickname": "Ghangler Ignis",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "species_name": "Ghangler Ignis (Boss)",
+      "species_name": "Ghangler Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostAnglerfish_Fire_icon_normal.webp",
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -43416,6 +45212,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -43439,6 +45236,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -43462,6 +45260,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 75,
         "melee": 0,
@@ -43485,6 +45284,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -43508,6 +45308,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -43536,6 +45337,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -43564,6 +45366,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -43592,6 +45395,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -43620,6 +45424,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -43643,6 +45448,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -43660,6 +45466,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -43683,6 +45490,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -43704,13 +45512,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Eidrolon (Boss)",
+      "nickname": "Eidrolon",
       "species": "BOSS_GhostDragon",
-      "species_name": "Eidrolon (Boss)",
+      "species_name": "Eidrolon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostDragon_icon_normal.webp",
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -43728,6 +45537,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -43745,6 +45555,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -43773,6 +45584,7 @@ window.PALWORLD_DATA = {
       "level": 28,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -43801,6 +45613,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -43824,6 +45637,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 40,
         "melee": 0,
@@ -43847,6 +45661,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -43870,6 +45685,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -43898,6 +45714,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -43914,13 +45731,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pégase des glaces légendaire Frostallion",
+      "nickname": "Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Pégase des glaces légendaire Frostallion",
+      "species_name": "Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -43954,6 +45772,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -43971,6 +45790,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -43994,6 +45814,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -44017,6 +45838,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -44038,13 +45860,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -44078,6 +45901,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -44101,6 +45925,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -44117,13 +45942,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Énorme et moelleux Lamball",
+      "nickname": "Lamball",
       "species": "BOSS_SheepBall",
-      "species_name": "Énorme et moelleux Lamball",
+      "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 24,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -44152,6 +45978,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -44169,6 +45996,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -44197,6 +46025,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -44230,6 +46059,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -44253,6 +46083,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 11,
         "melee": 0,
@@ -44276,6 +46107,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -44304,6 +46136,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -44320,13 +46153,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Neptilius (Boss)",
+      "nickname": "Neptilius",
       "species": "BOSS_PoseidonOrca",
-      "species_name": "Neptilius (Boss)",
+      "species_name": "Neptilius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PoseidonOrca_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -44360,6 +46194,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -44388,6 +46223,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -44411,6 +46247,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -44434,6 +46271,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -44457,6 +46295,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -44480,6 +46319,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -44503,6 +46343,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -44526,6 +46367,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -44554,6 +46396,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -44570,13 +46413,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Wixen Noct (Boss)",
+      "nickname": "Wixen Noct",
       "species": "BOSS_FoxMage_Dark",
-      "species_name": "Wixen Noct (Boss)",
+      "species_name": "Wixen Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxMage_Dark_icon_normal.webp",
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -44594,6 +46438,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -44617,6 +46462,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -44640,6 +46486,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -44661,13 +46508,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Griffes des orages Grizzbolt",
+      "nickname": "Grizzbolt",
       "species": "BOSS_ElecPanda",
-      "species_name": "Griffes des orages Grizzbolt",
+      "species_name": "Grizzbolt",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecPanda_icon_normal.webp",
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -44691,6 +46539,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -44714,6 +46563,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -44737,6 +46587,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -44760,6 +46611,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -44783,6 +46635,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -44806,6 +46659,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -44823,6 +46677,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -44846,6 +46701,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -44869,6 +46725,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -44892,6 +46749,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -44920,6 +46778,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 48,
         "melee": 0,
@@ -44943,6 +46802,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -44966,6 +46826,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -44989,6 +46850,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -45015,13 +46877,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Vampire du crépuscule Felbat",
+      "nickname": "Felbat",
       "species": "BOSS_CatVampire",
-      "species_name": "Vampire du crépuscule Felbat",
+      "species_name": "Felbat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatVampire_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -45050,6 +46913,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -45073,6 +46937,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -45101,6 +46966,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -45124,6 +46990,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -45147,6 +47014,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -45170,6 +47038,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -45187,6 +47056,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -45210,6 +47080,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -45233,6 +47104,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -45249,13 +47121,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Chevalier saint légendaire Paladius",
+      "nickname": "Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Chevalier saint légendaire Paladius",
+      "species_name": "Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -45294,6 +47167,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -45317,6 +47191,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -45340,6 +47215,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -45373,6 +47249,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -45396,6 +47273,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -45419,6 +47297,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -45440,13 +47319,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Explorateur souterrain Fuddler",
+      "nickname": "Fuddler",
       "species": "BOSS_CuteMole",
-      "species_name": "Explorateur souterrain Fuddler",
+      "species_name": "Fuddler",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CuteMole_icon_normal.webp",
       "level": 36,
-      "rank": 2,
+      "rank": 1,
       "is_alpha": true,
+      "is_awakened": true,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -45463,13 +47343,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -45503,6 +47384,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -45526,6 +47408,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -45549,6 +47432,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -45566,6 +47450,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -45589,6 +47474,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -45605,13 +47491,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Conquérant bleu-doux Ice Kingpaca",
+      "nickname": "Ice Kingpaca",
       "species": "BOSS_KingAlpaca_Ice",
-      "species_name": "Conquérant bleu-doux Ice Kingpaca",
+      "species_name": "Ice Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_Ice_icon_normal.webp",
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -45640,6 +47527,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -45663,6 +47551,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -45686,6 +47575,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -45703,6 +47593,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -45734,13 +47625,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Penking Lux (Boss)",
+      "nickname": "Penking Lux",
       "species": "BOSS_CaptainPenguin_Black",
-      "species_name": "Penking Lux (Boss)",
+      "species_name": "Penking Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_Black_icon_normal.webp",
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -45769,6 +47661,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -45797,6 +47690,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -45820,6 +47714,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -45843,6 +47738,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -45866,6 +47762,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -45899,6 +47796,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -45932,6 +47830,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -45955,6 +47854,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -45978,6 +47878,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -46006,6 +47907,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -46029,6 +47931,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -46052,6 +47955,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -46075,6 +47979,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -46108,6 +48013,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -46131,6 +48037,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -46154,6 +48061,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -46177,6 +48085,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -46203,13 +48112,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Bête dévoreuse de lave Reptyro",
+      "nickname": "Reptyro",
       "species": "BOSS_VolcanicMonster",
-      "species_name": "Bête dévoreuse de lave Reptyro",
+      "species_name": "Reptyro",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanicMonster_icon_normal.webp",
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -46238,6 +48148,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -46254,13 +48165,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Fanatique d'explosions Tocotoco",
+      "nickname": "Tocotoco",
       "species": "BOSS_ColorfulBird",
-      "species_name": "Fanatique d'explosions Tocotoco",
+      "species_name": "Tocotoco",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ColorfulBird_icon_normal.webp",
       "level": 51,
-      "rank": 4,
+      "rank": 3,
       "is_alpha": true,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -46289,6 +48201,7 @@ window.PALWORLD_DATA = {
       "level": 20,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -46312,6 +48225,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -46335,6 +48249,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -46363,6 +48278,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -46379,13 +48295,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -46419,6 +48336,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -46442,6 +48360,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -46465,6 +48384,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -46486,13 +48406,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Ghangler Ignis (Boss)",
+      "nickname": "Ghangler Ignis",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "species_name": "Ghangler Ignis (Boss)",
+      "species_name": "Ghangler Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostAnglerfish_Fire_icon_normal.webp",
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -46521,6 +48442,7 @@ window.PALWORLD_DATA = {
       "level": 21,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -46549,6 +48471,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -46572,6 +48495,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -46588,13 +48512,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pégase des ombres légendaire Frostallion Noct",
+      "nickname": "Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Pégase des ombres légendaire Frostallion Noct",
+      "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -46628,6 +48553,7 @@ window.PALWORLD_DATA = {
       "level": 22,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -46644,13 +48570,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tetroise Primo (Boss)",
+      "nickname": "Tetroise Primo",
       "species": "BOSS_CubeTurtle_Neutral",
-      "species_name": "Tetroise Primo (Boss)",
+      "species_name": "Tetroise Primo",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CubeTurtle_Neutral_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -46667,13 +48594,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -46707,6 +48635,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -46735,6 +48664,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -46758,6 +48688,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -46781,6 +48712,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -46804,6 +48736,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -46821,6 +48754,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -46844,6 +48778,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -46867,6 +48802,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -46890,6 +48826,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -46913,6 +48850,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -46941,6 +48879,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -46964,6 +48903,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -46987,6 +48927,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -47015,6 +48956,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -47043,6 +48985,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -47066,6 +49009,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -47089,6 +49033,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -47105,13 +49050,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -47143,13 +49089,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Ghangler Ignis (Boss)",
+      "nickname": "Ghangler Ignis",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "species_name": "Ghangler Ignis (Boss)",
+      "species_name": "Ghangler Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostAnglerfish_Fire_icon_normal.webp",
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -47178,6 +49125,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -47206,6 +49154,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -47229,6 +49178,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -47252,6 +49202,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 43,
         "melee": 0,
@@ -47280,6 +49231,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -47303,6 +49255,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -47326,6 +49279,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -47349,6 +49303,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -47387,6 +49342,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -47415,6 +49371,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -47443,6 +49400,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -47466,6 +49424,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -47483,6 +49442,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -47506,6 +49466,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -47522,13 +49483,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Sootseer (Boss)",
+      "nickname": "Sootseer",
       "species": "BOSS_CandleGhost",
-      "species_name": "Sootseer (Boss)",
+      "species_name": "Sootseer",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CandleGhost_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -47552,6 +49514,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -47575,6 +49538,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -47592,6 +49556,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -47615,6 +49580,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -47638,6 +49604,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -47661,6 +49628,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -47678,6 +49646,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -47701,6 +49670,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -47724,6 +49694,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -47747,6 +49718,7 @@ window.PALWORLD_DATA = {
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -47770,6 +49742,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -47793,6 +49766,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -47809,13 +49783,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tyran du purgatoire Blazamut",
+      "nickname": "Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Tyran du purgatoire Blazamut",
+      "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -47844,6 +49819,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -47867,6 +49843,7 @@ window.PALWORLD_DATA = {
       "level": 29,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -47890,6 +49867,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -47907,6 +49885,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -47923,13 +49902,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Pionnier des mers gelées Penking",
+      "nickname": "Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Pionnier des mers gelées Penking",
+      "species_name": "Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -47958,6 +49938,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -47974,13 +49955,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Starryon (Boss)",
+      "nickname": "Starryon",
       "species": "BOSS_NightBlueHorse",
-      "species_name": "Starryon (Boss)",
+      "species_name": "Starryon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_NightBlueHorse_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -47997,13 +49979,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "fr_Text en_text",
+      "nickname": "en_text",
       "species": "BOSS_WingGolem",
-      "species_name": "fr_Text en_text",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -48027,6 +50010,7 @@ window.PALWORLD_DATA = {
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -48050,6 +50034,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -48076,13 +50061,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Pionnier des mers gelées Penking",
+      "nickname": "Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Pionnier des mers gelées Penking",
+      "species_name": "Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 62,
         "melee": 0,
@@ -48111,6 +50097,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -48132,13 +50119,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Croajiro Noct (Boss)",
+      "nickname": "Croajiro Noct",
       "species": "BOSS_KendoFrog_Dark",
-      "species_name": "Croajiro Noct (Boss)",
+      "species_name": "Croajiro Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KendoFrog_Dark_icon_normal.webp",
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -48172,6 +50160,7 @@ window.PALWORLD_DATA = {
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -48188,13 +50177,14 @@ window.PALWORLD_DATA = {
       "owner": "inconnu"
     },
     {
-      "nickname": "Chevalier saint légendaire Paladius",
+      "nickname": "Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Chevalier saint légendaire Paladius",
+      "species_name": "Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -48228,6 +50218,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 34,
         "melee": 0,
@@ -48244,13 +50235,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Impératrice du lys Lyleen",
+      "nickname": "Lyleen",
       "species": "BOSS_LilyQueen",
-      "species_name": "Impératrice du lys Lyleen",
+      "species_name": "Lyleen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LilyQueen_icon_normal.webp",
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -48272,13 +50264,14 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Neptilius (Boss)",
+      "nickname": "Neptilius",
       "species": "BOSS_PoseidonOrca",
-      "species_name": "Neptilius (Boss)",
+      "species_name": "Neptilius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PoseidonOrca_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -48312,6 +50305,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -48335,6 +50329,7 @@ window.PALWORLD_DATA = {
       "level": 9,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -48351,13 +50346,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pionnier des mers gelées Penking",
+      "nickname": "Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Pionnier des mers gelées Penking",
+      "species_name": "Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -48389,13 +50385,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Dualith (Boss)",
+      "nickname": "Dualith",
       "species": "BOSS_GrassGolem",
-      "species_name": "Dualith (Boss)",
+      "species_name": "Dualith",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassGolem_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -48424,6 +50421,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -48452,6 +50450,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -48475,6 +50474,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 45,
         "melee": 0,
@@ -48498,6 +50498,7 @@ window.PALWORLD_DATA = {
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -48521,6 +50522,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -48544,6 +50546,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -48572,6 +50575,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -48600,6 +50604,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -48623,6 +50628,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -48639,13 +50645,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Pégase des ombres légendaire Frostallion Noct",
+      "nickname": "Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Pégase des ombres légendaire Frostallion Noct",
+      "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -48679,6 +50686,7 @@ window.PALWORLD_DATA = {
       "level": 27,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -48702,6 +50710,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -48719,6 +50728,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -48736,6 +50746,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -48759,6 +50770,7 @@ window.PALWORLD_DATA = {
       "level": 19,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -48787,6 +50799,7 @@ window.PALWORLD_DATA = {
       "level": 24,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -48815,6 +50828,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -48838,6 +50852,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -48866,6 +50881,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -48883,6 +50899,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -48906,6 +50923,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -48929,6 +50947,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -48957,6 +50976,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -48980,6 +51000,7 @@ window.PALWORLD_DATA = {
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -49003,6 +51024,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -49026,6 +51048,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -49049,6 +51072,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -49059,13 +51083,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -49104,6 +51129,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -49127,6 +51153,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -49160,6 +51187,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -49183,6 +51211,7 @@ window.PALWORLD_DATA = {
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 7,
         "melee": 0,
@@ -49211,6 +51240,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -49234,6 +51264,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -49257,6 +51288,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -49290,6 +51322,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -49313,6 +51346,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -49336,6 +51370,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -49352,13 +51387,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Cheval vif des sables chauds Pyrin",
+      "nickname": "Pyrin",
       "species": "BOSS_FireKirin",
-      "species_name": "Cheval vif des sables chauds Pyrin",
+      "species_name": "Pyrin",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FireKirin_icon_normal.webp",
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -49382,6 +51418,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -49405,6 +51442,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -49428,6 +51466,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -49451,6 +51490,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -49474,6 +51514,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -49507,6 +51548,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 91,
         "melee": 0,
@@ -49530,6 +51572,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -49553,6 +51596,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -49586,6 +51630,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -49609,6 +51654,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -49632,6 +51678,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -49660,6 +51707,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -49688,6 +51736,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -49698,13 +51747,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Calamité de lave Kelpsea Ignis",
+      "nickname": "Kelpsea Ignis",
       "species": "BOSS_Kelpie_Fire",
-      "species_name": "Calamité de lave Kelpsea Ignis",
+      "species_name": "Kelpsea Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_Fire_icon_normal.webp",
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -49733,6 +51783,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -49771,6 +51822,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -49787,13 +51839,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 63,
         "melee": 0,
@@ -49827,6 +51880,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -49850,6 +51904,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -49873,6 +51928,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -49896,6 +51952,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -49924,6 +51981,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -49940,13 +51998,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -49980,6 +52039,7 @@ window.PALWORLD_DATA = {
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -49996,13 +52056,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Calamité de lave Kelpsea Ignis",
+      "nickname": "Kelpsea Ignis",
       "species": "BOSS_Kelpie_Fire",
-      "species_name": "Calamité de lave Kelpsea Ignis",
+      "species_name": "Kelpsea Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_Fire_icon_normal.webp",
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 66,
         "melee": 0,
@@ -50031,6 +52092,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 100,
         "melee": 0,
@@ -50054,6 +52116,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -50071,6 +52134,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -50087,13 +52151,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -50120,13 +52185,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Crocs enragés Mammorest",
+      "nickname": "Mammorest",
       "species": "BOSS_GrassMammoth",
-      "species_name": "Crocs enragés Mammorest",
+      "species_name": "Mammorest",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassMammoth_icon_normal.webp",
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -50155,6 +52221,7 @@ window.PALWORLD_DATA = {
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -50178,6 +52245,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -50195,6 +52263,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -50218,6 +52287,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -50241,6 +52311,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -50257,13 +52328,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Penking Lux (Boss)",
+      "nickname": "Penking Lux",
       "species": "BOSS_CaptainPenguin_Black",
-      "species_name": "Penking Lux (Boss)",
+      "species_name": "Penking Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_Black_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -50292,6 +52364,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -50315,6 +52388,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -50338,6 +52412,7 @@ window.PALWORLD_DATA = {
       "level": 43,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -50361,6 +52436,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -50382,13 +52458,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Munchill (Boss)",
+      "nickname": "Munchill",
       "species": "BOSS_IceCrocodile",
-      "species_name": "Munchill (Boss)",
+      "species_name": "Munchill",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceCrocodile_icon_normal.webp",
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -50417,6 +52494,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -50433,13 +52511,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Neptilius (Boss)",
+      "nickname": "Neptilius",
       "species": "BOSS_PoseidonOrca",
-      "species_name": "Neptilius (Boss)",
+      "species_name": "Neptilius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PoseidonOrca_icon_normal.webp",
       "level": 70,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 51,
         "melee": 0,
@@ -50473,6 +52552,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -50490,6 +52570,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -50506,13 +52587,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Pégase des glaces légendaire Frostallion",
+      "nickname": "Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Pégase des glaces légendaire Frostallion",
+      "species_name": "Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -50546,6 +52628,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -50567,13 +52650,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Foxparks Cryst (Boss)",
+      "nickname": "Foxparks Cryst",
       "species": "BOSS_Kitsunebi_Ice",
-      "species_name": "Foxparks Cryst (Boss)",
+      "species_name": "Foxparks Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kitsunebi_Ice_icon_normal.webp",
       "level": 57,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -50597,6 +52681,7 @@ window.PALWORLD_DATA = {
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 21,
         "melee": 0,
@@ -50625,6 +52710,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -50648,6 +52734,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -50671,6 +52758,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -50687,13 +52775,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -50727,6 +52816,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -50750,6 +52840,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 47,
         "melee": 0,
@@ -50778,6 +52869,7 @@ window.PALWORLD_DATA = {
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -50806,6 +52898,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -50829,6 +52922,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -50852,6 +52946,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -50869,6 +52964,7 @@ window.PALWORLD_DATA = {
       "level": 58,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -50892,6 +52988,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -50915,6 +53012,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 3,
         "melee": 0,
@@ -50938,6 +53036,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 24,
         "melee": 0,
@@ -50961,6 +53060,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -50984,6 +53084,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 26,
         "melee": 0,
@@ -51007,6 +53108,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -51030,6 +53132,7 @@ window.PALWORLD_DATA = {
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 12,
         "melee": 0,
@@ -51058,6 +53161,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -51081,6 +53185,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -51098,6 +53203,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -51131,6 +53237,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -51154,6 +53261,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -51170,13 +53278,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -51210,6 +53319,7 @@ window.PALWORLD_DATA = {
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -51233,6 +53343,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -51256,6 +53367,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -51284,6 +53396,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 16,
         "melee": 0,
@@ -51307,6 +53420,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 52,
         "melee": 0,
@@ -51335,6 +53449,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 44,
         "melee": 0,
@@ -51358,6 +53473,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 37,
         "melee": 0,
@@ -51381,6 +53497,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -51398,6 +53515,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -51424,13 +53542,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Roi dragon d'acier Astegon",
+      "nickname": "Astegon",
       "species": "BOSS_BlackMetalDragon",
-      "species_name": "Roi dragon d'acier Astegon",
+      "species_name": "Astegon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackMetalDragon_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -51459,6 +53578,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -51482,6 +53602,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -51505,6 +53626,7 @@ window.PALWORLD_DATA = {
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -51528,6 +53650,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -51556,6 +53679,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 0,
         "melee": 0,
@@ -51584,6 +53708,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -51600,13 +53725,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Ailes des enfers Helzephyr",
+      "nickname": "Helzephyr",
       "species": "BOSS_HadesBird",
-      "species_name": "Ailes des enfers Helzephyr",
+      "species_name": "Helzephyr",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HadesBird_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 96,
         "melee": 0,
@@ -51630,6 +53756,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -51653,6 +53780,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -51686,6 +53814,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -51702,13 +53831,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -51732,6 +53862,7 @@ window.PALWORLD_DATA = {
       "level": 54,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 73,
         "melee": 0,
@@ -51755,6 +53886,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -51771,13 +53903,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Penking Lux (Boss)",
+      "nickname": "Penking Lux",
       "species": "BOSS_CaptainPenguin_Black",
-      "species_name": "Penking Lux (Boss)",
+      "species_name": "Penking Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_Black_icon_normal.webp",
       "level": 53,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -51799,13 +53932,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Katress Ignis (Boss)",
+      "nickname": "Katress Ignis",
       "species": "BOSS_CatMage_Fire",
-      "species_name": "Katress Ignis (Boss)",
+      "species_name": "Katress Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatMage_Fire_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -51829,6 +53963,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -51852,6 +53987,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 35,
         "melee": 0,
@@ -51880,6 +54016,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 13,
         "melee": 0,
@@ -51903,6 +54040,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -51919,13 +54057,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Warsect Terra (Boss)",
+      "nickname": "Warsect Terra",
       "species": "BOSS_HerculesBeetle_Ground",
-      "species_name": "Warsect Terra (Boss)",
+      "species_name": "Warsect Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HerculesBeetle_Ground_icon_normal.webp",
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -51947,13 +54086,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Tyran du purgatoire Blazamut",
+      "nickname": "Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Tyran du purgatoire Blazamut",
+      "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -51982,6 +54122,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -51999,6 +54140,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -52022,6 +54164,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 90,
         "melee": 0,
@@ -52032,13 +54175,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Conquérant de la surface Jormuntide",
+      "nickname": "Jormuntide",
       "species": "BOSS_Umihebi",
-      "species_name": "Conquérant de la surface Jormuntide",
+      "species_name": "Jormuntide",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Umihebi_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -52072,6 +54216,7 @@ window.PALWORLD_DATA = {
       "level": 48,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 27,
         "melee": 0,
@@ -52095,6 +54240,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 36,
         "melee": 0,
@@ -52111,13 +54257,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Gardien du soleil ténébreux Anubis",
+      "nickname": "Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Gardien du soleil ténébreux Anubis",
+      "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -52139,13 +54286,14 @@ window.PALWORLD_DATA = {
       "owner": "inconnu"
     },
     {
-      "nickname": "Croajiro Noct (Boss)",
+      "nickname": "Croajiro Noct",
       "species": "BOSS_KendoFrog_Dark",
-      "species_name": "Croajiro Noct (Boss)",
+      "species_name": "Croajiro Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KendoFrog_Dark_icon_normal.webp",
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 64,
         "melee": 0,
@@ -52174,6 +54322,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -52197,6 +54346,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -52220,6 +54370,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -52248,6 +54399,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 25,
         "melee": 0,
@@ -52271,6 +54423,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -52299,6 +54452,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 49,
         "melee": 0,
@@ -52320,13 +54474,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Roi éthéré Suzaku",
+      "nickname": "Suzaku",
       "species": "BOSS_Suzaku",
-      "species_name": "Roi éthéré Suzaku",
+      "species_name": "Suzaku",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Suzaku_icon_normal.webp",
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -52350,6 +54505,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -52373,6 +54529,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -52396,6 +54553,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -52419,6 +54577,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 93,
         "melee": 0,
@@ -52436,6 +54595,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 6,
         "melee": 0,
@@ -52459,6 +54619,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 9,
         "melee": 0,
@@ -52476,6 +54637,7 @@ window.PALWORLD_DATA = {
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -52499,6 +54661,7 @@ window.PALWORLD_DATA = {
       "level": 26,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -52522,6 +54685,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -52545,6 +54709,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 56,
         "melee": 0,
@@ -52568,6 +54733,7 @@ window.PALWORLD_DATA = {
       "level": 4,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 94,
         "melee": 0,
@@ -52591,6 +54757,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 23,
         "melee": 0,
@@ -52614,6 +54781,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -52630,13 +54798,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Pierdon Cryst (Boss)",
+      "nickname": "Pierdon Cryst",
       "species": "BOSS_RockBeast_Ice",
-      "species_name": "Pierdon Cryst (Boss)",
+      "species_name": "Pierdon Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RockBeast_Ice_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -52670,6 +54839,7 @@ window.PALWORLD_DATA = {
       "level": 47,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -52693,6 +54863,7 @@ window.PALWORLD_DATA = {
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -52716,6 +54887,7 @@ window.PALWORLD_DATA = {
       "level": 63,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -52733,6 +54905,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -52756,6 +54929,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -52779,6 +54953,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -52802,6 +54977,7 @@ window.PALWORLD_DATA = {
       "level": 34,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -52825,6 +55001,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -52853,6 +55030,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 1,
         "melee": 0,
@@ -52876,6 +55054,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 20,
         "melee": 0,
@@ -52899,6 +55078,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 67,
         "melee": 0,
@@ -52922,6 +55102,7 @@ window.PALWORLD_DATA = {
       "level": 30,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -52945,6 +55126,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -52968,6 +55150,7 @@ window.PALWORLD_DATA = {
       "level": 8,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 31,
         "melee": 0,
@@ -53006,6 +55189,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 42,
         "melee": 0,
@@ -53029,6 +55213,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -53057,6 +55242,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -53080,6 +55266,7 @@ window.PALWORLD_DATA = {
       "level": 64,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -53103,6 +55290,7 @@ window.PALWORLD_DATA = {
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 28,
         "melee": 0,
@@ -53126,6 +55314,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 10,
         "melee": 0,
@@ -53142,13 +55331,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Moldron (Boss)",
+      "nickname": "Moldron",
       "species": "BOSS_VolcanoDragon",
-      "species_name": "Moldron (Boss)",
+      "species_name": "Moldron",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanoDragon_icon_normal.webp",
       "level": 70,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 68,
         "melee": 0,
@@ -53177,6 +55367,7 @@ window.PALWORLD_DATA = {
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 89,
         "melee": 0,
@@ -53193,13 +55384,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Solmora Lux (Boss)",
+      "nickname": "Solmora Lux",
       "species": "BOSS_KingSunfish_Thunder",
-      "species_name": "Solmora Lux (Boss)",
+      "species_name": "Solmora Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingSunfish_Thunder_icon_normal.webp",
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -53233,6 +55425,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -53256,6 +55449,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 18,
         "melee": 0,
@@ -53273,6 +55467,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 83,
         "melee": 0,
@@ -53289,13 +55484,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -53312,13 +55508,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dumud Gild (Boss)",
+      "nickname": "Dumud Gild",
       "species": "BOSS_LazyCatfish_Gold",
-      "species_name": "Dumud Gild (Boss)",
+      "species_name": "Dumud Gild",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LazyCatfish_Gold_icon_normal.webp",
       "level": 50,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -53342,6 +55539,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 15,
         "melee": 0,
@@ -53370,6 +55568,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -53393,6 +55592,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -53416,6 +55616,7 @@ window.PALWORLD_DATA = {
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 61,
         "melee": 0,
@@ -53444,6 +55645,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 41,
         "melee": 0,
@@ -53465,13 +55667,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Gloopie (Boss)",
+      "nickname": "Gloopie",
       "species": "BOSS_OctopusGirl",
-      "species_name": "Gloopie (Boss)",
+      "species_name": "Gloopie",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_OctopusGirl_icon_normal.webp",
       "level": 1,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 50,
         "melee": 0,
@@ -53500,6 +55703,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -53516,13 +55720,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Solmora Lux (Boss)",
+      "nickname": "Solmora Lux",
       "species": "BOSS_KingSunfish_Thunder",
-      "species_name": "Solmora Lux (Boss)",
+      "species_name": "Solmora Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingSunfish_Thunder_icon_normal.webp",
       "level": 66,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 57,
         "melee": 0,
@@ -53539,13 +55744,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dualith Noct (Boss)",
+      "nickname": "Dualith Noct",
       "species": "BOSS_GrassGolem_Dark",
-      "species_name": "Dualith Noct (Boss)",
+      "species_name": "Dualith Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassGolem_Dark_icon_normal.webp",
       "level": 70,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -53567,13 +55773,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tyran du purgatoire Blazamut",
+      "nickname": "Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Tyran du purgatoire Blazamut",
+      "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 52,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 60,
         "melee": 0,
@@ -53602,6 +55809,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 5,
         "melee": 0,
@@ -53618,13 +55826,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle Terra (Boss)",
+      "nickname": "Turtacle Terra",
       "species": "BOSS_TentacleTurtle_Ground",
-      "species_name": "Turtacle Terra (Boss)",
+      "species_name": "Turtacle Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_Ground_icon_normal.webp",
       "level": 45,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 88,
         "melee": 0,
@@ -53651,13 +55860,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 87,
         "melee": 0,
@@ -53686,6 +55896,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 33,
         "melee": 0,
@@ -53709,6 +55920,7 @@ window.PALWORLD_DATA = {
       "level": 35,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -53732,6 +55944,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 78,
         "melee": 0,
@@ -53755,6 +55968,7 @@ window.PALWORLD_DATA = {
       "level": 31,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 85,
         "melee": 0,
@@ -53771,13 +55985,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Pégase des ombres légendaire Frostallion Noct",
+      "nickname": "Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Pégase des ombres légendaire Frostallion Noct",
+      "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 72,
         "melee": 0,
@@ -53811,6 +56026,7 @@ window.PALWORLD_DATA = {
       "level": 5,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -53834,6 +56050,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 4,
         "melee": 0,
@@ -53867,6 +56084,7 @@ window.PALWORLD_DATA = {
       "level": 36,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 30,
         "melee": 0,
@@ -53900,6 +56118,7 @@ window.PALWORLD_DATA = {
       "level": 33,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -53917,6 +56136,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 99,
         "melee": 0,
@@ -53940,6 +56160,7 @@ window.PALWORLD_DATA = {
       "level": 37,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 29,
         "melee": 0,
@@ -53968,6 +56189,7 @@ window.PALWORLD_DATA = {
       "level": 42,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 79,
         "melee": 0,
@@ -53991,6 +56213,7 @@ window.PALWORLD_DATA = {
       "level": 44,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 17,
         "melee": 0,
@@ -54024,6 +56247,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 84,
         "melee": 0,
@@ -54047,6 +56271,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 55,
         "melee": 0,
@@ -54064,6 +56289,7 @@ window.PALWORLD_DATA = {
       "level": 41,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 46,
         "melee": 0,
@@ -54087,6 +56313,7 @@ window.PALWORLD_DATA = {
       "level": 39,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 80,
         "melee": 0,
@@ -54110,6 +56337,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 32,
         "melee": 0,
@@ -54133,6 +56361,7 @@ window.PALWORLD_DATA = {
       "level": 32,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 19,
         "melee": 0,
@@ -54156,6 +56385,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 39,
         "melee": 0,
@@ -54173,6 +56403,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 65,
         "melee": 0,
@@ -54196,6 +56427,7 @@ window.PALWORLD_DATA = {
       "level": 65,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 38,
         "melee": 0,
@@ -54212,13 +56444,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Chevalier noir légendaire Necromus",
+      "nickname": "Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Chevalier noir légendaire Necromus",
+      "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 92,
         "melee": 0,
@@ -54240,13 +56473,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Chevalier saint légendaire Paladius",
+      "nickname": "Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Chevalier saint légendaire Paladius",
+      "species_name": "Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 81,
         "melee": 0,
@@ -54273,13 +56507,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dumud Gild (Boss)",
+      "nickname": "Dumud Gild",
       "species": "BOSS_LazyCatfish_Gold",
-      "species_name": "Dumud Gild (Boss)",
+      "species_name": "Dumud Gild",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LazyCatfish_Gold_icon_normal.webp",
       "level": 49,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 86,
         "melee": 0,
@@ -54301,13 +56536,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Ophydia (Boss)",
+      "nickname": "Ophydia",
       "species": "BOSS_LotusDragon",
-      "species_name": "Ophydia (Boss)",
+      "species_name": "Ophydia",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LotusDragon_icon_normal.webp",
       "level": 69,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 82,
         "melee": 0,
@@ -54331,6 +56567,7 @@ window.PALWORLD_DATA = {
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 69,
         "melee": 0,
@@ -54369,6 +56606,7 @@ window.PALWORLD_DATA = {
       "level": 40,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 97,
         "melee": 0,
@@ -54385,13 +56623,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -54413,13 +56652,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Gardien du soleil ténébreux Anubis",
+      "nickname": "Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Gardien du soleil ténébreux Anubis",
+      "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 77,
         "melee": 0,
@@ -54441,13 +56681,14 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Ghangler Ignis (Boss)",
+      "nickname": "Ghangler Ignis",
       "species": "BOSS_GhostAnglerFish_Fire",
-      "species_name": "Ghangler Ignis (Boss)",
+      "species_name": "Ghangler Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostAnglerfish_Fire_icon_normal.webp",
       "level": 59,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
@@ -54464,13 +56705,14 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Neptilius (Boss)",
+      "nickname": "Neptilius",
       "species": "BOSS_PoseidonOrca",
-      "species_name": "Neptilius (Boss)",
+      "species_name": "Neptilius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PoseidonOrca_icon_normal.webp",
       "level": 62,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 71,
         "melee": 0,
@@ -54497,13 +56739,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 61,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 74,
         "melee": 0,
@@ -54537,6 +56780,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 95,
         "melee": 0,
@@ -54560,6 +56804,7 @@ window.PALWORLD_DATA = {
       "level": 25,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 98,
         "melee": 0,
@@ -54576,13 +56821,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Ghangler (Boss)",
+      "nickname": "Ghangler",
       "species": "BOSS_GhostAnglerFish",
-      "species_name": "Ghangler (Boss)",
+      "species_name": "Ghangler",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostAnglerfish_icon_normal.webp",
       "level": 68,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -54611,6 +56857,7 @@ window.PALWORLD_DATA = {
       "level": 38,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 8,
         "melee": 0,
@@ -54632,13 +56879,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Polapup (Boss)",
+      "nickname": "Polapup",
       "species": "BOSS_IceSeal",
-      "species_name": "Polapup (Boss)",
+      "species_name": "Polapup",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceSeal_icon_normal.webp",
       "level": 56,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 59,
         "melee": 0,
@@ -54662,6 +56910,7 @@ window.PALWORLD_DATA = {
       "level": 67,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 70,
         "melee": 0,
@@ -54685,6 +56934,7 @@ window.PALWORLD_DATA = {
       "level": 23,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 58,
         "melee": 0,
@@ -54695,13 +56945,14 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Azurobe Cryst (Boss)",
+      "nickname": "Azurobe Cryst",
       "species": "BOSS_BlueDragon_Ice",
-      "species_name": "Azurobe Cryst (Boss)",
+      "species_name": "Azurobe Cryst",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_Ice_icon_normal.webp",
       "level": 51,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 54,
         "melee": 0,
@@ -54730,6 +56981,7 @@ window.PALWORLD_DATA = {
       "level": 46,
       "rank": 0,
       "is_alpha": false,
+      "is_awakened": false,
       "talents": {
         "hp": 53,
         "melee": 0,
