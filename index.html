@@ -133,6 +133,22 @@
   .roadmap{background:var(--panel); border:1px dashed var(--line); border-radius:var(--radius); padding:20px 22px; color:var(--muted); font-size:14px;}
   .roadmap b{color:var(--text);}
 
+  .records-grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:16px;}
+  .record-card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:18px 20px;}
+  .record-card h3{font-size:15px; margin:0 0 4px;}
+  .record-card .record-sub{color:var(--muted); font-size:12px; margin:0 0 12px;}
+  .record-card ol{list-style:none; margin:0; padding:0; counter-reset:rec;}
+  .record-card ol li{
+    counter-increment:rec; display:flex; justify-content:space-between; align-items:center;
+    padding:8px 0; border-bottom:1px solid var(--line); font-size:14px;
+  }
+  .record-card ol li:last-child{border-bottom:none;}
+  .record-card ol li::before{
+    content:counter(rec); width:20px; color:var(--muted); font-family:'JetBrains Mono', monospace; font-size:12px;
+  }
+  .record-card ol li .rec-name{flex:1; font-weight:600; margin-left:4px;}
+  .record-card ol li .rec-val{font-family:'JetBrains Mono', monospace; color:var(--accent); font-size:13px;}
+
   footer{margin-top:56px; padding-top:18px; border-top:1px solid var(--line); text-align:center; color:var(--muted); font-size:12px; font-family:'JetBrains Mono', monospace;}
 
   @media (max-width:600px){
@@ -191,13 +207,18 @@
   <section id="records-section">
     <div class="section-head">
       <h2>Records</h2>
-      <p>Morts, captures, dégâts infligés.</p>
+      <p>Le jeu ne garde pas de compteur de kills/morts/dégâts dans la sauvegarde — voici ce qu'on peut calculer à partir des équipes actuelles.</p>
     </div>
-    <div class="roadmap" id="records-box">
-      Le jeu ne garde pas de compteur de kills/captures dans la sauvegarde — cette section
-      s'activera si on branche un <b>tracker d'évènements</b> (mod côté serveur) qui commence
-      à compter à partir de sa mise en place. En attendant, le classement des Pals ci-dessus
-      se base sur leur niveau, leur rang et leurs talents.
+    <div class="records-grid">
+      <div class="record-card">
+        <h3>Plus de Pals</h3>
+        <ol id="record-most-pals"></ol>
+      </div>
+      <div class="record-card">
+        <h3>Équipe la plus puissante</h3>
+        <p class="record-sub">Somme des PV+ATQ+DEF calculés de tous les Pals</p>
+        <ol id="record-strongest-team"></ol>
+      </div>
     </div>
   </section>
 
@@ -316,8 +337,17 @@
     return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
 
+  function renderRecordList(elId, entries, key, formatVal){
+    const el = document.getElementById(elId);
+    if (!el) return;
+    el.innerHTML = (entries || []).slice(0, 5).map(e => `
+      <li><span class="rec-name">${escapeHtml(e.owner)}</span><span class="rec-val">${formatVal(e[key])}</span></li>
+    `).join('') || '<li style="color:var(--muted)">Pas de données.</li>';
+  }
+
   if (D.records) {
-    document.getElementById('records-box').textContent = JSON.stringify(D.records);
+    renderRecordList('record-most-pals', D.records.most_pals, 'pal_count', v => `${v} Pals`);
+    renderRecordList('record-strongest-team', D.records.strongest_team, 'total_power', v => v.toLocaleString('fr-FR'));
   }
 })();
 </script>

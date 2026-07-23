@@ -418,6 +418,12 @@ def parse_characters(save_path, online_players):
     # d'octets brut non decode plutot que d'etre parse en objet exploitable.
     gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
 
+    # Diagnostic temporaire : on cherche s'il existe quelque part un compteur
+    # de kills/morts/degats -- aucune piste trouvee dans la documentation
+    # disponible jusqu'ici, donc on regarde la structure reelle de la save.
+    print(f"[parse_characters] cles racine gvas.properties : {sorted(gvas.properties.keys())}")
+    print(f"[parse_characters] cles worldSaveData : {sorted(gvas.properties['worldSaveData']['value'].keys())}")
+
     char_map = gvas.properties["worldSaveData"]["value"]["CharacterSaveParameterMap"]["value"]
 
     online_by_uid = {_normalize_uid(p["playerId"]): p for p in online_players}
@@ -512,6 +518,32 @@ def parse_characters(save_path, online_players):
     return players, pals
 
 
+def build_records(pals):
+    """
+    Le jeu ne garde pas de compteur de kills/morts/degats dans la
+    sauvegarde (aucune trace trouvee malgre plusieurs recherches) -- ces
+    "records" sont donc calcules a partir de ce qu'on a reellement :
+    la composition actuelle des equipes de Pals. Pas des totaux depuis
+    toujours (un Pal libere/mort disparaitrait du compte), juste un
+    instantane a l'heure de generation.
+    """
+    by_owner = {}
+    for pal in pals:
+        owner = pal.get("owner", "inconnu")
+        entry = by_owner.setdefault(owner, {"owner": owner, "pal_count": 0, "total_power": 0})
+        entry["pal_count"] += 1
+        ps = pal.get("power_stats")
+        if ps:
+            entry["total_power"] += ps["hp"] + ps["atk"] + ps["def"]
+
+    most_pals = sorted(by_owner.values(), key=lambda e: e["pal_count"], reverse=True)
+    strongest_team = sorted(by_owner.values(), key=lambda e: e["total_power"], reverse=True)
+    return {
+        "most_pals": [{"owner": e["owner"], "pal_count": e["pal_count"]} for e in most_pals],
+        "strongest_team": [{"owner": e["owner"], "total_power": e["total_power"]} for e in strongest_team],
+    }
+
+
 def main():
     server, online_players = fetch_server_info_and_players()
 
@@ -534,7 +566,7 @@ def main():
         "server": server,
         "players": players,
         "pals": pals,
-        "records": None,
+        "records": build_records(pals) if pals else None,
     }
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
