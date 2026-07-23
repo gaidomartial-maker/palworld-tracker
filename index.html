@@ -219,6 +219,11 @@
         <p class="record-sub">Somme des PV+ATQ+DEF calculés de tous les Pals</p>
         <ol id="record-strongest-team"></ol>
       </div>
+      <div class="record-card">
+        <h3>Bonus de capture (x5)</h3>
+        <p class="record-sub">Nombre d'espèces possédées en 5 exemplaires ou plus</p>
+        <ol id="record-species-bonus"></ol>
+      </div>
     </div>
   </section>
 
@@ -348,6 +353,7 @@
   if (D.records) {
     renderRecordList('record-most-pals', D.records.most_pals, 'pal_count', v => `${v} Pals`);
     renderRecordList('record-strongest-team', D.records.strongest_team, 'total_power', v => v.toLocaleString('fr-FR'));
+    renderRecordList('record-species-bonus', D.records.species_bonus, 'species_bonus_count', v => `${v} espèces`);
   }
 })();
 </script>

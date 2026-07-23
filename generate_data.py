@@ -226,6 +226,56 @@ def download_save_file(local_path="Level.sav"):
     return local_path
 
 
+def diagnose_player_save_structure():
+    """
+    Diagnostic temporaire : le temps de jeu et le nombre de morts par joueur
+    ne sont pas dans Level.sav (verifie -- pas de champ de ce genre dans les
+    cles SaveParameter des Pals/joueurs qu'on lit deja). Ces infos sont
+    probablement dans les fichiers individuels Players/<uid>.sav, qu'on ne
+    telecharge pas actuellement. On liste ce dossier et on inspecte un
+    fichier pour voir sa vraie structure avant d'ecrire le code definitif.
+    """
+    idx = SFTP_SAVE_PATH.rfind("/")
+    if idx == -1:
+        print("[diag] impossible de deduire le dossier Players/ depuis SFTP_SAVE_PATH")
+        return
+    folder = SFTP_SAVE_PATH[:idx] + "/Players"
+
+    try:
+        transport = paramiko.Transport((SFTP_HOST, SFTP_PORT))
+        transport.connect(username=SFTP_USER, password=SFTP_PASSWORD)
+        sftp = paramiko.SFTPClient.from_transport(transport)
+        files = sftp.listdir(folder)
+        print(f"[diag] dossier {folder} : {files}")
+
+        sav_files = sorted(f for f in files if f.lower().endswith(".sav"))
+        if not sav_files:
+            sftp.close()
+            transport.close()
+            return
+
+        sample_name = sav_files[0]
+        local_path = "player_sample.sav"
+        sftp.get(f"{folder}/{sample_name}", local_path)
+        sftp.close()
+        transport.close()
+
+        with open(local_path, "rb") as f:
+            raw = decompress_sav(f.read())
+
+        from palsav_lite.gvas import GvasFile
+        from palsav_lite.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
+
+        gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
+        print(f"[diag] {sample_name} -- cles racine : {sorted(gvas.properties.keys())}")
+        for key, val in gvas.properties.items():
+            inner = val.get("value") if isinstance(val, dict) else None
+            if isinstance(inner, dict):
+                print(f"[diag] {sample_name} -- sous-cles de {key} : {sorted(inner.keys())}")
+    except Exception as e:
+        print(f"[diag] echec exploration Players/ : {e}")
+
+
 _oodle_lib = None
 _oodle_lib_attempted = False
 
@@ -536,11 +586,32 @@ def build_records(pals):
         if ps:
             entry["total_power"] += ps["hp"] + ps["atk"] + ps["def"]
 
+    # Bonus de capture (5x la meme espece) : on compte, par joueur, le nombre
+    # d'especes dont il possede actuellement au moins 5 exemplaires. Meme
+    # limite que ci-dessus : ca reflete la possession actuelle, pas
+    # l'historique complet si des Pals ont ete relaches/sont morts depuis.
+    species_count_by_owner = {}
+    for pal in pals:
+        owner = pal.get("owner", "inconnu")
+        species = pal.get("species", "???")
+        key = (owner, species)
+        species_count_by_owner[key] = species_count_by_owner.get(key, 0) + 1
+
+    species_bonus_by_owner = {}
+    for (owner, species), count in species_count_by_owner.items():
+        if count >= 5:
+            species_bonus_by_owner[owner] = species_bonus_by_owner.get(owner, 0) + 1
+
     most_pals = sorted(by_owner.values(), key=lambda e: e["pal_count"], reverse=True)
     strongest_team = sorted(by_owner.values(), key=lambda e: e["total_power"], reverse=True)
+    species_bonus = sorted(
+        ({"owner": owner, "species_bonus_count": n} for owner, n in species_bonus_by_owner.items()),
+        key=lambda e: e["species_bonus_count"], reverse=True,
+    )
     return {
         "most_pals": [{"owner": e["owner"], "pal_count": e["pal_count"]} for e in most_pals],
         "strongest_team": [{"owner": e["owner"], "total_power": e["total_power"]} for e in strongest_team],
+        "species_bonus": species_bonus,
     }
 
 
@@ -560,6 +631,11 @@ def main():
         import traceback
         print("AVERTISSEMENT -- lecture de Level.sav impossible pour l'instant :")
         traceback.print_exc()
+
+    try:
+        diagnose_player_save_structure()
+    except Exception as e:
+        print(f"[diag] erreur inattendue : {e}")
 
     data = {
         "generated_at": datetime.datetime.now().astimezone().isoformat(),
