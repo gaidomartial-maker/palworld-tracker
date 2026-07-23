@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T12:17:39.823116+00:00",
+  "generated_at": "2026-07-23T12:21:20.803898+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -68,12 +68,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -96,7 +96,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
@@ -124,7 +124,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
@@ -152,17 +152,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -185,7 +185,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -231,12 +231,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -259,12 +259,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -287,7 +287,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -333,7 +333,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -356,7 +356,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
@@ -384,7 +384,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -407,7 +407,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
@@ -417,7 +417,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -440,7 +440,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -463,7 +463,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -509,7 +509,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -532,7 +532,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -555,7 +555,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -578,7 +578,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         },
         {
@@ -606,7 +606,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -629,7 +629,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -652,7 +652,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -675,7 +675,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -698,7 +698,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -726,7 +726,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -749,12 +749,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -777,7 +777,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -805,7 +805,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -828,7 +828,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -851,7 +851,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -874,12 +874,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -902,12 +902,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -953,7 +953,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -976,7 +976,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -1004,16 +1004,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Lunaris (Boss)",
+      "nickname": "Visiteur venu d'ailleurs Lunaris",
       "species": "BOSS_Mutant",
-      "species_name": "Lunaris (Boss)",
+      "species_name": "Visiteur venu d'ailleurs Lunaris",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Mutant_icon_normal.webp",
       "level": 27,
       "rank": 0,
@@ -1027,7 +1027,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -1050,7 +1050,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -1119,7 +1119,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -1142,7 +1142,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -1165,12 +1165,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -1193,7 +1193,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -1256,12 +1256,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -1289,7 +1289,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -1335,7 +1335,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -1392,7 +1392,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -1438,7 +1438,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -1507,7 +1507,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -1553,7 +1553,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -1576,7 +1576,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -1725,7 +1725,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -1771,7 +1771,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -1794,7 +1794,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -1817,7 +1817,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -1840,7 +1840,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -1863,7 +1863,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -1886,7 +1886,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -1937,7 +1937,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -1960,7 +1960,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -2006,7 +2006,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -2029,7 +2029,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -2075,7 +2075,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -2108,7 +2108,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -2131,7 +2131,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -2154,7 +2154,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -2177,12 +2177,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -2205,7 +2205,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -2233,7 +2233,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -2319,7 +2319,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -2347,12 +2347,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -2426,7 +2426,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -2449,7 +2449,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -2495,7 +2495,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -2535,7 +2535,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -2558,7 +2558,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -2581,7 +2581,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -2604,7 +2604,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         },
         {
@@ -2655,12 +2655,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -2683,12 +2683,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
@@ -2739,7 +2739,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
@@ -2749,7 +2749,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -2772,12 +2772,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -2800,7 +2800,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -2823,7 +2823,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -2846,7 +2846,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -2869,7 +2869,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -2938,7 +2938,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -2962,9 +2962,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 21,
       "rank": 0,
@@ -2995,7 +2995,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -3018,7 +3018,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -3041,7 +3041,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -3071,9 +3071,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Chillet (Boss)",
+      "nickname": "Danseuse des plaines Chillet",
       "species": "BOSS_WeaselDragon",
-      "species_name": "Chillet (Boss)",
+      "species_name": "Danseuse des plaines Chillet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WeaselDragon_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -3087,7 +3087,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -3110,12 +3110,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -3207,12 +3207,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -3235,7 +3235,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -3258,7 +3258,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -3281,7 +3281,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -3373,7 +3373,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -3419,12 +3419,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -3447,7 +3447,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -3470,7 +3470,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -3493,7 +3493,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -3516,7 +3516,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
@@ -3544,7 +3544,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
@@ -3572,12 +3572,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -3605,12 +3605,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -3650,7 +3650,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -3673,7 +3673,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -3696,7 +3696,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -3719,7 +3719,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -3765,7 +3765,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -3811,7 +3811,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -3834,7 +3834,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -3949,7 +3949,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -4110,7 +4110,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
@@ -4138,7 +4138,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -4161,7 +4161,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -4184,12 +4184,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -4212,7 +4212,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -4235,16 +4235,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Chillet (Boss)",
+      "nickname": "Danseuse des plaines Chillet",
       "species": "BOSS_WeaselDragon",
-      "species_name": "Chillet (Boss)",
+      "species_name": "Danseuse des plaines Chillet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WeaselDragon_icon_normal.webp",
       "level": 18,
       "rank": 0,
@@ -4258,7 +4258,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -4281,7 +4281,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -4304,7 +4304,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -4327,7 +4327,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -4350,7 +4350,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -4373,7 +4373,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -4413,7 +4413,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -4436,12 +4436,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -4481,7 +4481,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -4504,7 +4504,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -4527,7 +4527,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -4596,7 +4596,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -4619,7 +4619,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -4642,7 +4642,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -4688,7 +4688,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -4711,7 +4711,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -4751,7 +4751,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -4820,7 +4820,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -4866,12 +4866,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -4894,7 +4894,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -4917,7 +4917,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -4963,7 +4963,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -4986,7 +4986,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -5009,7 +5009,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -5032,7 +5032,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -5124,12 +5124,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -5175,7 +5175,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -5198,7 +5198,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -5221,7 +5221,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -5267,7 +5267,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -5290,7 +5290,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -5313,7 +5313,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -5382,12 +5382,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -5433,7 +5433,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -5456,7 +5456,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -5479,7 +5479,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -5502,7 +5502,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -5525,12 +5525,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -5553,7 +5553,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -5576,17 +5576,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -5632,7 +5632,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -5678,7 +5678,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -5701,7 +5701,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -5724,7 +5724,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -5747,7 +5747,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -5770,7 +5770,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -5793,7 +5793,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -5839,7 +5839,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -5879,7 +5879,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -5925,7 +5925,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -5948,7 +5948,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -5994,7 +5994,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -6017,7 +6017,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -6074,7 +6074,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -6097,7 +6097,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         },
         {
@@ -6107,7 +6107,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -6130,7 +6130,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -6153,7 +6153,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -6176,7 +6176,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -6199,12 +6199,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -6227,7 +6227,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -6250,7 +6250,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -6273,12 +6273,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -6370,7 +6370,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -6410,7 +6410,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -6456,7 +6456,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -6496,7 +6496,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -6519,7 +6519,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -6542,7 +6542,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -6628,17 +6628,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -6707,7 +6707,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -6753,7 +6753,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -6776,7 +6776,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -6799,7 +6799,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -6822,12 +6822,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -6850,7 +6850,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -6873,7 +6873,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -6896,7 +6896,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -6919,17 +6919,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -6952,21 +6952,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Grintale (Boss)",
+      "nickname": "La Guimauve Grintale",
       "species": "BOSS_NaughtyCat",
-      "species_name": "Grintale (Boss)",
+      "species_name": "La Guimauve Grintale",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_NaughtyCat_icon_normal.webp",
       "level": 17,
       "rank": 0,
@@ -6980,7 +6980,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -7003,7 +7003,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -7026,7 +7026,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
@@ -7054,7 +7054,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         },
         {
@@ -7082,7 +7082,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -7105,7 +7105,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -7128,7 +7128,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -7151,16 +7151,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Fenglope (Boss)",
+      "nickname": "Nuage flottant Fenglope",
       "species": "BOSS_FengyunDeeper",
-      "species_name": "Fenglope (Boss)",
+      "species_name": "Nuage flottant Fenglope",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FengyunDeeper_icon_normal.webp",
       "level": 46,
       "rank": 0,
@@ -7174,7 +7174,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -7207,7 +7207,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -7230,12 +7230,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -7275,7 +7275,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -7298,7 +7298,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -7321,7 +7321,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -7344,12 +7344,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -7395,7 +7395,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -7418,7 +7418,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -7441,7 +7441,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -7481,7 +7481,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -7509,7 +7509,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -7555,7 +7555,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -7601,7 +7601,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -7624,7 +7624,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -7647,7 +7647,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -7670,7 +7670,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -7693,7 +7693,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -7716,12 +7716,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -7744,7 +7744,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -7767,7 +7767,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -7790,7 +7790,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -7813,7 +7813,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -7836,7 +7836,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -7859,7 +7859,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -7882,7 +7882,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
@@ -7927,7 +7927,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
@@ -7937,7 +7937,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -7960,7 +7960,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -7983,7 +7983,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -8028,12 +8028,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -8056,7 +8056,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -8079,7 +8079,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -8125,7 +8125,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -8165,12 +8165,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -8233,7 +8233,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -8296,7 +8296,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -8319,7 +8319,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -8342,7 +8342,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -8388,12 +8388,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -8421,7 +8421,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -8467,7 +8467,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -8490,7 +8490,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -8528,7 +8528,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -8551,7 +8551,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -8574,7 +8574,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -8620,7 +8620,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -8712,7 +8712,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -8752,7 +8752,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -8798,12 +8798,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -8849,12 +8849,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         },
         {
@@ -8864,7 +8864,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -8887,7 +8887,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -8910,12 +8910,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -8938,7 +8938,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -9012,7 +9012,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -9057,7 +9057,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -9183,7 +9183,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -9206,7 +9206,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -9234,7 +9234,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -9303,7 +9303,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -9326,7 +9326,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -9349,12 +9349,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -9377,7 +9377,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -9400,12 +9400,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -9451,7 +9451,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -9474,7 +9474,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -9583,7 +9583,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -9606,7 +9606,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -9629,7 +9629,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -9721,16 +9721,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 37,
       "rank": 0,
@@ -9790,17 +9790,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -9823,12 +9823,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -9851,7 +9851,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -9879,7 +9879,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -9902,7 +9902,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -9953,7 +9953,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -9976,7 +9976,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -10027,7 +10027,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -10073,7 +10073,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -10096,7 +10096,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
@@ -10124,7 +10124,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -10147,7 +10147,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -10170,7 +10170,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -10216,7 +10216,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -10262,7 +10262,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -10285,12 +10285,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -10313,7 +10313,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -10341,7 +10341,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -10364,7 +10364,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -10387,7 +10387,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -10410,7 +10410,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -10473,7 +10473,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -10496,7 +10496,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -10565,7 +10565,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -10588,7 +10588,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -10611,7 +10611,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -10657,7 +10657,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -10680,7 +10680,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         },
         {
@@ -10708,12 +10708,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -10776,12 +10776,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -10804,7 +10804,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -10827,7 +10827,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -10855,12 +10855,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -10883,7 +10883,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -10906,12 +10906,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -10934,7 +10934,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -10980,7 +10980,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -11003,7 +11003,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -11026,7 +11026,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -11095,7 +11095,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -11140,21 +11140,21 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Penking (Boss)",
+      "nickname": "Pionnier des mers gelées Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Penking (Boss)",
+      "species_name": "Pionnier des mers gelées Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 15,
       "rank": 0,
@@ -11168,7 +11168,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         },
         {
@@ -11196,7 +11196,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -11219,7 +11219,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -11259,7 +11259,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -11282,7 +11282,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -11305,7 +11305,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -11328,12 +11328,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         },
         {
@@ -11361,7 +11361,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -11384,7 +11384,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -11407,7 +11407,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -11430,7 +11430,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -11470,12 +11470,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -11521,7 +11521,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -11544,7 +11544,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -11605,7 +11605,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -11674,7 +11674,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -11702,7 +11702,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -11725,16 +11725,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 32,
       "rank": 0,
@@ -11753,7 +11753,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -11776,7 +11776,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -11884,7 +11884,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -11907,7 +11907,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -11930,7 +11930,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -11953,17 +11953,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -11991,7 +11991,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -12037,7 +12037,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -12060,7 +12060,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -12083,7 +12083,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -12180,7 +12180,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -12203,7 +12203,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -12231,7 +12231,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -12254,7 +12254,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
@@ -12266,9 +12266,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 21,
       "rank": 0,
@@ -12328,7 +12328,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -12351,7 +12351,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -12374,7 +12374,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -12397,7 +12397,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -12420,7 +12420,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -12443,7 +12443,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -12512,7 +12512,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -12586,12 +12586,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -12614,7 +12614,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -12637,7 +12637,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -12660,7 +12660,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -12683,7 +12683,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -12706,7 +12706,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -12729,7 +12729,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -12752,12 +12752,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -12780,7 +12780,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -12837,7 +12837,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -12860,7 +12860,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -12883,7 +12883,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -12906,7 +12906,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -12975,7 +12975,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -12998,7 +12998,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -13044,12 +13044,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -13077,7 +13077,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -13168,12 +13168,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -13196,7 +13196,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -13219,7 +13219,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -13247,16 +13247,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Penking (Boss)",
+      "nickname": "Pionnier des mers gelées Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Penking (Boss)",
+      "species_name": "Pionnier des mers gelées Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 29,
       "rank": 0,
@@ -13270,7 +13270,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -13298,17 +13298,17 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -13359,12 +13359,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -13387,7 +13387,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -13410,7 +13410,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -13438,7 +13438,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -13461,7 +13461,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -13507,7 +13507,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -13530,12 +13530,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -13558,7 +13558,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -13581,12 +13581,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -13609,7 +13609,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -13632,7 +13632,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -13688,7 +13688,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_3",
-          "name": "Swift",
+          "name": "Sprinteur",
           "rank": 4
         }
       ],
@@ -13711,12 +13711,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         },
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         },
         {
@@ -13784,7 +13784,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -13814,9 +13814,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Fenglope (Boss)",
+      "nickname": "Nuage flottant Fenglope",
       "species": "BOSS_FengyunDeeper",
-      "species_name": "Fenglope (Boss)",
+      "species_name": "Nuage flottant Fenglope",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FengyunDeeper_icon_normal.webp",
       "level": 25,
       "rank": 0,
@@ -13830,7 +13830,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -13870,7 +13870,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -13893,12 +13893,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         },
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -13933,9 +13933,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Blazehowl (Boss)",
+      "nickname": "Monarque aux cent flammes Blazehowl",
       "species": "BOSS_Manticore",
-      "species_name": "Blazehowl (Boss)",
+      "species_name": "Monarque aux cent flammes Blazehowl",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Manticore_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -13949,7 +13949,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -13973,9 +13973,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Sweepa (Boss)",
+      "nickname": "Roi duvet énigmatique Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Sweepa (Boss)",
+      "species_name": "Roi duvet énigmatique Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -13989,7 +13989,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -14012,7 +14012,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -14035,7 +14035,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -14082,9 +14082,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Kingpaca (Boss)",
+      "nickname": "Conquérant duveteux Kingpaca",
       "species": "BOSS_KingAlpaca",
-      "species_name": "Kingpaca (Boss)",
+      "species_name": "Conquérant duveteux Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_icon_normal.webp",
       "level": 23,
       "rank": 0,
@@ -14166,7 +14166,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -14189,7 +14189,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -14212,7 +14212,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -14258,7 +14258,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -14281,7 +14281,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -14304,7 +14304,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -14327,7 +14327,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -14350,7 +14350,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -14373,7 +14373,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -14419,7 +14419,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -14493,7 +14493,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -14562,12 +14562,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -14590,7 +14590,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -14613,7 +14613,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -14636,7 +14636,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -14682,7 +14682,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         },
         {
@@ -14733,7 +14733,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -14766,12 +14766,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -14817,7 +14817,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
@@ -14850,16 +14850,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 48,
       "rank": 0,
@@ -14873,7 +14873,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -14919,17 +14919,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -14952,7 +14952,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -14992,7 +14992,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -15016,9 +15016,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Lifmunk (Boss)",
+      "nickname": "Mauviette des plaines Lifmunk",
       "species": "BOSS_Carbunclo",
-      "species_name": "Lifmunk (Boss)",
+      "species_name": "Mauviette des plaines Lifmunk",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Carbunclo_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -15032,7 +15032,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -15060,12 +15060,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         },
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -15105,7 +15105,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -15135,9 +15135,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Arsox (Boss)",
+      "nickname": "Bête à cornes incandescente Arsox",
       "species": "BOSS_FlameBuffalo",
-      "species_name": "Arsox (Boss)",
+      "species_name": "Bête à cornes incandescente Arsox",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlameBuffalo_icon_normal.webp",
       "level": 15,
       "rank": 0,
@@ -15151,7 +15151,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -15197,7 +15197,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -15220,7 +15220,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -15289,12 +15289,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -15363,12 +15363,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -15391,7 +15391,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -15414,12 +15414,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         },
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -15442,7 +15442,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         },
         {
@@ -15470,7 +15470,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -15493,7 +15493,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         },
         {
@@ -15505,9 +15505,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Daedream (Boss)",
+      "nickname": "Mange-rêves Daedream",
       "species": "BOSS_DreamDemon",
-      "species_name": "Daedream (Boss)",
+      "species_name": "Mange-rêves Daedream",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DreamDemon_icon_normal.webp",
       "level": 10,
       "rank": 0,
@@ -15521,12 +15521,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -15549,7 +15549,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -15572,17 +15572,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -15633,7 +15633,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         },
         {
@@ -15661,7 +15661,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -15684,7 +15684,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -15707,7 +15707,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -15730,7 +15730,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -15753,7 +15753,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -15776,7 +15776,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -15806,9 +15806,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Reptyro Cryst",
+      "nickname": "Ice Reptyro",
       "species": "VolcanicMonster_Ice",
-      "species_name": "Reptyro Cryst",
+      "species_name": "Ice Reptyro",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanicMonster_Ice_icon_normal.webp",
       "level": 44,
       "rank": 0,
@@ -15845,7 +15845,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
@@ -15873,17 +15873,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -15906,7 +15906,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -15929,7 +15929,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -15952,7 +15952,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -16021,7 +16021,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -16044,12 +16044,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -16072,7 +16072,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -16125,9 +16125,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Vixy (Boss)",
+      "nickname": "Idole des près Vixy",
       "species": "BOSS_CuteFox",
-      "species_name": "Vixy (Boss)",
+      "species_name": "Idole des près Vixy",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CuteFox_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -16141,7 +16141,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -16164,7 +16164,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -16187,7 +16187,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -16233,7 +16233,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -16256,7 +16256,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -16302,7 +16302,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         },
         {
@@ -16312,7 +16312,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -16335,7 +16335,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -16358,7 +16358,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -16404,7 +16404,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -16427,21 +16427,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Katress (Boss)",
+      "nickname": "Mage noir félidé Katress",
       "species": "BOSS_CatMage",
-      "species_name": "Katress (Boss)",
+      "species_name": "Mage noir félidé Katress",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatMage_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -16455,7 +16455,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -16485,9 +16485,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Mammorest (Boss)",
+      "nickname": "Crocs enragés Mammorest",
       "species": "BOSS_GrassMammoth",
-      "species_name": "Mammorest (Boss)",
+      "species_name": "Crocs enragés Mammorest",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassMammoth_icon_normal.webp",
       "level": 39,
       "rank": 0,
@@ -16506,17 +16506,17 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -16539,7 +16539,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -16602,7 +16602,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -16648,7 +16648,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -16728,7 +16728,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -16797,7 +16797,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -16871,7 +16871,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -16916,7 +16916,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -16967,7 +16967,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -16990,7 +16990,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -17013,7 +17013,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         },
         {
@@ -17041,7 +17041,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -17064,7 +17064,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -17087,7 +17087,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -17161,7 +17161,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -17184,7 +17184,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -17207,7 +17207,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -17230,7 +17230,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -17253,7 +17253,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -17298,7 +17298,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -17321,7 +17321,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -17349,7 +17349,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -17372,7 +17372,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -17402,9 +17402,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Sweepa (Boss)",
+      "nickname": "Roi duvet énigmatique Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Sweepa (Boss)",
+      "species_name": "Roi duvet énigmatique Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -17418,7 +17418,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -17441,7 +17441,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -17464,7 +17464,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -17510,7 +17510,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -17533,17 +17533,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -17566,7 +17566,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -17594,16 +17594,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Suzaku (Boss)",
+      "nickname": "Roi éthéré Suzaku",
       "species": "BOSS_Suzaku",
-      "species_name": "Suzaku (Boss)",
+      "species_name": "Roi éthéré Suzaku",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Suzaku_icon_normal.webp",
       "level": 50,
       "rank": 0,
@@ -17634,7 +17634,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -17674,7 +17674,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -17697,7 +17697,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -17766,12 +17766,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -17794,7 +17794,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -17817,16 +17817,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Frostallion (Boss)",
+      "nickname": "Pégase des glaces légendaire Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Frostallion (Boss)",
+      "species_name": "Pégase des glaces légendaire Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -17840,12 +17840,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Ice_2_PAL",
-          "name": "Ice Emperor",
+          "name": "Empereur glacial",
           "rank": 3
         }
       ],
@@ -17868,7 +17868,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -17914,7 +17914,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -17937,7 +17937,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -17960,7 +17960,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -18006,7 +18006,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -18029,7 +18029,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -18069,7 +18069,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -18092,7 +18092,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -18104,9 +18104,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 24,
       "rank": 0,
@@ -18160,12 +18160,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -18188,7 +18188,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -18216,7 +18216,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -18239,7 +18239,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -18262,7 +18262,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -18285,7 +18285,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -18336,7 +18336,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -18359,7 +18359,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -18405,7 +18405,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -18456,7 +18456,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
@@ -18484,7 +18484,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -18507,7 +18507,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -18575,7 +18575,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -18598,16 +18598,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Lifmunk (Boss)",
+      "nickname": "Mauviette des plaines Lifmunk",
       "species": "BOSS_Carbunclo",
-      "species_name": "Lifmunk (Boss)",
+      "species_name": "Mauviette des plaines Lifmunk",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Carbunclo_icon_normal.webp",
       "level": 12,
       "rank": 0,
@@ -18621,7 +18621,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -18649,7 +18649,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -18672,7 +18672,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -18729,7 +18729,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -18808,7 +18808,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -18831,7 +18831,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -18855,9 +18855,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 21,
       "rank": 0,
@@ -18871,7 +18871,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
@@ -18899,17 +18899,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -18932,7 +18932,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -18955,16 +18955,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Arsox (Boss)",
+      "nickname": "Bête à cornes incandescente Arsox",
       "species": "BOSS_FlameBuffalo",
-      "species_name": "Arsox (Boss)",
+      "species_name": "Bête à cornes incandescente Arsox",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlameBuffalo_icon_normal.webp",
       "level": 19,
       "rank": 0,
@@ -18978,16 +18978,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 38,
       "rank": 0,
@@ -19001,7 +19001,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -19047,7 +19047,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -19070,7 +19070,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -19098,7 +19098,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -19155,7 +19155,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -19183,7 +19183,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
@@ -19216,17 +19216,17 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -19249,7 +19249,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -19272,16 +19272,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 21,
       "rank": 0,
@@ -19352,12 +19352,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -19408,7 +19408,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -19494,9 +19494,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 21,
       "rank": 0,
@@ -19556,12 +19556,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -19584,7 +19584,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -19607,7 +19607,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -19630,7 +19630,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -19658,16 +19658,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Kingpaca (Boss)",
+      "nickname": "Conquérant duveteux Kingpaca",
       "species": "BOSS_KingAlpaca",
-      "species_name": "Kingpaca (Boss)",
+      "species_name": "Conquérant duveteux Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_icon_normal.webp",
       "level": 23,
       "rank": 0,
@@ -19686,7 +19686,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -19716,9 +19716,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Menasting (Boss)",
+      "nickname": "Lance transperce-tout Menasting",
       "species": "BOSS_DarkScorpion",
-      "species_name": "Menasting (Boss)",
+      "species_name": "Lance transperce-tout Menasting",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DarkScorpion_icon_normal.webp",
       "level": 45,
       "rank": 2,
@@ -19732,7 +19732,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
@@ -19754,9 +19754,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Tombat (Boss)",
+      "nickname": "Le Fripon Tombat",
       "species": "BOSS_CatBat",
-      "species_name": "Tombat (Boss)",
+      "species_name": "Le Fripon Tombat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatBat_icon_normal.webp",
       "level": 12,
       "rank": 0,
@@ -19770,7 +19770,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -19816,12 +19816,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -19844,12 +19844,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -19872,7 +19872,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -19895,7 +19895,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -19918,12 +19918,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -19946,7 +19946,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         },
         {
@@ -19974,7 +19974,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -20020,7 +20020,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -20043,12 +20043,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -20071,7 +20071,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         },
         {
@@ -20081,7 +20081,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -20104,7 +20104,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -20127,7 +20127,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -20150,12 +20150,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -20178,7 +20178,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -20246,16 +20246,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Foxcicle (Boss)",
+      "nickname": "Renard de glace Foxcicle",
       "species": "Boss_IceFox",
-      "species_name": "Foxcicle (Boss)",
+      "species_name": "Renard de glace Foxcicle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
       "level": 29,
       "rank": 0,
@@ -20269,7 +20269,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -20292,7 +20292,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -20338,12 +20338,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -20375,7 +20375,7 @@ window.PALWORLD_DATA = {
     {
       "nickname": "Feldup",
       "species": "BOSS_FengyunDeeper",
-      "species_name": "Fenglope (Boss)",
+      "species_name": "Nuage flottant Fenglope",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FengyunDeeper_icon_normal.webp",
       "level": 59,
       "rank": 0,
@@ -20389,7 +20389,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -20412,7 +20412,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -20435,7 +20435,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -20458,7 +20458,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -20481,7 +20481,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -20504,7 +20504,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -20527,7 +20527,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -20596,7 +20596,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -20642,7 +20642,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -20665,7 +20665,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -20693,7 +20693,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -20716,7 +20716,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -20762,7 +20762,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -20785,7 +20785,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -20808,22 +20808,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -20869,12 +20869,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -20937,7 +20937,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -20965,7 +20965,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         }
       ],
@@ -20988,7 +20988,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -21011,7 +21011,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -21052,9 +21052,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Warsect",
+      "nickname": "Warsect ",
       "species": "HerculesBeetle",
-      "species_name": "Warsect",
+      "species_name": "Warsect ",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HerculesBeetle_icon_normal.webp",
       "level": 50,
       "rank": 0,
@@ -21068,12 +21068,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -21096,7 +21096,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -21136,7 +21136,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -21176,7 +21176,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -21245,12 +21245,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
@@ -21278,7 +21278,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         },
         {
@@ -21288,7 +21288,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -21311,7 +21311,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -21334,7 +21334,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -21357,17 +21357,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -21436,7 +21436,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -21459,7 +21459,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -21505,7 +21505,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -21528,7 +21528,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -21551,7 +21551,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -21574,7 +21574,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -21597,7 +21597,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -21620,7 +21620,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -21666,22 +21666,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -21721,7 +21721,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -21744,7 +21744,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -21767,17 +21767,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -21823,7 +21823,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -21846,7 +21846,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -21869,26 +21869,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Sweepa (Boss)",
+      "nickname": "Roi duvet énigmatique Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Sweepa (Boss)",
+      "species_name": "Roi duvet énigmatique Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -21902,7 +21902,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         },
         {
@@ -21953,7 +21953,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -21976,7 +21976,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -22004,7 +22004,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -22027,7 +22027,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -22096,7 +22096,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -22119,7 +22119,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -22142,7 +22142,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -22165,7 +22165,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -22188,7 +22188,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -22211,17 +22211,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -22267,7 +22267,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -22290,7 +22290,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -22330,12 +22330,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -22358,12 +22358,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -22386,7 +22386,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -22410,9 +22410,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Broncherry (Boss)",
+      "nickname": "Brise printanière Broncherry",
       "species": "BOSS_SakuraSaurus",
-      "species_name": "Broncherry (Boss)",
+      "species_name": "Brise printanière Broncherry",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_icon_normal.webp",
       "level": 23,
       "rank": 0,
@@ -22454,7 +22454,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -22477,7 +22477,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -22500,7 +22500,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         },
         {
@@ -22528,7 +22528,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -22551,7 +22551,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -22597,17 +22597,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
@@ -22619,9 +22619,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Rushoar (Boss)",
+      "nickname": "Bête sauvage des bois Rushoar",
       "species": "BOSS_Boar",
-      "species_name": "Rushoar (Boss)",
+      "species_name": "Bête sauvage des bois Rushoar",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Boar_icon_normal.webp",
       "level": 18,
       "rank": 2,
@@ -22635,7 +22635,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
@@ -22663,16 +22663,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Foxcicle (Boss)",
+      "nickname": "Renard de glace Foxcicle",
       "species": "Boss_IceFox",
-      "species_name": "Foxcicle (Boss)",
+      "species_name": "Renard de glace Foxcicle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
       "level": 15,
       "rank": 0,
@@ -22686,7 +22686,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -22709,16 +22709,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 30,
       "rank": 0,
@@ -22732,26 +22732,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 30,
       "rank": 0,
@@ -22765,7 +22765,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -22805,7 +22805,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -22828,7 +22828,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -22852,9 +22852,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Knocklem (Boss)",
+      "nickname": "fr_Text en_text",
       "species": "BOSS_WingGolem",
-      "species_name": "Knocklem (Boss)",
+      "species_name": "fr_Text en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 32,
       "rank": 0,
@@ -22891,16 +22891,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 30,
       "rank": 0,
@@ -22914,7 +22914,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -22937,7 +22937,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -22983,12 +22983,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -23011,7 +23011,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -23034,7 +23034,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -23057,7 +23057,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -23080,21 +23080,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Elphidran (Boss)",
+      "nickname": "Dragon céleste mignonnet Elphidran",
       "species": "BOSS_FairyDragon",
-      "species_name": "Elphidran (Boss)",
+      "species_name": "Dragon céleste mignonnet Elphidran",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FairyDragon_icon_normal.webp",
       "level": 30,
       "rank": 0,
@@ -23115,9 +23115,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Tombat (Boss)",
+      "nickname": "Le Fripon Tombat",
       "species": "BOSS_CatBat",
-      "species_name": "Tombat (Boss)",
+      "species_name": "Le Fripon Tombat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatBat_icon_normal.webp",
       "level": 42,
       "rank": 0,
@@ -23155,9 +23155,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Vaelet (Boss)",
+      "nickname": "Herbe fantôme violette Vaelet",
       "species": "BOSS_VioletFairy",
-      "species_name": "Vaelet (Boss)",
+      "species_name": "Herbe fantôme violette Vaelet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VioletFairy_icon_normal.webp",
       "level": 27,
       "rank": 0,
@@ -23171,7 +23171,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -23194,7 +23194,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -23217,7 +23217,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -23263,7 +23263,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -23286,7 +23286,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -23314,7 +23314,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -23337,7 +23337,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -23360,7 +23360,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -23383,7 +23383,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -23434,16 +23434,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Hangyu (Boss)",
+      "nickname": "Porteur de bonne fortune Hangyu",
       "species": "BOSS_WindChimes",
-      "species_name": "Hangyu (Boss)",
+      "species_name": "Porteur de bonne fortune Hangyu",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WindChimes_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -23543,22 +23543,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -23581,7 +23581,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -23604,7 +23604,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -23644,7 +23644,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -23667,7 +23667,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -23713,7 +23713,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         },
         {
@@ -23764,7 +23764,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -23788,9 +23788,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Reptyro Cryst",
+      "nickname": "Ice Reptyro",
       "species": "VolcanicMonster_Ice",
-      "species_name": "Reptyro Cryst",
+      "species_name": "Ice Reptyro",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanicMonster_Ice_icon_normal.webp",
       "level": 43,
       "rank": 0,
@@ -23809,7 +23809,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -23832,7 +23832,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -23860,7 +23860,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -23883,7 +23883,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -23906,7 +23906,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -23934,7 +23934,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -23957,16 +23957,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Bushi (Boss)",
+      "nickname": "Samouraï errant Bushi",
       "species": "BOSS_Ronin",
-      "species_name": "Bushi (Boss)",
+      "species_name": "Samouraï errant Bushi",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Ronin_icon_normal.webp",
       "level": 25,
       "rank": 0,
@@ -23980,16 +23980,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Warsect (Boss)",
+      "nickname": "Combattant en armure Warsect ",
       "species": "BOSS_HerculesBeetle",
-      "species_name": "Warsect (Boss)",
+      "species_name": "Combattant en armure Warsect ",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HerculesBeetle_icon_normal.webp",
       "level": 16,
       "rank": 0,
@@ -24003,12 +24003,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -24048,12 +24048,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -24106,9 +24106,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Gumoss (Boss)",
+      "nickname": "Le Mutant Gumoss",
       "species": "BOSS_PlantSlime",
-      "species_name": "Gumoss (Boss)",
+      "species_name": "Le Mutant Gumoss",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PlantSlime_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -24122,7 +24122,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -24145,7 +24145,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -24168,12 +24168,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
@@ -24183,7 +24183,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -24229,7 +24229,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -24275,7 +24275,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -24298,12 +24298,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -24349,12 +24349,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -24479,7 +24479,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -24507,12 +24507,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         },
         {
@@ -24540,7 +24540,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -24586,7 +24586,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -24633,9 +24633,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Dumud (Boss)",
+      "nickname": "Le Procrastinateur Dumud",
       "species": "Boss_LazyCatFish",
-      "species_name": "Dumud (Boss)",
+      "species_name": "Le Procrastinateur Dumud",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LazyCatfish_icon_normal.webp",
       "level": 26,
       "rank": 0,
@@ -24672,12 +24672,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -24700,12 +24700,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -24728,7 +24728,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -24751,7 +24751,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -24798,9 +24798,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Surfent (Boss)",
+      "nickname": "Incarnation de l'écume Surfent",
       "species": "BOSS_Serpent",
-      "species_name": "Surfent (Boss)",
+      "species_name": "Incarnation de l'écume Surfent",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Serpent_icon_normal.webp",
       "level": 61,
       "rank": 2,
@@ -24814,17 +24814,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -24847,7 +24847,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -24870,7 +24870,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -24893,12 +24893,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -24967,7 +24967,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -24990,7 +24990,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -25036,7 +25036,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
@@ -25048,9 +25048,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Anubis",
+      "nickname": "Gardien du soleil ténébreux Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Anubis",
+      "species_name": "Gardien du soleil ténébreux Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 59,
       "rank": 0,
@@ -25064,12 +25064,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
-          "name": "Earth Emperor",
+          "name": "Empereur terrestre",
           "rank": 3
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -25120,7 +25120,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -25166,7 +25166,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -25189,7 +25189,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -25212,7 +25212,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -25235,7 +25235,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -25281,7 +25281,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -25304,7 +25304,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -25373,7 +25373,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -25429,7 +25429,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -25475,17 +25475,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -25508,7 +25508,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         }
       ],
@@ -25531,7 +25531,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -25554,16 +25554,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Anubis",
+      "nickname": "Gardien du soleil ténébreux Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Anubis",
+      "species_name": "Gardien du soleil ténébreux Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 61,
       "rank": 0,
@@ -25577,12 +25577,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
-          "name": "Earth Emperor",
+          "name": "Empereur terrestre",
           "rank": 3
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -25605,12 +25605,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -25633,7 +25633,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -25656,7 +25656,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -25736,7 +25736,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -25759,7 +25759,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -25782,7 +25782,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -25805,7 +25805,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -25828,7 +25828,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -25874,7 +25874,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -25897,7 +25897,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -25920,7 +25920,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -25943,7 +25943,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -25966,7 +25966,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -25989,7 +25989,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -26012,7 +26012,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -26035,7 +26035,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -26058,7 +26058,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -26150,12 +26150,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -26201,7 +26201,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -26224,7 +26224,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -26247,7 +26247,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -26280,7 +26280,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -26326,7 +26326,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -26366,7 +26366,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -26389,7 +26389,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -26417,7 +26417,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -26463,7 +26463,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -26493,9 +26493,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 12,
       "rank": 0,
@@ -26555,7 +26555,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -26578,7 +26578,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -26601,7 +26601,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -26629,12 +26629,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -26657,7 +26657,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -26703,7 +26703,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -26726,7 +26726,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -26818,16 +26818,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
       "owner": "Prismiti"
     },
     {
-      "nickname": "Gorirat (Boss)",
+      "nickname": "Le Champion Gorirat",
       "species": "BOSS_Gorilla",
-      "species_name": "Gorirat (Boss)",
+      "species_name": "Le Champion Gorirat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Gorilla_icon_normal.webp",
       "level": 37,
       "rank": 2,
@@ -26841,22 +26841,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -26902,7 +26902,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -26932,9 +26932,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Anubis",
+      "nickname": "Gardien du soleil ténébreux Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Anubis",
+      "species_name": "Gardien du soleil ténébreux Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 72,
       "rank": 0,
@@ -26948,7 +26948,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
-          "name": "Earth Emperor",
+          "name": "Empereur terrestre",
           "rank": 3
         },
         {
@@ -26977,9 +26977,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Digtoise (Boss)",
+      "nickname": "Tourni-piqueur Digtoise",
       "species": "BOSS_DrillGame",
-      "species_name": "Digtoise (Boss)",
+      "species_name": "Tourni-piqueur Digtoise",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DrillGame_icon_normal.webp",
       "level": 61,
       "rank": 2,
@@ -26993,22 +26993,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -27031,7 +27031,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -27054,7 +27054,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -27094,7 +27094,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -27117,7 +27117,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -27214,7 +27214,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -27260,7 +27260,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -27306,7 +27306,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -27352,7 +27352,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -27380,7 +27380,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -27408,16 +27408,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 15,
       "rank": 0,
@@ -27431,16 +27431,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 18,
       "rank": 0,
@@ -27454,7 +27454,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -27523,7 +27523,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -27546,7 +27546,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -27609,12 +27609,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -27642,12 +27642,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -27693,12 +27693,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -27721,7 +27721,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -27751,9 +27751,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 14,
       "rank": 0,
@@ -27767,7 +27767,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -27790,16 +27790,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -27820,9 +27820,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 20,
       "rank": 0,
@@ -27836,7 +27836,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -27859,7 +27859,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -27882,7 +27882,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -27905,7 +27905,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -27928,7 +27928,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -27974,7 +27974,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -27997,12 +27997,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -28025,7 +28025,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -28048,7 +28048,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -28071,7 +28071,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -28094,7 +28094,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -28122,16 +28122,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 16,
       "rank": 0,
@@ -28168,7 +28168,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -28178,7 +28178,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
@@ -28211,7 +28211,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -28234,7 +28234,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -28264,9 +28264,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Turtacle",
+      "nickname": "en_text",
       "species": "TentacleTurtle",
-      "species_name": "Turtacle",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_TentacleTurtle_icon_normal.webp",
       "level": 17,
       "rank": 0,
@@ -28298,9 +28298,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Anubis",
+      "nickname": "Gardien du soleil ténébreux Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Anubis",
+      "species_name": "Gardien du soleil ténébreux Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -28314,21 +28314,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
-          "name": "Earth Emperor",
+          "name": "Empereur terrestre",
           "rank": 3
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
       "owner": "inconnu"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 59,
       "rank": 0,
@@ -28370,7 +28370,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -28393,7 +28393,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -28423,9 +28423,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Nyafia",
+      "nickname": "en_text",
       "species": "BadCatgirl",
-      "species_name": "Nyafia",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BadCatgirl_icon_normal.webp",
       "level": 58,
       "rank": 0,
@@ -28462,7 +28462,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -28617,7 +28617,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -28640,7 +28640,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -28663,7 +28663,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         },
         {
@@ -28714,7 +28714,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -28777,7 +28777,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -28800,7 +28800,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -28828,7 +28828,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -28874,7 +28874,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -28897,12 +28897,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -28925,7 +28925,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -28948,7 +28948,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -28988,12 +28988,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
@@ -29003,16 +29003,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dinossom (Boss)",
+      "nickname": "Dragon gardien des floraisons Dinossom",
       "species": "BOSS_FlowerDinosaur",
-      "species_name": "Dinossom (Boss)",
+      "species_name": "Dragon gardien des floraisons Dinossom",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlowerDinosaur_icon_normal.webp",
       "level": 32,
       "rank": 2,
@@ -29026,12 +29026,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -29076,7 +29076,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -29109,7 +29109,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -29132,7 +29132,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -29155,7 +29155,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -29263,7 +29263,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -29286,7 +29286,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -29309,7 +29309,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
@@ -29321,9 +29321,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -29349,9 +29349,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -29393,7 +29393,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -29416,7 +29416,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -29439,7 +29439,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -29469,9 +29469,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Cawgnito (Boss)",
+      "nickname": "Cygne noir furtif Cawgnito",
       "species": "BOSS_DarkCrow",
-      "species_name": "Cawgnito (Boss)",
+      "species_name": "Cygne noir furtif Cawgnito",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_DarkCrow_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -29485,7 +29485,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -29525,7 +29525,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -29553,7 +29553,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -29576,7 +29576,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -29599,12 +29599,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -29627,12 +29627,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -29655,7 +29655,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -29701,7 +29701,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -29724,12 +29724,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -29752,17 +29752,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -29808,7 +29808,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -29831,7 +29831,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -29854,7 +29854,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -29877,7 +29877,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -29900,7 +29900,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -29923,16 +29923,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Reptyro Cryst",
+      "nickname": "Ice Reptyro",
       "species": "VolcanicMonster_Ice",
-      "species_name": "Reptyro Cryst",
+      "species_name": "Ice Reptyro",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanicMonster_Ice_icon_normal.webp",
       "level": 43,
       "rank": 0,
@@ -29951,7 +29951,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -29974,7 +29974,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -30037,9 +30037,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Cattiva (Boss)",
+      "nickname": "Imbu de sa personne Cattiva",
       "species": "BOSS_PinkCat",
-      "species_name": "Cattiva (Boss)",
+      "species_name": "Imbu de sa personne Cattiva",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkCat_icon_normal.webp",
       "level": 61,
       "rank": 2,
@@ -30053,12 +30053,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
@@ -30070,9 +30070,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Lyleen Noct (Boss)",
+      "nickname": "Impératrice des abysses Lyleen Noct",
       "species": "BOSS_LilyQueen_Dark",
-      "species_name": "Lyleen Noct (Boss)",
+      "species_name": "Impératrice des abysses Lyleen Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LilyQueen_Dark_icon_normal.webp",
       "level": 58,
       "rank": 0,
@@ -30114,12 +30114,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -30149,9 +30149,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Kingpaca Cryst (Boss)",
+      "nickname": "Conquérant bleu-doux Ice Kingpaca",
       "species": "BOSS_KingAlpaca_Ice",
-      "species_name": "Kingpaca Cryst (Boss)",
+      "species_name": "Conquérant bleu-doux Ice Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_Ice_icon_normal.webp",
       "level": 46,
       "rank": 0,
@@ -30193,7 +30193,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -30216,7 +30216,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -30239,7 +30239,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -30285,12 +30285,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -30336,7 +30336,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -30359,7 +30359,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -30399,7 +30399,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -30468,7 +30468,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -30519,7 +30519,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -30565,12 +30565,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -30593,7 +30593,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -30616,7 +30616,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -30656,12 +30656,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -30691,9 +30691,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Broncherry (Boss)",
+      "nickname": "Brise printanière Broncherry",
       "species": "BOSS_SakuraSaurus",
-      "species_name": "Broncherry (Boss)",
+      "species_name": "Brise printanière Broncherry",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_icon_normal.webp",
       "level": 23,
       "rank": 0,
@@ -30735,16 +30735,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Frostallion (Boss)",
+      "nickname": "Pégase des glaces légendaire Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Frostallion (Boss)",
+      "species_name": "Pégase des glaces légendaire Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 65,
       "rank": 0,
@@ -30758,12 +30758,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Ice_2_PAL",
-          "name": "Ice Emperor",
+          "name": "Empereur glacial",
           "rank": 3
         },
         {
@@ -30773,7 +30773,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -30796,16 +30796,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Lyleen (Boss)",
+      "nickname": "Impératrice du lys Lyleen",
       "species": "BOSS_LilyQueen",
-      "species_name": "Lyleen (Boss)",
+      "species_name": "Impératrice du lys Lyleen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LilyQueen_icon_normal.webp",
       "level": 59,
       "rank": 0,
@@ -30819,7 +30819,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_2_PAL",
-          "name": "Spirit Emperor",
+          "name": "Roi des esprits",
           "rank": 3
         },
         {
@@ -30831,9 +30831,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -30847,7 +30847,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -30870,12 +30870,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -30898,7 +30898,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -30921,7 +30921,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -31007,7 +31007,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -31035,7 +31035,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -31075,16 +31075,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 47,
       "rank": 0,
@@ -31115,7 +31115,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -31161,7 +31161,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -31184,16 +31184,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Frostallion (Boss)",
+      "nickname": "Pégase des glaces légendaire Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Frostallion (Boss)",
+      "species_name": "Pégase des glaces légendaire Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 65,
       "rank": 0,
@@ -31207,12 +31207,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Ice_2_PAL",
-          "name": "Ice Emperor",
+          "name": "Empereur glacial",
           "rank": 3
         }
       ],
@@ -31286,7 +31286,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -31310,9 +31310,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Arsox (Boss)",
+      "nickname": "Bête à cornes incandescente Arsox",
       "species": "BOSS_FlameBuffalo",
-      "species_name": "Arsox (Boss)",
+      "species_name": "Bête à cornes incandescente Arsox",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlameBuffalo_icon_normal.webp",
       "level": 15,
       "rank": 0,
@@ -31326,7 +31326,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -31349,7 +31349,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -31400,7 +31400,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -31423,12 +31423,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -31451,7 +31451,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -31474,7 +31474,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -31543,7 +31543,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -31566,7 +31566,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -31589,7 +31589,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -31612,7 +31612,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -31635,12 +31635,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         },
         {
@@ -31668,7 +31668,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -31708,7 +31708,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         },
         {
@@ -31736,7 +31736,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -31759,7 +31759,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -31782,12 +31782,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -31833,7 +31833,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -31861,7 +31861,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -31884,7 +31884,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -31907,7 +31907,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -31930,7 +31930,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -31958,12 +31958,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -31986,7 +31986,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -32009,7 +32009,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -32032,7 +32032,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -32055,16 +32055,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Sweepa (Boss)",
+      "nickname": "Roi duvet énigmatique Sweepa",
       "species": "BOSS_MopKing",
-      "species_name": "Sweepa (Boss)",
+      "species_name": "Roi duvet énigmatique Sweepa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MopKing_icon_normal.webp",
       "level": 11,
       "rank": 0,
@@ -32078,12 +32078,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         },
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         },
         {
@@ -32111,7 +32111,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -32134,7 +32134,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -32157,7 +32157,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -32180,7 +32180,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -32203,7 +32203,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -32249,7 +32249,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -32272,16 +32272,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Azurobe (Boss)",
+      "nickname": "Reine du lac Azurobe",
       "species": "BOSS_BlueDragon",
-      "species_name": "Azurobe (Boss)",
+      "species_name": "Reine du lac Azurobe",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_icon_normal.webp",
       "level": 28,
       "rank": 0,
@@ -32335,7 +32335,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -32358,7 +32358,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -32404,7 +32404,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -32427,7 +32427,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -32450,26 +32450,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 47,
       "rank": 0,
@@ -32483,16 +32483,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 48,
       "rank": 0,
@@ -32507,9 +32507,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 47,
       "rank": 0,
@@ -32523,7 +32523,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -32546,7 +32546,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -32592,7 +32592,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -32615,7 +32615,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -32638,7 +32638,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -32661,12 +32661,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -32758,7 +32758,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -32781,7 +32781,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -32849,7 +32849,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -32872,7 +32872,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -32895,12 +32895,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -32940,12 +32940,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -32968,7 +32968,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -32991,7 +32991,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -33014,7 +33014,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -33037,7 +33037,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -33060,7 +33060,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -33111,7 +33111,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -33180,16 +33180,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 49,
       "rank": 0,
@@ -33203,7 +33203,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -33231,21 +33231,21 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -33259,7 +33259,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -33305,7 +33305,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -33328,7 +33328,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -33351,17 +33351,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -33384,16 +33384,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Frostallion Noct (Boss)",
+      "nickname": "Pégase des ombres légendaire Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Frostallion Noct (Boss)",
+      "species_name": "Pégase des ombres légendaire Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 74,
       "rank": 0,
@@ -33407,17 +33407,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -33440,17 +33440,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -33473,7 +33473,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -33496,16 +33496,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Shadowbeak (Boss)",
+      "nickname": "Forme de vie inconnue Shadowbeak",
       "species": "BOSS_BlackGriffon",
-      "species_name": "Shadowbeak (Boss)",
+      "species_name": "Forme de vie inconnue Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -33519,7 +33519,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -33565,7 +33565,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -33588,16 +33588,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -33611,7 +33611,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -33634,7 +33634,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -33657,7 +33657,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -33713,17 +33713,17 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -33746,7 +33746,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -33779,16 +33779,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 48,
       "rank": 0,
@@ -33835,16 +33835,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -33858,16 +33858,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Shadowbeak (Boss)",
+      "nickname": "Forme de vie inconnue Shadowbeak",
       "species": "BOSS_BlackGriffon",
-      "species_name": "Shadowbeak (Boss)",
+      "species_name": "Forme de vie inconnue Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -33881,7 +33881,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -33904,7 +33904,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -33919,7 +33919,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -33965,7 +33965,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -33988,7 +33988,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -34011,7 +34011,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -34056,7 +34056,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -34148,16 +34148,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Prunelia",
+      "nickname": "en_text",
       "species": "BlueberryFairy",
-      "species_name": "Prunelia",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueberryFairy_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -34176,12 +34176,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -34204,7 +34204,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -34244,12 +34244,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -34272,7 +34272,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -34295,7 +34295,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
@@ -34310,7 +34310,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -34333,7 +34333,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -34356,16 +34356,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Suzaku (Boss)",
+      "nickname": "Roi éthéré Suzaku",
       "species": "BOSS_Suzaku",
-      "species_name": "Suzaku (Boss)",
+      "species_name": "Roi éthéré Suzaku",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Suzaku_icon_normal.webp",
       "level": 45,
       "rank": 0,
@@ -34379,7 +34379,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -34450,7 +34450,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
@@ -34462,9 +34462,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Shadowbeak (Boss)",
+      "nickname": "Forme de vie inconnue Shadowbeak",
       "species": "BOSS_BlackGriffon",
-      "species_name": "Shadowbeak (Boss)",
+      "species_name": "Forme de vie inconnue Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -34478,7 +34478,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -34529,7 +34529,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -34552,7 +34552,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -34562,12 +34562,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -34590,12 +34590,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -34618,12 +34618,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -34651,7 +34651,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -34674,7 +34674,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -34697,7 +34697,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -34720,7 +34720,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -34748,16 +34748,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -34794,12 +34794,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -34850,7 +34850,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -34873,7 +34873,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -34896,7 +34896,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -34919,17 +34919,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         },
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -34952,12 +34952,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -34980,7 +34980,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
@@ -35008,7 +35008,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -35048,7 +35048,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -35094,7 +35094,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -35122,7 +35122,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -35145,7 +35145,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -35160,7 +35160,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -35183,16 +35183,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Nyafia",
+      "nickname": "en_text",
       "species": "BadCatgirl",
-      "species_name": "Nyafia",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BadCatgirl_icon_normal.webp",
       "level": 57,
       "rank": 0,
@@ -35206,7 +35206,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -35229,16 +35229,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
       "owner": "inconnu"
     },
     {
-      "nickname": "Reptyro Cryst",
+      "nickname": "Ice Reptyro",
       "species": "VolcanicMonster_Ice",
-      "species_name": "Reptyro Cryst",
+      "species_name": "Ice Reptyro",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanicMonster_Ice_icon_normal.webp",
       "level": 49,
       "rank": 0,
@@ -35257,7 +35257,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -35292,9 +35292,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Astegon (Boss)",
+      "nickname": "Roi dragon d'acier Astegon",
       "species": "BOSS_BlackMetalDragon",
-      "species_name": "Astegon (Boss)",
+      "species_name": "Roi dragon d'acier Astegon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackMetalDragon_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -35308,12 +35308,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -35359,7 +35359,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -35382,7 +35382,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -35405,7 +35405,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -35438,7 +35438,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -35461,7 +35461,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -35484,7 +35484,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -35530,7 +35530,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -35553,12 +35553,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -35608,7 +35608,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -35654,7 +35654,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -35677,7 +35677,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -35700,7 +35700,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -35746,7 +35746,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -35837,7 +35837,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -35860,7 +35860,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -35911,7 +35911,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -35921,7 +35921,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -35944,7 +35944,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -35967,7 +35967,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -35990,7 +35990,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -36037,9 +36037,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Blazamut (Boss)",
+      "nickname": "Tyran du purgatoire Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Blazamut (Boss)",
+      "species_name": "Tyran du purgatoire Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -36053,12 +36053,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -36081,7 +36081,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
@@ -36091,7 +36091,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -36114,22 +36114,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_3",
-          "name": "Swift",
+          "name": "Sprinteur",
           "rank": 4
         }
       ],
@@ -36152,12 +36152,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -36208,7 +36208,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -36236,7 +36236,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -36259,7 +36259,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -36282,7 +36282,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -36305,7 +36305,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -36328,12 +36328,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -36356,7 +36356,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -36402,7 +36402,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -36425,7 +36425,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -36448,16 +36448,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Wixen (Boss)",
+      "nickname": "Goupil mage écarlate Wixen",
       "species": "BOSS_FoxMage",
-      "species_name": "Wixen (Boss)",
+      "species_name": "Goupil mage écarlate Wixen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxMage_icon_normal.webp",
       "level": 37,
       "rank": 0,
@@ -36471,7 +36471,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -36494,7 +36494,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -36540,7 +36540,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -36603,7 +36603,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -36626,12 +36626,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -36671,7 +36671,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         }
       ],
@@ -36699,7 +36699,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -36709,7 +36709,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -36732,7 +36732,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -36812,7 +36812,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -36835,7 +36835,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -36863,7 +36863,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -36909,7 +36909,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -36919,7 +36919,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -36942,7 +36942,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -36965,16 +36965,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Gobfin Ignis (Boss)",
+      "nickname": "Terreur volcanique Gobfin Ignis",
       "species": "BOSS_SharkKid_Fire",
-      "species_name": "Gobfin Ignis (Boss)",
+      "species_name": "Terreur volcanique Gobfin Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SharkKid_Fire_icon_normal.webp",
       "level": 36,
       "rank": 0,
@@ -37016,7 +37016,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         },
         {
@@ -37049,7 +37049,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -37106,7 +37106,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -37129,7 +37129,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -37152,12 +37152,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -37197,7 +37197,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -37243,12 +37243,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -37271,7 +37271,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -37317,7 +37317,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -37345,7 +37345,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -37391,7 +37391,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -37414,7 +37414,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -37442,7 +37442,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -37470,7 +37470,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -37493,7 +37493,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -37544,7 +37544,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -37567,7 +37567,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -37590,16 +37590,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Wixen (Boss)",
+      "nickname": "Goupil mage écarlate Wixen",
       "species": "BOSS_FoxMage",
-      "species_name": "Wixen (Boss)",
+      "species_name": "Goupil mage écarlate Wixen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxMage_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -37699,7 +37699,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -37722,7 +37722,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -37801,7 +37801,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
@@ -37829,7 +37829,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -37862,7 +37862,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -37885,7 +37885,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -37908,7 +37908,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -37931,7 +37931,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -37954,17 +37954,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -37987,7 +37987,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -38010,12 +38010,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -38101,7 +38101,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -38124,7 +38124,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -38204,7 +38204,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -38244,7 +38244,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
@@ -38254,7 +38254,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -38299,7 +38299,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -38322,7 +38322,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -38345,12 +38345,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -38385,9 +38385,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Frostallion Noct (Boss)",
+      "nickname": "Pégase des ombres légendaire Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Frostallion Noct (Boss)",
+      "species_name": "Pégase des ombres légendaire Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 72,
       "rank": 0,
@@ -38401,17 +38401,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -38456,21 +38456,21 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Grizzbolt (Boss)",
+      "nickname": "Griffes des orages Grizzbolt",
       "species": "BOSS_ElecPanda",
-      "species_name": "Grizzbolt (Boss)",
+      "species_name": "Griffes des orages Grizzbolt",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecPanda_icon_normal.webp",
       "level": 30,
       "rank": 0,
@@ -38517,12 +38517,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -38568,7 +38568,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -38591,7 +38591,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -38642,7 +38642,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         },
         {
@@ -38652,12 +38652,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -38680,7 +38680,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -38726,7 +38726,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -38766,7 +38766,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         },
         {
@@ -38781,7 +38781,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -38804,12 +38804,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -38832,7 +38832,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -38878,7 +38878,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -38901,7 +38901,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -38952,7 +38952,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -38980,7 +38980,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -39003,7 +39003,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -39060,12 +39060,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -39088,12 +39088,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -39116,16 +39116,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 34,
       "rank": 0,
@@ -39162,16 +39162,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 35,
       "rank": 0,
@@ -39185,16 +39185,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 32,
       "rank": 0,
@@ -39208,16 +39208,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 35,
       "rank": 0,
@@ -39231,16 +39231,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 31,
       "rank": 0,
@@ -39254,7 +39254,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -39323,7 +39323,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -39369,17 +39369,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         },
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -39402,7 +39402,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -39442,12 +39442,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -39515,7 +39515,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -39555,7 +39555,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -39578,7 +39578,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -39618,7 +39618,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -39641,7 +39641,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         },
         {
@@ -39669,12 +39669,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -39697,7 +39697,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -39720,12 +39720,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -39776,7 +39776,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -39822,7 +39822,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -39845,7 +39845,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -39875,9 +39875,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Jetragon (Boss)",
+      "nickname": "Dragon météore légendaire Jetragon",
       "species": "BOSS_JetDragon",
-      "species_name": "Jetragon (Boss)",
+      "species_name": "Dragon météore légendaire Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
       "level": 70,
       "rank": 0,
@@ -39891,17 +39891,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dragon_2_PAL",
-          "name": "Divine Dragon",
+          "name": "Shenron",
           "rank": 3
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -39924,12 +39924,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -39952,7 +39952,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -39980,7 +39980,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -40031,12 +40031,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -40059,7 +40059,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -40083,9 +40083,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Felbat (Boss)",
+      "nickname": "Vampire du crépuscule Felbat",
       "species": "BOSS_CatVampire",
-      "species_name": "Felbat (Boss)",
+      "species_name": "Vampire du crépuscule Felbat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatVampire_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -40099,17 +40099,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -40132,7 +40132,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -40155,7 +40155,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -40206,7 +40206,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -40229,7 +40229,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -40303,7 +40303,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -40371,16 +40371,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -40394,7 +40394,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -40417,16 +40417,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Kelpsea (Boss)",
+      "nickname": "Calamité des profondeurs Kelpsea",
       "species": "BOSS_Kelpie",
-      "species_name": "Kelpsea (Boss)",
+      "species_name": "Calamité des profondeurs Kelpsea",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_icon_normal.webp",
       "level": 17,
       "rank": 0,
@@ -40445,17 +40445,17 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -40485,9 +40485,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Paladius (Boss)",
+      "nickname": "Chevalier saint légendaire Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Paladius (Boss)",
+      "species_name": "Chevalier saint légendaire Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 64,
       "rank": 0,
@@ -40501,31 +40501,31 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Normal_2_PAL",
-          "name": "Celestial Emperor",
+          "name": "Dieu saint",
           "rank": 3
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 72,
       "rank": 0,
@@ -40539,12 +40539,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
@@ -40572,7 +40572,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -40595,7 +40595,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
@@ -40628,7 +40628,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
@@ -40661,7 +40661,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
@@ -40684,7 +40684,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         },
         {
@@ -40701,9 +40701,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Rayhound (Boss)",
+      "nickname": "Coureur vif-éclair Rayhound",
       "species": "BOSS_ThunderDog",
-      "species_name": "Rayhound (Boss)",
+      "species_name": "Coureur vif-éclair Rayhound",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ThunderDog_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -40740,7 +40740,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -40763,7 +40763,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -40809,7 +40809,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_3",
-          "name": "Swift",
+          "name": "Sprinteur",
           "rank": 4
         }
       ],
@@ -40855,12 +40855,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         },
         {
@@ -40893,7 +40893,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -40916,7 +40916,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -40962,7 +40962,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -40990,7 +40990,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -41053,7 +41053,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -41076,7 +41076,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -41099,7 +41099,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -41160,7 +41160,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -41183,12 +41183,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -41221,7 +41221,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -41244,7 +41244,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -41267,7 +41267,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -41295,7 +41295,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -41318,16 +41318,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Nyafia",
+      "nickname": "en_text",
       "species": "BadCatgirl",
-      "species_name": "Nyafia",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BadCatgirl_icon_normal.webp",
       "level": 35,
       "rank": 0,
@@ -41341,7 +41341,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -41364,7 +41364,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -41432,7 +41432,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -41495,7 +41495,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -41564,7 +41564,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -41587,16 +41587,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Jetragon (Boss)",
+      "nickname": "Dragon météore légendaire Jetragon",
       "species": "BOSS_JetDragon",
-      "species_name": "Jetragon (Boss)",
+      "species_name": "Dragon météore légendaire Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
       "level": 74,
       "rank": 0,
@@ -41610,17 +41610,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dragon_2_PAL",
-          "name": "Divine Dragon",
+          "name": "Shenron",
           "rank": 3
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -41666,7 +41666,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -41689,7 +41689,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -41742,9 +41742,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Lapiron",
+      "nickname": "en_text",
       "species": "BrownRabbit",
-      "species_name": "Lapiron",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BrownRabbit_icon_normal.webp",
       "level": 66,
       "rank": 0,
@@ -41758,7 +41758,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -41781,7 +41781,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -41804,7 +41804,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -41827,7 +41827,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -41850,7 +41850,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -41878,7 +41878,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -41901,7 +41901,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -41924,7 +41924,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -41954,9 +41954,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Surfent Terra (Boss)",
+      "nickname": "Incarnation du sirocco Surfent Terra",
       "species": "BOSS_Serpent_Ground",
-      "species_name": "Surfent Terra (Boss)",
+      "species_name": "Incarnation du sirocco Surfent Terra",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Serpent_Ground_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -42010,17 +42010,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         },
         {
@@ -42088,7 +42088,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -42111,7 +42111,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         },
         {
@@ -42144,21 +42144,21 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Kelpsea (Boss)",
+      "nickname": "Calamité des profondeurs Kelpsea",
       "species": "BOSS_Kelpie",
-      "species_name": "Kelpsea (Boss)",
+      "species_name": "Calamité des profondeurs Kelpsea",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_icon_normal.webp",
       "level": 19,
       "rank": 0,
@@ -42200,7 +42200,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -42223,7 +42223,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -42269,7 +42269,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -42297,7 +42297,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -42353,7 +42353,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -42439,7 +42439,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -42462,16 +42462,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dazemu",
+      "nickname": "en_text",
       "species": "FeatherOstrich",
-      "species_name": "Dazemu",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FeatherOstrich_icon_normal.webp",
       "level": 41,
       "rank": 0,
@@ -42485,7 +42485,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -42564,7 +42564,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -42592,7 +42592,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -42615,7 +42615,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
@@ -42655,9 +42655,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -42671,7 +42671,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -42722,7 +42722,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -42750,7 +42750,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -42818,7 +42818,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -42869,7 +42869,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -42897,16 +42897,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -42943,7 +42943,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -42966,7 +42966,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -42994,7 +42994,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -43029,9 +43029,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -43045,7 +43045,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -43068,7 +43068,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -43096,12 +43096,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -43124,7 +43124,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -43147,16 +43147,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -43170,12 +43170,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -43221,7 +43221,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -43244,7 +43244,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -43267,7 +43267,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -43313,16 +43313,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 48,
       "rank": 0,
@@ -43336,7 +43336,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -43359,7 +43359,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
@@ -43369,12 +43369,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -43402,7 +43402,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -43425,7 +43425,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -43448,7 +43448,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -43494,7 +43494,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -43517,12 +43517,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -43545,12 +43545,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -43573,12 +43573,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -43601,12 +43601,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -43629,7 +43629,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -43669,7 +43669,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -43697,7 +43697,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -43759,7 +43759,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -43787,7 +43787,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -43833,7 +43833,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -43856,7 +43856,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -43879,12 +43879,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -43907,16 +43907,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Frostallion (Boss)",
+      "nickname": "Pégase des glaces légendaire Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Frostallion (Boss)",
+      "species_name": "Pégase des glaces légendaire Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -43930,17 +43930,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Ice_2_PAL",
-          "name": "Ice Emperor",
+          "name": "Empereur glacial",
           "rank": 3
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -43980,7 +43980,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -44003,7 +44003,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -44026,21 +44026,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 64,
       "rank": 0,
@@ -44054,12 +44054,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
@@ -44110,16 +44110,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Lamball (Boss)",
+      "nickname": "Énorme et moelleux Lamball",
       "species": "BOSS_SheepBall",
-      "species_name": "Lamball (Boss)",
+      "species_name": "Énorme et moelleux Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 24,
       "rank": 2,
@@ -44133,12 +44133,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -44162,9 +44162,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -44178,7 +44178,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -44206,17 +44206,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -44313,7 +44313,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -44336,7 +44336,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
@@ -44346,7 +44346,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -44369,7 +44369,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
@@ -44443,7 +44443,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -44489,7 +44489,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -44519,9 +44519,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 59,
       "rank": 0,
@@ -44540,7 +44540,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -44563,7 +44563,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -44603,7 +44603,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -44626,7 +44626,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -44649,21 +44649,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Grizzbolt (Boss)",
+      "nickname": "Griffes des orages Grizzbolt",
       "species": "BOSS_ElecPanda",
-      "species_name": "Grizzbolt (Boss)",
+      "species_name": "Griffes des orages Grizzbolt",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecPanda_icon_normal.webp",
       "level": 30,
       "rank": 0,
@@ -44677,7 +44677,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -44723,7 +44723,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -44769,16 +44769,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -44832,7 +44832,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -44878,7 +44878,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -44901,7 +44901,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         },
         {
@@ -44929,7 +44929,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -44975,7 +44975,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -45008,16 +45008,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Felbat (Boss)",
+      "nickname": "Vampire du crépuscule Felbat",
       "species": "BOSS_CatVampire",
-      "species_name": "Felbat (Boss)",
+      "species_name": "Vampire du crépuscule Felbat",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatVampire_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -45031,7 +45031,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         },
         {
@@ -45059,7 +45059,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -45082,12 +45082,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -45110,7 +45110,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -45196,7 +45196,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -45249,9 +45249,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Paladius (Boss)",
+      "nickname": "Chevalier saint légendaire Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Paladius (Boss)",
+      "species_name": "Chevalier saint légendaire Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 63,
       "rank": 0,
@@ -45265,12 +45265,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Normal_2_PAL",
-          "name": "Celestial Emperor",
+          "name": "Dieu saint",
           "rank": 3
         },
         {
@@ -45303,7 +45303,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -45326,7 +45326,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -45349,26 +45349,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Prixter",
+      "nickname": "en_text",
       "species": "ScorpionMan",
-      "species_name": "Prixter",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
       "level": 48,
       "rank": 0,
@@ -45428,7 +45428,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         },
         {
@@ -45440,9 +45440,9 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Fuddler (Boss)",
+      "nickname": "Explorateur souterrain Fuddler",
       "species": "BOSS_CuteMole",
-      "species_name": "Fuddler (Boss)",
+      "species_name": "Explorateur souterrain Fuddler",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CuteMole_icon_normal.webp",
       "level": 36,
       "rank": 2,
@@ -45456,7 +45456,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         }
       ],
@@ -45484,12 +45484,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -45512,7 +45512,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -45535,7 +45535,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -45575,7 +45575,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -45598,16 +45598,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Kingpaca Cryst (Boss)",
+      "nickname": "Conquérant bleu-doux Ice Kingpaca",
       "species": "BOSS_KingAlpaca_Ice",
-      "species_name": "Kingpaca Cryst (Boss)",
+      "species_name": "Conquérant bleu-doux Ice Kingpaca",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingAlpaca_Ice_icon_normal.webp",
       "level": 46,
       "rank": 0,
@@ -45672,7 +45672,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -45712,12 +45712,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
@@ -45727,7 +45727,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -45783,7 +45783,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -45806,7 +45806,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -45875,26 +45875,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 61,
       "rank": 0,
@@ -45918,7 +45918,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -45941,16 +45941,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -45987,12 +45987,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
@@ -46015,7 +46015,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -46061,7 +46061,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -46084,7 +46084,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
@@ -46163,7 +46163,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -46191,7 +46191,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         },
         {
@@ -46203,9 +46203,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Reptyro (Boss)",
+      "nickname": "Bête dévoreuse de lave Reptyro",
       "species": "BOSS_VolcanicMonster",
-      "species_name": "Reptyro (Boss)",
+      "species_name": "Bête dévoreuse de lave Reptyro",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_VolcanicMonster_icon_normal.webp",
       "level": 50,
       "rank": 0,
@@ -46247,16 +46247,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Tocotoco (Boss)",
+      "nickname": "Fanatique d'explosions Tocotoco",
       "species": "BOSS_ColorfulBird",
-      "species_name": "Tocotoco (Boss)",
+      "species_name": "Fanatique d'explosions Tocotoco",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ColorfulBird_icon_normal.webp",
       "level": 51,
       "rank": 4,
@@ -46270,12 +46270,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Rare",
-          "name": "Lucky",
+          "name": "Chanceux",
           "rank": 4
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -46344,7 +46344,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         },
         {
@@ -46372,7 +46372,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -46400,12 +46400,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -46474,12 +46474,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -46507,7 +46507,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -46535,7 +46535,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -46558,7 +46558,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -46581,16 +46581,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Frostallion Noct (Boss)",
+      "nickname": "Pégase des ombres légendaire Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Frostallion Noct (Boss)",
+      "species_name": "Pégase des ombres légendaire Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 65,
       "rank": 0,
@@ -46604,12 +46604,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
@@ -46637,7 +46637,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -46660,16 +46660,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -46683,17 +46683,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -46716,7 +46716,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
@@ -46744,7 +46744,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -46790,7 +46790,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -46830,7 +46830,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -46853,7 +46853,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -46876,7 +46876,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -46927,7 +46927,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -46996,12 +46996,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -47024,12 +47024,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -47075,7 +47075,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -47131,7 +47131,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
@@ -47164,7 +47164,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -47187,7 +47187,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
@@ -47238,16 +47238,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 57,
       "rank": 0,
@@ -47266,7 +47266,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -47289,7 +47289,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -47312,7 +47312,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -47335,7 +47335,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
@@ -47358,7 +47358,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -47396,12 +47396,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -47424,7 +47424,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
@@ -47452,7 +47452,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -47515,7 +47515,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -47538,7 +47538,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -47561,7 +47561,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -47601,7 +47601,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -47624,7 +47624,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -47647,7 +47647,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -47710,7 +47710,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -47756,7 +47756,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -47779,7 +47779,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -47809,9 +47809,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Blazamut (Boss)",
+      "nickname": "Tyran du purgatoire Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Blazamut (Boss)",
+      "species_name": "Tyran du purgatoire Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 52,
       "rank": 0,
@@ -47825,7 +47825,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
@@ -47853,7 +47853,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -47916,16 +47916,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Penking (Boss)",
+      "nickname": "Pionnier des mers gelées Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Penking (Boss)",
+      "species_name": "Pionnier des mers gelées Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -47967,7 +47967,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -47997,9 +47997,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Knocklem (Boss)",
+      "nickname": "fr_Text en_text",
       "species": "BOSS_WingGolem",
-      "species_name": "Knocklem (Boss)",
+      "species_name": "fr_Text en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -48020,9 +48020,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 59,
       "rank": 0,
@@ -48059,26 +48059,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
       "owner": "Martial"
     },
     {
-      "nickname": "Penking (Boss)",
+      "nickname": "Pionnier des mers gelées Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Penking (Boss)",
+      "species_name": "Pionnier des mers gelées Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -48097,7 +48097,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -48125,7 +48125,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -48158,7 +48158,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -48181,16 +48181,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
       "owner": "inconnu"
     },
     {
-      "nickname": "Paladius (Boss)",
+      "nickname": "Chevalier saint légendaire Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Paladius (Boss)",
+      "species_name": "Chevalier saint légendaire Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -48204,26 +48204,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Normal_2_PAL",
-          "name": "Celestial Emperor",
+          "name": "Dieu saint",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -48244,9 +48244,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Lyleen (Boss)",
+      "nickname": "Impératrice du lys Lyleen",
       "species": "BOSS_LilyQueen",
-      "species_name": "Lyleen (Boss)",
+      "species_name": "Impératrice du lys Lyleen",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LilyQueen_icon_normal.webp",
       "level": 58,
       "rank": 0,
@@ -48260,12 +48260,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_2_PAL",
-          "name": "Spirit Emperor",
+          "name": "Roi des esprits",
           "rank": 3
         },
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -48288,7 +48288,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
@@ -48298,7 +48298,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -48344,16 +48344,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Penking (Boss)",
+      "nickname": "Pionnier des mers gelées Penking",
       "species": "BOSS_CaptainPenguin",
-      "species_name": "Penking (Boss)",
+      "species_name": "Pionnier des mers gelées Penking",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CaptainPenguin_icon_normal.webp",
       "level": 51,
       "rank": 0,
@@ -48382,7 +48382,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -48410,7 +48410,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -48433,12 +48433,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -48461,7 +48461,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -48530,7 +48530,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -48558,7 +48558,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -48581,7 +48581,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -48609,7 +48609,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -48632,16 +48632,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Frostallion Noct (Boss)",
+      "nickname": "Pégase des ombres légendaire Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Frostallion Noct (Boss)",
+      "species_name": "Pégase des ombres légendaire Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 65,
       "rank": 0,
@@ -48655,12 +48655,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
@@ -48688,7 +48688,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -48768,7 +48768,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
@@ -48801,7 +48801,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -48824,7 +48824,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -48847,7 +48847,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
@@ -48892,7 +48892,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -48915,7 +48915,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -48938,12 +48938,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -49085,7 +49085,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
@@ -49120,9 +49120,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Knocklem",
+      "nickname": "en_text",
       "species": "WingGolem",
-      "species_name": "Knocklem",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
       "level": 58,
       "rank": 0,
@@ -49141,12 +49141,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "ElementBoost_Earth_1_PAL",
-          "name": "Power of Gaia",
+          "name": "Force tellurique",
           "rank": 1
         }
       ],
@@ -49169,7 +49169,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -49192,12 +49192,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -49220,7 +49220,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -49271,12 +49271,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -49299,7 +49299,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -49322,16 +49322,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -49345,16 +49345,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Pyrin (Boss)",
+      "nickname": "Cheval vif des sables chauds Pyrin",
       "species": "BOSS_FireKirin",
-      "species_name": "Pyrin (Boss)",
+      "species_name": "Cheval vif des sables chauds Pyrin",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FireKirin_icon_normal.webp",
       "level": 40,
       "rank": 0,
@@ -49391,7 +49391,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -49414,7 +49414,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -49437,7 +49437,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up2",
-          "name": "Artisan",
+          "name": "Appliqué",
           "rank": 3
         }
       ],
@@ -49460,7 +49460,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -49483,12 +49483,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         },
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
@@ -49567,12 +49567,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -49646,7 +49646,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -49698,9 +49698,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Kelpsea Ignis (Boss)",
+      "nickname": "Calamité de lave Kelpsea Ignis",
       "species": "BOSS_Kelpie_Fire",
-      "species_name": "Kelpsea Ignis (Boss)",
+      "species_name": "Calamité de lave Kelpsea Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_Fire_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -49719,7 +49719,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -49742,22 +49742,22 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         },
         {
           "id": "TrainerWorkSpeed_UP_1",
-          "name": "Motivational Leader",
+          "name": "Motivateur",
           "rank": 3
         }
       ],
@@ -49780,16 +49780,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -49803,26 +49803,26 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -49836,7 +49836,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -49859,7 +49859,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -49905,12 +49905,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         }
       ],
@@ -49933,16 +49933,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -49956,17 +49956,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -49989,16 +49989,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
-          "name": "Hydromaniac",
+          "name": "Hydrophile",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Kelpsea Ignis (Boss)",
+      "nickname": "Calamité de lave Kelpsea Ignis",
       "species": "BOSS_Kelpie_Fire",
-      "species_name": "Kelpsea Ignis (Boss)",
+      "species_name": "Calamité de lave Kelpsea Ignis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Kelpie_Fire_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -50017,7 +50017,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -50040,7 +50040,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -50120,9 +50120,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Mammorest (Boss)",
+      "nickname": "Crocs enragés Mammorest",
       "species": "BOSS_GrassMammoth",
-      "species_name": "Mammorest (Boss)",
+      "species_name": "Crocs enragés Mammorest",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassMammoth_icon_normal.webp",
       "level": 38,
       "rank": 0,
@@ -50141,7 +50141,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -50164,7 +50164,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -50204,7 +50204,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -50227,7 +50227,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -50250,7 +50250,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up2",
-          "name": "Burly Body",
+          "name": "Corps robuste",
           "rank": 3
         }
       ],
@@ -50278,7 +50278,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Ice_1_PAL",
-          "name": "Heated Body",
+          "name": "Sang chaud",
           "rank": 1
         }
       ],
@@ -50301,7 +50301,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -50324,7 +50324,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -50347,7 +50347,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -50403,7 +50403,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -50449,7 +50449,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
@@ -50459,7 +50459,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
@@ -50483,9 +50483,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 61,
       "rank": 0,
@@ -50499,16 +50499,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Frostallion (Boss)",
+      "nickname": "Pégase des glaces légendaire Frostallion",
       "species": "BOSS_IceHorse",
-      "species_name": "Frostallion (Boss)",
+      "species_name": "Pégase des glaces légendaire Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -50522,12 +50522,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Ice_2_PAL",
-          "name": "Ice Emperor",
+          "name": "Empereur glacial",
           "rank": 3
         },
         {
@@ -50560,7 +50560,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -50583,7 +50583,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -50606,7 +50606,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         },
         {
@@ -50634,16 +50634,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Gildane",
+      "nickname": "en_text",
       "species": "GoldenHorse",
-      "species_name": "Gildane",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GoldenHorse_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -50680,16 +50680,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_2",
-          "name": "Runner",
+          "name": "Coursier",
           "rank": 3
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -50703,17 +50703,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -50736,16 +50736,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down2",
-          "name": "Slacker",
+          "name": "Négligent",
           "rank": -3
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -50759,7 +50759,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -50792,7 +50792,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -50815,7 +50815,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -50878,16 +50878,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
       "owner": "inconnu"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -50901,16 +50901,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 56,
       "rank": 0,
@@ -50924,7 +50924,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -50947,7 +50947,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
-          "name": "Coldblooded",
+          "name": "Sang froid",
           "rank": 1
         }
       ],
@@ -50970,7 +50970,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerLogging_up1",
-          "name": "Logging Foreman",
+          "name": "Chef d'abattage",
           "rank": 3
         }
       ],
@@ -50993,7 +50993,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -51016,7 +51016,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -51044,7 +51044,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -51067,7 +51067,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -51107,17 +51107,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         },
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -51140,7 +51140,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -51196,16 +51196,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Dogen",
+      "nickname": "en_text",
       "species": "SifuDog",
-      "species_name": "Dogen",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SifuDog_icon_normal.webp",
       "level": 53,
       "rank": 0,
@@ -51242,7 +51242,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -51265,12 +51265,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -51293,7 +51293,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         }
       ],
@@ -51316,7 +51316,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -51367,7 +51367,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         }
       ],
@@ -51417,16 +51417,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Astegon (Boss)",
+      "nickname": "Roi dragon d'acier Astegon",
       "species": "BOSS_BlackMetalDragon",
-      "species_name": "Astegon (Boss)",
+      "species_name": "Roi dragon d'acier Astegon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackMetalDragon_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -51440,12 +51440,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -51468,7 +51468,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -51491,7 +51491,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -51537,12 +51537,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -51565,7 +51565,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
@@ -51600,9 +51600,9 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Helzephyr (Boss)",
+      "nickname": "Ailes des enfers Helzephyr",
       "species": "BOSS_HadesBird",
-      "species_name": "Helzephyr (Boss)",
+      "species_name": "Ailes des enfers Helzephyr",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HadesBird_icon_normal.webp",
       "level": 1,
       "rank": 0,
@@ -51662,17 +51662,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -51695,7 +51695,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -51725,9 +51725,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Yakumo",
+      "nickname": "en_text",
       "species": "GuardianDog",
-      "species_name": "Yakumo",
+      "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GuardianDog_icon_normal.webp",
       "level": 54,
       "rank": 0,
@@ -51741,7 +51741,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down2",
-          "name": "Brittle",
+          "name": "Os fragiles",
           "rank": -3
         }
       ],
@@ -51764,7 +51764,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -51792,7 +51792,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
@@ -51838,7 +51838,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -51861,12 +51861,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
-          "name": "Ferocious",
+          "name": "Féroce",
           "rank": 3
         },
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -51935,7 +51935,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
@@ -51947,9 +51947,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Blazamut (Boss)",
+      "nickname": "Tyran du purgatoire Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Blazamut (Boss)",
+      "species_name": "Tyran du purgatoire Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 52,
       "rank": 0,
@@ -51963,7 +51963,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
@@ -52008,7 +52008,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -52032,9 +52032,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Jormuntide (Boss)",
+      "nickname": "Conquérant de la surface Jormuntide",
       "species": "BOSS_Umihebi",
-      "species_name": "Jormuntide (Boss)",
+      "species_name": "Conquérant de la surface Jormuntide",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Umihebi_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -52048,7 +52048,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Aqua_2_PAL",
-          "name": "Lord of the Sea",
+          "name": "Divinité aquatique",
           "rank": 3
         },
         {
@@ -52058,7 +52058,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -52081,7 +52081,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -52104,16 +52104,16 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Anubis",
+      "nickname": "Gardien du soleil ténébreux Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Anubis",
+      "species_name": "Gardien du soleil ténébreux Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -52127,12 +52127,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
-          "name": "Earth Emperor",
+          "name": "Empereur terrestre",
           "rank": 3
         },
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -52183,7 +52183,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -52206,7 +52206,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -52229,7 +52229,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
@@ -52257,7 +52257,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         }
       ],
@@ -52308,21 +52308,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
       "owner": "takitome"
     },
     {
-      "nickname": "Suzaku (Boss)",
+      "nickname": "Roi éthéré Suzaku",
       "species": "BOSS_Suzaku",
-      "species_name": "Suzaku (Boss)",
+      "species_name": "Roi éthéré Suzaku",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Suzaku_icon_normal.webp",
       "level": 47,
       "rank": 0,
@@ -52336,7 +52336,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -52359,7 +52359,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -52382,7 +52382,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -52405,7 +52405,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -52485,7 +52485,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
-          "name": "Capacitor",
+          "name": "Condensateur",
           "rank": 1
         }
       ],
@@ -52508,7 +52508,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -52531,7 +52531,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
-          "name": "Veil of Darkness",
+          "name": "Grimoire",
           "rank": 1
         }
       ],
@@ -52554,7 +52554,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -52577,7 +52577,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         }
       ],
@@ -52600,7 +52600,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -52623,7 +52623,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "CraftSpeed_down1",
-          "name": "Clumsy",
+          "name": "Maladroit",
           "rank": -1
         }
       ],
@@ -52651,12 +52651,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_2",
-          "name": "Destructive",
+          "name": "Comportement destructeur",
           "rank": -2
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -52702,7 +52702,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -52788,7 +52788,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_sadist",
-          "name": "Sadist",
+          "name": "Sadique",
           "rank": 1
         }
       ],
@@ -52834,12 +52834,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "PAL_Sanity_Down_1",
-          "name": "Positive Thinker",
+          "name": "Positif",
           "rank": 1
         }
       ],
@@ -52862,7 +52862,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
@@ -52885,7 +52885,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         }
       ],
@@ -52908,7 +52908,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -52931,7 +52931,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -52954,7 +52954,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         }
       ],
@@ -52977,7 +52977,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         },
         {
@@ -52987,12 +52987,12 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -53015,7 +53015,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
-          "name": "Dainty Eater",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -53038,12 +53038,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Deffence_up1",
-          "name": "Hard Skin",
+          "name": "Peau dure",
           "rank": 1
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -53112,7 +53112,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Blood of the Dragon",
+          "name": "Sang de dragon",
           "rank": 1
         }
       ],
@@ -53158,7 +53158,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         },
         {
@@ -53219,7 +53219,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Down_2",
-          "name": "Workaholic",
+          "name": "Acharné",
           "rank": 3
         }
       ],
@@ -53242,7 +53242,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Noukin",
-          "name": "Musclehead",
+          "name": "Impulsif",
           "rank": 2
         }
       ],
@@ -53282,7 +53282,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
-          "name": "Stronghold Strategist",
+          "name": "Stratège de forteresse",
           "rank": 3
         }
       ],
@@ -53402,7 +53402,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
-          "name": "Suntan Lover",
+          "name": "Hyperpigmentation",
           "rank": 1
         }
       ],
@@ -53430,7 +53430,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Normal_1_PAL",
-          "name": "Abnormal",
+          "name": "Anormal",
           "rank": 1
         }
       ],
@@ -53453,12 +53453,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -53481,7 +53481,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         },
         {
@@ -53509,7 +53509,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -53560,16 +53560,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
       "owner": "Theo"
     },
     {
-      "nickname": "Blazamut (Boss)",
+      "nickname": "Tyran du purgatoire Blazamut",
       "species": "BOSS_KingBahamut",
-      "species_name": "Blazamut (Boss)",
+      "species_name": "Tyran du purgatoire Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
       "level": 52,
       "rank": 0,
@@ -53583,7 +53583,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
-          "name": "Flame Emperor",
+          "name": "Empereur enflammé",
           "rank": 3
         },
         {
@@ -53611,7 +53611,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         }
       ],
@@ -53639,7 +53639,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "ElementBoost_Fire_1_PAL",
-          "name": "Pyromaniac",
+          "name": "Pyromane",
           "rank": 1
         },
         {
@@ -53718,7 +53718,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
-          "name": "Insulated Body",
+          "name": "Isolant",
           "rank": 1
         }
       ],
@@ -53771,9 +53771,9 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Frostallion Noct (Boss)",
+      "nickname": "Pégase des ombres légendaire Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
-      "species_name": "Frostallion Noct (Boss)",
+      "species_name": "Pégase des ombres légendaire Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
       "level": 65,
       "rank": 0,
@@ -53787,17 +53787,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "CraftSpeed_up1",
-          "name": "Serious",
+          "name": "Sérieux",
           "rank": 1
         }
       ],
@@ -53843,7 +53843,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
-          "name": "Earthquake Resistant",
+          "name": "Constitution parasismique",
           "rank": 1
         },
         {
@@ -53853,7 +53853,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -53876,17 +53876,17 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
-          "name": "Diet Lover",
+          "name": "Nutritionniste",
           "rank": 3
         },
         {
           "id": "PAL_FullStomach_Up_1",
-          "name": "Glutton",
+          "name": "Glouton",
           "rank": -1
         },
         {
           "id": "PAL_ALLAttack_down1",
-          "name": "Coward",
+          "name": "Frileux",
           "rank": -1
         }
       ],
@@ -53949,12 +53949,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         },
         {
           "id": "ElementResist_Dark_1_PAL",
-          "name": "Cheery",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -53977,7 +53977,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -54005,7 +54005,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "TrainerMining_up1",
-          "name": "Mine Foreman",
+          "name": "Chef d'extraction",
           "rank": 3
         },
         {
@@ -54096,7 +54096,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         }
       ],
@@ -54119,7 +54119,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
-          "name": "Waterproof",
+          "name": "Imperméabilité",
           "rank": 1
         }
       ],
@@ -54182,7 +54182,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -54212,9 +54212,9 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Necromus (Boss)",
+      "nickname": "Chevalier noir légendaire Necromus",
       "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus (Boss)",
+      "species_name": "Chevalier noir légendaire Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -54228,21 +54228,21 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Dark_2_PAL",
-          "name": "Lord of the Underworld",
+          "name": "Hadès",
           "rank": 3
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Paladius (Boss)",
+      "nickname": "Chevalier saint légendaire Paladius",
       "species": "BOSS_SaintCentaur",
-      "species_name": "Paladius (Boss)",
+      "species_name": "Chevalier saint légendaire Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
       "level": 60,
       "rank": 0,
@@ -54256,12 +54256,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
           "id": "ElementBoost_Normal_2_PAL",
-          "name": "Celestial Emperor",
+          "name": "Dieu saint",
           "rank": 3
         },
         {
@@ -54294,7 +54294,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_conceited",
-          "name": "Conceited",
+          "name": "Vaniteux",
           "rank": 1
         }
       ],
@@ -54317,7 +54317,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrant Foliage",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -54345,17 +54345,17 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_Sanity_Up_1",
-          "name": "Unstable",
+          "name": "Mentalement instable",
           "rank": -1
         },
         {
           "id": "ElementResist_Leaf_1_PAL",
-          "name": "Botanical Barrier",
+          "name": "Anti-irritations",
           "rank": 1
         },
         {
           "id": "PAL_oraora",
-          "name": "Aggressive",
+          "name": "Rentre-dedans",
           "rank": 1
         }
       ],
@@ -54406,16 +54406,16 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "Deffence_down1",
-          "name": "Downtrodden",
+          "name": "Vulnérable aux coups",
           "rank": -1
         }
       ],
       "owner": "LawzZ"
     },
     {
-      "nickname": "Anubis",
+      "nickname": "Gardien du soleil ténébreux Anubis",
       "species": "BOSS_Anubis",
-      "species_name": "Anubis",
+      "species_name": "Gardien du soleil ténébreux Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
       "level": 55,
       "rank": 0,
@@ -54429,7 +54429,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
-          "name": "Earth Emperor",
+          "name": "Empereur terrestre",
           "rank": 3
         },
         {
@@ -54480,7 +54480,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "Legend",
-          "name": "Legend",
+          "name": "Légende",
           "rank": 4
         },
         {
@@ -54490,7 +54490,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -54523,7 +54523,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_masochist",
-          "name": "Masochist",
+          "name": "Masochiste",
           "rank": 1
         }
       ],
@@ -54546,7 +54546,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
-          "name": "Pacifist",
+          "name": "Biais d'omission",
           "rank": -3
         }
       ],
@@ -54569,7 +54569,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
-          "name": "Dragonkiller",
+          "name": "Tueur de dragons",
           "rank": 1
         }
       ],
@@ -54597,7 +54597,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "PAL_CorporateSlave",
-          "name": "Work Slave",
+          "name": "Soumis",
           "rank": 1
         }
       ],
@@ -54620,12 +54620,12 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "TrainerATK_UP_1",
-          "name": "Vanguard",
+          "name": "Chef d'assaut",
           "rank": 3
         },
         {
           "id": "PAL_rude",
-          "name": "Hooligan",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -54671,7 +54671,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
-          "name": "Spirit of Zen",
+          "name": "Stoïque",
           "rank": 1
         }
       ],
@@ -54716,7 +54716,7 @@ window.PALWORLD_DATA = {
         },
         {
           "id": "MoveSpeed_up_1",
-          "name": "Nimble",
+          "name": "Vif",
           "rank": 1
         }
       ],
@@ -54739,7 +54739,7 @@ window.PALWORLD_DATA = {
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
-          "name": "Bottomless Stomach",
+          "name": "Estomac sans fond",
           "rank": -2
         }
       ],
