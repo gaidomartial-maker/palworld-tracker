@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T13:28:21.262017+00:00",
+  "generated_at": "2026-07-23T15:35:20.336073+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 2,
+    "current_players": 3,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,23 +13,23 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 77,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 73.0,
+      "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
     {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 44.0,
+      "ping": 47.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
     {
       "name": "Martial",
-      "level": 70,
+      "level": 71,
       "building_count": null,
-      "ping": 59.0,
+      "ping": 68.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -1987,7 +1987,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "Jolthog",
@@ -3524,7 +3524,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 9,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -3535,9 +3535,9 @@ window.PALWORLD_DATA = {
         "defense": 10
       },
       "power_stats": {
-        "hp": 978,
-        "atk": 66,
-        "def": 58
+        "hp": 1616,
+        "atk": 155,
+        "def": 136
       },
       "passives": [
         {
@@ -3582,7 +3582,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 5,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -3593,9 +3593,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 776,
-        "atk": 39,
-        "def": 36
+        "hp": 1827,
+        "atk": 192,
+        "def": 179
       },
       "passives": [
         {
@@ -10795,7 +10795,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 67,
+      "level": 68,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -10806,9 +10806,9 @@ window.PALWORLD_DATA = {
         "defense": 20
       },
       "power_stats": {
-        "hp": 5408,
-        "atk": 655,
-        "def": 563
+        "hp": 5481,
+        "atk": 665,
+        "def": 572
       },
       "passives": [
         {
@@ -17456,7 +17456,7 @@ window.PALWORLD_DATA = {
       "species": "SweetsSheep",
       "species_name": "Woolipop",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SweetsSheep_icon_normal.webp",
-      "level": 10,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -17467,9 +17467,9 @@ window.PALWORLD_DATA = {
         "defense": 98
       },
       "power_stats": {
-        "hp": 979,
-        "atk": 76,
-        "def": 94
+        "hp": 1363,
+        "atk": 137,
+        "def": 170
       },
       "passives": [],
       "owner": "LawzZ"
@@ -17907,7 +17907,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 72,
+      "level": 73,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -17918,9 +17918,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 6641,
-        "atk": 854,
-        "def": 786
+        "hp": 6727,
+        "atk": 865,
+        "def": 795
       },
       "passives": [
         {
@@ -19710,7 +19710,7 @@ window.PALWORLD_DATA = {
       "species": "SweetsSheep",
       "species_name": "Woolipop",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SweetsSheep_icon_normal.webp",
-      "level": 10,
+      "level": 22,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -19721,9 +19721,9 @@ window.PALWORLD_DATA = {
         "defense": 79
       },
       "power_stats": {
-        "hp": 947,
-        "atk": 72,
-        "def": 90
+        "hp": 1483,
+        "atk": 159,
+        "def": 199
       },
       "passives": [
         {
@@ -19732,7 +19732,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Hangyu Cryst",
@@ -21196,7 +21196,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 6,
+      "level": 21,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -21207,9 +21207,9 @@ window.PALWORLD_DATA = {
         "defense": 55
       },
       "power_stats": {
-        "hp": 810,
-        "atk": 51,
-        "def": 43
+        "hp": 1586,
+        "atk": 178,
+        "def": 152
       },
       "passives": [
         {
@@ -27753,7 +27753,7 @@ window.PALWORLD_DATA = {
       "species": "Sekhmet",
       "species_name": "Sekhmet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Sekhmet_icon_normal.webp",
-      "level": 44,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -27764,9 +27764,9 @@ window.PALWORLD_DATA = {
         "defense": 30
       },
       "power_stats": {
-        "hp": 3169,
-        "atk": 589,
-        "def": 313
+        "hp": 3229,
+        "atk": 602,
+        "def": 320
       },
       "passives": [
         {
@@ -33672,7 +33672,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_Anubis",
       "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
-      "level": 72,
+      "level": 73,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -33683,9 +33683,9 @@ window.PALWORLD_DATA = {
         "defense": 89
       },
       "power_stats": {
-        "hp": 7688,
-        "atk": 1098,
-        "def": 896
+        "hp": 7787,
+        "atk": 1113,
+        "def": 908
       },
       "passives": [
         {
@@ -37275,7 +37275,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 7,
+      "level": 24,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -37286,9 +37286,9 @@ window.PALWORLD_DATA = {
         "defense": 29
       },
       "power_stats": {
-        "hp": 845,
-        "atk": 50,
-        "def": 47
+        "hp": 1683,
+        "atk": 173,
+        "def": 164
       },
       "passives": [
         {
@@ -38985,7 +38985,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_IceHorse",
       "species_name": "Frostallion",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_icon_normal.webp",
-      "level": 65,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -38996,9 +38996,9 @@ window.PALWORLD_DATA = {
         "defense": 88
       },
       "power_stats": {
-        "hp": 7195,
-        "atk": 1174,
-        "def": 1034
+        "hp": 7401,
+        "atk": 1209,
+        "def": 1068
       },
       "passives": [
         {
@@ -42565,7 +42565,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 62,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -42576,9 +42576,9 @@ window.PALWORLD_DATA = {
         "defense": 99
       },
       "power_stats": {
-        "hp": 5560,
-        "atk": 928,
-        "def": 914
+        "hp": 5887,
+        "atk": 988,
+        "def": 972
       },
       "passives": [
         {
@@ -50547,7 +50547,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_SaintCentaur",
       "species_name": "Paladius",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
-      "level": 64,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -50558,9 +50558,9 @@ window.PALWORLD_DATA = {
         "defense": 96
       },
       "power_stats": {
-        "hp": 6356,
-        "atk": 1023,
-        "def": 1162
+        "hp": 6539,
+        "atk": 1057,
+        "def": 1197
       },
       "passives": [
         {
@@ -54954,7 +54954,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 64,
+      "level": 66,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -54965,9 +54965,9 @@ window.PALWORLD_DATA = {
         "defense": 51
       },
       "power_stats": {
-        "hp": 6402,
-        "atk": 1106,
-        "def": 892
+        "hp": 6694,
+        "atk": 1149,
+        "def": 932
       },
       "passives": [
         {
@@ -60099,7 +60099,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "Paladius",
@@ -62307,6 +62307,35 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Herbil",
+      "species": "LeafMomonga",
+      "species_name": "Herbil",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
+      "level": 34,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 23,
+        "melee": 0,
+        "shot": 5,
+        "defense": 91
+      },
+      "power_stats": {
+        "hp": 2123,
+        "atk": 269,
+        "def": 268
+      },
+      "passives": [
+        {
+          "id": "PAL_ALLAttack_up1",
+          "name": "Brave",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Azurmane",
       "species": "BlueThunderHorse",
       "species_name": "Azurmane",
@@ -63467,7 +63496,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "en_text",
@@ -65156,7 +65185,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 33,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -65167,9 +65196,9 @@ window.PALWORLD_DATA = {
         "defense": 63
       },
       "power_stats": {
-        "hp": 2084,
-        "atk": 246,
-        "def": 244
+        "hp": 2180,
+        "atk": 261,
+        "def": 260
       },
       "passives": [
         {
@@ -65178,7 +65207,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "LawzZ"
+      "owner": "Martial"
     },
     {
       "nickname": "Knocklem Ignis",
@@ -66835,7 +66864,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 33,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -66846,9 +66875,9 @@ window.PALWORLD_DATA = {
         "defense": 19
       },
       "power_stats": {
-        "hp": 2198,
-        "atk": 255,
-        "def": 220
+        "hp": 2301,
+        "atk": 270,
+        "def": 234
       },
       "passives": [
         {
@@ -67364,6 +67393,35 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Herbil",
+      "species": "LeafMomonga",
+      "species_name": "Herbil",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
+      "level": 37,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 68,
+        "melee": 0,
+        "shot": 12,
+        "defense": 12
+      },
+      "power_stats": {
+        "hp": 2466,
+        "atk": 270,
+        "def": 290
+      },
+      "passives": [
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        }
+      ],
+      "owner": "LawzZ"
+    },
+    {
       "nickname": "Tombat",
       "species": "CatBat",
       "species_name": "Tombat",
@@ -67674,7 +67732,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Shroomer",
@@ -67703,7 +67761,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Purple Slime",
@@ -67849,7 +67907,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 60,
+      "level": 67,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -67860,9 +67918,9 @@ window.PALWORLD_DATA = {
         "defense": 85
       },
       "power_stats": {
-        "hp": 5776,
-        "atk": 1106,
-        "def": 866
+        "hp": 6500,
+        "atk": 1242,
+        "def": 980
       },
       "passives": [
         {
@@ -68054,6 +68112,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Herbil",
+      "species": "LeafMomonga",
+      "species_name": "Herbil",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
+      "level": 38,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 10,
+        "melee": 0,
+        "shot": 52,
+        "defense": 45
+      },
+      "power_stats": {
+        "hp": 2255,
+        "atk": 304,
+        "def": 270
+      },
+      "passives": [
+        {
+          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
+          "name": "Farmhand",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Purple Slime",
       "species": "YakushimaMonster001_Purple",
       "species_name": "Purple Slime",
@@ -68195,9 +68282,9 @@ window.PALWORLD_DATA = {
         "defense": 93
       },
       "power_stats": {
-        "hp": 4758,
-        "atk": 1239,
-        "def": 1104
+        "hp": 4911,
+        "atk": 1247,
+        "def": 1117
       },
       "passives": [
         {
@@ -68313,6 +68400,29 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
+      "owner": "LawzZ"
+    },
+    {
+      "nickname": "Herbil",
+      "species": "LeafMomonga",
+      "species_name": "Herbil",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
+      "level": 38,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 2,
+        "melee": 0,
+        "shot": 42,
+        "defense": 41
+      },
+      "power_stats": {
+        "hp": 2219,
+        "atk": 297,
+        "def": 268
+      },
+      "passives": [],
       "owner": "LawzZ"
     },
     {
