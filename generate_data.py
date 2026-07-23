@@ -545,15 +545,31 @@ def parse_characters(save_path, online_players):
             "defense": talent("Talent_Defense"),
         }
         is_awakened = params.get("bIsAwakening", {}).get("value", False)
+        rank_hp = talent("Rank_HP")
+        rank_attack = talent("Rank_Attack")
+        rank_defense = talent("Rank_Defence")
+        friendship_points = _byte_prop_value(params.get("FriendshipPoint"), 0)
+        pal_passive_bonus = _passive_stat_bonus(passive_ids)
+
+        nickname_for_diag = params.get("NickName", {}).get("value") or ""
+        if nickname_for_diag in ("balsamique", "Necromus"):
+            print(
+                f"[diag_atk] {nickname_for_diag}: level={level}, raw_rank={raw_rank}, "
+                f"rank_hp={rank_hp}, rank_attack={rank_attack}, rank_defense={rank_defense}, "
+                f"friendship_points={friendship_points}, friendship_rank={_friendship_rank(friendship_points)}, "
+                f"is_awakened={is_awakened}, talents={talents}, passive_bonus={pal_passive_bonus}, "
+                f"passive_ids={passive_ids}"
+            )
+
         power_stats = _compute_pal_power_stats(
             char_id, level, talents,
-            rank_hp=talent("Rank_HP"),
-            rank_attack=talent("Rank_Attack"),
-            rank_defense=talent("Rank_Defence"),
+            rank_hp=rank_hp,
+            rank_attack=rank_attack,
+            rank_defense=rank_defense,
             condenser_rank=raw_rank,
-            friendship_points=_byte_prop_value(params.get("FriendshipPoint"), 0),
+            friendship_points=friendship_points,
             is_awake=is_awakened,
-            passive_bonus=_passive_stat_bonus(passive_ids),
+            passive_bonus=pal_passive_bonus,
         )
 
         pals_raw.append((owner_uid, {
