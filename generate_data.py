@@ -48,15 +48,20 @@ def _lookup_pal(char_id):
     entry = PAL_NAMES.get(str(char_id).lower())
     if not entry:
         return {"name": char_id, "icon": None}
+    # name_fr n'existe que pour les Pals presents dans le jeu au lancement
+    # (source datant de janvier 2024) -- on retombe sur le nom anglais pour
+    # tout ce qui a ete ajoute depuis (la plupart des Pals BOSS_* recents).
+    name = entry.get("name_fr") or entry["name"]
     icon = f"{PAL_ICON_BASE_URL}{entry['icon']}" if entry.get("icon") else None
-    return {"name": entry["name"], "icon": icon}
+    return {"name": name, "icon": icon}
 
 
 def _lookup_passive(passive_id):
     entry = PASSIVE_NAMES.get(str(passive_id).lower())
     if not entry:
         return {"id": passive_id, "name": passive_id, "rank": 0}
-    return {"id": passive_id, "name": entry["name"], "rank": entry.get("rank", 0)}
+    name = entry.get("name_fr") or entry["name"]
+    return {"id": passive_id, "name": name, "rank": entry.get("rank", 0)}
 
 
 def env(name, required=True, default=None):
