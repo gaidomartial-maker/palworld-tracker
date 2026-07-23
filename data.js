@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T23:31:16.289167+00:00",
+  "generated_at": "2026-07-23T23:33:19.693887+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 1,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,8 +13,8 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 35.0,
+      "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
     {
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 73,
       "building_count": null,
-      "ping": 49.0,
+      "ping": 59.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -12598,9 +12598,9 @@ window.PALWORLD_DATA = {
         "defense": 14
       },
       "power_stats": {
-        "hp": 4764,
-        "atk": 752,
-        "def": 518
+        "hp": 4939,
+        "atk": 764,
+        "def": 535
       },
       "souls": 0,
       "passives": [
@@ -80237,7 +80237,7 @@ window.PALWORLD_DATA = {
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 7,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -80248,9 +80248,9 @@ window.PALWORLD_DATA = {
         "defense": 60
       },
       "power_stats": {
-        "hp": 1049,
-        "atk": 136,
-        "def": 105
+        "hp": 1128,
+        "atk": 157,
+        "def": 121
       },
       "souls": 0,
       "passives": [
@@ -80927,6 +80927,46 @@ window.PALWORLD_DATA = {
       "owner": "inconnu"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 100,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 14,
+        "def": 14
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_ALLAttack_up2",
+          "name": "Féroce",
+          "rank": 3
+        },
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "PAL_masochist",
+          "name": "Masochiste",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Beakon",
       "species": "ThunderBird",
       "species_name": "Beakon",
@@ -80952,6 +80992,41 @@ window.PALWORLD_DATA = {
           "id": "TrainerDEF_UP_1",
           "name": "Stratège de forteresse",
           "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 100,
+        "defense": 17
+      },
+      "power_stats": {
+        "hp": 596,
+        "atk": 9,
+        "def": 10
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "PAL_CorporateSlave",
+          "name": "Soumis",
+          "rank": 1
         }
       ],
       "owner": "Martial"
@@ -81125,7 +81200,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 728
+        "pal_count": 730
       },
       {
         "owner": "LawzZ",
@@ -81155,7 +81230,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1921565
+        "total_power": 1923007
       },
       {
         "owner": "takitome",
@@ -81163,7 +81238,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 129260
+        "total_power": 129376
       },
       {
         "owner": "Prismiti",
