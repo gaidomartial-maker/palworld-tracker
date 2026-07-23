@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T21:40:55.786619+00:00",
+  "generated_at": "2026-07-23T21:50:59.296344+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 53.0,
+      "ping": 55.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 54.0,
+      "ping": 56,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -50249,9 +50249,9 @@ window.PALWORLD_DATA = {
         "defense": 80
       },
       "power_stats": {
-        "hp": 3514,
-        "atk": 655,
-        "def": 561
+        "hp": 3750,
+        "atk": 675,
+        "def": 582
       },
       "passives": [
         {
@@ -61165,6 +61165,50 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 99,
+        "melee": 0,
+        "shot": 98,
+        "defense": 57
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 13,
+        "def": 12
+      },
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        },
+        {
+          "id": "ElementResist_Dragon_1_PAL",
+          "name": "Tueur de dragons",
+          "rank": 1
+        },
+        {
+          "id": "PAL_ALLAttack_up1",
+          "name": "Brave",
+          "rank": 1
+        },
+        {
+          "id": "CraftSpeed_down1",
+          "name": "Maladroit",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Whalaska",
       "species": "IceNarwhal",
       "species_name": "Whalaska",
@@ -62130,6 +62174,50 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 96,
+        "melee": 0,
+        "shot": 75,
+        "defense": 96
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 16,
+        "def": 11
+      },
+      "passives": [
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        },
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Dumud Gild",
@@ -66259,7 +66347,7 @@ window.PALWORLD_DATA = {
       "species": "WhiteDeer_Dark",
       "species_name": "Celesdir Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
-      "level": 8,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -66270,9 +66358,9 @@ window.PALWORLD_DATA = {
         "defense": 42
       },
       "power_stats": {
-        "hp": 1156,
-        "atk": 100,
-        "def": 73
+        "hp": 2552,
+        "atk": 313,
+        "def": 229
       },
       "passives": [
         {
@@ -69883,14 +69971,14 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "en_text",
       "species": "WingGolem",
       "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
-      "level": 11,
+      "level": 17,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -69901,9 +69989,9 @@ window.PALWORLD_DATA = {
         "defense": 33
       },
       "power_stats": {
-        "hp": 1248,
-        "atk": 111,
-        "def": 156
+        "hp": 1656,
+        "atk": 173,
+        "def": 241
       },
       "passives": [
         {
@@ -71008,6 +71096,45 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 96,
+        "melee": 0,
+        "shot": 99,
+        "defense": 62
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 14,
+        "def": 10
+      },
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        },
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Incineram",
       "species": "Baphomet",
       "species_name": "Incineram",
@@ -71249,9 +71376,9 @@ window.PALWORLD_DATA = {
         "defense": 19
       },
       "power_stats": {
-        "hp": 6628,
-        "atk": 1160,
-        "def": 752
+        "hp": 6775,
+        "atk": 1173,
+        "def": 766
       },
       "passives": [
         {
@@ -71317,9 +71444,9 @@ window.PALWORLD_DATA = {
         "defense": 92
       },
       "power_stats": {
-        "hp": 5055,
-        "atk": 661,
-        "def": 777
+        "hp": 5162,
+        "atk": 670,
+        "def": 782
       },
       "passives": [
         {
@@ -71666,6 +71793,50 @@ window.PALWORLD_DATA = {
           "id": "PAL_conceited",
           "name": "Vaniteux",
           "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 99,
+        "melee": 0,
+        "shot": 98,
+        "defense": 74
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 10,
+        "def": 12
+      },
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        },
+        {
+          "id": "SwimSpeed_up_1",
+          "name": "Sleek Stroke",
+          "rank": 1
+        },
+        {
+          "id": "PAL_Sanity_Up_2",
+          "name": "Comportement destructeur",
+          "rank": -2
+        },
+        {
+          "id": "PAL_ALLAttack_down1",
+          "name": "Frileux",
+          "rank": -1
         }
       ],
       "owner": "Martial"
@@ -72325,6 +72496,50 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 96,
+        "melee": 0,
+        "shot": 18,
+        "defense": 96
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 15,
+        "def": 11
+      },
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Shadowbeak",
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
@@ -72916,6 +73131,45 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "inconnu"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 96,
+        "melee": 0,
+        "shot": 52,
+        "defense": 79
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 19,
+        "def": 14
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Celesdir Noct",
@@ -73861,6 +74115,45 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 5,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 94,
+        "melee": 0,
+        "shot": 99,
+        "defense": 99
+      },
+      "power_stats": {
+        "hp": 909,
+        "atk": 65,
+        "def": 71
+      },
+      "passives": [
+        {
+          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
+          "name": "Farmhand",
+          "rank": 3
+        },
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        },
+        {
+          "id": "ElementResist_Dragon_1_PAL",
+          "name": "Tueur de dragons",
+          "rank": 1
+        }
+      ],
+      "owner": "inconnu"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -74045,6 +74338,50 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
+        "hp": 99,
+        "melee": 0,
+        "shot": 78,
+        "defense": 63
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 12,
+        "def": 12
+      },
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        },
+        {
+          "id": "TrainerWorkSpeed_UP_1",
+          "name": "Motivateur",
+          "rank": 3
+        },
+        {
+          "id": "SwimSpeed_up_2",
+          "name": "Ace Swimmer",
+          "rank": 3
+        },
+        {
+          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
+          "name": "Farmhand",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
         "hp": 19,
         "melee": 0,
         "shot": 98,
@@ -74064,6 +74401,50 @@ window.PALWORLD_DATA = {
         {
           "id": "Deffence_up1",
           "name": "Peau dure",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 50,
+        "melee": 0,
+        "shot": 99,
+        "defense": 88
+      },
+      "power_stats": {
+        "hp": 585,
+        "atk": 18,
+        "def": 10
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "ElementResist_Dark_1_PAL",
+          "name": "Solaire",
           "rank": 1
         }
       ],
@@ -74328,6 +74709,128 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
+        "hp": 99,
+        "melee": 0,
+        "shot": 33,
+        "defense": 57
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 10,
+        "def": 12
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        },
+        {
+          "id": "SwimSpeed_up_2",
+          "name": "Ace Swimmer",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 57,
+        "melee": 0,
+        "shot": 99,
+        "defense": 63
+      },
+      "power_stats": {
+        "hp": 586,
+        "atk": 18,
+        "def": 10
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 99,
+        "melee": 0,
+        "shot": 98,
+        "defense": 14
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 12,
+        "def": 10
+      },
+      "passives": [
+        {
+          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
+          "name": "Farmhand",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        },
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "PAL_Sanity_Down_2",
+          "name": "Acharné",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
         "hp": 92,
         "melee": 0,
         "shot": 98,
@@ -74409,7 +74912,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 609
+        "pal_count": 621
       },
       {
         "owner": "takitome",
@@ -74435,7 +74938,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1709767
+        "total_power": 1720544
       },
       {
         "owner": "takitome",
@@ -74443,7 +74946,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 242102
+        "total_power": 242004
       },
       {
         "owner": "Prismiti",
