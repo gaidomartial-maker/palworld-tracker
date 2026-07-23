@@ -315,7 +315,7 @@ def parse_characters(save_path, online_players):
                 "shot": talent("Talent_Shot"),
                 "defense": talent("Talent_Defense"),
             },
-            "passives": [p.get("value", p) for p in passives_raw],
+            "passives": [p.get("value", p) if isinstance(p, dict) else p for p in passives_raw],
         }))
 
     print(
