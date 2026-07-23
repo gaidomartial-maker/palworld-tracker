@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T17:10:53.188222+00:00",
+  "generated_at": "2026-07-23T17:21:01.448261+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -11,9 +11,9 @@ window.PALWORLD_DATA = {
   "players": [
     {
       "name": "Theo",
-      "level": 77,
+      "level": 78,
       "building_count": null,
-      "ping": 59.0,
+      "ping": 90.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 51.0,
+      "ping": 44.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 52,
+      "ping": 50.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -18415,7 +18415,7 @@ window.PALWORLD_DATA = {
       "species": "HadesBird_Electric",
       "species_name": "Helzephyr Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HadesBird_Electric_icon_normal.webp",
-      "level": 31,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -18426,9 +18426,9 @@ window.PALWORLD_DATA = {
         "defense": 11
       },
       "power_stats": {
-        "hp": 2438,
-        "atk": 344,
-        "def": 236
+        "hp": 2501,
+        "atk": 356,
+        "def": 243
       },
       "passives": [
         {
@@ -46112,7 +46112,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 72,
+      "level": 73,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -46123,9 +46123,9 @@ window.PALWORLD_DATA = {
         "defense": 38
       },
       "power_stats": {
-        "hp": 7277,
-        "atk": 976,
-        "def": 945
+        "hp": 7371,
+        "atk": 988,
+        "def": 957
       },
       "passives": [
         {
@@ -61509,6 +61509,35 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Loomen",
+      "species": "LanternButler",
+      "species_name": "Loomen",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LanternButler_icon_normal.webp",
+      "level": 75,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 70,
+        "melee": 0,
+        "shot": 63,
+        "defense": 80
+      },
+      "power_stats": {
+        "hp": 4958,
+        "atk": 896,
+        "def": 718
+      },
+      "passives": [
+        {
+          "id": "PAL_rude",
+          "name": "Grossier",
+          "rank": 1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Quivern Botan",
       "species": "SkyDragon_Grass",
       "species_name": "Quivern Botan",
@@ -67685,6 +67714,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Loomen",
+      "species": "LanternButler",
+      "species_name": "Loomen",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LanternButler_icon_normal.webp",
+      "level": 76,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 34,
+        "melee": 0,
+        "shot": 26,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 4648,
+        "atk": 728,
+        "def": 760
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Leaf_1_PAL",
+          "name": "Fragrance boisée",
+          "rank": 1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Tombat",
       "species": "CatBat",
       "species_name": "Tombat",
@@ -69065,13 +69123,42 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Starryon Primo",
+      "species": "NightBlueHorse_Neutral",
+      "species_name": "Starryon Primo",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_NightBlueHorse_Neutral_icon_normal.webp",
+      "level": 76,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 11,
+        "melee": 0,
+        "shot": 83,
+        "defense": 4
+      },
+      "power_stats": {
+        "hp": 5197,
+        "atk": 861,
+        "def": 633
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        }
+      ],
+      "owner": "Theo"
     }
   ],
   "records": {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 789
+        "pal_count": 792
       },
       {
         "owner": "LawzZ",
@@ -69097,7 +69184,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2276901
+        "total_power": 2296418
       },
       {
         "owner": "LawzZ",
@@ -69113,7 +69200,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 213631
+        "total_power": 213713
       },
       {
         "owner": "Prismiti",
