@@ -34,12 +34,21 @@ d'un element specifique -- extraits separement dans `passive_names.json`
 `elements`, ex: `["Fire"]` pour KingBahamut/Blazamut). Le bonus n'est
 ajoute a l'ATQ que si l'element du passif correspond a un des elements du
 Pal (verifie en jeu : Blazamut, de type Feu, avec Empereur Enflamme
-applique bien son bonus). Approximation assumee : on ajoute la valeur
-brute (30% ici) sans chercher a reproduire un eventuel facteur de
-dilution que le jeu semble appliquer sur l'affichage de la stat generique
-(exemple observe : 30% de bonus brut, mais +16% affiche sur "Attaque" en
-jeu) -- accepte comme compromis raisonnable plutot que d'ignorer
-totalement ces passifs tres frequents sur les Pals forts.
+applique bien son bonus).
+
+Dilution verifiee en jeu : la valeur brute de skills.json (30) ne
+correspond pas au bonus reellement affiche sur la stat ATQ. Tooltip
+exacte de Blazamut (Empereur Enflamme, raw=30) : Attaque 977 -> 1594,
+avec "Bonus d'ame +27%" et "Competences passives +16%" -- donc le vrai
+bonus applique est 16%, pas 30%. Comme tous les passifs "_2_PAL"
+(Fire/Dark/Water/Earth/Ice/Normal/Electricity/Leaf/Dragon) partagent
+exactement la meme valeur brute 30 dans skills.json (meme definition de
+competence reskinnee par element), ce facteur verifie est applique via
+`ELEMENT_ATK_VERIFIED_DILUTION = {30: 16.0}` dans generate_data.py a
+toute occurrence de cette valeur, sans extrapoler vers les autres
+paliers (raw=10, 1, 6, 12, 18, 20...) qui n'ont pas ete verifies en jeu
+et restent donc pris tels quels par prudence (moins frequents et impact
+plus faible sur le classement).
 
 - Cle : l'ID interne (`CharacterID` / nom de passif) en minuscules.
 - Valeur pour les Pals : `{"name": "...", "name_fr": "..." (optionnel), "icon": "..."}`.

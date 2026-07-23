@@ -97,7 +97,9 @@
     padding:16px 16px 14px; position:relative; transition:border-color .15s ease;
   }
   .pal-card:hover{border-color:var(--accent-dim);}
-  .pal-card .rank-star{position:absolute; top:14px; right:14px; font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--amber);}
+  .pal-card .card-badges{position:absolute; top:14px; right:14px; display:flex; flex-direction:column; align-items:flex-end; gap:4px;}
+  .pal-card .rank-star{font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--amber);}
+  .pal-card .soul-badge{font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--accent);}
   .pal-card .pal-icon{
     display:block; width:64px; height:64px; object-fit:contain; margin:0 0 8px;
     background:var(--panel-alt); border-radius:8px; padding:6px;
@@ -321,7 +323,10 @@
     const passives = (p.passives || []).map(x => (typeof x === 'string') ? {name: x, rank: 0} : x);
     return `
       <div class="pal-card">
-        ${stars ? `<div class="rank-star">${stars}</div>` : ''}
+        <div class="card-badges">
+          ${stars ? `<span class="rank-star">${stars}</span>` : ''}
+          ${p.souls ? `<span class="soul-badge" title="Âmes">🔮 +${p.souls}</span>` : ''}
+        </div>
         ${p.icon ? `<img class="pal-icon" src="${p.icon}" alt="" loading="lazy" onerror="this.remove()">` : ''}
         ${p.is_alpha ? '<div class="alpha-tag">Alpha</div>' : ''}
         ${p.is_awakened ? '<div class="awakened-tag">Éveillé</div>' : ''}

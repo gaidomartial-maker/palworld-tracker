@@ -85,6 +85,10 @@ def _pal_elements(char_id):
     return (sd or {}).get("elements", [])
 
 
+
+ELEMENT_ATK_VERIFIED_DILUTION = {30: 16.0}
+
+
 def _passive_stat_bonus(passive_ids, pal_elements):
     """
     Somme, sur tous les passifs d'un Pal, les bonus en % qui boostent
@@ -95,8 +99,20 @@ def _passive_stat_bonus(passive_ids, pal_elements):
     Les passifs "Empereur elementaire" (ElementBoost_X, ex: Empereur
     Enflamme = +30% degats Feu) ne comptent que si le Pal est bien de cet
     element -- verifie en jeu : Blazamut (Feu) avec Empereur Enflamme
-    (Feu) applique bien son bonus, donc on l'ajoute au complet dans ce
-    cas plutot que d'essayer de deviner un facteur de dilution.
+    (Feu) applique bien son bonus.
+
+    La valeur brute (30) stockee dans passive_names.json (extraite de
+    skills.json) ne correspond pas au bonus reellement affiche en jeu sur
+    la stat ATQ : verifie via la tooltip in-game exacte de Blazamut
+    (Attaque 977 -> 1594, avec Bonus d'ame +27% et Competences passives
+    +16%), le passif "Empereur Enflamme" (raw=30) n'ajoute en realite que
+    +16% a l'ATQ affichee. Comme ElementBoost_Fire_2_PAL/_Dark_2_PAL/etc.
+    partagent tous exactement la meme valeur brute 30 dans skills.json
+    (meme definition de competence, juste reskinnee par element -- voir
+    paldata/passive_names.json), ce facteur de dilution verifie (16/30)
+    est applique a toute occurrence de cette meme valeur brute 30, sans
+    inventer de facteur pour les autres paliers (raw=10, etc.) qui n'ont
+    pas ete verifies en jeu et restent donc pris tels quels.
     """
     pal_elements = set(pal_elements or [])
     bonus = {"hp": 0.0, "atk": 0.0, "def": 0.0}
@@ -112,7 +128,7 @@ def _passive_stat_bonus(passive_ids, pal_elements):
         if element_atk:
             for element, value in element_atk.items():
                 if element in pal_elements:
-                    bonus["atk"] += value
+                    bonus["atk"] += ELEMENT_ATK_VERIFIED_DILUTION.get(value, value)
     return {k: v / 100 for k, v in bonus.items()}
 
 
@@ -575,16 +591,6 @@ def parse_characters(save_path, online_players):
         friendship_points = _byte_prop_value(params.get("FriendshipPoint"), 0)
         pal_passive_bonus = _passive_stat_bonus(passive_ids, _pal_elements(char_id))
 
-        nickname_for_diag = params.get("NickName", {}).get("value") or ""
-        if nickname_for_diag in ("balsamique", "Necromus"):
-            print(
-                f"[diag_atk] {nickname_for_diag}: level={level}, raw_rank={raw_rank}, "
-                f"rank_hp={rank_hp}, rank_attack={rank_attack}, rank_defense={rank_defense}, "
-                f"friendship_points={friendship_points}, friendship_rank={_friendship_rank(friendship_points)}, "
-                f"is_awakened={is_awakened}, talents={talents}, passive_bonus={pal_passive_bonus}, "
-                f"passive_ids={passive_ids}"
-            )
-
         power_stats = _compute_pal_power_stats(
             char_id, level, talents,
             rank_hp=rank_hp,
@@ -607,6 +613,7 @@ def parse_characters(save_path, online_players):
             "is_awakened": is_awakened,
             "talents": talents,
             "power_stats": power_stats,
+            "souls": rank_hp + rank_attack + rank_defense,
             "passives": [_lookup_passive(pid) for pid in passive_ids],
         }))
 
