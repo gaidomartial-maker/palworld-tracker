@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Breeding — Stats du serveur Palworld</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0c10;
+    --bg-glow-1:rgba(94,234,212,0.10);
+    --bg-glow-2:rgba(245,185,66,0.07);
+    --panel:rgba(23,26,32,0.72);
+    --panel-alt:rgba(29,33,42,0.85);
+    --line:#262b33;
+    --line-soft:rgba(255,255,255,0.06);
+    --text:#eef0f3;
+    --muted:#8b93a1;
+    --accent:#5eead4;
+    --accent-dim:#2f7d72;
+    --amber:#f5b942;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(900px 500px at 15% -5%, var(--bg-glow-1), transparent 60%),
+      radial-gradient(700px 420px at 90% 10%, var(--bg-glow-2), transparent 60%),
+      var(--bg);
+    background-attachment:fixed;
+    color:var(--text);
+    font-family:'Inter', sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  a{color:var(--accent);}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+  .wrap{max-width:900px; margin:0 auto; padding:0 20px 90px;}
+
+  .top-nav{
+    position:sticky; top:0; z-index:10; display:flex; justify-content:center; gap:4px;
+    padding:14px 20px; background:rgba(10,12,16,0.75); backdrop-filter:blur(14px);
+    border-bottom:1px solid var(--line-soft);
+  }
+  .top-nav a{
+    font-family:'JetBrains Mono', monospace; font-size:12px; letter-spacing:0.04em; text-transform:uppercase;
+    color:var(--muted); text-decoration:none; padding:8px 16px; border-radius:999px; transition:all .15s ease;
+  }
+  .top-nav a:hover{color:var(--text);}
+  .top-nav a.active{color:#0a0c10; background:var(--accent); font-weight:600;}
+
+  header.top{padding:48px 20px 30px; text-align:center;}
+  .brand{display:inline-flex; align-items:center; gap:10px; margin-bottom:18px;}
+  .brand .orb{
+    width:34px; height:34px; border-radius:50%;
+    background:conic-gradient(from 200deg, var(--accent), var(--accent-dim), var(--amber), var(--accent));
+    box-shadow:0 0 22px var(--bg-glow-1);
+  }
+  .brand span{font-family:'Sora', sans-serif; font-weight:700; font-size:15px; letter-spacing:0.02em; color:var(--muted); text-transform:uppercase;}
+  h1{
+    font-family:'Sora', sans-serif; font-size:clamp(28px, 5vw, 40px); font-weight:800; margin:0 0 8px;
+    background:linear-gradient(90deg, var(--text), var(--accent));
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .subtitle{color:var(--muted); font-size:14px; margin:0;}
+
+  .breeder{display:grid; grid-template-columns:1fr auto 1fr auto 1fr; align-items:center; gap:14px; margin-top:40px;}
+  .slot-col{display:flex; flex-direction:column; align-items:center; gap:10px;}
+  .slot-label{font-family:'JetBrains Mono', monospace; font-size:11px; letter-spacing:0.06em; text-transform:uppercase; color:var(--muted);}
+  .slot{
+    width:150px; height:150px; border-radius:var(--radius);
+    background:var(--panel); border:1.5px dashed var(--line-soft);
+    display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px;
+    cursor:pointer; transition:border-color .15s ease, transform .15s ease; text-align:center; padding:10px;
+  }
+  .slot:hover{border-color:var(--accent-dim); transform:translateY(-2px);}
+  .slot.filled{border-style:solid; border-color:var(--accent-dim);}
+  .slot .plus{font-size:28px; color:var(--muted); line-height:1;}
+  .slot .placeholder-text{font-size:12px; color:var(--muted);}
+  .slot img{width:72px; height:72px; object-fit:contain;}
+  .slot .slot-name{font-size:13px; font-weight:600;}
+  .op{font-family:'Sora', sans-serif; font-size:26px; color:var(--muted); font-weight:700;}
+  .result-slot.filled{border-color:var(--amber); box-shadow:0 0 26px rgba(245,185,66,0.15);}
+
+  .picker-overlay{
+    display:none; position:fixed; inset:0; background:rgba(5,6,8,0.75); backdrop-filter:blur(4px);
+    z-index:100; align-items:flex-start; justify-content:center; padding:6vh 16px;
+  }
+  .picker-overlay.open{display:flex;}
+  .picker{
+    background:var(--panel-alt); border:1px solid var(--line-soft); border-radius:var(--radius);
+    width:100%; max-width:560px; max-height:82vh; display:flex; flex-direction:column;
+    box-shadow:0 20px 60px rgba(0,0,0,0.5);
+  }
+  .picker-head{display:flex; align-items:center; gap:10px; padding:14px 16px; border-bottom:1px solid var(--line-soft);}
+  .picker-head input{
+    flex:1; background:var(--panel); border:1px solid var(--line-soft); border-radius:8px; color:var(--text);
+    padding:10px 12px; font-family:'Inter', sans-serif; font-size:14px;
+  }
+  .picker-head button{background:none; border:none; color:var(--muted); font-size:20px; cursor:pointer; padding:4px 8px;}
+  .picker-head button:hover{color:var(--text);}
+  .picker-grid{overflow-y:auto; display:grid; grid-template-columns:repeat(auto-fill, minmax(96px, 1fr)); gap:6px; padding:14px;}
+  .picker-item{
+    background:var(--panel); border:1px solid var(--line-soft); border-radius:10px; padding:10px 6px;
+    display:flex; flex-direction:column; align-items:center; gap:6px; cursor:pointer; transition:border-color .15s ease;
+    text-align:center;
+  }
+  .picker-item:hover{border-color:var(--accent-dim);}
+  .picker-item img{width:44px; height:44px; object-fit:contain;}
+  .picker-item span{font-size:11px; line-height:1.2;}
+
+  .result-note{margin-top:36px; text-align:center; color:var(--muted); font-size:13px;}
+  footer{margin-top:60px; padding-top:18px; border-top:1px solid var(--line-soft); text-align:center; color:var(--muted); font-size:12px; font-family:'JetBrains Mono', monospace;}
+
+  @media (max-width:640px){
+    .breeder{grid-template-columns:1fr; }
+    .op{transform:rotate(90deg);}
+  }
+</style>
+</head>
+<body>
+<nav class="top-nav">
+  <a href="index.html">Accueil</a>
+  <a href="breeding.html" class="active">Breeding</a>
+</nav>
+<div class="wrap">
+
+  <header class="top">
+    <div class="brand"><span class="orb"></span><span>Tracker live</span></div>
+    <h1>Calculateur de breeding</h1>
+    <p class="subtitle">Choisis deux Pals parents pour voir quel bébé ils donnent — basé sur les vraies tables de combinaison du jeu.</p>
+  </header>
+
+  <div class="breeder">
+    <div class="slot-col">
+      <div class="slot-label">Parent A</div>
+      <div class="slot" id="slot-a"><span class="plus">+</span><span class="placeholder-text">Choisir un Pal</span></div>
+    </div>
+    <div class="op">×</div>
+    <div class="slot-col">
+      <div class="slot-label">Parent B</div>
+      <div class="slot" id="slot-b"><span class="plus">+</span><span class="placeholder-text">Choisir un Pal</span></div>
+    </div>
+    <div class="op">=</div>
+    <div class="slot-col">
+      <div class="slot-label">Bébé</div>
+      <div class="slot result-slot" id="slot-result"><span class="plus">?</span><span class="placeholder-text">Choisis les 2 parents</span></div>
+    </div>
+  </div>
+
+  <p class="result-note" id="result-note"></p>
+
+  <footer>Généré automatiquement · Données de breeding : mlg404/palworld-paldex-api (MIT)</footer>
+</div>
+
+<div class="picker-overlay" id="picker-overlay">
+  <div class="picker">
+    <div class="picker-head">
+      <input type="text" id="picker-search" placeholder="Chercher un Pal...">
+      <button id="picker-close" aria-label="Fermer">✕</button>
+    </div>
+    <div class="picker-grid" id="picker-grid"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  let BREEDING = null;
+  let currentSlot = null;
+  const chosen = {a: null, b: null};
+
+  const overlay = document.getElementById('picker-overlay');
+  const searchInput = document.getElementById('picker-search');
+  const grid = document.getElementById('picker-grid');
+
+  function escapeHtml(str){
+    return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function speciesList(){
+    return Object.entries(BREEDING.species)
+      .map(([id, sp]) => ({id, name: sp.name_fr || sp.name, icon: sp.icon}))
+      .sort((a,b) => a.name.localeCompare(b.name));
+  }
+
+  function renderPicker(filter){
+    const q = (filter || '').toLowerCase();
+    const list = speciesList().filter(sp => sp.name.toLowerCase().includes(q));
+    grid.innerHTML = list.map(sp => `
+      <div class="picker-item" data-id="${sp.id}">
+        <img src="${sp.icon}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+        <span>${escapeHtml(sp.name)}</span>
+      </div>
+    `).join('') || '<p style="color:var(--muted); grid-column:1/-1; text-align:center;">Aucun résultat.</p>';
+  }
+
+  function openPicker(slotKey){
+    currentSlot = slotKey;
+    searchInput.value = '';
+    renderPicker('');
+    overlay.classList.add('open');
+    searchInput.focus();
+  }
+  function closePicker(){
+    overlay.classList.remove('open');
+    currentSlot = null;
+  }
+
+  document.getElementById('slot-a').addEventListener('click', () => openPicker('a'));
+  document.getElementById('slot-b').addEventListener('click', () => openPicker('b'));
+  document.getElementById('picker-close').addEventListener('click', closePicker);
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) closePicker(); });
+  searchInput.addEventListener('input', () => renderPicker(searchInput.value));
+  grid.addEventListener('click', (e) => {
+    const item = e.target.closest('.picker-item');
+    if (!item || !currentSlot) return;
+    chosen[currentSlot] = item.dataset.id;
+    renderSlot(currentSlot);
+    closePicker();
+    computeResult();
+  });
+
+  function renderSlot(key){
+    const id = chosen[key];
+    const el = document.getElementById('slot-' + key);
+    if (!id) {
+      el.classList.remove('filled');
+      el.innerHTML = '<span class="plus">+</span><span class="placeholder-text">Choisir un Pal</span>';
+      return;
+    }
+    const sp = BREEDING.species[id];
+    const name = sp.name_fr || sp.name;
+    el.classList.add('filled');
+    el.innerHTML = `<img src="${sp.icon}" alt="" onerror="this.remove()"><span class="slot-name">${escapeHtml(name)}</span>`;
+  }
+
+  function computeResult(){
+    const resEl = document.getElementById('slot-result');
+    const note = document.getElementById('result-note');
+    if (!chosen.a || !chosen.b) {
+      resEl.classList.remove('filled');
+      resEl.innerHTML = '<span class="plus">?</span><span class="placeholder-text">Choisis les 2 parents</span>';
+      note.textContent = '';
+      return;
+    }
+    const key = [chosen.a, chosen.b].sort().join('_');
+    const childId = BREEDING.pairs[key];
+    if (!childId) {
+      resEl.classList.remove('filled');
+      resEl.innerHTML = '<span class="plus">–</span><span class="placeholder-text">Combinaison inconnue</span>';
+      note.textContent = "Cette combinaison n'est pas dans la table (données incomplètes).";
+      return;
+    }
+    const sp = BREEDING.species[childId];
+    const name = sp.name_fr || sp.name;
+    resEl.classList.add('filled');
+    resEl.innerHTML = `<img src="${sp.icon}" alt="" onerror="this.remove()"><span class="slot-name">${escapeHtml(name)}</span>`;
+    note.textContent = '';
+  }
+
+  fetch('paldata/breeding.json')
+    .then(r => r.json())
+    .then(data => { BREEDING = data; })
+    .catch(() => {
+      document.getElementById('result-note').textContent = 'Impossible de charger les données de breeding.';
+    });
+})();
+</script>
+</body>
+</html>

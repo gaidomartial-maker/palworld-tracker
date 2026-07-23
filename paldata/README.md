@@ -75,3 +75,32 @@ Pour regenerer/mettre a jour ces fichiers : retelecharger characters.json/
 skills.json (EN) et fr/pals.json/fr/skills.json depuis les repos source,
 reconstruire name/icon/rank par asset en minuscules, puis fusionner
 name_fr par-dessus quand une correspondance existe.
+
+## breeding.json
+
+Table statique pour le calculateur de breeding (`breeding.html`), sans
+rapport avec le serveur -- purement des donnees de jeu officielles.
+
+- `species` : cle = ID Paldex a 3 chiffres, avec un suffixe lettre pour
+  les variantes elementaires (ex: `"024"` = Mau, `"024B"` = Mau Cryst).
+  Valeur : `{name, name_fr, icon}`.
+- `pairs` : cle = les deux ID Paldex parents tries et joints par `_`
+  (ordre parent A/B indifferent), valeur = ID Paldex du bebe obtenu.
+
+Genere une fois via un script Perl (non commite, jetable) qui :
+1. Recupere `breeding.json` du depot MIT `mlg404/palworld-paldex-api`
+   (table combi-rank du jeu deja inversee : bebe -> liste de paires de
+   parents) et l'inverse en paire -> bebe.
+2. Pour chaque ID Paldex, prend le nom/icone de `characters.json`
+   (meme source que le reste du site) quand l'espece existe cote base
+   (pas de suffixe lettre) ; sinon (variantes elementaires type Mau
+   Cryst, Broncherry Aqua... absentes de characters.json) retombe sur
+   le nom/icone de `mlg404/palworld-paldex-api` lui-meme (aussi MIT,
+   images servies depuis son propre depot).
+3. Merge `name_fr` depuis blaynem/paldex par asset quand disponible
+   (variantes lettrees non couvertes, comme pour pal_names.json).
+
+Verifie : la regle "meme espece + meme espece = meme espece" tient
+(`001_001` -> `001`), coherent avec la mecanique connue du jeu. Couverture
+complete : 137 especes, toutes avec un nom et une icone resolue (aucune
+entree manquante).

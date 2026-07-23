@@ -65,6 +65,18 @@
   }
   .subtitle{color:var(--muted); font-size:14px; margin:0 0 26px;}
 
+  .top-nav{
+    position:sticky; top:0; z-index:10; display:flex; justify-content:center; gap:4px;
+    padding:14px 20px; background:rgba(10,12,16,0.75); backdrop-filter:blur(14px);
+    border-bottom:1px solid var(--line-soft);
+  }
+  .top-nav a{
+    font-family:'JetBrains Mono', monospace; font-size:12px; letter-spacing:0.04em; text-transform:uppercase;
+    color:var(--muted); text-decoration:none; padding:8px 16px; border-radius:999px; transition:all .15s ease;
+  }
+  .top-nav a:hover{color:var(--text);}
+  .top-nav a.active{color:#0a0c10; background:var(--accent); font-weight:600;}
+
   .status-bar{
     display:inline-flex; flex-wrap:wrap; justify-content:center; gap:10px 24px;
     font-family:'JetBrains Mono', monospace;
@@ -225,6 +237,10 @@
 </style>
 </head>
 <body>
+<nav class="top-nav">
+  <a href="index.html" class="active">Accueil</a>
+  <a href="breeding.html">Breeding</a>
+</nav>
 <div class="wrap">
 
   <header class="top">
