@@ -81,26 +81,44 @@ name_fr par-dessus quand une correspondance existe.
 Table statique pour le calculateur de breeding (`breeding.html`), sans
 rapport avec le serveur -- purement des donnees de jeu officielles.
 
-- `species` : cle = ID Paldex a 3 chiffres, avec un suffixe lettre pour
-  les variantes elementaires (ex: `"024"` = Mau, `"024B"` = Mau Cryst).
-  Valeur : `{name, name_fr, icon}`.
-- `pairs` : cle = les deux ID Paldex parents tries et joints par `_`
-  (ordre parent A/B indifferent), valeur = ID Paldex du bebe obtenu.
+- `species` : cle = nom d'affichage anglais du Pal (tel qu'utilise par
+  la table de combos source, variantes incluses : "Mau Cryst",
+  "Broncherry Aqua", "Frostallion Noct"...). Valeur : `{name, name_fr,
+  icon}`.
+- `pairs` : cle = les deux noms parents tries et joints par `_` (ordre
+  parent A/B indifferent), valeur = nom du bebe obtenu.
 
+Premiere version (137 especes) basee sur `mlg404/palworld-paldex-api` :
+abandonnee, ce depot n'a pas ete mis a jour depuis mai 2024 (avant les
+gros ajouts de Pals de la version 1.0), il manquait donc plus de 150
+especes recentes -- remonte par l'utilisateur en testant le
+calculateur.
+
+Version actuelle (288 especes) basee sur `beckerfelipee/PalworldBreedingCalculator`
+(MIT, mis a jour activement -- verifie a jour a la date de generation).
 Genere une fois via un script Perl (non commite, jetable) qui :
-1. Recupere `breeding.json` du depot MIT `mlg404/palworld-paldex-api`
-   (table combi-rank du jeu deja inversee : bebe -> liste de paires de
-   parents) et l'inverse en paire -> bebe.
-2. Pour chaque ID Paldex, prend le nom/icone de `characters.json`
-   (meme source que le reste du site) quand l'espece existe cote base
-   (pas de suffixe lettre) ; sinon (variantes elementaires type Mau
-   Cryst, Broncherry Aqua... absentes de characters.json) retombe sur
-   le nom/icone de `mlg404/palworld-paldex-api` lui-meme (aussi MIT,
-   images servies depuis son propre depot).
-3. Merge `name_fr` depuis blaynem/paldex par asset quand disponible
-   (variantes lettrees non couvertes, comme pour pal_names.json).
+1. Recupere `Data/Pals.csv` (liste des 288 especes) et
+   `Data/AllCombos.csv` (matrice 288x288, cellule [i][j] = bebe issu de
+   pals[i] x pals[j]) de ce depot, verifie symetrique, et construit la
+   table paire -> bebe.
+2. Pour chaque nom, prend le nom/icone de `characters.json`
+   (deafdudecomputers/PalworldSaveTools, meme source que le reste du
+   site, verifiee a jour a la meme date) par correspondance de nom
+   d'affichage anglais -- couvre 284/288 especes. Les 4 restantes
+   (differences d'orthographe entre les deux depots : ex. "Ribunny" vs
+   "Ribbuny" cote characters.json) retombent sur `Data/Images.csv` du
+   meme depot MIT (images hebergees sur la Fandom Palworld, chaque URL
+   verifiee resolue en HTTP 200).
+3. Merge `name_fr` depuis blaynem/paldex par asset (via le nom anglais
+   retrouve a l'etape 2) quand disponible -- 146/288 ; sans
+   correspondance, retombe sur le nom anglais comme partout ailleurs
+   sur le site.
 
 Verifie : la regle "meme espece + meme espece = meme espece" tient
-(`001_001` -> `001`), coherent avec la mecanique connue du jeu. Couverture
-complete : 137 especes, toutes avec un nom et une icone resolue (aucune
-entree manquante).
+(`Lamball_Lamball` -> `Lamball`), coherent avec la mecanique connue du
+jeu. Couverture complete : 288 especes, toutes avec un nom et une icone
+resolue (aucune entree manquante). Les boss/legendaires non elevables
+en jeu (Jetragon, Necromus, Blazamut, Paladius, Shadowbeak, Frostallion
+de base...) sont a juste titre absents de la table source -- ce n'est
+pas un manque de donnees, ces Pals ne peuvent effectivement pas etre
+utilises en breeding dans le jeu.
