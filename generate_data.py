@@ -249,10 +249,14 @@ def parse_characters(save_path, online_players):
     players_by_uid = {}
     pals_raw = []
 
+    skipped = 0
+    if char_map:
+        print(f"[parse_characters] premiere entree brute de char_map : {char_map[0]!r}"[:2000])
     for entry in char_map:
         try:
             params = entry["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]
         except (KeyError, TypeError):
+            skipped += 1
             continue
 
         if params.get("IsPlayer", {}).get("value", False):
@@ -291,6 +295,12 @@ def parse_characters(save_path, online_players):
             },
             "passives": [p.get("value", p) for p in passives_raw],
         }))
+
+    print(
+        f"[parse_characters] char_map={len(char_map)} entrees, "
+        f"ignorees(exception)={skipped}, joueurs_trouves={len(players_by_uid)}, "
+        f"pals_trouves={len(pals_raw)}"
+    )
 
     # Un joueur qui vient de se connecter pour la premiere fois peut ne pas
     # encore avoir ete ecrit dans Level.sav -- on le rajoute quand meme.
