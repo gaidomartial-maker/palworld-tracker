@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T17:01:19.964412+00:00",
+  "generated_at": "2026-07-23T17:10:53.188222+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 77,
       "building_count": null,
-      "ping": 70.0,
+      "ping": 59.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 43.0,
+      "ping": 51.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 53.0,
+      "ping": 52,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -21196,7 +21196,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 42,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -21207,9 +21207,9 @@ window.PALWORLD_DATA = {
         "defense": 55
       },
       "power_stats": {
-        "hp": 2672,
-        "atk": 357,
-        "def": 306
+        "hp": 3706,
+        "atk": 527,
+        "def": 452
       },
       "passives": [
         {
@@ -41737,7 +41737,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 74,
+      "level": 75,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -41748,9 +41748,9 @@ window.PALWORLD_DATA = {
         "defense": 52
       },
       "power_stats": {
-        "hp": 7764,
-        "atk": 1342,
-        "def": 1073
+        "hp": 7863,
+        "atk": 1360,
+        "def": 1087
       },
       "passives": [
         {
@@ -67088,7 +67088,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 42,
+      "level": 62,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -67099,9 +67099,9 @@ window.PALWORLD_DATA = {
         "defense": 19
       },
       "power_stats": {
-        "hp": 2799,
-        "atk": 339,
-        "def": 294
+        "hp": 3893,
+        "atk": 501,
+        "def": 435
       },
       "passives": [
         {
@@ -69039,22 +69039,47 @@ window.PALWORLD_DATA = {
           "rank": 4
         }
       ],
-      "owner": "Theo"
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Panthalus (Boss)",
+      "species": "BOSS_KingWhale_otomo",
+      "species_name": "Panthalus (Boss)",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingWhale_icon_normal.webp",
+      "level": 70,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 81,
+        "melee": 0,
+        "shot": 69,
+        "defense": 92
+      },
+      "power_stats": null,
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        }
+      ],
+      "owner": "LawzZ"
     }
   ],
   "records": {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 790
+        "pal_count": 789
       },
       {
         "owner": "LawzZ",
-        "pal_count": 615
+        "pal_count": 616
       },
       {
         "owner": "Martial",
-        "pal_count": 518
+        "pal_count": 519
       },
       {
         "owner": "takitome",
@@ -69076,7 +69101,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 1845858
+        "total_power": 1848736
       },
       {
         "owner": "Martial",
