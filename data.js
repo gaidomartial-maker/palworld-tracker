@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T20:01:23.262655+00:00",
+  "generated_at": "2026-07-23T20:04:15.681886+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 79,
       "building_count": null,
-      "ping": 57.0,
+      "ping": 56.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 53.0,
+      "ping": 55.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -26195,7 +26195,7 @@ window.PALWORLD_DATA = {
       "species": "KingBahamut",
       "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
-      "level": 74,
+      "level": 75,
       "rank": 1,
       "is_alpha": false,
       "is_awakened": false,
@@ -26206,9 +26206,9 @@ window.PALWORLD_DATA = {
         "defense": 18
       },
       "power_stats": {
-        "hp": 9678,
-        "atk": 1377,
-        "def": 1169
+        "hp": 9803,
+        "atk": 1397,
+        "def": 1186
       },
       "passives": [
         {
@@ -50591,7 +50591,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 74,
+      "level": 75,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -50602,9 +50602,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 8041,
-        "atk": 1443,
-        "def": 1140
+        "hp": 8143,
+        "atk": 1461,
+        "def": 1156
       },
       "passives": [
         {
@@ -62670,6 +62670,35 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Dazzi Noct",
+      "species": "RaijinDaughter_Water",
+      "species_name": "Dazzi Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RaijinDaughter_Water_icon_normal.webp",
+      "level": 55,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 4,
+        "melee": 0,
+        "shot": 63,
+        "defense": 41
+      },
+      "power_stats": {
+        "hp": 2723,
+        "atk": 474,
+        "def": 388
+      },
+      "passives": [
+        {
+          "id": "NightOwl",
+          "name": "Night Owl",
+          "rank": -1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Tocotoco",
       "species": "ColorfulBird",
       "species_name": "Tocotoco",
@@ -66279,6 +66308,35 @@ window.PALWORLD_DATA = {
           "id": "PAL_ALLAttack_up1",
           "name": "Brave",
           "rank": 1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
+      "nickname": "Dazzi Noct",
+      "species": "BOSS_RaijinDaughter_Water",
+      "species_name": "Dazzi Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RaijinDaughter_Water_icon_normal.webp",
+      "level": 60,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 63,
+        "melee": 0,
+        "shot": 84,
+        "defense": 67
+      },
+      "power_stats": {
+        "hp": 3296,
+        "atk": 540,
+        "def": 450
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
         }
       ],
       "owner": "Theo"
@@ -70908,6 +70966,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Dazzi Noct",
+      "species": "RaijinDaughter_Water",
+      "species_name": "Dazzi Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RaijinDaughter_Water_icon_normal.webp",
+      "level": 55,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 78,
+        "melee": 0,
+        "shot": 29,
+        "defense": 67
+      },
+      "power_stats": {
+        "hp": 3150,
+        "atk": 440,
+        "def": 412
+      },
+      "passives": [
+        {
+          "id": "ElementResist_Leaf_1_PAL",
+          "name": "Anti-irritations",
+          "rank": 1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Fenglope",
       "species": "FengyunDeeper",
       "species_name": "Fenglope",
@@ -71116,7 +71203,7 @@ window.PALWORLD_DATA = {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 808
+        "pal_count": 811
       },
       {
         "owner": "LawzZ",
@@ -71142,7 +71229,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2384044
+        "total_power": 2396215
       },
       {
         "owner": "LawzZ",
@@ -71194,7 +71281,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Theo",
-        "paldeck_count": 207
+        "paldeck_count": 208
       },
       {
         "owner": "Martial",
