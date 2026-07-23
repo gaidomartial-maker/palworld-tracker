@@ -241,16 +241,16 @@ def fetch_player_records(uids):
     le jeu lui-meme). Par contre, les fichiers individuels Players/<uid>.sav
     contiennent un vrai historique (SaveData.RecordData) : notamment
     PalCaptureBonusCount (compteur de captures A VIE par espece, plafonne a
-    5 -- exactement le bonus "5x la meme espece"). TribeCaptureCount, lui,
-    NE represente PAS le total de toutes les captures (verifie : un
-    joueur avec 8 especes au bonus x5 avait un TribeCaptureCount plus
-    petit que 8*5=40, donc les deux ne peuvent pas mesurer la meme chose)
-    -- "Tribu" fait plutot reference a une mecanique specifique de
-    rencontres de groupes de Pals, pas aux captures classiques. On le
-    remonte quand meme (utile en soi) mais sans pretendre que c'est un
-    total general.
+    5 -- exactement le bonus "5x la meme espece") et PaldeckUnlockFlag
+    (quelles especes ont ete enregistrees au Paldex, donc capturees au
+    moins une fois -- style completion Pokedex). On avait d'abord essaye
+    TribeCaptureCount pour ce dernier chiffre, mais les valeurs etaient
+    incoherentes avec species_bonus_count (un joueur avec 8 especes au
+    bonus x5 avait un TribeCaptureCount de 24, alors qu'il faut au moins
+    40 captures pour ca) -- PaldeckUnlockFlag, lui, est coherent
+    (toujours >= species_bonus_count, ce qui est logiquement necessaire).
 
-    Retourne {uid: {"species_bonus_count": N, "total_captures": N}}, en
+    Retourne {uid: {"species_bonus_count": N, "paldeck_count": N}}, en
     ignorant silencieusement les joueurs dont le fichier est illisible.
     """
     folder = _players_folder()
@@ -276,9 +276,11 @@ def fetch_player_records(uids):
 
                 bonus_map = record_data.get("PalCaptureBonusCount", {}).get("value", [])
                 species_bonus_count = sum(1 for e in bonus_map if _as_int(e.get("value"), 0) >= 5)
-                total_captures = _as_int(record_data.get("TribeCaptureCount", {}).get("value"), 0)
 
-                results[uid] = {"species_bonus_count": species_bonus_count, "total_captures": total_captures}
+                paldeck_map = record_data.get("PaldeckUnlockFlag", {}).get("value", [])
+                paldeck_count = sum(1 for e in paldeck_map if e.get("value") is True)
+
+                results[uid] = {"species_bonus_count": species_bonus_count, "paldeck_count": paldeck_count}
             except Exception as e:
                 print(f"[player_records] echec pour {uid} : {e}")
         sftp.close()
@@ -609,13 +611,13 @@ def build_records(players, pals, player_records):
         if rec:
             captures.append({"owner": p["name"], **rec})
     species_bonus = sorted(captures, key=lambda e: e["species_bonus_count"], reverse=True)
-    total_captures = sorted(captures, key=lambda e: e["total_captures"], reverse=True)
+    paldeck = sorted(captures, key=lambda e: e["paldeck_count"], reverse=True)
 
     return {
         "most_pals": [{"owner": e["owner"], "pal_count": e["pal_count"]} for e in most_pals],
         "strongest_team": [{"owner": e["owner"], "total_power": e["total_power"]} for e in strongest_team],
         "species_bonus": [{"owner": e["owner"], "species_bonus_count": e["species_bonus_count"]} for e in species_bonus],
-        "total_captures": [{"owner": e["owner"], "total_captures": e["total_captures"]} for e in total_captures],
+        "paldeck": [{"owner": e["owner"], "paldeck_count": e["paldeck_count"]} for e in paldeck],
     }
 
 

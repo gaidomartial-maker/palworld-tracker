@@ -225,9 +225,9 @@
         <ol id="record-species-bonus"></ol>
       </div>
       <div class="record-card">
-        <h3>Captures de Tribu</h3>
-        <p class="record-sub">Compteur du jeu lié aux rencontres de "Tribu" (groupes de Pals) — pas le total de toutes tes captures</p>
-        <ol id="record-total-captures"></ol>
+        <h3>Paldex</h3>
+        <p class="record-sub">Nombre d'espèces différentes capturées au moins une fois</p>
+        <ol id="record-paldeck"></ol>
       </div>
     </div>
   </section>
@@ -359,7 +359,7 @@
     renderRecordList('record-most-pals', D.records.most_pals, 'pal_count', v => `${v} Pals`);
     renderRecordList('record-strongest-team', D.records.strongest_team, 'total_power', v => v.toLocaleString('fr-FR'));
     renderRecordList('record-species-bonus', D.records.species_bonus, 'species_bonus_count', v => `${v} espèces`);
-    renderRecordList('record-total-captures', D.records.total_captures, 'total_captures', v => `${v} Pals`);
+    renderRecordList('record-paldeck', D.records.paldeck, 'paldeck_count', v => `${v} espèces`);
   }
 })();
 </script>
