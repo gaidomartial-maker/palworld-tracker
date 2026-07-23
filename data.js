@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T15:35:20.336073+00:00",
+  "generated_at": "2026-07-23T15:39:41.141257+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 77,
       "building_count": null,
-      "ping": 73.0,
+      "ping": 70.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 47.0,
+      "ping": 42.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 68.0,
+      "ping": 79.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -9384,9 +9384,9 @@ window.PALWORLD_DATA = {
         "defense": 22
       },
       "power_stats": {
-        "hp": 6053,
-        "atk": 805,
-        "def": 766
+        "hp": 6284,
+        "atk": 829,
+        "def": 793
       },
       "passives": [
         {
