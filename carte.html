@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carte des Pals — Stats du serveur Palworld</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0c10;
+    --bg-glow-1:rgba(94,234,212,0.10);
+    --bg-glow-2:rgba(245,185,66,0.07);
+    --panel:rgba(23,26,32,0.72);
+    --line-soft:rgba(255,255,255,0.06);
+    --text:#eef0f3;
+    --muted:#8b93a1;
+    --accent:#5eead4;
+    --accent-dim:#2f7d72;
+    --amber:#f5b942;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(900px 500px at 15% -5%, var(--bg-glow-1), transparent 60%),
+      radial-gradient(700px 420px at 90% 10%, var(--bg-glow-2), transparent 60%),
+      var(--bg);
+    background-attachment:fixed;
+    color:var(--text);
+    font-family:'Inter', sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  a{color:var(--accent);}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+  .wrap{max-width:1180px; margin:0 auto; padding:0 20px 60px;}
+
+  .top-nav{
+    position:sticky; top:0; z-index:10; display:flex; justify-content:center; gap:4px;
+    padding:14px 20px; background:rgba(10,12,16,0.75); backdrop-filter:blur(14px);
+    border-bottom:1px solid var(--line-soft);
+  }
+  .top-nav a{
+    font-family:'JetBrains Mono', monospace; font-size:12px; letter-spacing:0.04em; text-transform:uppercase;
+    color:var(--muted); text-decoration:none; padding:8px 16px; border-radius:999px; transition:all .15s ease;
+  }
+  .top-nav a:hover{color:var(--text);}
+  .top-nav a.active{color:#0a0c10; background:var(--accent); font-weight:600;}
+
+  header.top{padding:48px 20px 24px; text-align:center;}
+  .brand{display:inline-flex; align-items:center; gap:10px; margin-bottom:18px;}
+  .brand .orb{
+    width:34px; height:34px; border-radius:50%;
+    background:conic-gradient(from 200deg, var(--accent), var(--accent-dim), var(--amber), var(--accent));
+    box-shadow:0 0 22px var(--bg-glow-1);
+  }
+  .brand span{font-family:'Sora', sans-serif; font-weight:700; font-size:15px; letter-spacing:0.02em; color:var(--muted); text-transform:uppercase;}
+  h1{
+    font-family:'Sora', sans-serif; font-size:clamp(28px, 5vw, 40px); font-weight:800; margin:0 0 8px;
+    background:linear-gradient(90deg, var(--text), var(--accent));
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .subtitle{color:var(--muted); font-size:14px; margin:0; max-width:640px; margin:0 auto;}
+
+  .map-frame-wrap{
+    margin-top:30px; border-radius:var(--radius); overflow:hidden; border:1px solid var(--line-soft);
+    box-shadow:0 20px 60px rgba(0,0,0,0.4); background:var(--panel);
+  }
+  iframe{width:100%; height:78vh; min-height:560px; border:0; display:block;}
+
+  .credit{margin-top:14px; text-align:center; color:var(--muted); font-size:12px;}
+  footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--line-soft); text-align:center; color:var(--muted); font-size:12px; font-family:'JetBrains Mono', monospace;}
+</style>
+</head>
+<body>
+<nav class="top-nav">
+  <a href="index.html">Accueil</a>
+  <a href="breeding.html">Breeding</a>
+  <a href="carte.html" class="active">Carte</a>
+</nav>
+<div class="wrap">
+
+  <header class="top">
+    <div class="brand"><span class="orb"></span><span>Tracker live</span></div>
+    <h1>Où trouver un Pal</h1>
+    <p class="subtitle">Cherche un Pal dans la barre de recherche pour voir ses zones d'apparition sur la carte du monde.</p>
+  </header>
+
+  <div class="map-frame-wrap">
+    <iframe src="https://xgamingserver.com/tools/palworld/spawn-map" title="Carte des spawns de Pals" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <p class="credit">Carte fournie par <a href="https://xgamingserver.com/tools/palworld/spawn-map" target="_blank" rel="noopener">xgaming.tools</a> — données de spawn officielles du jeu. Les boss/raids n'ont pas de zone de spawn classique et ne sont donc pas cherchables ici.</p>
+
+  <footer>Généré automatiquement</footer>
+</div>
+</body>
+</html>
