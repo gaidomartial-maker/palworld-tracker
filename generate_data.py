@@ -228,6 +228,20 @@ def decompress_sav(data):
         raise Exception(f"Format de sauvegarde non reconnu (magic={magic!r})")
 
 
+def _normalize_uid(value):
+    """
+    L'API REST renvoie les UID joueur sous forme hex sans tirets
+    (ex: "9B41274E000000000000000000000000"), alors que Level.sav les
+    expose comme de vrais objets UUID ("75567350-0000-0000-0000-...").
+    Sans normaliser les deux vers la meme forme, un joueur connecte se
+    retrouverait en double : une fois "en ligne" (API), une fois "hors
+    ligne" (sauvegarde), avec deux UID qui ne matchent jamais.
+    """
+    if not value:
+        return ""
+    return str(value).replace("-", "").upper()
+
+
 def parse_characters(save_path, online_players):
     """
     Level.sav contient un CharacterSaveParameterMap qui liste TOUS les
@@ -237,31 +251,30 @@ def parse_characters(save_path, online_players):
     l'API REST, qui ne liste que les joueurs actuellement connectes).
     """
     from palworld_save_tools.gvas import GvasFile
-    from palworld_save_tools.paltypes import PALWORLD_TYPE_HINTS
+    from palworld_save_tools.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
 
     with open(save_path, "rb") as f:
         raw = decompress_sav(f.read())
-    gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS)
+    # custom_properties est indispensable : sans lui, RawData (qui contient
+    # justement la structure SaveParameter d'un Pal/joueur) reste un tableau
+    # d'octets brut non decode plutot que d'etre parse en objet exploitable.
+    gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
 
     char_map = gvas.properties["worldSaveData"]["value"]["CharacterSaveParameterMap"]["value"]
 
-    online_by_uid = {p["playerId"]: p for p in online_players}
+    online_by_uid = {_normalize_uid(p["playerId"]): p for p in online_players}
     players_by_uid = {}
     pals_raw = []
 
-    skipped = 0
-    if char_map:
-        print(f"[parse_characters] premiere entree brute de char_map : {char_map[0]!r}"[:2000])
     for entry in char_map:
         try:
             params = entry["value"]["RawData"]["value"]["object"]["SaveParameter"]["value"]
         except (KeyError, TypeError):
-            skipped += 1
             continue
 
         if params.get("IsPlayer", {}).get("value", False):
-            uid = str(entry.get("key", {}).get("PlayerUId", {}).get("value", ""))
-            if not uid or uid == "00000000-0000-0000-0000-000000000000":
+            uid = _normalize_uid(entry.get("key", {}).get("PlayerUId", {}).get("value"))
+            if not uid or uid == "0" * 32:
                 continue
             online_info = online_by_uid.get(uid)
             players_by_uid[uid] = {
@@ -274,7 +287,7 @@ def parse_characters(save_path, online_players):
             }
             continue
 
-        owner_uid = str(params.get("OwnerPlayerUId", {}).get("value", ""))
+        owner_uid = _normalize_uid(params.get("OwnerPlayerUId", {}).get("value"))
 
         def talent(key):
             return params.get(key, {}).get("value", 0)
@@ -298,8 +311,7 @@ def parse_characters(save_path, online_players):
 
     print(
         f"[parse_characters] char_map={len(char_map)} entrees, "
-        f"ignorees(exception)={skipped}, joueurs_trouves={len(players_by_uid)}, "
-        f"pals_trouves={len(pals_raw)}"
+        f"joueurs_trouves={len(players_by_uid)}, pals_trouves={len(pals_raw)}"
     )
 
     # Un joueur qui vient de se connecter pour la premiere fois peut ne pas
