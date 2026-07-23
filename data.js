@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T21:21:00.000053+00:00",
+  "generated_at": "2026-07-23T21:31:10.233043+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 60.0,
+      "ping": 80.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 57.0,
+      "ping": 64.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -8472,7 +8472,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 664,
-        "atk": 29,
+        "atk": 31,
         "def": 24
       },
       "passives": [
@@ -10376,7 +10376,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1493,
-        "atk": 183,
+        "atk": 201,
         "def": 101
       },
       "passives": [
@@ -14267,7 +14267,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1359,
-        "atk": 128,
+        "atk": 140,
         "def": 121
       },
       "passives": [
@@ -16057,7 +16057,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2693,
-        "atk": 247,
+        "atk": 271,
         "def": 308
       },
       "passives": [
@@ -18529,7 +18529,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4252,
-        "atk": 700,
+        "atk": 910,
         "def": 590
       },
       "passives": [
@@ -19538,7 +19538,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 887,
-        "atk": 99,
+        "atk": 108,
         "def": 74
       },
       "passives": [
@@ -19809,7 +19809,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5882,
-        "atk": 932,
+        "atk": 1211,
         "def": 804
       },
       "passives": [
@@ -21807,7 +21807,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1211,
-        "atk": 138,
+        "atk": 151,
         "def": 115
       },
       "passives": [
@@ -22308,7 +22308,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6832,
-        "atk": 1081,
+        "atk": 1351,
         "def": 838
       },
       "passives": [
@@ -23821,7 +23821,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3024,
-        "atk": 383,
+        "atk": 421,
         "def": 511
       },
       "passives": [
@@ -24027,7 +24027,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3426,
-        "atk": 301,
+        "atk": 331,
         "def": 456
       },
       "passives": [
@@ -26207,7 +26207,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 9803,
-        "atk": 1397,
+        "atk": 1816,
         "def": 1186
       },
       "passives": [
@@ -27339,7 +27339,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2722,
-        "atk": 362,
+        "atk": 398,
         "def": 266
       },
       "passives": [
@@ -27785,7 +27785,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Surfent Terra",
@@ -29110,7 +29110,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2155,
-        "atk": 286,
+        "atk": 314,
         "def": 269
       },
       "passives": [
@@ -29915,7 +29915,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1787,
-        "atk": 172,
+        "atk": 189,
         "def": 230
       },
       "passives": [
@@ -29978,7 +29978,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2167,
-        "atk": 338,
+        "atk": 371,
         "def": 206
       },
       "passives": [
@@ -30838,7 +30838,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2729,
-        "atk": 390,
+        "atk": 429,
         "def": 274
       },
       "passives": [
@@ -31326,7 +31326,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6328,
-        "atk": 846,
+        "atk": 1099,
         "def": 718
       },
       "passives": [
@@ -31878,7 +31878,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3505,
-        "atk": 637,
+        "atk": 828,
         "def": 528
       },
       "passives": [
@@ -31965,7 +31965,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6494,
-        "atk": 970,
+        "atk": 1223,
         "def": 677
       },
       "passives": [
@@ -33684,7 +33684,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8403,
-        "atk": 1113,
+        "atk": 1446,
         "def": 908
       },
       "passives": [
@@ -35392,7 +35392,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5797,
-        "atk": 789,
+        "atk": 1025,
         "def": 541
       },
       "passives": [
@@ -37001,7 +37001,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3786,
-        "atk": 657,
+        "atk": 837,
         "def": 475
       },
       "passives": [
@@ -37035,7 +37035,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4630,
-        "atk": 787,
+        "atk": 1023,
         "def": 658
       },
       "passives": [
@@ -38434,7 +38434,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7632,
-        "atk": 1102,
+        "atk": 1378,
         "def": 1197
       },
       "passives": [
@@ -38507,7 +38507,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6138,
-        "atk": 717,
+        "atk": 932,
         "def": 771
       },
       "passives": [
@@ -38997,7 +38997,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8165,
-        "atk": 1209,
+        "atk": 1512,
         "def": 1068
       },
       "passives": [
@@ -41681,7 +41681,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 573,
-        "atk": 11,
+        "atk": 12,
         "def": 10
       },
       "passives": [
@@ -41749,7 +41749,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8646,
-        "atk": 1360,
+        "atk": 1701,
         "def": 1087
       },
       "passives": [
@@ -41972,7 +41972,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3212,
-        "atk": 401,
+        "atk": 441,
         "def": 487
       },
       "passives": [
@@ -43682,7 +43682,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5509,
-        "atk": 1062,
+        "atk": 1239,
         "def": 1007
       },
       "passives": [
@@ -45019,7 +45019,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4593,
-        "atk": 675,
+        "atk": 877,
         "def": 609
       },
       "passives": [
@@ -45787,7 +45787,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2725,
-        "atk": 377,
+        "atk": 490,
         "def": 383
       },
       "passives": [
@@ -47388,7 +47388,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2681,
-        "atk": 382,
+        "atk": 496,
         "def": 402
       },
       "passives": [
@@ -47949,7 +47949,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8134,
-        "atk": 1341,
+        "atk": 1788,
         "def": 1188
       },
       "passives": [
@@ -48079,7 +48079,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3773,
-        "atk": 376,
+        "atk": 423,
         "def": 457
       },
       "passives": [
@@ -49805,7 +49805,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7053,
-        "atk": 1232,
+        "atk": 1540,
         "def": 1011
       },
       "passives": [
@@ -49907,7 +49907,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5579,
-        "atk": 602,
+        "atk": 722,
         "def": 723
       },
       "passives": [
@@ -50061,7 +50061,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 580,
-        "atk": 10,
+        "atk": 11,
         "def": 10
       },
       "passives": [
@@ -50486,7 +50486,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1416,
-        "atk": 146,
+        "atk": 152,
         "def": 106
       },
       "passives": [
@@ -50559,7 +50559,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7373,
-        "atk": 1057,
+        "atk": 1409,
         "def": 1197
       },
       "passives": [
@@ -50603,7 +50603,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8895,
-        "atk": 1461,
+        "atk": 1827,
         "def": 1156
       },
       "passives": [
@@ -50671,7 +50671,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6005,
-        "atk": 1201,
+        "atk": 1401,
         "def": 1117
       },
       "passives": [
@@ -50744,7 +50744,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3696,
-        "atk": 438,
+        "atk": 525,
         "def": 490
       },
       "passives": [
@@ -50778,7 +50778,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5125,
-        "atk": 766,
+        "atk": 842,
         "def": 677
       },
       "passives": [
@@ -51151,7 +51151,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3507,
-        "atk": 480,
+        "atk": 528,
         "def": 474
       },
       "passives": [
@@ -51295,7 +51295,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5171,
-        "atk": 634,
+        "atk": 697,
         "def": 585
       },
       "passives": [
@@ -51528,7 +51528,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6160,
-        "atk": 799,
+        "atk": 878,
         "def": 666
       },
       "passives": [
@@ -51787,7 +51787,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5347,
-        "atk": 682,
+        "atk": 750,
         "def": 695
       },
       "passives": [
@@ -51932,7 +51932,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8391,
-        "atk": 1429,
+        "atk": 1786,
         "def": 1173
       },
       "passives": [
@@ -52029,7 +52029,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2849,
-        "atk": 511,
+        "atk": 562,
         "def": 392
       },
       "passives": [
@@ -52593,7 +52593,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5871,
-        "atk": 740,
+        "atk": 773,
         "def": 585
       },
       "passives": [
@@ -52632,7 +52632,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1551,
-        "atk": 146,
+        "atk": 153,
         "def": 139
       },
       "passives": [
@@ -53023,7 +53023,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2927,
-        "atk": 345,
+        "atk": 379,
         "def": 324
       },
       "passives": [
@@ -53086,7 +53086,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2752,
-        "atk": 434,
+        "atk": 520,
         "def": 412
       },
       "passives": [
@@ -53217,7 +53217,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3829,
-        "atk": 488,
+        "atk": 683,
         "def": 570
       },
       "passives": [
@@ -53343,7 +53343,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2372,
-        "atk": 266,
+        "atk": 279,
         "def": 339
       },
       "passives": [
@@ -54151,7 +54151,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3594,
-        "atk": 605,
+        "atk": 635,
         "def": 445
       },
       "passives": [
@@ -54301,7 +54301,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3705,
-        "atk": 533,
+        "atk": 692,
         "def": 459
       },
       "passives": [
@@ -54753,7 +54753,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3331,
-        "atk": 558,
+        "atk": 725,
         "def": 492
       },
       "passives": [
@@ -54816,7 +54816,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6883,
-        "atk": 986,
+        "atk": 1233,
         "def": 816
       },
       "passives": [
@@ -54966,7 +54966,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7558,
-        "atk": 1149,
+        "atk": 1437,
         "def": 932
       },
       "passives": [
@@ -55314,7 +55314,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5396,
-        "atk": 789,
+        "atk": 964,
         "def": 989
       },
       "passives": [
@@ -56477,7 +56477,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6913,
-        "atk": 986,
+        "atk": 1233,
         "def": 1070
       },
       "passives": [
@@ -56739,7 +56739,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2639,
-        "atk": 328,
+        "atk": 343,
         "def": 415
       },
       "passives": [
@@ -57076,7 +57076,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4641,
-        "atk": 521,
+        "atk": 547,
         "def": 522
       },
       "passives": [
@@ -57459,7 +57459,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2743,
-        "atk": 392,
+        "atk": 431,
         "def": 284
       },
       "passives": [
@@ -57687,7 +57687,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3289,
-        "atk": 620,
+        "atk": 806,
         "def": 463
       },
       "passives": [
@@ -57871,7 +57871,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2427,
-        "atk": 305,
+        "atk": 319,
         "def": 341
       },
       "passives": [
@@ -58002,7 +58002,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3677,
-        "atk": 606,
+        "atk": 636,
         "def": 530
       },
       "passives": [
@@ -58128,7 +58128,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7415,
-        "atk": 1096,
+        "atk": 1371,
         "def": 986
       },
       "passives": [
@@ -58225,7 +58225,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6935,
-        "atk": 1119,
+        "atk": 1399,
         "def": 778
       },
       "passives": [
@@ -58650,7 +58650,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2704,
-        "atk": 422,
+        "atk": 458,
         "def": 281
       },
       "passives": [
@@ -58771,7 +58771,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3782,
-        "atk": 447,
+        "atk": 536,
         "def": 715
       },
       "passives": [
@@ -58815,7 +58815,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3393,
-        "atk": 576,
+        "atk": 604,
         "def": 453
       },
       "passives": [
@@ -59649,7 +59649,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4731,
-        "atk": 700,
+        "atk": 910,
         "def": 602
       },
       "passives": [
@@ -59664,7 +59664,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Petallia",
@@ -59683,7 +59683,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3848,
-        "atk": 488,
+        "atk": 536,
         "def": 522
       },
       "passives": [
@@ -59793,7 +59793,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4456,
-        "atk": 525,
+        "atk": 735,
         "def": 632
       },
       "passives": [
@@ -59982,7 +59982,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4420,
-        "atk": 552,
+        "atk": 772,
         "def": 689
       },
       "passives": [
@@ -60079,7 +60079,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3467,
-        "atk": 534,
+        "atk": 640,
         "def": 615
       },
       "passives": [
@@ -60147,7 +60147,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6715,
-        "atk": 922,
+        "atk": 1153,
         "def": 981
       },
       "passives": [
@@ -60215,7 +60215,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6143,
-        "atk": 712,
+        "atk": 925,
         "def": 650
       },
       "passives": [
@@ -60249,7 +60249,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5590,
-        "atk": 1089,
+        "atk": 1271,
         "def": 1068
       },
       "passives": [
@@ -60303,7 +60303,7 @@ window.PALWORLD_DATA = {
           "rank": 2
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Finsider",
@@ -60351,7 +60351,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4499,
-        "atk": 513,
+        "atk": 718,
         "def": 592
       },
       "passives": [
@@ -60734,7 +60734,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7384,
-        "atk": 1087,
+        "atk": 1359,
         "def": 1090
       },
       "passives": [
@@ -60877,7 +60877,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1593,
-        "atk": 224,
+        "atk": 291,
         "def": 219
       },
       "passives": [
@@ -60945,7 +60945,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2529,
-        "atk": 369,
+        "atk": 405,
         "def": 324
       },
       "passives": [
@@ -60989,7 +60989,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Petallia",
@@ -61262,7 +61262,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2571,
-        "atk": 299,
+        "atk": 358,
         "def": 483
       },
       "passives": [
@@ -61335,7 +61335,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4510,
-        "atk": 582,
+        "atk": 640,
         "def": 933
       },
       "passives": [
@@ -62221,7 +62221,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6364,
-        "atk": 1096,
+        "atk": 1371,
         "def": 888
       },
       "passives": [
@@ -62410,7 +62410,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6336,
-        "atk": 1111,
+        "atk": 1389,
         "def": 921
       },
       "passives": [
@@ -62622,7 +62622,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2696,
-        "atk": 417,
+        "atk": 481,
         "def": 491
       },
       "passives": [
@@ -62863,7 +62863,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4966,
-        "atk": 594,
+        "atk": 712,
         "def": 663
       },
       "passives": [
@@ -63018,7 +63018,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3772,
-        "atk": 460,
+        "atk": 644,
         "def": 556
       },
       "passives": [
@@ -63081,7 +63081,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6722,
-        "atk": 1389,
+        "atk": 1621,
         "def": 1234
       },
       "passives": [
@@ -63172,7 +63172,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6928,
-        "atk": 1012,
+        "atk": 1266,
         "def": 844
       },
       "passives": [
@@ -63434,7 +63434,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6715,
-        "atk": 1076,
+        "atk": 1345,
         "def": 844
       },
       "passives": [
@@ -64066,7 +64066,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5273,
-        "atk": 667,
+        "atk": 783,
         "def": 754
       },
       "passives": [
@@ -64875,7 +64875,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5069,
-        "atk": 560,
+        "atk": 672,
         "def": 592
       },
       "passives": [
@@ -64962,7 +64962,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4612,
-        "atk": 575,
+        "atk": 690,
         "def": 628
       },
       "passives": [
@@ -65273,7 +65273,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6701,
-        "atk": 1202,
+        "atk": 1470,
         "def": 876
       },
       "passives": [
@@ -65312,7 +65312,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4720,
-        "atk": 660,
+        "atk": 858,
         "def": 599
       },
       "passives": [
@@ -65421,7 +65421,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6197,
-        "atk": 651,
+        "atk": 846,
         "def": 471
       },
       "passives": [
@@ -65552,7 +65552,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5400,
-        "atk": 698,
+        "atk": 907,
         "def": 571
       },
       "passives": [
@@ -65586,7 +65586,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3131,
-        "atk": 489,
+        "atk": 586,
         "def": 412
       },
       "passives": [
@@ -65867,7 +65867,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6538,
-        "atk": 1016,
+        "atk": 1201,
         "def": 982
       },
       "passives": [
@@ -66213,7 +66213,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 566,
-        "atk": 12,
+        "atk": 13,
         "def": 9
       },
       "passives": [
@@ -66455,7 +66455,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6725,
-        "atk": 887,
+        "atk": 1153,
         "def": 856
       },
       "passives": [
@@ -67287,7 +67287,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5431,
-        "atk": 684,
+        "atk": 718,
         "def": 565
       },
       "passives": [
@@ -67457,7 +67457,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7921,
-        "atk": 1276,
+        "atk": 1596,
         "def": 1110
       },
       "passives": [
@@ -67594,7 +67594,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4199,
-        "atk": 490,
+        "atk": 588,
         "def": 798
       },
       "passives": [
@@ -67623,7 +67623,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4835,
-        "atk": 406,
+        "atk": 426,
         "def": 536
       },
       "passives": [
@@ -68006,7 +68006,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7882,
-        "atk": 1176,
+        "atk": 1470,
         "def": 938
       },
       "passives": [
@@ -68045,7 +68045,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6322,
-        "atk": 1078,
+        "atk": 1348,
         "def": 824
       },
       "passives": [
@@ -68147,7 +68147,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5003,
-        "atk": 699,
+        "atk": 733,
         "def": 612
       },
       "passives": [
@@ -68268,7 +68268,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6434,
-        "atk": 870,
+        "atk": 1087,
         "def": 1042
       },
       "passives": [
@@ -68336,7 +68336,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4441,
-        "atk": 657,
+        "atk": 854,
         "def": 645
       },
       "passives": [
@@ -68428,7 +68428,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3625,
-        "atk": 408,
+        "atk": 428,
         "def": 583
       },
       "passives": [
@@ -68490,6 +68490,35 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 28,
+        "melee": 0,
+        "shot": 44,
+        "defense": 6
+      },
+      "power_stats": {
+        "hp": 570,
+        "atk": 11,
+        "def": 10
+      },
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Mycora",
       "species": "MushroomLady",
       "species_name": "Mycora",
@@ -68535,7 +68564,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6480,
-        "atk": 731,
+        "atk": 767,
         "def": 703
       },
       "passives": [
@@ -68719,7 +68748,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8000,
-        "atk": 1224,
+        "atk": 1530,
         "def": 1159
       },
       "passives": [
@@ -69424,7 +69453,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Shroomer",
@@ -69640,7 +69669,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7925,
-        "atk": 1306,
+        "atk": 1633,
         "def": 1038
       },
       "passives": [
@@ -69703,7 +69732,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6617,
-        "atk": 925,
+        "atk": 1139,
         "def": 1020
       },
       "passives": [
@@ -69742,7 +69771,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4628,
-        "atk": 411,
+        "atk": 431,
         "def": 444
       },
       "passives": [
@@ -69888,7 +69917,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Ophydia",
@@ -69907,7 +69936,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7550,
-        "atk": 865,
+        "atk": 951,
         "def": 856
       },
       "passives": [
@@ -70159,7 +70188,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5897,
-        "atk": 656,
+        "atk": 787,
         "def": 678
       },
       "passives": [
@@ -70222,7 +70251,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5649,
-        "atk": 750,
+        "atk": 975,
         "def": 515
       },
       "passives": [
@@ -70256,7 +70285,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4487,
-        "atk": 822,
+        "atk": 986,
         "def": 694
       },
       "passives": [
@@ -70353,7 +70382,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5656,
-        "atk": 1247,
+        "atk": 1432,
         "def": 1117
       },
       "passives": [
@@ -70392,7 +70421,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5948,
-        "atk": 549,
+        "atk": 678,
         "def": 903
       },
       "passives": [
@@ -70570,7 +70599,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5106,
-        "atk": 648,
+        "atk": 833,
         "def": 846
       },
       "passives": [
@@ -70633,7 +70662,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3653,
-        "atk": 434,
+        "atk": 520,
         "def": 655
       },
       "passives": [
@@ -70701,7 +70730,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4536,
-        "atk": 632,
+        "atk": 884,
         "def": 723
       },
       "passives": [
@@ -70759,7 +70788,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2213,
-        "atk": 239,
+        "atk": 262,
         "def": 238
       },
       "passives": [
@@ -70869,7 +70898,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4844,
-        "atk": 578,
+        "atk": 693,
         "def": 639
       },
       "passives": [
@@ -71187,7 +71216,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6628,
-        "atk": 893,
+        "atk": 1160,
         "def": 752
       },
       "passives": [
@@ -71448,11 +71477,55 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 96,
+        "melee": 0,
+        "shot": 99,
+        "defense": 96
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 16,
+        "def": 13
+      },
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        },
+        {
+          "id": "PAL_Sanity_Up_1",
+          "name": "Mentalement instable",
+          "rank": -1
+        },
+        {
+          "id": "Deffence_down1",
+          "name": "Vulnérable aux coups",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Shadowbeak",
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 20,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -71463,9 +71536,9 @@ window.PALWORLD_DATA = {
         "defense": 50
       },
       "power_stats": {
-        "hp": 1900,
-        "atk": 235,
-        "def": 256
+        "hp": 2110,
+        "atk": 270,
+        "def": 294
       },
       "passives": [
         {
@@ -71535,6 +71608,35 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 91,
+        "melee": 0,
+        "shot": 99,
+        "defense": 96
+      },
+      "power_stats": {
+        "hp": 594,
+        "atk": 14,
+        "def": 11
+      },
+      "passives": [
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Slowatt",
       "species": "BOSS_ElecLizard",
       "species_name": "Slowatt",
@@ -71585,7 +71687,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 12,
+        "atk": 15,
         "def": 13
       },
       "passives": [
@@ -71624,7 +71726,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 585,
-        "atk": 16,
+        "atk": 21,
         "def": 11
       },
       "passives": [
@@ -71816,6 +71918,35 @@ window.PALWORLD_DATA = {
         {
           "id": "ElementResist_Earth_1_PAL",
           "name": "Constitution parasismique",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 71,
+        "melee": 0,
+        "shot": 0,
+        "defense": 96
+      },
+      "power_stats": {
+        "hp": 589,
+        "atk": 11,
+        "def": 13
+      },
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
           "rank": 1
         }
       ],
@@ -72564,7 +72695,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 577,
-        "atk": 16,
+        "atk": 21,
         "def": 14
       },
       "passives": [
@@ -72608,7 +72739,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7013,
-        "atk": 1269,
+        "atk": 1587,
         "def": 985
       },
       "passives": [
@@ -72647,7 +72778,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 690,
-        "atk": 36,
+        "atk": 45,
         "def": 29
       },
       "passives": [
@@ -72876,7 +73007,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 579,
-        "atk": 16,
+        "atk": 21,
         "def": 13
       },
       "passives": [
@@ -72983,7 +73114,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 14,
+        "atk": 18,
         "def": 9
       },
       "passives": [
@@ -73071,7 +73202,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7775,
-        "atk": 1178,
+        "atk": 1473,
         "def": 1074
       },
       "passives": [
@@ -73154,7 +73285,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 576,
-        "atk": 20,
+        "atk": 24,
         "def": 9
       },
       "passives": [
@@ -73198,7 +73329,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 14,
+        "atk": 18,
         "def": 11
       },
       "passives": [
@@ -73211,6 +73342,50 @@ window.PALWORLD_DATA = {
           "id": "NonKilling",
           "name": "Mercy Hit",
           "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 61,
+        "defense": 99
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 12,
+        "def": 13
+      },
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        },
+        {
+          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
+          "name": "Farmhand",
+          "rank": 3
+        },
+        {
+          "id": "TrainerWorkSpeed_UP_1",
+          "name": "Motivateur",
+          "rank": 3
+        },
+        {
+          "id": "TrainerATK_UP_1",
+          "name": "Chef d'assaut",
+          "rank": 3
         }
       ],
       "owner": "Martial"
@@ -73261,7 +73436,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6785,
-        "atk": 854,
+        "atk": 1068,
         "def": 1127
       },
       "passives": [
@@ -73488,7 +73663,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 14,
+        "atk": 18,
         "def": 10
       },
       "passives": [
@@ -73527,7 +73702,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 14,
+        "atk": 18,
         "def": 13
       },
       "passives": [
@@ -73554,7 +73729,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 20,
+      "level": 23,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -73565,9 +73740,9 @@ window.PALWORLD_DATA = {
         "defense": 99
       },
       "power_stats": {
-        "hp": 2156,
-        "atk": 212,
-        "def": 287
+        "hp": 2404,
+        "atk": 244,
+        "def": 330
       },
       "passives": [
         {
@@ -73634,7 +73809,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 14,
+        "atk": 18,
         "def": 14
       },
       "passives": [
@@ -73678,7 +73853,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 690,
-        "atk": 36,
+        "atk": 45,
         "def": 32
       },
       "passives": [
@@ -73717,7 +73892,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 579,
-        "atk": 13,
+        "atk": 16,
         "def": 13
       },
       "passives": [
@@ -73761,7 +73936,7 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 595,
-        "atk": 16,
+        "atk": 21,
         "def": 14
       },
       "passives": [
@@ -73909,6 +74084,40 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 91,
+        "melee": 0,
+        "shot": 40,
+        "defense": 47
+      },
+      "power_stats": {
+        "hp": 594,
+        "atk": 12,
+        "def": 9
+      },
+      "passives": [
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     }
   ],
   "records": {
@@ -73923,7 +74132,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 595
+        "pal_count": 601
       },
       {
         "owner": "takitome",
@@ -73941,23 +74150,23 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2525126
+        "total_power": 2531669
       },
       {
         "owner": "LawzZ",
-        "total_power": 2077850
+        "total_power": 2085476
       },
       {
         "owner": "Martial",
-        "total_power": 1696643
+        "total_power": 1704125
       },
       {
         "owner": "takitome",
-        "total_power": 526479
+        "total_power": 528295
       },
       {
         "owner": "inconnu",
-        "total_power": 228756
+        "total_power": 230583
       },
       {
         "owner": "Prismiti",
