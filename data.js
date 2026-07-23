@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T19:50:59.609137+00:00",
+  "generated_at": "2026-07-23T20:01:23.262655+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 79,
       "building_count": null,
-      "ping": 79.0,
+      "ping": 57.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 56.0,
+      "ping": 53.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -1417,7 +1417,7 @@ window.PALWORLD_DATA = {
       "species": "ChickenPal",
       "species_name": "Chikipi",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ChickenPal_icon_normal.webp",
-      "level": 27,
+      "level": 28,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -1428,9 +1428,9 @@ window.PALWORLD_DATA = {
         "defense": 42
       },
       "power_stats": {
-        "hp": 1449,
-        "atk": 219,
-        "def": 140
+        "hp": 1485,
+        "atk": 228,
+        "def": 145
       },
       "passives": [
         {
@@ -42587,7 +42587,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Martial"
+      "owner": "inconnu"
     },
     {
       "nickname": "Vanwyrm Cryst",
@@ -68358,6 +68358,40 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Celesdir Noct",
+      "species": "WhiteDeer_Dark",
+      "species_name": "Celesdir Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 95,
+        "melee": 0,
+        "shot": 66,
+        "defense": 34
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 11,
+        "def": 7
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "PAL_conceited",
+          "name": "Vaniteux",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Herbil",
       "species": "LeafMomonga",
       "species_name": "Herbil",
@@ -71007,7 +71041,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Martial"
+      "owner": "inconnu"
     },
     {
       "nickname": "Shadowbeak",
@@ -71075,7 +71109,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Martial"
+      "owner": "inconnu"
     }
   ],
   "records": {
@@ -71090,7 +71124,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 540
+        "pal_count": 538
       },
       {
         "owner": "takitome",
@@ -71102,7 +71136,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "pal_count": 50
+        "pal_count": 53
       }
     ],
     "strongest_team": [
@@ -71116,7 +71150,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1605948
+        "total_power": 1584090
       },
       {
         "owner": "takitome",
@@ -71124,7 +71158,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 222806
+        "total_power": 245314
       },
       {
         "owner": "Prismiti",
