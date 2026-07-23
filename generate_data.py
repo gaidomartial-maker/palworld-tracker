@@ -103,15 +103,14 @@ _oodle_lib_attempted = False
 def _get_oodle_lib():
     """
     Charge la vraie bibliotheque Oodle (celle qui accompagne le serveur
-    dedie Palworld) via SFTP + ctypes. La reimplementation open source
-    utilisee par kraken-decompressor est incomplete et echoue sur certains
-    flux Kraken reels (verifie : le decodeur natif renvoie -1 sur des
-    donnees dont l'entete est pourtant parfaitement valide) -- la vraie
-    lib Oodle, elle, est le decodeur d'origine, garanti compatible avec
-    ce que le jeu produit.
+    dedie Palworld) via SFTP + ctypes -- la garantie de compatibilite la
+    plus solide puisque c'est le decodeur d'origine. Optionnel : si le
+    serveur n'expose pas ce fichier (hebergement mutualise sans acces aux
+    binaires), on retombe sur pyooz puis kraken-decompressor (cf.
+    _oodle_decompress()).
 
     Retourne None si SFTP_OODLE_LIB_PATH n'est pas configure ou si le
-    telechargement/chargement echoue : on retombe alors sur kraken-decompressor.
+    telechargement/chargement echoue.
     """
     global _oodle_lib, _oodle_lib_attempted
     if _oodle_lib_attempted:
@@ -169,8 +168,20 @@ def _oodle_decompress(body, uncompressed_len):
             return out_buf.raw
         print(
             f"[oodle] OodleLZ_Decompress a renvoye {written} octets au lieu de "
-            f"{uncompressed_len} -- repli sur kraken-decompressor"
+            f"{uncompressed_len} -- repli sur pyooz"
         )
+
+    # pyooz compile tous les codecs Oodle (Kraken, Mermaid, Selkie, Leviathan,
+    # BitKnit...). kraken-decompressor ne compile que le codec Kraken pur --
+    # or l'octet "type de compression" du flux (juste apres le magic PlM)
+    # indique souvent un autre codec (ex: BitKnit) selon la mise a jour du
+    # jeu, ce que kraken-decompressor ne sait pas du tout decoder (il
+    # renvoie -1 immediatement). On essaie donc pyooz en premier.
+    try:
+        import ooz
+        return ooz.decompress(body, uncompressed_len)
+    except Exception as e:
+        print(f"[oodle] pyooz a echoue ({e}) -- repli sur kraken-decompressor")
 
     from kraken_decompressor import decompress as kraken_decompress
     return kraken_decompress(body, uncompressed_len)
@@ -181,13 +192,13 @@ def decompress_sav(data):
     Gere les deux formats de sauvegarde Palworld :
       - PlZ (zlib) : ancien format, gere par palworld-save-tools
       - PlM (Oodle) : nouveau format depuis la mise a jour ete 2026, gere
-        par la vraie lib Oodle du serveur si SFTP_OODLE_LIB_PATH est
-        configure, sinon par la librairie kraken-decompressor (repli)
+        par _oodle_decompress() (vraie lib Oodle si disponible, sinon
+        pyooz, sinon kraken-decompressor en dernier recours)
 
     Header (12 octets) : uncompressed_len (u32), compressed_len (u32),
     magic (3 octets), save_type (1 octet). Pour le format PlM, save_type
     vaut toujours 0x31 et le corps est decompresse en une seule passe
-    Oodle/Kraken -- il n'y a pas de zlib par-dessus.
+    Oodle -- il n'y a pas de zlib par-dessus.
     """
     import struct
 

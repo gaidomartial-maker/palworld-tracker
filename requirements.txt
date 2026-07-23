@@ -2,3 +2,4 @@ requests
 paramiko
 palworld-save-tools
 kraken-decompressor
+pyooz
