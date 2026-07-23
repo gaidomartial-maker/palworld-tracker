@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T12:42:18.811618+00:00",
+  "generated_at": "2026-07-23T13:28:21.262017+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 1,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -21,15 +21,15 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 44.0,
+      "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
     {
       "name": "Martial",
-      "level": 69,
+      "level": 70,
       "building_count": null,
-      "ping": 65.0,
+      "ping": 59.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -66,6 +66,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 626,
+        "atk": 17,
+        "def": 19
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -94,6 +99,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 989,
+        "atk": 72,
+        "def": 86
       },
       "passives": [
         {
@@ -124,6 +134,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 750,
+        "atk": 43,
+        "def": 42
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -152,6 +167,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 25
+      },
+      "power_stats": {
+        "hp": 758,
+        "atk": 46,
+        "def": 29
       },
       "passives": [
         {
@@ -187,6 +207,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 1875,
+        "atk": 257,
+        "def": 160
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -211,6 +236,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 2045,
+        "atk": 276,
+        "def": 252
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -234,6 +264,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 2395,
+        "atk": 269,
+        "def": 243
       },
       "passives": [
         {
@@ -264,6 +299,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 1805,
+        "atk": 225,
+        "def": 182
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -293,6 +333,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 1988,
+        "atk": 271,
+        "def": 255
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -316,6 +361,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 1837,
+        "atk": 252,
+        "def": 213
       },
       "passives": [
         {
@@ -341,6 +391,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 753,
+        "atk": 45,
+        "def": 39
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -364,6 +419,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 745,
+        "atk": 40,
+        "def": 45
       },
       "passives": [
         {
@@ -394,6 +454,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 625,
+        "atk": 20,
+        "def": 18
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -417,6 +482,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 792,
+        "atk": 58,
+        "def": 37
       },
       "passives": [
         {
@@ -452,6 +522,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 1173,
+        "atk": 104,
+        "def": 94
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -475,6 +550,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 634,
+        "atk": 22,
+        "def": 20
       },
       "passives": [
         {
@@ -500,6 +580,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 1204,
+        "atk": 100,
+        "def": 90
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -523,6 +608,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 536,
+        "atk": 5,
+        "def": 5
       },
       "passives": [
         {
@@ -548,6 +638,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 1052,
+        "atk": 130,
+        "def": 80
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -572,6 +667,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 538,
+        "atk": 6,
+        "def": 4
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -595,6 +695,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 816,
+        "atk": 50,
+        "def": 42
       },
       "passives": [
         {
@@ -625,6 +730,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2338,
+        "atk": 297,
+        "def": 263
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -648,6 +758,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 596,
+        "atk": 13,
+        "def": 12
       },
       "passives": [
         {
@@ -673,6 +788,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 594,
+        "atk": 12,
+        "def": 11
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -696,6 +816,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 1162,
+        "atk": 105,
+        "def": 91
       },
       "passives": [
         {
@@ -721,6 +846,11 @@ window.PALWORLD_DATA = {
         "shot": 23,
         "defense": 41
       },
+      "power_stats": {
+        "hp": 1117,
+        "atk": 99,
+        "def": 92
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -744,6 +874,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 2055,
+        "atk": 235,
+        "def": 223
       },
       "passives": [
         {
@@ -774,6 +909,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 626,
+        "atk": 18,
+        "def": 18
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -803,6 +943,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 1578,
+        "atk": 181,
+        "def": 158
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -826,6 +971,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 805,
+        "atk": 58,
+        "def": 47
       },
       "passives": [
         {
@@ -856,6 +1006,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 1117,
+        "atk": 130,
+        "def": 103
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -880,6 +1035,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 700,
+        "atk": 31,
+        "def": 28
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -903,6 +1063,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 887,
+        "atk": 66,
+        "def": 54
       },
       "passives": [
         {
@@ -933,6 +1098,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 2543,
+        "atk": 409,
+        "def": 271
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -962,6 +1132,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 701,
+        "atk": 27,
+        "def": 26
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -986,6 +1161,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 588,
+        "atk": 17,
+        "def": 11
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -1009,6 +1189,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 662,
+        "atk": 31,
+        "def": 20
       },
       "passives": [
         {
@@ -1039,6 +1224,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 1191,
+        "atk": 121,
+        "def": 84
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -1062,6 +1252,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 2119,
+        "atk": 289,
+        "def": 235
       },
       "passives": [
         {
@@ -1087,6 +1282,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 1505,
+        "atk": 203,
+        "def": 181
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -1110,6 +1310,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 32,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 1094,
+        "atk": 87,
+        "def": 85
       },
       "passives": [
         {
@@ -1135,6 +1340,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 770,
+        "atk": 43,
+        "def": 36
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -1158,6 +1368,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 1926,
+        "atk": 239,
+        "def": 189
       },
       "passives": [
         {
@@ -1183,6 +1398,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 1510,
+        "atk": 168,
+        "def": 177
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -1206,6 +1426,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 42
+      },
+      "power_stats": {
+        "hp": 1449,
+        "atk": 219,
+        "def": 140
       },
       "passives": [
         {
@@ -1236,6 +1461,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 1838,
+        "atk": 210,
+        "def": 209
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -1259,6 +1489,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 17,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 4712,
+        "atk": 527,
+        "def": 637
       },
       "passives": [
         {
@@ -1284,6 +1519,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 1412,
+        "atk": 164,
+        "def": 133
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -1301,6 +1541,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 763,
+        "atk": 48,
+        "def": 41
       },
       "passives": [
         {
@@ -1331,6 +1576,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 587,
+        "atk": 14,
+        "def": 12
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -1360,6 +1610,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 838,
+        "atk": 51,
+        "def": 47
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -1383,6 +1638,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 96,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 769,
+        "atk": 55,
+        "def": 38
       },
       "passives": [
         {
@@ -1408,6 +1668,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 3621,
+        "atk": 481,
+        "def": 431
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -1426,6 +1691,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 772,
+        "atk": 42,
+        "def": 40
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -1443,6 +1713,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 42,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 663,
+        "atk": 34,
+        "def": 24
       },
       "passives": [
         {
@@ -1468,6 +1743,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 1552,
+        "atk": 171,
+        "def": 136
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -1491,6 +1771,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 705,
+        "atk": 44,
+        "def": 32
       },
       "passives": [
         {
@@ -1516,6 +1801,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 782,
+        "atk": 45,
+        "def": 43
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -1539,6 +1829,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 630,
+        "atk": 27,
+        "def": 17
       },
       "passives": [
         {
@@ -1564,6 +1859,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 585,
+        "atk": 11,
+        "def": 14
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -1587,6 +1887,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 16,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 1378,
+        "atk": 161,
+        "def": 158
       },
       "passives": [
         {
@@ -1612,6 +1917,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 705,
+        "atk": 45,
+        "def": 33
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -1636,6 +1946,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 858,
+        "atk": 53,
+        "def": 48
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -1650,7 +1965,7 @@ window.PALWORLD_DATA = {
       "species": "LavaGirl",
       "species_name": "Flambelle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LavaGirl_icon_normal.webp",
-      "level": 41,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -1659,6 +1974,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 2257,
+        "atk": 311,
+        "def": 298
       },
       "passives": [
         {
@@ -1684,6 +2004,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 780,
+        "atk": 50,
+        "def": 37
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -1707,6 +2032,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 828,
+        "atk": 52,
+        "def": 46
       },
       "passives": [
         {
@@ -1732,6 +2062,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 584,
+        "atk": 14,
+        "def": 12
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -1756,6 +2091,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 836,
+        "atk": 70,
+        "def": 56
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -1774,6 +2114,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 585,
+        "atk": 15,
+        "def": 11
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -1791,6 +2136,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 6
+      },
+      "power_stats": {
+        "hp": 824,
+        "atk": 57,
+        "def": 42
       },
       "passives": [
         {
@@ -1816,6 +2166,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 815,
+        "atk": 61,
+        "def": 44
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -1839,6 +2194,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 1556,
+        "atk": 168,
+        "def": 140
       },
       "passives": [
         {
@@ -1864,6 +2224,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 584,
+        "atk": 16,
+        "def": 11
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -1887,6 +2252,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 1032,
+        "atk": 47,
+        "def": 77
       },
       "passives": [
         {
@@ -1912,6 +2282,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 1614,
+        "atk": 213,
+        "def": 192
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -1935,6 +2310,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 867,
+        "atk": 59,
+        "def": 50
       },
       "passives": [
         {
@@ -1960,6 +2340,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 905,
+        "atk": 69,
+        "def": 58
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -1984,6 +2369,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 591,
+        "atk": 13,
+        "def": 14
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -2007,6 +2397,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 5,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 763,
+        "atk": 43,
+        "def": 42
       },
       "passives": [
         {
@@ -2037,6 +2432,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 690,
+        "atk": 26,
+        "def": 26
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -2060,6 +2460,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 787,
+        "atk": 59,
+        "def": 48
       },
       "passives": [
         {
@@ -2085,6 +2490,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 1101,
+        "atk": 66,
+        "def": 78
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -2108,6 +2518,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 593,
+        "atk": 14,
+        "def": 13
       },
       "passives": [
         {
@@ -2133,6 +2548,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 5863,
+        "atk": 748,
+        "def": 670
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -2157,6 +2577,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 862,
+        "atk": 57,
+        "def": 57
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -2180,6 +2605,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 895,
+        "atk": 33,
+        "def": 43
       },
       "passives": [
         {
@@ -2215,6 +2645,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 541,
+        "atk": 9,
+        "def": 4
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -2239,6 +2674,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 2325,
+        "atk": 282,
+        "def": 229
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -2262,6 +2702,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 979,
+        "atk": 72,
+        "def": 64
       },
       "passives": [
         {
@@ -2292,6 +2737,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 825,
+        "atk": 88,
+        "def": 50
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -2315,6 +2765,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 802,
+        "atk": 61,
+        "def": 39
       },
       "passives": [
         {
@@ -2345,6 +2800,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2423,
+        "atk": 325,
+        "def": 293
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -2368,6 +2828,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 2,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 828,
+        "atk": 49,
+        "def": 50
       },
       "passives": [
         {
@@ -2393,6 +2858,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 777,
+        "atk": 48,
+        "def": 45
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -2410,6 +2880,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 1465,
+        "atk": 137,
+        "def": 138
       },
       "passives": [
         {
@@ -2434,6 +2909,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 3250,
+        "atk": 374,
+        "def": 357
       },
       "passives": [
         {
@@ -2469,6 +2949,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 1058,
+        "atk": 108,
+        "def": 93
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -2493,6 +2978,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 3616,
+        "atk": 500,
+        "def": 404
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -2516,6 +3006,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 738,
+        "atk": 49,
+        "def": 29
       },
       "passives": [
         {
@@ -2546,6 +3041,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 732,
+        "atk": 42,
+        "def": 33
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -2569,6 +3069,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 658,
+        "atk": 22,
+        "def": 18
       },
       "passives": [
         {
@@ -2594,6 +3099,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 774,
+        "atk": 34,
+        "def": 29
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -2618,6 +3128,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 2036,
+        "atk": 260,
+        "def": 158
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -2635,6 +3150,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 1144,
+        "atk": 101,
+        "def": 77
       },
       "passives": [
         {
@@ -2660,6 +3180,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 754,
+        "atk": 35,
+        "def": 43
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -2684,6 +3209,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 592,
+        "atk": 15,
+        "def": 14
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -2707,6 +3237,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 731,
+        "atk": 37,
+        "def": 33
       },
       "passives": [
         {
@@ -2737,6 +3272,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 786,
+        "atk": 49,
+        "def": 43
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -2760,6 +3300,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 1107,
+        "atk": 112,
+        "def": 88
       },
       "passives": [
         {
@@ -2789,6 +3334,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 16,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 625,
+        "atk": 18,
+        "def": 16
       },
       "passives": [
         {
@@ -2824,6 +3374,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 785,
+        "atk": 35,
+        "def": 33
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -2847,6 +3402,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 643,
+        "atk": 26,
+        "def": 20
       },
       "passives": [
         {
@@ -2882,6 +3442,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 547,
+        "atk": 6,
+        "def": 5
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -2911,6 +3476,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 587,
+        "atk": 16,
+        "def": 12
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -2934,6 +3504,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 781,
+        "atk": 43,
+        "def": 37
       },
       "passives": [
         {
@@ -2959,6 +3534,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 978,
+        "atk": 66,
+        "def": 58
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -2982,6 +3562,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 750,
+        "atk": 35,
+        "def": 34
       },
       "passives": [
         {
@@ -3007,6 +3592,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 776,
+        "atk": 39,
+        "def": 36
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -3030,6 +3620,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 576,
+        "atk": 14,
+        "def": 12
       },
       "passives": [
         {
@@ -3055,6 +3650,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 895,
+        "atk": 76,
+        "def": 82
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -3079,6 +3679,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 1709,
+        "atk": 166,
+        "def": 177
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -3097,6 +3702,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 1683,
+        "atk": 207,
+        "def": 176
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -3114,6 +3724,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 720,
+        "atk": 43,
+        "def": 31
       },
       "passives": [
         {
@@ -3139,6 +3754,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 1957,
+        "atk": 233,
+        "def": 218
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -3162,6 +3782,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 814,
+        "atk": 61,
+        "def": 44
       },
       "passives": [
         {
@@ -3187,6 +3812,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 1259,
+        "atk": 116,
+        "def": 108
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -3211,6 +3841,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 1134,
+        "atk": 80,
+        "def": 88
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -3234,6 +3869,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 36,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 1242,
+        "atk": 119,
+        "def": 94
       },
       "passives": [
         {
@@ -3264,6 +3904,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 992,
+        "atk": 105,
+        "def": 82
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -3287,6 +3932,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 999,
+        "atk": 80,
+        "def": 70
       },
       "passives": [
         {
@@ -3312,6 +3962,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 974,
+        "atk": 87,
+        "def": 64
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -3335,6 +3990,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 965,
+        "atk": 63,
+        "def": 65
       },
       "passives": [
         {
@@ -3365,6 +4025,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 1339,
+        "atk": 177,
+        "def": 145
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -3388,6 +4053,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 750,
+        "atk": 51,
+        "def": 43
       },
       "passives": [
         {
@@ -3413,6 +4083,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 759,
+        "atk": 47,
+        "def": 41
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -3436,6 +4111,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 789,
+        "atk": 50,
+        "def": 41
       },
       "passives": [
         {
@@ -3461,6 +4141,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 788,
+        "atk": 55,
+        "def": 42
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -3484,6 +4169,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 788,
+        "atk": 51,
+        "def": 57
       },
       "passives": [
         {
@@ -3509,6 +4199,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 2449,
+        "atk": 261,
+        "def": 249
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -3533,6 +4228,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 1096,
+        "atk": 92,
+        "def": 90
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -3556,6 +4256,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 692,
+        "atk": 37,
+        "def": 21
       },
       "passives": [
         {
@@ -3586,6 +4291,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 699,
+        "atk": 22,
+        "def": 31
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -3609,6 +4319,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 42
+      },
+      "power_stats": {
+        "hp": 2577,
+        "atk": 319,
+        "def": 226
       },
       "passives": [
         {
@@ -3634,6 +4349,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 1172,
+        "atk": 123,
+        "def": 99
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -3657,6 +4377,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 594,
+        "atk": 12,
+        "def": 12
       },
       "passives": [
         {
@@ -3687,6 +4412,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 753,
+        "atk": 52,
+        "def": 35
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -3716,6 +4446,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 645,
+        "atk": 19,
+        "def": 18
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -3744,6 +4479,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 575,
+        "atk": 14,
+        "def": 13
       },
       "passives": [
         {
@@ -3779,6 +4519,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 599,
+        "atk": 13,
+        "def": 12
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -3796,6 +4541,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 587,
+        "atk": 12,
+        "def": 10
       },
       "passives": [
         {
@@ -3821,6 +4571,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 1279,
+        "atk": 132,
+        "def": 136
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -3844,6 +4599,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 819,
+        "atk": 54,
+        "def": 47
       },
       "passives": [
         {
@@ -3869,6 +4629,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 880,
+        "atk": 87,
+        "def": 44
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -3892,6 +4657,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 907,
+        "atk": 72,
+        "def": 76
       },
       "passives": [
         {
@@ -3917,6 +4687,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 679,
+        "atk": 29,
+        "def": 30
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -3940,6 +4715,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 976,
+        "atk": 73,
+        "def": 69
       },
       "passives": [
         {
@@ -3965,6 +4745,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 767,
+        "atk": 51,
+        "def": 43
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -3988,6 +4773,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 968,
+        "atk": 79,
+        "def": 83
       },
       "passives": [
         {
@@ -4013,6 +4803,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 647,
+        "atk": 20,
+        "def": 19
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -4036,6 +4831,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 1178,
+        "atk": 101,
+        "def": 87
       },
       "passives": [
         {
@@ -4061,6 +4861,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 783,
+        "atk": 54,
+        "def": 42
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -4084,6 +4889,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 1,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 800,
+        "atk": 49,
+        "def": 50
       },
       "passives": [
         {
@@ -4109,6 +4919,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 674,
+        "atk": 26,
+        "def": 24
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -4132,6 +4947,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 1058,
+        "atk": 125,
+        "def": 74
       },
       "passives": [
         {
@@ -4157,6 +4977,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 680,
+        "atk": 44,
+        "def": 31
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -4180,6 +5005,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 536,
+        "atk": 6,
+        "def": 5
       },
       "passives": [
         {
@@ -4205,6 +5035,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 901,
+        "atk": 72,
+        "def": 51
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -4228,6 +5063,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 1654,
+        "atk": 171,
+        "def": 174
       },
       "passives": [
         {
@@ -4253,6 +5093,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 1018,
+        "atk": 57,
+        "def": 81
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -4276,6 +5121,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 1440,
+        "atk": 155,
+        "def": 131
       },
       "passives": [
         {
@@ -4306,6 +5156,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 1690,
+        "atk": 144,
+        "def": 144
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -4330,6 +5185,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 949,
+        "atk": 69,
+        "def": 69
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -4353,6 +5213,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 1352,
+        "atk": 141,
+        "def": 174
       },
       "passives": [
         {
@@ -4383,6 +5248,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 723,
+        "atk": 38,
+        "def": 31
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -4406,6 +5276,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 1241,
+        "atk": 126,
+        "def": 116
       },
       "passives": [
         {
@@ -4431,6 +5306,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 1565,
+        "atk": 166,
+        "def": 140
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -4454,6 +5334,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 760,
+        "atk": 43,
+        "def": 37
       },
       "passives": [
         {
@@ -4479,6 +5364,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 972,
+        "atk": 57,
+        "def": 61
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -4502,6 +5392,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 1013,
+        "atk": 94,
+        "def": 74
       },
       "passives": [
         {
@@ -4527,6 +5422,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 1034,
+        "atk": 82,
+        "def": 60
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -4550,6 +5450,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 1119,
+        "atk": 82,
+        "def": 74
       },
       "passives": [
         {
@@ -4575,6 +5480,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 796,
+        "atk": 49,
+        "def": 51
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -4592,6 +5502,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 642,
+        "atk": 25,
+        "def": 18
       },
       "passives": [
         {
@@ -4616,6 +5531,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 812,
+        "atk": 62,
+        "def": 49
       },
       "passives": [
         {
@@ -4646,6 +5566,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 751,
+        "atk": 43,
+        "def": 36
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -4663,6 +5588,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 924,
+        "atk": 77,
+        "def": 56
       },
       "passives": [
         {
@@ -4688,6 +5618,11 @@ window.PALWORLD_DATA = {
         "shot": 36,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 834,
+        "atk": 59,
+        "def": 47
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -4711,6 +5646,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 586,
+        "atk": 15,
+        "def": 13
       },
       "passives": [
         {
@@ -4736,6 +5676,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 759,
+        "atk": 44,
+        "def": 32
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -4760,6 +5705,7 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 42
       },
+      "power_stats": null,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -4783,6 +5729,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 835,
+        "atk": 55,
+        "def": 44
       },
       "passives": [
         {
@@ -4808,6 +5759,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 793,
+        "atk": 75,
+        "def": 52
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -4831,6 +5787,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 712,
+        "atk": 25,
+        "def": 24
       },
       "passives": [
         {
@@ -4856,6 +5817,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 874,
+        "atk": 52,
+        "def": 43
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -4879,6 +5845,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 2410,
+        "atk": 312,
+        "def": 363
       },
       "passives": [
         {
@@ -4904,6 +5875,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 1275,
+        "atk": 160,
+        "def": 118
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -4928,6 +5904,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 730,
+        "atk": 43,
+        "def": 35
+      },
       "passives": [],
       "owner": "inconnu"
     },
@@ -4945,6 +5926,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 732,
+        "atk": 58,
+        "def": 39
       },
       "passives": [
         {
@@ -4970,6 +5956,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 1099,
+        "atk": 121,
+        "def": 97
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -4993,6 +5984,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 774,
+        "atk": 50,
+        "def": 34
       },
       "passives": [
         {
@@ -5018,6 +6014,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 795,
+        "atk": 34,
+        "def": 44
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -5042,6 +6043,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 1280,
+        "atk": 139,
+        "def": 97
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -5065,6 +6071,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 2431,
+        "atk": 246,
+        "def": 270
       },
       "passives": [
         {
@@ -5095,6 +6106,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 1390,
+        "atk": 138,
+        "def": 135
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -5118,6 +6134,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 728,
+        "atk": 46,
+        "def": 36
       },
       "passives": [
         {
@@ -5143,6 +6164,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 1140,
+        "atk": 112,
+        "def": 76
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -5166,6 +6192,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 1101,
+        "atk": 93,
+        "def": 72
       },
       "passives": [
         {
@@ -5191,6 +6222,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 715,
+        "atk": 40,
+        "def": 29
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -5214,6 +6250,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 2037,
+        "atk": 257,
+        "def": 215
       },
       "passives": [
         {
@@ -5239,6 +6280,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 637,
+        "atk": 27,
+        "def": 20
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -5262,6 +6308,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 588,
+        "atk": 14,
+        "def": 14
       },
       "passives": [
         {
@@ -5287,6 +6338,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 645,
+        "atk": 22,
+        "def": 21
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -5311,6 +6367,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 1080,
+        "atk": 81,
+        "def": 72
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -5334,6 +6395,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 664,
+        "atk": 31,
+        "def": 21
       },
       "passives": [
         {
@@ -5364,6 +6430,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 799,
+        "atk": 53,
+        "def": 44
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -5387,6 +6458,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 1064,
+        "atk": 86,
+        "def": 102
       },
       "passives": [
         {
@@ -5412,6 +6488,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 580,
+        "atk": 16,
+        "def": 9
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -5435,6 +6516,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 813,
+        "atk": 60,
+        "def": 32
       },
       "passives": [
         {
@@ -5460,6 +6546,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 1109,
+        "atk": 107,
+        "def": 71
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -5483,6 +6574,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 811,
+        "atk": 51,
+        "def": 48
       },
       "passives": [
         {
@@ -5508,6 +6604,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 1101,
+        "atk": 86,
+        "def": 75
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -5531,6 +6632,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 699,
+        "atk": 42,
+        "def": 26
       },
       "passives": [
         {
@@ -5556,6 +6662,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 716,
+        "atk": 32,
+        "def": 25
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -5580,6 +6691,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 1208,
+        "atk": 91,
+        "def": 91
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -5603,6 +6719,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 803,
+        "atk": 67,
+        "def": 41
       },
       "passives": [
         {
@@ -5633,6 +6754,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 680,
+        "atk": 29,
+        "def": 25
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -5656,6 +6782,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 1202,
+        "atk": 86,
+        "def": 86
       },
       "passives": [
         {
@@ -5681,6 +6812,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 980,
+        "atk": 75,
+        "def": 64
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -5704,6 +6840,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 1183,
+        "atk": 131,
+        "def": 99
       },
       "passives": [
         {
@@ -5729,6 +6870,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 1458,
+        "atk": 145,
+        "def": 129
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -5752,6 +6898,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 1081,
+        "atk": 83,
+        "def": 96
       },
       "passives": [
         {
@@ -5782,6 +6933,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 744,
+        "atk": 36,
+        "def": 30
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -5805,6 +6961,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 980,
+        "atk": 117,
+        "def": 80
       },
       "passives": [
         {
@@ -5840,6 +7001,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 1010,
+        "atk": 70,
+        "def": 72
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -5863,6 +7029,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 1091,
+        "atk": 84,
+        "def": 51
       },
       "passives": [
         {
@@ -5888,6 +7059,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 1143,
+        "atk": 124,
+        "def": 85
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -5911,6 +7087,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 35,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 731,
+        "atk": 55,
+        "def": 34
       },
       "passives": [
         {
@@ -5936,6 +7117,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 831,
+        "atk": 67,
+        "def": 51
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -5959,6 +7145,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 12
+      },
+      "power_stats": {
+        "hp": 1001,
+        "atk": 67,
+        "def": 61
       },
       "passives": [
         {
@@ -5984,6 +7175,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 662,
+        "atk": 31,
+        "def": 25
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -6007,6 +7203,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 776,
+        "atk": 28,
+        "def": 31
       },
       "passives": [
         {
@@ -6032,6 +7233,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 756,
+        "atk": 36,
+        "def": 31
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -6055,6 +7261,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 647,
+        "atk": 20,
+        "def": 20
       },
       "passives": [
         {
@@ -6080,6 +7291,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 540,
+        "atk": 6,
+        "def": 4
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -6104,6 +7320,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 691,
+        "atk": 29,
+        "def": 30
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -6121,6 +7342,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 682,
+        "atk": 36,
+        "def": 25
       },
       "passives": [
         {
@@ -6146,6 +7372,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 1459,
+        "atk": 153,
+        "def": 134
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -6169,6 +7400,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 27,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 943,
+        "atk": 52,
+        "def": 54
       },
       "passives": [
         {
@@ -6194,6 +7430,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 874,
+        "atk": 53,
+        "def": 62
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -6217,6 +7458,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 16,
+        "def": 12
       },
       "passives": [
         {
@@ -6242,6 +7488,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 898,
+        "atk": 71,
+        "def": 56
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -6265,6 +7516,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 1661,
+        "atk": 142,
+        "def": 161
       },
       "passives": [
         {
@@ -6290,6 +7546,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 721,
+        "atk": 36,
+        "def": 35
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -6308,6 +7569,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 1322,
+        "atk": 164,
+        "def": 151
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -6325,6 +7591,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 884,
+        "atk": 47,
+        "def": 67
       },
       "passives": [
         {
@@ -6349,6 +7620,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 930,
+        "atk": 76,
+        "def": 50
       },
       "passives": [
         {
@@ -6384,6 +7660,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 753,
+        "atk": 31,
+        "def": 34
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -6407,6 +7688,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 91
+      },
+      "power_stats": {
+        "hp": 1450,
+        "atk": 144,
+        "def": 133
       },
       "passives": [
         {
@@ -6432,6 +7718,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 2240,
+        "atk": 283,
+        "def": 209
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -6455,6 +7746,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 598,
+        "atk": 13,
+        "def": 8
       },
       "passives": [
         {
@@ -6485,6 +7781,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 644,
+        "atk": 20,
+        "def": 24
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -6509,6 +7810,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 1101,
+        "atk": 88,
+        "def": 88
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -6532,6 +7838,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 1190,
+        "atk": 86,
+        "def": 86
       },
       "passives": [
         {
@@ -6562,6 +7873,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 1220,
+        "atk": 91,
+        "def": 88
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -6585,6 +7901,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 720,
+        "atk": 32,
+        "def": 28
       },
       "passives": [
         {
@@ -6610,6 +7931,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 706,
+        "atk": 29,
+        "def": 31
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -6634,6 +7960,7 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 83
       },
+      "power_stats": null,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -6658,6 +7985,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 712,
+        "atk": 38,
+        "def": 33
+      },
       "passives": [],
       "owner": "Prismiti"
     },
@@ -6675,6 +8007,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 1504,
+        "atk": 188,
+        "def": 161
       },
       "passives": [
         {
@@ -6700,6 +8037,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 1122,
+        "atk": 53,
+        "def": 74
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -6723,6 +8065,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 888,
+        "atk": 72,
+        "def": 70
       },
       "passives": [
         {
@@ -6748,6 +8095,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 1028,
+        "atk": 71,
+        "def": 74
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -6765,6 +8117,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 17,
+        "def": 13
       },
       "passives": [
         {
@@ -6790,6 +8147,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 951,
+        "atk": 73,
+        "def": 58
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -6813,6 +8175,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 633,
+        "atk": 19,
+        "def": 19
       },
       "passives": [
         {
@@ -6838,6 +8205,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 1205,
+        "atk": 114,
+        "def": 107
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -6861,6 +8233,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 585,
+        "atk": 14,
+        "def": 11
       },
       "passives": [
         {
@@ -6886,6 +8263,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 964,
+        "atk": 75,
+        "def": 66
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -6903,6 +8285,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 936,
+        "atk": 70,
+        "def": 69
       },
       "passives": [
         {
@@ -6938,6 +8325,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 1186,
+        "atk": 132,
+        "def": 86
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -6961,6 +8353,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 1301,
+        "atk": 133,
+        "def": 88
       },
       "passives": [
         {
@@ -6986,6 +8383,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 734,
+        "atk": 43,
+        "def": 42
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -7009,6 +8411,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 592,
+        "atk": 12,
+        "def": 14
       },
       "passives": [
         {
@@ -7034,6 +8441,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 1339,
+        "atk": 91,
+        "def": 133
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -7057,6 +8469,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 10
+      },
+      "power_stats": {
+        "hp": 664,
+        "atk": 29,
+        "def": 24
       },
       "passives": [
         {
@@ -7082,6 +8499,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 787,
+        "atk": 53,
+        "def": 42
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -7105,6 +8527,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 2370,
+        "atk": 268,
+        "def": 243
       },
       "passives": [
         {
@@ -7135,6 +8562,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 951,
+        "atk": 73,
+        "def": 61
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -7158,6 +8590,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 14,
+        "def": 12
       },
       "passives": [
         {
@@ -7183,6 +8620,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 953,
+        "atk": 56,
+        "def": 70
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -7206,6 +8648,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 3048,
+        "atk": 398,
+        "def": 277
       },
       "passives": [
         {
@@ -7240,6 +8687,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 715,
+        "atk": 53,
+        "def": 41
       },
       "passives": [
         {
@@ -7270,6 +8722,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 1660,
+        "atk": 155,
+        "def": 130
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -7294,6 +8751,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 1528,
+        "atk": 191,
+        "def": 160
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -7317,6 +8779,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 1570,
+        "atk": 173,
+        "def": 149
       },
       "passives": [
         {
@@ -7347,6 +8814,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 1052,
+        "atk": 90,
+        "def": 82
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -7376,6 +8848,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1079,
+        "atk": 93,
+        "def": 94
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -7399,6 +8876,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 44
+      },
+      "power_stats": {
+        "hp": 706,
+        "atk": 31,
+        "def": 32
       },
       "passives": [
         {
@@ -7424,6 +8906,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 579,
+        "atk": 14,
+        "def": 12
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -7447,6 +8934,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 2,
         "defense": 44
+      },
+      "power_stats": {
+        "hp": 575,
+        "atk": 12,
+        "def": 8
       },
       "passives": [
         {
@@ -7472,6 +8964,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 4533,
+        "atk": 608,
+        "def": 603
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -7495,6 +8992,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 32,
         "defense": 91
+      },
+      "power_stats": {
+        "hp": 1902,
+        "atk": 203,
+        "def": 208
       },
       "passives": [
         {
@@ -7530,6 +9032,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 741,
+        "atk": 35,
+        "def": 34
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -7559,6 +9066,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 2368,
+        "atk": 314,
+        "def": 246
+      },
       "passives": [],
       "owner": "inconnu"
     },
@@ -7576,6 +9088,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 1333,
+        "atk": 148,
+        "def": 96
       },
       "passives": [
         {
@@ -7601,6 +9118,11 @@ window.PALWORLD_DATA = {
         "shot": 85,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 1065,
+        "atk": 134,
+        "def": 78
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -7625,6 +9147,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 606,
+        "atk": 17,
+        "def": 18
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -7648,6 +9175,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 586,
+        "atk": 13,
+        "def": 14
       },
       "passives": [
         {
@@ -7678,6 +9210,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 818,
+        "atk": 47,
+        "def": 49
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -7701,6 +9238,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 1795,
+        "atk": 218,
+        "def": 211
       },
       "passives": [
         {
@@ -7726,6 +9268,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 892,
+        "atk": 70,
+        "def": 54
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -7749,6 +9296,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 1324,
+        "atk": 136,
+        "def": 130
       },
       "passives": [
         {
@@ -7774,6 +9326,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 876,
+        "atk": 73,
+        "def": 52
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -7791,6 +9348,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 1156,
+        "atk": 85,
+        "def": 84
       },
       "passives": [
         {
@@ -7821,6 +9383,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 6053,
+        "atk": 805,
+        "def": 766
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -7844,6 +9411,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 17,
         "defense": 30
+      },
+      "power_stats": {
+        "hp": 866,
+        "atk": 62,
+        "def": 57
       },
       "passives": [
         {
@@ -7869,6 +9441,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 743,
+        "atk": 48,
+        "def": 31
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -7892,6 +9469,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 39
+      },
+      "power_stats": {
+        "hp": 836,
+        "atk": 49,
+        "def": 46
       },
       "passives": [
         {
@@ -7917,6 +9499,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 1067,
+        "atk": 91,
+        "def": 70
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -7940,6 +9527,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 1521,
+        "atk": 181,
+        "def": 145
       },
       "passives": [
         {
@@ -7965,6 +9557,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 792,
+        "atk": 53,
+        "def": 45
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -7988,6 +9585,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 57,
         "defense": 33
+      },
+      "power_stats": {
+        "hp": 977,
+        "atk": 68,
+        "def": 65
       },
       "passives": [
         {
@@ -8013,6 +9615,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 41
       },
+      "power_stats": {
+        "hp": 983,
+        "atk": 93,
+        "def": 70
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -8036,6 +9643,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 1130,
+        "atk": 100,
+        "def": 88
       },
       "passives": [
         {
@@ -8066,6 +9678,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 1249,
+        "atk": 98,
+        "def": 82
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -8089,6 +9706,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 667,
+        "atk": 29,
+        "def": 24
       },
       "passives": [
         {
@@ -8114,6 +9736,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 1047,
+        "atk": 68,
+        "def": 75
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -8137,6 +9764,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 979,
+        "atk": 67,
+        "def": 71
       },
       "passives": [
         {
@@ -8162,6 +9794,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 647,
+        "atk": 25,
+        "def": 20
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -8186,6 +9823,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 1210,
+        "atk": 120,
+        "def": 120
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -8209,6 +9851,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 843,
+        "atk": 57,
+        "def": 35
       },
       "passives": [
         {
@@ -8239,6 +9886,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 761,
+        "atk": 51,
+        "def": 38
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -8256,6 +9908,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 1030,
+        "atk": 113,
+        "def": 78
       },
       "passives": [
         {
@@ -8291,6 +9948,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 592,
+        "atk": 15,
+        "def": 14
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -8314,6 +9976,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 2,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 1148,
+        "atk": 81,
+        "def": 77
       },
       "passives": [
         {
@@ -8339,6 +10006,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 957,
+        "atk": 100,
+        "def": 79
+      },
       "passives": [],
       "owner": "inconnu"
     },
@@ -8356,6 +10028,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 801,
+        "atk": 37,
+        "def": 44
       },
       "passives": [
         {
@@ -8391,6 +10068,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 1236,
+        "atk": 103,
+        "def": 111
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -8414,6 +10096,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 702,
+        "atk": 37,
+        "def": 32
       },
       "passives": [
         {
@@ -8439,6 +10126,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 3170,
+        "atk": 386,
+        "def": 309
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -8462,6 +10154,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 1,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 549,
+        "atk": 6,
+        "def": 6
       },
       "passives": [
         {
@@ -8487,6 +10184,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 1070,
+        "atk": 110,
+        "def": 96
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -8504,6 +10206,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 1612,
+        "atk": 150,
+        "def": 156
       },
       "passives": [
         {
@@ -8534,6 +10241,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 1901,
+        "atk": 211,
+        "def": 187
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -8551,6 +10263,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 74,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 947,
+        "atk": 70,
+        "def": 71
       },
       "passives": [
         {
@@ -8576,6 +10293,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 2341,
+        "atk": 228,
+        "def": 239
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -8600,6 +10322,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 970,
+        "atk": 80,
+        "def": 60
+      },
       "passives": [],
       "owner": "Prismiti"
     },
@@ -8617,6 +10344,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 1041,
+        "atk": 93,
+        "def": 63
       },
       "passives": [
         {
@@ -8642,6 +10374,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 1493,
+        "atk": 183,
+        "def": 101
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -8665,6 +10402,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 801,
+        "atk": 47,
+        "def": 41
       },
       "passives": [
         {
@@ -8690,6 +10432,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 1687,
+        "atk": 163,
+        "def": 147
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -8714,6 +10461,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 1832,
+        "atk": 312,
+        "def": 247
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -8737,6 +10489,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 546,
+        "atk": 6,
+        "def": 5
       },
       "passives": [
         {
@@ -8767,6 +10524,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 3389,
+        "atk": 459,
+        "def": 473
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -8796,6 +10558,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 593,
+        "atk": 16,
+        "def": 12
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -8819,6 +10586,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 2881,
+        "atk": 420,
+        "def": 336
       },
       "passives": [
         {
@@ -8844,6 +10616,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 681,
+        "atk": 33,
+        "def": 31
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -8867,6 +10644,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 1285,
+        "atk": 132,
+        "def": 131
       },
       "passives": [
         {
@@ -8907,6 +10689,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 1148,
+        "atk": 100,
+        "def": 75
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -8930,6 +10717,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 54,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 1717,
+        "atk": 107,
+        "def": 147
       },
       "passives": [
         {
@@ -8955,6 +10747,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 541,
+        "atk": 5,
+        "def": 6
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -8978,6 +10775,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 35,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 572,
+        "atk": 12,
+        "def": 12
       },
       "passives": [
         {
@@ -9003,6 +10805,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 5408,
+        "atk": 655,
+        "def": 563
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -9026,6 +10833,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 831,
+        "atk": 55,
+        "def": 44
       },
       "passives": [
         {
@@ -9051,6 +10863,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 1091,
+        "atk": 85,
+        "def": 80
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -9074,6 +10891,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 825,
+        "atk": 57,
+        "def": 47
       },
       "passives": [
         {
@@ -9099,6 +10921,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 777,
+        "atk": 46,
+        "def": 44
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -9116,6 +10943,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 902,
+        "atk": 66,
+        "def": 66
       },
       "passives": [
         {
@@ -9141,6 +10973,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 1404,
+        "atk": 131,
+        "def": 105
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_3",
@@ -9164,6 +11001,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 599,
+        "atk": 15,
+        "def": 14
       },
       "passives": [
         {
@@ -9194,6 +11036,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 1184,
+        "atk": 116,
+        "def": 101
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -9217,6 +11064,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 947,
+        "atk": 67,
+        "def": 71
       },
       "passives": [
         {
@@ -9257,6 +11109,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 1013,
+        "atk": 71,
+        "def": 64
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -9280,6 +11137,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 1344,
+        "atk": 107,
+        "def": 142
       },
       "passives": [
         {
@@ -9310,6 +11172,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 8
       },
+      "power_stats": {
+        "hp": 640,
+        "atk": 21,
+        "def": 20
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -9334,6 +11201,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 2447,
+        "atk": 288,
+        "def": 350
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -9357,6 +11229,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 1044,
+        "atk": 97,
+        "def": 91
       },
       "passives": [
         {
@@ -9387,6 +11264,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 2206,
+        "atk": 275,
+        "def": 216
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -9411,6 +11293,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 1238,
+        "atk": 130,
+        "def": 94
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -9428,6 +11315,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 2124,
+        "atk": 243,
+        "def": 234
       },
       "passives": [
         {
@@ -9458,6 +11350,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 1784,
+        "atk": 135,
+        "def": 163
+      },
       "passives": [],
       "owner": "Prismiti"
     },
@@ -9475,6 +11372,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 978,
+        "atk": 71,
+        "def": 81
       },
       "passives": [
         {
@@ -9500,6 +11402,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 1183,
+        "atk": 98,
+        "def": 108
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -9517,6 +11424,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 584,
+        "atk": 13,
+        "def": 14
       },
       "passives": [
         {
@@ -9542,6 +11454,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 773,
+        "atk": 38,
+        "def": 35
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -9565,6 +11482,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 859,
+        "atk": 69,
+        "def": 51
       },
       "passives": [
         {
@@ -9590,6 +11512,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 1155,
+        "atk": 91,
+        "def": 90
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -9613,6 +11540,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 1387,
+        "atk": 138,
+        "def": 100
       },
       "passives": [
         {
@@ -9643,6 +11575,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 1121,
+        "atk": 57,
+        "def": 71
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -9666,6 +11603,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 1061,
+        "atk": 69,
+        "def": 62
       },
       "passives": [
         {
@@ -9691,6 +11633,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 540,
+        "atk": 6,
+        "def": 6
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -9715,6 +11662,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 675,
+        "atk": 34,
+        "def": 25
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -9738,6 +11690,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 1901,
+        "atk": 189,
+        "def": 237
       },
       "passives": [
         {
@@ -9768,6 +11725,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 641,
+        "atk": 16,
+        "def": 17
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -9791,6 +11753,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 1130,
+        "atk": 99,
+        "def": 88
       },
       "passives": [
         {
@@ -9821,6 +11788,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 638,
+        "atk": 26,
+        "def": 20
+      },
       "passives": [
         {
           "id": "Vampire",
@@ -9844,6 +11816,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 688,
+        "atk": 36,
+        "def": 27
       },
       "passives": [
         {
@@ -9869,6 +11846,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 1576,
+        "atk": 165,
+        "def": 133
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -9892,6 +11874,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 1106,
+        "atk": 81,
+        "def": 82
       },
       "passives": [
         {
@@ -9917,6 +11904,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 1485,
+        "atk": 116,
+        "def": 164
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -9941,6 +11933,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 1057,
+        "atk": 92,
+        "def": 87
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -9958,6 +11955,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 10
+      },
+      "power_stats": {
+        "hp": 804,
+        "atk": 65,
+        "def": 43
       },
       "passives": [
         {
@@ -9983,6 +11985,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 835,
+        "atk": 66,
+        "def": 34
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -10006,6 +12013,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 1262,
+        "atk": 143,
+        "def": 97
       },
       "passives": [
         {
@@ -10031,6 +12043,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 1098,
+        "atk": 74,
+        "def": 78
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -10054,6 +12071,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 57,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 697,
+        "atk": 30,
+        "def": 30
       },
       "passives": [
         {
@@ -10079,6 +12101,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 928,
+        "atk": 75,
+        "def": 67
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -10102,6 +12129,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 15
+      },
+      "power_stats": {
+        "hp": 1510,
+        "atk": 155,
+        "def": 122
       },
       "passives": [
         {
@@ -10127,6 +12159,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 1169,
+        "atk": 88,
+        "def": 72
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -10150,6 +12187,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 2804,
+        "atk": 440,
+        "def": 287
       },
       "passives": [
         {
@@ -10175,6 +12217,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 749,
+        "atk": 44,
+        "def": 39
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -10198,6 +12245,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 1669,
+        "atk": 150,
+        "def": 158
       },
       "passives": [
         {
@@ -10233,6 +12285,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 69
       },
+      "power_stats": {
+        "hp": 1066,
+        "atk": 67,
+        "def": 73
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -10262,6 +12319,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 1086,
+        "atk": 120,
+        "def": 85
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -10285,6 +12347,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 783,
+        "atk": 36,
+        "def": 50
       },
       "passives": [
         {
@@ -10315,6 +12382,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 1105,
+        "atk": 109,
+        "def": 85
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -10338,6 +12410,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 2579,
+        "atk": 263,
+        "def": 357
       },
       "passives": [
         {
@@ -10368,6 +12445,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 1595,
+        "atk": 241,
+        "def": 168
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -10392,6 +12474,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 783,
+        "atk": 55,
+        "def": 26
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -10415,6 +12502,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 2552,
+        "atk": 209,
+        "def": 246
       },
       "passives": [
         {
@@ -10445,6 +12537,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 936,
+        "atk": 69,
+        "def": 53
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -10468,6 +12565,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 30,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 3244,
+        "atk": 478,
+        "def": 429
       },
       "passives": [
         {
@@ -10493,6 +12595,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 1342,
+        "atk": 147,
+        "def": 144
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -10516,6 +12623,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 688,
+        "atk": 28,
+        "def": 30
       },
       "passives": [
         {
@@ -10546,6 +12658,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 704,
+        "atk": 27,
+        "def": 35
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -10569,6 +12686,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 806,
+        "atk": 46,
+        "def": 43
       },
       "passives": [
         {
@@ -10594,6 +12716,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 777,
+        "atk": 43,
+        "def": 46
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -10617,6 +12744,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 1553,
+        "atk": 146,
+        "def": 165
       },
       "passives": [
         {
@@ -10642,6 +12774,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 2615,
+        "atk": 284,
+        "def": 280
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -10665,6 +12802,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 911,
+        "atk": 72,
+        "def": 63
       },
       "passives": [
         {
@@ -10690,6 +12832,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 1808,
+        "atk": 213,
+        "def": 216
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -10713,6 +12860,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 736,
+        "atk": 30,
+        "def": 35
       },
       "passives": [
         {
@@ -10743,6 +12895,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 953,
+        "atk": 64,
+        "def": 67
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -10766,6 +12923,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2796,
+        "atk": 310,
+        "def": 403
       },
       "passives": [
         {
@@ -10796,6 +12958,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 801,
+        "atk": 58,
+        "def": 42
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -10819,6 +12986,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 982,
+        "atk": 72,
+        "def": 70
       },
       "passives": [
         {
@@ -10844,6 +13016,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 1116,
+        "atk": 60,
+        "def": 92
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -10867,6 +13044,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 969,
+        "atk": 74,
+        "def": 76
       },
       "passives": [
         {
@@ -10892,6 +13074,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 2220,
+        "atk": 315,
+        "def": 253
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -10909,6 +13096,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 549,
+        "atk": 6,
+        "def": 5
       },
       "passives": [
         {
@@ -10934,6 +13126,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 69
       },
+      "power_stats": {
+        "hp": 638,
+        "atk": 21,
+        "def": 22
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -10957,6 +13154,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 1113,
+        "atk": 131,
+        "def": 97
       },
       "passives": [
         {
@@ -10982,6 +13184,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 2123,
+        "atk": 273,
+        "def": 190
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -11005,6 +13212,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 1053,
+        "atk": 112,
+        "def": 85
       },
       "passives": [
         {
@@ -11030,6 +13242,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 930,
+        "atk": 74,
+        "def": 73
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -11053,6 +13270,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 885,
+        "atk": 56,
+        "def": 47
       },
       "passives": [
         {
@@ -11078,6 +13300,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 1299,
+        "atk": 113,
+        "def": 101
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -11102,6 +13329,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 882,
+        "atk": 74,
+        "def": 49
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -11125,6 +13357,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 989,
+        "atk": 65,
+        "def": 62
       },
       "passives": [
         {
@@ -11155,6 +13392,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 1075,
+        "atk": 71,
+        "def": 76
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -11184,6 +13426,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 689,
+        "atk": 32,
+        "def": 24
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -11208,6 +13455,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 1114,
+        "atk": 87,
+        "def": 88
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -11225,6 +13477,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 93
+      },
+      "power_stats": {
+        "hp": 2277,
+        "atk": 255,
+        "def": 221
       },
       "passives": [
         {
@@ -11255,6 +13512,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 1367,
+        "atk": 161,
+        "def": 141
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -11279,6 +13541,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 786,
+        "atk": 45,
+        "def": 51
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -11302,6 +13569,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 12
+      },
+      "power_stats": {
+        "hp": 1362,
+        "atk": 145,
+        "def": 96
       },
       "passives": [
         {
@@ -11337,6 +13609,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 966,
+        "atk": 94,
+        "def": 70
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -11360,6 +13637,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 1518,
+        "atk": 123,
+        "def": 102
       },
       "passives": [
         {
@@ -11390,6 +13672,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 936,
+        "atk": 69,
+        "def": 60
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -11413,6 +13700,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 1050,
+        "atk": 81,
+        "def": 108
       },
       "passives": [
         {
@@ -11438,6 +13730,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 1554,
+        "atk": 167,
+        "def": 120
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -11461,6 +13758,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 950,
+        "atk": 87,
+        "def": 63
       },
       "passives": [
         {
@@ -11486,6 +13788,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 1035,
+        "atk": 88,
+        "def": 73
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -11509,6 +13816,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 1859,
+        "atk": 180,
+        "def": 161
       },
       "passives": [
         {
@@ -11534,6 +13846,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 897,
+        "atk": 71,
+        "def": 56
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -11557,6 +13874,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 959,
+        "atk": 63,
+        "def": 65
       },
       "passives": [
         {
@@ -11582,6 +13904,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 988,
+        "atk": 68,
+        "def": 64
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -11599,6 +13926,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 6
+      },
+      "power_stats": {
+        "hp": 1158,
+        "atk": 113,
+        "def": 78
       },
       "passives": [
         {
@@ -11634,6 +13966,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 1479,
+        "atk": 147,
+        "def": 142
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -11663,6 +14000,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 821,
+        "atk": 43,
+        "def": 46
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -11686,6 +14028,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 753,
+        "atk": 35,
+        "def": 33
       },
       "passives": [
         {
@@ -11711,6 +14058,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 1072,
+        "atk": 53,
+        "def": 68
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -11728,6 +14080,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 45
+      },
+      "power_stats": {
+        "hp": 1103,
+        "atk": 98,
+        "def": 80
       },
       "passives": [
         {
@@ -11753,6 +14110,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 760,
+        "atk": 35,
+        "def": 30
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -11777,6 +14139,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2173,
+        "atk": 243,
+        "def": 210
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -11800,6 +14167,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 896,
+        "atk": 65,
+        "def": 67
       },
       "passives": [
         {
@@ -11835,6 +14207,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 1017,
+        "atk": 84,
+        "def": 70
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -11858,6 +14235,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 833,
+        "atk": 66,
+        "def": 44
       },
       "passives": [
         {
@@ -11883,6 +14265,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 1359,
+        "atk": 128,
+        "def": 121
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -11906,6 +14293,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 3218,
+        "atk": 445,
+        "def": 482
       },
       "passives": [
         {
@@ -11931,6 +14323,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 979,
+        "atk": 75,
+        "def": 73
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -11948,6 +14345,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 4
+      },
+      "power_stats": {
+        "hp": 1056,
+        "atk": 121,
+        "def": 73
       },
       "passives": [
         {
@@ -11978,6 +14380,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 1746,
+        "atk": 160,
+        "def": 180
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -12001,6 +14408,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 1329,
+        "atk": 119,
+        "def": 92
       },
       "passives": [
         {
@@ -12026,6 +14438,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 1100,
+        "atk": 125,
+        "def": 88
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -12049,6 +14466,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 2521,
+        "atk": 326,
+        "def": 280
       },
       "passives": [
         {
@@ -12084,6 +14506,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 14
       },
+      "power_stats": {
+        "hp": 1184,
+        "atk": 111,
+        "def": 84
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -12113,6 +14540,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 740,
+        "atk": 49,
+        "def": 39
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -12136,6 +14568,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 953,
+        "atk": 86,
+        "def": 79
       },
       "passives": [
         {
@@ -12161,6 +14598,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 589,
+        "atk": 14,
+        "def": 13
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -12184,6 +14626,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 711,
+        "atk": 32,
+        "def": 32
       },
       "passives": [
         {
@@ -12214,6 +14661,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 2598,
+        "atk": 297,
+        "def": 287
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -12237,6 +14689,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 2788,
+        "atk": 356,
+        "def": 440
       },
       "passives": [
         {
@@ -12267,6 +14724,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 1854,
+        "atk": 244,
+        "def": 228
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -12290,6 +14752,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 3086,
+        "atk": 345,
+        "def": 438
       },
       "passives": [
         {
@@ -12320,6 +14787,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 1576,
+        "atk": 152,
+        "def": 161
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -12337,6 +14809,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 1443,
+        "atk": 176,
+        "def": 142
       },
       "passives": [
         {
@@ -12362,6 +14839,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 1833,
+        "atk": 182,
+        "def": 191
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -12379,6 +14861,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 42
+      },
+      "power_stats": {
+        "hp": 827,
+        "atk": 47,
+        "def": 46
       },
       "passives": [
         {
@@ -12404,6 +14891,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 547,
+        "atk": 6,
+        "def": 6
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -12428,6 +14920,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 1397,
+        "atk": 121,
+        "def": 154
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -12451,6 +14948,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 1078,
+        "atk": 83,
+        "def": 68
       },
       "passives": [
         {
@@ -12486,6 +14988,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 2829,
+        "atk": 255,
+        "def": 404
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -12515,6 +15022,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 1041,
+        "atk": 92,
+        "def": 88
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -12538,6 +15050,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 1249,
+        "atk": 108,
+        "def": 104
       },
       "passives": [
         {
@@ -12563,6 +15080,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 587,
+        "atk": 13,
+        "def": 12
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -12586,6 +15108,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 699,
+        "atk": 36,
+        "def": 24
       },
       "passives": [
         {
@@ -12611,6 +15138,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 2758,
+        "atk": 389,
+        "def": 285
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -12634,6 +15166,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 1816,
+        "atk": 212,
+        "def": 186
       },
       "passives": [
         {
@@ -12664,6 +15201,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 1087,
+        "atk": 85,
+        "def": 92
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -12687,6 +15229,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 1301,
+        "atk": 107,
+        "def": 87
       },
       "passives": [
         {
@@ -12712,6 +15259,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 965,
+        "atk": 78,
+        "def": 68
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -12735,6 +15287,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 1348,
+        "atk": 124,
+        "def": 127
       },
       "passives": [
         {
@@ -12765,6 +15322,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 2062,
+        "atk": 176,
+        "def": 207
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -12794,6 +15356,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 1640,
+        "atk": 225,
+        "def": 165
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -12817,6 +15384,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 547,
+        "atk": 7,
+        "def": 6
       },
       "passives": [
         {
@@ -12842,6 +15414,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 725,
+        "atk": 37,
+        "def": 30
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -12865,6 +15442,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 2371,
+        "atk": 278,
+        "def": 258
       },
       "passives": [
         {
@@ -12890,6 +15472,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 1168,
+        "atk": 128,
+        "def": 97
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -12913,6 +15500,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 47
+      },
+      "power_stats": {
+        "hp": 942,
+        "atk": 66,
+        "def": 59
       },
       "passives": [
         {
@@ -12938,6 +15530,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 1491,
+        "atk": 147,
+        "def": 193
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -12961,6 +15558,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 1266,
+        "atk": 100,
+        "def": 105
       },
       "passives": [
         {
@@ -12986,6 +15588,11 @@ window.PALWORLD_DATA = {
         "shot": 14,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 1701,
+        "atk": 167,
+        "def": 174
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -13009,6 +15616,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 942,
+        "atk": 72,
+        "def": 59
       },
       "passives": [
         {
@@ -13034,6 +15646,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2040,
+        "atk": 182,
+        "def": 222
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -13058,6 +15675,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 667,
+        "atk": 24,
+        "def": 27
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -13081,6 +15703,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 1052,
+        "atk": 81,
+        "def": 70
       },
       "passives": [
         {
@@ -13111,6 +15738,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 2973,
+        "atk": 337,
+        "def": 286
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -13140,6 +15772,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 1465,
+        "atk": 191,
+        "def": 155
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -13163,6 +15800,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 973,
+        "atk": 70,
+        "def": 72
       },
       "passives": [
         {
@@ -13188,6 +15830,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 3494,
+        "atk": 492,
+        "def": 391
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -13211,6 +15858,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 2275,
+        "atk": 188,
+        "def": 232
       },
       "passives": [
         {
@@ -13236,6 +15888,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 1352,
+        "atk": 153,
+        "def": 127
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -13260,6 +15917,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 641,
+        "atk": 20,
+        "def": 21
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -13283,6 +15945,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 1912,
+        "atk": 266,
+        "def": 286
       },
       "passives": [
         {
@@ -13313,6 +15980,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 4831,
+        "atk": 725,
+        "def": 587
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -13337,6 +16009,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 1951,
+        "atk": 294,
+        "def": 233
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -13355,6 +16032,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 974,
+        "atk": 60,
+        "def": 70
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -13372,6 +16054,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 2626,
+        "atk": 240,
+        "def": 299
       },
       "passives": [
         {
@@ -13397,6 +16084,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 1188,
+        "atk": 86,
+        "def": 86
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -13420,6 +16112,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 1001,
+        "atk": 94,
+        "def": 67
       },
       "passives": [
         {
@@ -13445,6 +16142,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 41
       },
+      "power_stats": {
+        "hp": 1016,
+        "atk": 88,
+        "def": 65
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -13468,6 +16170,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 1620,
+        "atk": 169,
+        "def": 156
       },
       "passives": [
         {
@@ -13493,6 +16200,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 801,
+        "atk": 47,
+        "def": 45
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -13516,6 +16228,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 1011,
+        "atk": 74,
+        "def": 65
       },
       "passives": [
         {
@@ -13541,6 +16258,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 729,
+        "atk": 58,
+        "def": 37
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -13565,6 +16287,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 2406,
+        "atk": 319,
+        "def": 261
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -13588,6 +16315,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 1081,
+        "atk": 101,
+        "def": 65
       },
       "passives": [
         {
@@ -13618,6 +16350,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 1053,
+        "atk": 94,
+        "def": 80
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -13646,6 +16383,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 91
+      },
+      "power_stats": {
+        "hp": 1234,
+        "atk": 85,
+        "def": 92
       },
       "passives": [
         {
@@ -13676,6 +16418,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 863,
+        "atk": 62,
+        "def": 64
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -13700,6 +16447,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 1252,
+        "atk": 154,
+        "def": 115
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -13717,6 +16469,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 2405,
+        "atk": 272,
+        "def": 222
       },
       "passives": [
         {
@@ -13747,6 +16504,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 2054,
+        "atk": 183,
+        "def": 193
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -13770,6 +16532,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 1675,
+        "atk": 173,
+        "def": 168
       },
       "passives": [
         {
@@ -13800,6 +16567,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 1005,
+        "atk": 90,
+        "def": 74
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -13824,6 +16596,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 2340,
+        "atk": 331,
+        "def": 247
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -13847,6 +16624,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 1091,
+        "atk": 79,
+        "def": 82
       },
       "passives": [
         {
@@ -13887,6 +16669,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 1844,
+        "atk": 247,
+        "def": 151
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -13910,6 +16697,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 69
+      },
+      "power_stats": {
+        "hp": 563,
+        "atk": 10,
+        "def": 11
       },
       "passives": [
         {
@@ -13945,6 +16737,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 1414,
+        "atk": 160,
+        "def": 172
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -13969,6 +16766,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 1881,
+        "atk": 246,
+        "def": 187
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -13992,6 +16794,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 1067,
+        "atk": 148,
+        "def": 73
       },
       "passives": [
         {
@@ -14022,6 +16829,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 1232,
+        "atk": 88,
+        "def": 86
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -14045,6 +16857,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 1349,
+        "atk": 150,
+        "def": 95
       },
       "passives": [
         {
@@ -14070,6 +16887,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 1426,
+        "atk": 133,
+        "def": 142
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -14093,6 +16915,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 6
+      },
+      "power_stats": {
+        "hp": 1264,
+        "atk": 143,
+        "def": 106
       },
       "passives": [
         {
@@ -14123,6 +16950,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 548,
+        "atk": 6,
+        "def": 6
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -14146,6 +16978,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 1,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 1396,
+        "atk": 133,
+        "def": 134
       },
       "passives": [
         {
@@ -14176,6 +17013,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 1072,
+        "atk": 107,
+        "def": 81
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -14200,6 +17042,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 903,
+        "atk": 91,
+        "def": 52
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -14223,6 +17070,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 3041,
+        "atk": 326,
+        "def": 372
       },
       "passives": [
         {
@@ -14258,6 +17110,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 4326,
+        "atk": 584,
+        "def": 535
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_3",
@@ -14281,6 +17138,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 1222,
+        "atk": 123,
+        "def": 88
       },
       "passives": [
         {
@@ -14316,6 +17178,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 548,
+        "atk": 6,
+        "def": 6
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -14340,6 +17207,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 2637,
+        "atk": 366,
+        "def": 273
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -14357,6 +17229,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 3373,
+        "atk": 462,
+        "def": 422
       },
       "passives": [
         {
@@ -14382,6 +17259,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 787,
+        "atk": 40,
+        "def": 41
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -14405,6 +17287,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 2288,
+        "atk": 284,
+        "def": 217
       },
       "passives": [
         {
@@ -14430,6 +17317,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 710,
+        "atk": 31,
+        "def": 23
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -14447,6 +17339,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 41
+      },
+      "power_stats": {
+        "hp": 1583,
+        "atk": 183,
+        "def": 92
       },
       "passives": [
         {
@@ -14471,6 +17368,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 1788,
+        "atk": 178,
+        "def": 124
       },
       "passives": [
         {
@@ -14501,6 +17403,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 861,
+        "atk": 61,
+        "def": 76
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -14530,6 +17437,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 572,
+        "atk": 11,
+        "def": 6
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -14554,6 +17466,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 979,
+        "atk": 76,
+        "def": 94
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -14571,6 +17488,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 1204,
+        "atk": 104,
+        "def": 98
       },
       "passives": [
         {
@@ -14596,6 +17518,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 3572,
+        "atk": 576,
+        "def": 488
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -14619,6 +17546,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 1115,
+        "atk": 104,
+        "def": 81
       },
       "passives": [
         {
@@ -14644,6 +17576,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 1145,
+        "atk": 90,
+        "def": 83
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -14668,6 +17605,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 2302,
+        "atk": 336,
+        "def": 220
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -14685,6 +17627,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 2359,
+        "atk": 242,
+        "def": 252
       },
       "passives": [
         {
@@ -14715,6 +17662,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 987,
+        "atk": 79,
+        "def": 72
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -14739,6 +17691,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 930,
+        "atk": 90,
+        "def": 53
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -14756,6 +17713,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 12
+      },
+      "power_stats": {
+        "hp": 561,
+        "atk": 8,
+        "def": 6
       },
       "passives": [
         {
@@ -14781,6 +17743,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 2976,
+        "atk": 312,
+        "def": 332
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -14804,6 +17771,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 3380,
+        "atk": 532,
+        "def": 431
       },
       "passives": [
         {
@@ -14829,6 +17801,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 1366,
+        "atk": 141,
+        "def": 115
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -14852,6 +17829,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 1047,
+        "atk": 70,
+        "def": 69
       },
       "passives": [
         {
@@ -14877,6 +17859,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 14
       },
+      "power_stats": {
+        "hp": 1898,
+        "atk": 167,
+        "def": 179
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -14900,6 +17887,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 929,
+        "atk": 97,
+        "def": 64
       },
       "passives": [
         {
@@ -14925,6 +17917,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 6641,
+        "atk": 854,
+        "def": 786
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -14948,6 +17945,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 900,
+        "atk": 85,
+        "def": 52
       },
       "passives": [
         {
@@ -14973,6 +17975,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 791,
+        "atk": 67,
+        "def": 34
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -14996,6 +18003,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 4762,
+        "atk": 599,
+        "def": 723
       },
       "passives": [
         {
@@ -15021,6 +18033,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 1742,
+        "atk": 181,
+        "def": 144
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -15044,6 +18061,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 3137,
+        "atk": 375,
+        "def": 606
       },
       "passives": [
         {
@@ -15069,6 +18091,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 1034,
+        "atk": 82,
+        "def": 64
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -15092,6 +18119,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 832,
+        "atk": 65,
+        "def": 50
       },
       "passives": [
         {
@@ -15122,6 +18154,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1806,
+        "atk": 267,
+        "def": 244
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -15146,6 +18183,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 892,
+        "atk": 66,
+        "def": 58
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -15169,6 +18211,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 2241,
+        "atk": 297,
+        "def": 189
       },
       "passives": [
         {
@@ -15199,6 +18246,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 923,
+        "atk": 68,
+        "def": 50
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -15222,6 +18274,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 821,
+        "atk": 53,
+        "def": 36
       },
       "passives": [
         {
@@ -15247,6 +18304,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 869,
+        "atk": 58,
+        "def": 73
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -15271,6 +18333,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 2376,
+        "atk": 311,
+        "def": 226
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -15294,6 +18361,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 936,
+        "atk": 68,
+        "def": 79
       },
       "passives": [
         {
@@ -15324,6 +18396,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 1025,
+        "atk": 88,
+        "def": 79
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -15348,6 +18425,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 2438,
+        "atk": 344,
+        "def": 236
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -15371,6 +18453,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 3437,
+        "atk": 286,
+        "def": 308
       },
       "passives": [
         {
@@ -15411,6 +18498,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 2222,
+        "atk": 348,
+        "def": 275
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -15434,6 +18526,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 4252,
+        "atk": 700,
+        "def": 590
       },
       "passives": [
         {
@@ -15464,6 +18561,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 1082,
+        "atk": 111,
+        "def": 75
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -15493,6 +18595,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 3259,
+        "atk": 443,
+        "def": 333
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -15517,6 +18624,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 1035,
+        "atk": 83,
+        "def": 66
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -15540,6 +18652,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 2619,
+        "atk": 289,
+        "def": 299
       },
       "passives": [
         {
@@ -15575,6 +18692,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 895,
+        "atk": 61,
+        "def": 49
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -15599,6 +18721,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 635,
+        "atk": 19,
+        "def": 22
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -15616,6 +18743,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 874,
+        "atk": 100,
+        "def": 51
       },
       "passives": [
         {
@@ -15641,6 +18773,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 838,
+        "atk": 71,
+        "def": 52
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -15658,6 +18795,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 1065,
+        "atk": 86,
+        "def": 78
       },
       "passives": [
         {
@@ -15682,6 +18824,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 921,
+        "atk": 105,
+        "def": 81
       },
       "passives": [
         {
@@ -15717,6 +18864,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 1187,
+        "atk": 97,
+        "def": 89
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -15734,6 +18886,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 937,
+        "atk": 72,
+        "def": 63
       },
       "passives": [
         {
@@ -15759,6 +18916,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 1454,
+        "atk": 185,
+        "def": 175
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -15782,6 +18944,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 1399,
+        "atk": 160,
+        "def": 145
       },
       "passives": [
         {
@@ -15807,6 +18974,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 902,
+        "atk": 80,
+        "def": 68
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -15830,6 +19002,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 1659,
+        "atk": 168,
+        "def": 188
       },
       "passives": [
         {
@@ -15855,6 +19032,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 1255,
+        "atk": 164,
+        "def": 105
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -15878,6 +19060,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 1938,
+        "atk": 254,
+        "def": 148
       },
       "passives": [
         {
@@ -15903,6 +19090,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 69
       },
+      "power_stats": {
+        "hp": 1166,
+        "atk": 112,
+        "def": 90
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -15926,6 +19118,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 581,
+        "atk": 11,
+        "def": 7
       },
       "passives": [
         {
@@ -15956,6 +19153,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 1138,
+        "atk": 94,
+        "def": 117
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -15980,6 +19182,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 852,
+        "atk": 53,
+        "def": 45
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -16003,6 +19210,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 3515,
+        "atk": 507,
+        "def": 457
       },
       "passives": [
         {
@@ -16033,6 +19245,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 940,
+        "atk": 67,
+        "def": 62
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -16056,6 +19273,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 892,
+        "atk": 63,
+        "def": 50
       },
       "passives": [
         {
@@ -16086,6 +19308,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 14
       },
+      "power_stats": {
+        "hp": 785,
+        "atk": 64,
+        "def": 32
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -16115,6 +19342,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 1741,
+        "atk": 246,
+        "def": 254
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -16138,6 +19370,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 1285,
+        "atk": 149,
+        "def": 99
       },
       "passives": [
         {
@@ -16168,6 +19405,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 969,
+        "atk": 74,
+        "def": 60
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -16197,6 +19439,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 1905,
+        "atk": 251,
+        "def": 190
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -16220,6 +19467,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 538,
+        "atk": 9,
+        "def": 6
       },
       "passives": [
         {
@@ -16255,6 +19507,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 3669,
+        "atk": 471,
+        "def": 356
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -16278,6 +19535,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 887,
+        "atk": 99,
+        "def": 74
       },
       "passives": [
         {
@@ -16313,6 +19575,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 945,
+        "atk": 77,
+        "def": 93
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -16336,6 +19603,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 549,
+        "atk": 7,
+        "def": 6
       },
       "passives": [
         {
@@ -16361,6 +19633,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 1811,
+        "atk": 227,
+        "def": 104
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -16384,6 +19661,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 891,
+        "atk": 73,
+        "def": 61
       },
       "passives": [
         {
@@ -16409,6 +19691,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 4069,
+        "atk": 526,
+        "def": 448
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -16432,6 +19719,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 947,
+        "atk": 72,
+        "def": 90
       },
       "passives": [
         {
@@ -16457,6 +19749,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 2357,
+        "atk": 313,
+        "def": 264
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -16481,6 +19778,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 3797,
+        "atk": 463,
+        "def": 664
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -16504,6 +19806,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 5882,
+        "atk": 932,
+        "def": 804
       },
       "passives": [
         {
@@ -16533,6 +19840,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 2378,
+        "atk": 420,
+        "def": 418
       },
       "passives": [
         {
@@ -16568,6 +19880,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 560,
+        "atk": 9,
+        "def": 7
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -16591,6 +19908,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 1285,
+        "atk": 171,
+        "def": 108
       },
       "passives": [
         {
@@ -16616,6 +19938,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 638,
+        "atk": 21,
+        "def": 18
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -16639,6 +19966,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 4380,
+        "atk": 708,
+        "def": 506
       },
       "passives": [
         {
@@ -16664,6 +19996,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 564,
+        "atk": 8,
+        "def": 6
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -16688,6 +20025,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 3440,
+        "atk": 427,
+        "def": 459
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -16711,6 +20053,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 2405,
+        "atk": 399,
+        "def": 292
       },
       "passives": [
         {
@@ -16741,6 +20088,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 548,
+        "atk": 12,
+        "def": 5
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -16764,6 +20116,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 3518,
+        "atk": 475,
+        "def": 556
       },
       "passives": [
         {
@@ -16789,6 +20146,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 549,
+        "atk": 6,
+        "def": 6
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -16812,6 +20174,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 1038,
+        "atk": 83,
+        "def": 62
       },
       "passives": [
         {
@@ -16837,6 +20204,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 1904,
+        "atk": 229,
+        "def": 197
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -16860,6 +20232,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 794,
+        "atk": 45,
+        "def": 41
       },
       "passives": [
         {
@@ -16885,6 +20262,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 2424,
+        "atk": 323,
+        "def": 290
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -16908,6 +20290,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 27,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 1674,
+        "atk": 215,
+        "def": 218
       },
       "passives": [
         {
@@ -16933,6 +20320,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 1453,
+        "atk": 146,
+        "def": 100
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -16957,6 +20349,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 661,
+        "atk": 20,
+        "def": 17
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -16980,6 +20377,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 706,
+        "atk": 40,
+        "def": 31
       },
       "passives": [
         {
@@ -17015,6 +20417,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 1209,
+        "atk": 107,
+        "def": 87
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -17038,6 +20445,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 673,
+        "atk": 30,
+        "def": 29
       },
       "passives": [
         {
@@ -17063,6 +20475,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 1799,
+        "atk": 231,
+        "def": 232
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -17087,6 +20504,11 @@ window.PALWORLD_DATA = {
         "shot": 23,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 835,
+        "atk": 56,
+        "def": 50
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -17110,6 +20532,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 1062,
+        "atk": 75,
+        "def": 75
       },
       "passives": [
         {
@@ -17140,6 +20567,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 559,
+        "atk": 10,
+        "def": 6
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -17164,6 +20596,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 1255,
+        "atk": 172,
+        "def": 129
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -17187,6 +20624,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 4234,
+        "atk": 377,
+        "def": 434
       },
       "passives": [
         {
@@ -17227,6 +20669,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 714,
+        "atk": 40,
+        "def": 36
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -17250,6 +20697,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 39,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 557,
+        "atk": 9,
+        "def": 10
       },
       "passives": [
         {
@@ -17275,6 +20727,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 999,
+        "atk": 87,
+        "def": 76
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17292,6 +20749,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 848,
+        "atk": 59,
+        "def": 57
       },
       "passives": [
         {
@@ -17317,6 +20779,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 1894,
+        "atk": 220,
+        "def": 215
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -17340,6 +20807,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 2632,
+        "atk": 360,
+        "def": 301
       },
       "passives": [
         {
@@ -17365,6 +20837,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 730,
+        "atk": 33,
+        "def": 35
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17383,6 +20860,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 2630,
+        "atk": 413,
+        "def": 309
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17400,6 +20882,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 2781,
+        "atk": 379,
+        "def": 335
       },
       "passives": [
         {
@@ -17425,6 +20912,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 893,
+        "atk": 84,
+        "def": 67
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -17448,6 +20940,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 923,
+        "atk": 72,
+        "def": 62
       },
       "passives": [
         {
@@ -17473,6 +20970,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 1881,
+        "atk": 297,
+        "def": 271
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -17496,6 +20998,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 4865,
+        "atk": 705,
+        "def": 595
       },
       "passives": [
         {
@@ -17521,6 +21028,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 988,
+        "atk": 92,
+        "def": 68
+      },
       "passives": [
         {
           "id": "Vampire",
@@ -17545,6 +21057,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 631,
+        "atk": 20,
+        "def": 20
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -17568,6 +21085,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 573,
+        "atk": 7,
+        "def": 10
       },
       "passives": [
         {
@@ -17598,6 +21120,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 1678,
+        "atk": 205,
+        "def": 134
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17615,6 +21142,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 33
+      },
+      "power_stats": {
+        "hp": 584,
+        "atk": 8,
+        "def": 8
       },
       "passives": [
         {
@@ -17645,6 +21177,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 553,
+        "atk": 13,
+        "def": 8
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -17668,6 +21205,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 810,
+        "atk": 51,
+        "def": 43
       },
       "passives": [
         {
@@ -17698,6 +21240,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 2406,
+        "atk": 340,
+        "def": 239
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -17721,6 +21268,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 25
+      },
+      "power_stats": {
+        "hp": 4263,
+        "atk": 591,
+        "def": 470
       },
       "passives": [
         {
@@ -17751,6 +21303,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 725,
+        "atk": 26,
+        "def": 26
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -17774,6 +21331,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 16,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 561,
+        "atk": 8,
+        "def": 12
       },
       "passives": [
         {
@@ -17799,6 +21361,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2324,
+        "atk": 358,
+        "def": 280
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -17822,6 +21389,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 69
+      },
+      "power_stats": {
+        "hp": 3809,
+        "atk": 348,
+        "def": 393
       },
       "passives": [
         {
@@ -17852,6 +21424,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 1626,
+        "atk": 228,
+        "def": 146
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -17875,6 +21452,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 657,
+        "atk": 22,
+        "def": 17
       },
       "passives": [
         {
@@ -17900,6 +21482,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 1739,
+        "atk": 213,
+        "def": 249
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -17923,6 +21510,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 2760,
+        "atk": 461,
+        "def": 356
       },
       "passives": [
         {
@@ -17948,6 +21540,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 1729,
+        "atk": 172,
+        "def": 156
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -17971,6 +21568,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 586,
+        "atk": 14,
+        "def": 13
       },
       "passives": [
         {
@@ -17996,6 +21598,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 701,
+        "atk": 29,
+        "def": 23
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -18013,6 +21620,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 1818,
+        "atk": 122,
+        "def": 130
       },
       "passives": [
         {
@@ -18043,6 +21655,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 547,
+        "atk": 9,
+        "def": 6
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -18066,6 +21683,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 96,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 2645,
+        "atk": 332,
+        "def": 287
       },
       "passives": [
         {
@@ -18096,6 +21718,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 2785,
+        "atk": 460,
+        "def": 421
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -18119,6 +21746,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 1,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 2027,
+        "atk": 206,
+        "def": 235
       },
       "passives": [
         {
@@ -18144,6 +21776,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 568,
+        "atk": 9,
+        "def": 8
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -18167,6 +21804,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 1211,
+        "atk": 138,
+        "def": 115
       },
       "passives": [
         {
@@ -18192,6 +21834,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 1284,
+        "atk": 141,
+        "def": 94
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -18215,6 +21862,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 96,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 2140,
+        "atk": 265,
+        "def": 190
       },
       "passives": [
         {
@@ -18240,6 +21892,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 551,
+        "atk": 10,
+        "def": 6
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -18263,6 +21920,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 1253,
+        "atk": 154,
+        "def": 104
       },
       "passives": [
         {
@@ -18298,6 +21960,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 2026,
+        "atk": 191,
+        "def": 207
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -18321,6 +21988,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 591,
+        "atk": 7,
+        "def": 9
       },
       "passives": [
         {
@@ -18351,6 +22023,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 4548,
+        "atk": 605,
+        "def": 561
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -18368,6 +22045,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 1775,
+        "atk": 261,
+        "def": 166
       },
       "passives": [
         {
@@ -18393,6 +22075,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 566,
+        "atk": 12,
+        "def": 8
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -18410,6 +22097,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 2450,
+        "atk": 333,
+        "def": 268
       },
       "passives": [
         {
@@ -18435,6 +22127,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 758,
+        "atk": 37,
+        "def": 35
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -18458,6 +22155,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 971,
+        "atk": 47,
+        "def": 75
       },
       "passives": [
         {
@@ -18483,6 +22185,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 2245,
+        "atk": 341,
+        "def": 248
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -18506,6 +22213,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 2017,
+        "atk": 229,
+        "def": 245
       },
       "passives": [
         {
@@ -18536,6 +22248,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 635,
+        "atk": 22,
+        "def": 22
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -18560,6 +22277,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 1776,
+        "atk": 256,
+        "def": 150
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -18583,6 +22305,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 6002,
+        "atk": 1081,
+        "def": 838
       },
       "passives": [
         {
@@ -18613,6 +22340,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 785,
+        "atk": 41,
+        "def": 38
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -18636,6 +22368,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 1219,
+        "atk": 127,
+        "def": 101
       },
       "passives": [
         {
@@ -18661,6 +22398,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 1695,
+        "atk": 157,
+        "def": 139
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -18684,6 +22426,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 1243,
+        "atk": 136,
+        "def": 92
       },
       "passives": [
         {
@@ -18709,6 +22456,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 1088,
+        "atk": 101,
+        "def": 79
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -18732,6 +22484,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 27,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 2849,
+        "atk": 326,
+        "def": 430
       },
       "passives": [
         {
@@ -18757,6 +22514,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 2303,
+        "atk": 324,
+        "def": 294
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -18780,6 +22542,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 2192,
+        "atk": 303,
+        "def": 257
       },
       "passives": [
         {
@@ -18805,6 +22572,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 1260,
+        "atk": 136,
+        "def": 99
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -18822,6 +22594,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 951,
+        "atk": 85,
+        "def": 75
       },
       "passives": [
         {
@@ -18846,6 +22623,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 1900,
+        "atk": 256,
+        "def": 168
       },
       "passives": [
         {
@@ -18876,6 +22658,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 1829,
+        "atk": 242,
+        "def": 212
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -18893,6 +22680,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 731,
+        "atk": 37,
+        "def": 41
       },
       "passives": [
         {
@@ -18917,6 +22709,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 1262,
+        "atk": 179,
+        "def": 111
       },
       "passives": [
         {
@@ -18947,6 +22744,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 795,
+        "atk": 47,
+        "def": 47
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -18970,6 +22772,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 2981,
+        "atk": 212,
+        "def": 302
       },
       "passives": [
         {
@@ -19000,6 +22807,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 1489,
+        "atk": 135,
+        "def": 123
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -19024,6 +22836,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 2611,
+        "atk": 400,
+        "def": 245
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -19047,6 +22864,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 549,
+        "atk": 10,
+        "def": 11
       },
       "passives": [
         {
@@ -19077,6 +22899,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 928,
+        "atk": 96,
+        "def": 85
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -19100,6 +22927,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 13
+      },
+      "power_stats": {
+        "hp": 950,
+        "atk": 67,
+        "def": 51
       },
       "passives": [
         {
@@ -19125,6 +22957,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 786,
+        "atk": 41,
+        "def": 38
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -19148,6 +22985,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 2412,
+        "atk": 284,
+        "def": 262
       },
       "passives": [
         {
@@ -19173,6 +23015,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 1144,
+        "atk": 96,
+        "def": 86
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -19196,6 +23043,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 1474,
+        "atk": 197,
+        "def": 173
       },
       "passives": [
         {
@@ -19226,6 +23078,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 3003,
+        "atk": 529,
+        "def": 393
+      },
       "passives": [
         {
           "id": "Rare",
@@ -19255,6 +23112,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 1066,
+        "atk": 98,
+        "def": 75
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -19278,6 +23140,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 42
+      },
+      "power_stats": {
+        "hp": 1265,
+        "atk": 152,
+        "def": 96
       },
       "passives": [
         {
@@ -19303,6 +23170,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 560,
+        "atk": 8,
+        "def": 7
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -19320,6 +23192,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 1253,
+        "atk": 145,
+        "def": 106
       },
       "passives": [
         {
@@ -19344,6 +23221,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 561,
+        "atk": 8,
+        "def": 8
       },
       "passives": [
         {
@@ -19374,6 +23256,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 773,
+        "atk": 39,
+        "def": 30
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -19397,6 +23284,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 1093,
+        "atk": 97,
+        "def": 81
       },
       "passives": [
         {
@@ -19427,6 +23319,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 2504,
+        "atk": 289,
+        "def": 243
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -19450,6 +23347,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 1288,
+        "atk": 127,
+        "def": 101
       },
       "passives": [
         {
@@ -19475,6 +23377,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 625,
+        "atk": 21,
+        "def": 22
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -19493,6 +23400,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 1294,
+        "atk": 134,
+        "def": 94
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -19510,6 +23422,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 1024,
+        "atk": 56,
+        "def": 80
       },
       "passives": [
         {
@@ -19535,6 +23452,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 838,
+        "atk": 56,
+        "def": 47
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -19558,6 +23480,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 2405,
+        "atk": 253,
+        "def": 313
       },
       "passives": [
         {
@@ -19593,6 +23520,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 1452,
+        "atk": 185,
+        "def": 168
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -19616,6 +23548,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 2093,
+        "atk": 268,
+        "def": 288
       },
       "passives": [
         {
@@ -19641,6 +23578,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 1589,
+        "atk": 162,
+        "def": 124
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -19658,6 +23600,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 1558,
+        "atk": 257,
+        "def": 162
       },
       "passives": [
         {
@@ -19687,6 +23634,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 1304,
+        "atk": 162,
+        "def": 108
       },
       "passives": [
         {
@@ -19722,6 +23674,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 1188,
+        "atk": 108,
+        "def": 146
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -19745,6 +23702,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 42,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 928,
+        "atk": 99,
+        "def": 64
       },
       "passives": [
         {
@@ -19770,6 +23732,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 1613,
+        "atk": 186,
+        "def": 180
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -19793,6 +23760,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 10
+      },
+      "power_stats": {
+        "hp": 2548,
+        "atk": 412,
+        "def": 321
       },
       "passives": [
         {
@@ -19818,6 +23790,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 1173,
+        "atk": 109,
+        "def": 90
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -19841,6 +23818,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 3024,
+        "atk": 383,
+        "def": 511
       },
       "passives": [
         {
@@ -19866,6 +23848,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 1683,
+        "atk": 225,
+        "def": 197
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -19889,6 +23876,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 7,
+        "def": 9
       },
       "passives": [
         {
@@ -19919,6 +23911,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 1018,
+        "atk": 76,
+        "def": 79
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -19937,6 +23934,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 1555,
+        "atk": 257,
+        "def": 160
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -19954,6 +23956,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 674,
+        "atk": 29,
+        "def": 26
       },
       "passives": [
         {
@@ -19978,6 +23985,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 556,
+        "atk": 7,
+        "def": 4
       },
       "passives": [
         {
@@ -20012,6 +24024,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 3426,
+        "atk": 301,
+        "def": 456
       },
       "passives": [
         {
@@ -20052,6 +24069,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 555,
+        "atk": 5,
+        "def": 6
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -20075,6 +24097,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 15
+      },
+      "power_stats": {
+        "hp": 589,
+        "atk": 18,
+        "def": 12
       },
       "passives": [
         {
@@ -20100,6 +24127,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 1779,
+        "atk": 232,
+        "def": 195
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -20124,6 +24156,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 3439,
+        "atk": 499,
+        "def": 438
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -20142,6 +24179,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 1639,
+        "atk": 253,
+        "def": 162
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -20159,6 +24201,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 15
+      },
+      "power_stats": {
+        "hp": 890,
+        "atk": 68,
+        "def": 69
       },
       "passives": [
         {
@@ -20194,6 +24241,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 1078,
+        "atk": 114,
+        "def": 80
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -20218,6 +24270,11 @@ window.PALWORLD_DATA = {
         "shot": 14,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 3407,
+        "atk": 353,
+        "def": 307
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -20241,6 +24298,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 3163,
+        "atk": 292,
+        "def": 327
       },
       "passives": [
         {
@@ -20271,6 +24333,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 2871,
+        "atk": 438,
+        "def": 288
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -20300,6 +24367,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 14
       },
+      "power_stats": {
+        "hp": 1356,
+        "atk": 137,
+        "def": 92
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -20323,6 +24395,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 23,
         "defense": 42
+      },
+      "power_stats": {
+        "hp": 1671,
+        "atk": 216,
+        "def": 208
       },
       "passives": [
         {
@@ -20348,6 +24425,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 2240,
+        "atk": 259,
+        "def": 240
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -20371,6 +24453,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 993,
+        "atk": 90,
+        "def": 64
       },
       "passives": [
         {
@@ -20401,6 +24488,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 997,
+        "atk": 81,
+        "def": 89
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -20425,6 +24517,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 2047,
+        "atk": 174,
+        "def": 228
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -20448,6 +24545,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 2435,
+        "atk": 476,
+        "def": 353
       },
       "passives": [
         {
@@ -20478,6 +24580,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 1169,
+        "atk": 93,
+        "def": 86
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -20501,6 +24608,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 55,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 2367,
+        "atk": 204,
+        "def": 250
       },
       "passives": [
         {
@@ -20531,6 +24643,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2451,
+        "atk": 295,
+        "def": 250
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -20554,6 +24671,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 3825,
+        "atk": 548,
+        "def": 716
       },
       "passives": [
         {
@@ -20594,6 +24716,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 1265,
+        "atk": 130,
+        "def": 100
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -20618,6 +24745,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 780,
+        "atk": 50,
+        "def": 32
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -20641,6 +24773,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 3089,
+        "atk": 501,
+        "def": 381
       },
       "passives": [
         {
@@ -20671,6 +24808,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 2508,
+        "atk": 400,
+        "def": 398
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -20700,6 +24842,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 2387,
+        "atk": 333,
+        "def": 408
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -20724,6 +24871,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 2524,
+        "atk": 306,
+        "def": 474
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -20747,6 +24899,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 2934,
+        "atk": 404,
+        "def": 319
       },
       "passives": [
         {
@@ -20777,6 +24934,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 1318,
+        "atk": 152,
+        "def": 170
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -20806,6 +24968,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 1284,
+        "atk": 95,
+        "def": 101
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -20829,6 +24996,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 555,
+        "atk": 9,
+        "def": 7
       },
       "passives": [
         {
@@ -20854,6 +25026,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 2179,
+        "atk": 260,
+        "def": 276
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -20877,6 +25054,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 2000,
+        "atk": 249,
+        "def": 203
       },
       "passives": [
         {
@@ -20906,6 +25088,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 2018,
+        "atk": 338,
+        "def": 266
       },
       "passives": [
         {
@@ -20941,6 +25128,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 91
       },
+      "power_stats": {
+        "hp": 1874,
+        "atk": 166,
+        "def": 175
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -20965,6 +25157,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 1979,
+        "atk": 342,
+        "def": 241
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -20988,6 +25185,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 2555,
+        "atk": 474,
+        "def": 350
       },
       "passives": [
         {
@@ -21018,6 +25220,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 3053,
+        "atk": 262,
+        "def": 250
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -21041,6 +25248,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 1310,
+        "atk": 172,
+        "def": 124
       },
       "passives": [
         {
@@ -21066,6 +25278,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 1226,
+        "atk": 116,
+        "def": 98
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -21083,6 +25300,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 3218,
+        "atk": 324,
+        "def": 286
       },
       "passives": [
         {
@@ -21113,6 +25335,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2216,
+        "atk": 296,
+        "def": 289
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -21136,6 +25363,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 1529,
+        "atk": 202,
+        "def": 98
       },
       "passives": [
         {
@@ -21161,6 +25393,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 1671,
+        "atk": 175,
+        "def": 163
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -21184,6 +25421,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 3350,
+        "atk": 386,
+        "def": 493
       },
       "passives": [
         {
@@ -21214,6 +25456,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 951,
+        "atk": 54,
+        "def": 67
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -21237,6 +25484,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 5737,
+        "atk": 762,
+        "def": 730
       },
       "passives": [
         {
@@ -21262,6 +25514,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 2728,
+        "atk": 318,
+        "def": 303
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -21285,6 +25542,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 823,
+        "atk": 47,
+        "def": 42
       },
       "passives": [
         {
@@ -21310,6 +25572,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 1393,
+        "atk": 194,
+        "def": 168
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -21333,6 +25600,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 2022,
+        "atk": 320,
+        "def": 261
       },
       "passives": [
         {
@@ -21358,6 +25630,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 755,
+        "atk": 43,
+        "def": 38
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -21381,6 +25658,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 2443,
+        "atk": 340,
+        "def": 302
       },
       "passives": [
         {
@@ -21406,6 +25688,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 1392,
+        "atk": 156,
+        "def": 135
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -21429,6 +25716,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 870,
+        "atk": 67,
+        "def": 50
       },
       "passives": [
         {
@@ -21454,6 +25746,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 2006,
+        "atk": 232,
+        "def": 196
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -21477,6 +25774,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 1645,
+        "atk": 184,
+        "def": 183
       },
       "passives": [
         {
@@ -21502,6 +25804,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 1735,
+        "atk": 221,
+        "def": 188
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -21526,6 +25833,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 2061,
+        "atk": 289,
+        "def": 223
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -21549,6 +25861,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 1627,
+        "atk": 194,
+        "def": 169
       },
       "passives": [
         {
@@ -21579,6 +25896,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 913,
+        "atk": 103,
+        "def": 62
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -21602,6 +25924,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 1978,
+        "atk": 205,
+        "def": 220
       },
       "passives": [
         {
@@ -21627,6 +25954,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 2250,
+        "atk": 310,
+        "def": 340
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -21651,6 +25983,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 739,
+        "atk": 35,
+        "def": 30
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -21674,6 +26011,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 716,
+        "atk": 28,
+        "def": 35
       },
       "passives": [
         {
@@ -21714,6 +26056,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 688,
+        "atk": 35,
+        "def": 25
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -21737,6 +26084,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 30
+      },
+      "power_stats": {
+        "hp": 819,
+        "atk": 46,
+        "def": 40
       },
       "passives": [
         {
@@ -21767,6 +26119,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 961,
+        "atk": 87,
+        "def": 84
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -21784,6 +26141,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 14,
+        "def": 15
       },
       "passives": [
         {
@@ -21808,6 +26170,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 2393,
+        "atk": 458,
+        "def": 249
       },
       "passives": [
         {
@@ -21838,6 +26205,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 9437,
+        "atk": 1341,
+        "def": 1139
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -21861,6 +26233,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 5,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 3322,
+        "atk": 364,
+        "def": 342
       },
       "passives": [
         {
@@ -21886,6 +26263,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 1041,
+        "atk": 89,
+        "def": 75
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -21910,6 +26292,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 1858,
+        "atk": 205,
+        "def": 180
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -21928,6 +26315,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2102,
+        "atk": 247,
+        "def": 154
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -21945,6 +26337,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 13
+      },
+      "power_stats": {
+        "hp": 4707,
+        "atk": 564,
+        "def": 590
       },
       "passives": [
         {
@@ -21975,6 +26372,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 592,
+        "atk": 14,
+        "def": 14
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -21999,6 +26401,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 1813,
+        "atk": 233,
+        "def": 194
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -22016,6 +26423,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 1914,
+        "atk": 278,
+        "def": 310
       },
       "passives": [
         {
@@ -22041,6 +26453,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 1379,
+        "atk": 141,
+        "def": 143
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -22058,6 +26475,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 721,
+        "atk": 40,
+        "def": 36
       },
       "passives": [
         {
@@ -22083,6 +26505,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 544,
+        "atk": 6,
+        "def": 6
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -22107,6 +26534,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 8
       },
+      "power_stats": {
+        "hp": 1838,
+        "atk": 212,
+        "def": 185
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -22130,6 +26562,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 1449,
+        "atk": 226,
+        "def": 145
       },
       "passives": [
         {
@@ -22165,6 +26602,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 938,
+        "atk": 91,
+        "def": 73
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -22199,6 +26641,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 754,
+        "atk": 35,
+        "def": 36
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -22223,6 +26670,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 674,
+        "atk": 31,
+        "def": 26
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -22246,6 +26698,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 27,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 2272,
+        "atk": 321,
+        "def": 445
       },
       "passives": [
         {
@@ -22281,6 +26738,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 2413,
+        "atk": 298,
+        "def": 236
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -22304,6 +26766,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 2556,
+        "atk": 269,
+        "def": 294
       },
       "passives": [
         {
@@ -22329,6 +26796,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 1613,
+        "atk": 201,
+        "def": 181
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -22352,6 +26824,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 1800,
+        "atk": 256,
+        "def": 129
       },
       "passives": [
         {
@@ -22377,6 +26854,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 1403,
+        "atk": 153,
+        "def": 123
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -22400,6 +26882,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 1796,
+        "atk": 241,
+        "def": 193
       },
       "passives": [
         {
@@ -22425,6 +26912,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 707,
+        "atk": 27,
+        "def": 27
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -22448,6 +26940,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 39,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 541,
+        "atk": 5,
+        "def": 6
       },
       "passives": [
         {
@@ -22473,6 +26970,11 @@ window.PALWORLD_DATA = {
         "shot": 36,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 2649,
+        "atk": 335,
+        "def": 316
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -22496,6 +26998,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 2192,
+        "atk": 256,
+        "def": 137
       },
       "passives": [
         {
@@ -22521,6 +27028,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 775,
+        "atk": 42,
+        "def": 37
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -22545,6 +27057,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 2125,
+        "atk": 321,
+        "def": 243
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -22568,6 +27085,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 1676,
+        "atk": 145,
+        "def": 131
       },
       "passives": [
         {
@@ -22608,6 +27130,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2140,
+        "atk": 255,
+        "def": 198
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -22625,6 +27152,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 2048,
+        "atk": 323,
+        "def": 254
       },
       "passives": [
         {
@@ -22650,6 +27182,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 2748,
+        "atk": 377,
+        "def": 312
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -22673,6 +27210,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 33
+      },
+      "power_stats": {
+        "hp": 919,
+        "atk": 51,
+        "def": 48
       },
       "passives": [
         {
@@ -22708,6 +27250,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 2485,
+        "atk": 295,
+        "def": 302
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -22731,6 +27278,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 33
+      },
+      "power_stats": {
+        "hp": 832,
+        "atk": 45,
+        "def": 48
       },
       "passives": [
         {
@@ -22756,6 +27308,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 1235,
+        "atk": 127,
+        "def": 136
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -22779,6 +27336,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 29,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 2722,
+        "atk": 362,
+        "def": 266
       },
       "passives": [
         {
@@ -22814,6 +27376,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 1265,
+        "atk": 109,
+        "def": 94
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -22843,6 +27410,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 2399,
+        "atk": 236,
+        "def": 261
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -22866,6 +27438,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 2084,
+        "atk": 259,
+        "def": 281
       },
       "passives": [
         {
@@ -22891,6 +27468,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 678,
+        "atk": 29,
+        "def": 31
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -22914,6 +27496,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 3600,
+        "atk": 263,
+        "def": 372
       },
       "passives": [
         {
@@ -22944,6 +27531,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 1963,
+        "atk": 263,
+        "def": 259
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -22967,6 +27559,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 709,
+        "atk": 31,
+        "def": 26
       },
       "passives": [
         {
@@ -22992,6 +27589,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 774,
+        "atk": 49,
+        "def": 41
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -23015,6 +27617,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 2453,
+        "atk": 321,
+        "def": 335
       },
       "passives": [
         {
@@ -23040,6 +27647,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 1761,
+        "atk": 240,
+        "def": 170
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -23063,6 +27675,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 70,
         "defense": 6
+      },
+      "power_stats": {
+        "hp": 2979,
+        "atk": 485,
+        "def": 368
       },
       "passives": [
         {
@@ -23088,6 +27705,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 1304,
+        "atk": 158,
+        "def": 96
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -23112,6 +27734,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 2338,
+        "atk": 298,
+        "def": 258
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -23135,6 +27762,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 30
+      },
+      "power_stats": {
+        "hp": 3169,
+        "atk": 589,
+        "def": 313
       },
       "passives": [
         {
@@ -23170,6 +27802,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 2241,
+        "atk": 307,
+        "def": 301
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -23193,6 +27830,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 793,
+        "atk": 39,
+        "def": 51
       },
       "passives": [
         {
@@ -23218,6 +27860,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 816,
+        "atk": 47,
+        "def": 39
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -23242,6 +27889,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 862,
+        "atk": 44,
+        "def": 44
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -23259,6 +27911,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 1579,
+        "atk": 290,
+        "def": 225
       },
       "passives": [
         {
@@ -23289,6 +27946,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 91
       },
+      "power_stats": {
+        "hp": 550,
+        "atk": 7,
+        "def": 7
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -23318,6 +27980,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 2353,
+        "atk": 402,
+        "def": 302
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -23342,6 +28009,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 1876,
+        "atk": 244,
+        "def": 216
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -23359,6 +28031,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 2326,
+        "atk": 225,
+        "def": 286
       },
       "passives": [
         {
@@ -23389,6 +28066,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 1395,
+        "atk": 145,
+        "def": 129
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -23413,6 +28095,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 2341,
+        "atk": 252,
+        "def": 161
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -23436,6 +28123,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 1913,
+        "atk": 274,
+        "def": 167
       },
       "passives": [
         {
@@ -23466,6 +28158,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 1265,
+        "atk": 149,
+        "def": 135
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -23489,6 +28186,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 1485,
+        "atk": 180,
+        "def": 267
       },
       "passives": [
         {
@@ -23514,6 +28216,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 3358,
+        "atk": 479,
+        "def": 565
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -23537,6 +28244,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 1500,
+        "atk": 173,
+        "def": 236
       },
       "passives": [
         {
@@ -23577,6 +28289,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 1549,
+        "atk": 172,
+        "def": 156
+      },
       "passives": [
         {
           "id": "Rare",
@@ -23606,6 +28323,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 1635,
+        "atk": 139,
+        "def": 120
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -23629,6 +28351,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 1397,
+        "atk": 150,
+        "def": 151
       },
       "passives": [
         {
@@ -23654,6 +28381,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 1972,
+        "atk": 320,
+        "def": 240
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -23677,6 +28409,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 2166,
+        "atk": 331,
+        "def": 200
       },
       "passives": [
         {
@@ -23712,6 +28449,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 2372,
+        "atk": 343,
+        "def": 221
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -23736,6 +28478,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 1331,
+        "atk": 137,
+        "def": 125
+      },
       "passives": [],
       "owner": "Prismiti"
     },
@@ -23753,6 +28500,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2319,
+        "atk": 304,
+        "def": 513
       },
       "passives": [
         {
@@ -23778,6 +28530,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2521,
+        "atk": 354,
+        "def": 264
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -23802,6 +28559,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 1390,
+        "atk": 164,
+        "def": 123
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -23819,6 +28581,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 2798,
+        "atk": 356,
+        "def": 495
       },
       "passives": [
         {
@@ -23844,6 +28611,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2832,
+        "atk": 419,
+        "def": 487
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -23867,6 +28639,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 2157,
+        "atk": 305,
+        "def": 259
       },
       "passives": [
         {
@@ -23892,6 +28669,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 3745,
+        "atk": 466,
+        "def": 387
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -23916,6 +28698,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2655,
+        "atk": 389,
+        "def": 281
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -23939,6 +28726,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 39,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 1171,
+        "atk": 166,
+        "def": 145
       },
       "passives": [
         {
@@ -23969,6 +28761,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 1752,
+        "atk": 219,
+        "def": 228
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -23992,6 +28789,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 2107,
+        "atk": 290,
+        "def": 273
       },
       "passives": [
         {
@@ -24017,6 +28819,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 1268,
+        "atk": 104,
+        "def": 81
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -24040,6 +28847,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 2309,
+        "atk": 443,
+        "def": 280
       },
       "passives": [
         {
@@ -24070,6 +28882,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 2681,
+        "atk": 306,
+        "def": 272
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -24094,6 +28911,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 3243,
+        "atk": 424,
+        "def": 336
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -24111,6 +28933,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 1432,
+        "atk": 169,
+        "def": 144
       },
       "passives": [
         {
@@ -24136,6 +28963,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 2211,
+        "atk": 296,
+        "def": 322
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -24159,6 +28991,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 870,
+        "atk": 56,
+        "def": 52
       },
       "passives": [
         {
@@ -24184,6 +29021,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 1267,
+        "atk": 141,
+        "def": 138
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -24207,6 +29049,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 1225,
+        "atk": 146,
+        "def": 152
       },
       "passives": [
         {
@@ -24232,6 +29079,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 2041,
+        "atk": 246,
+        "def": 254
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -24256,6 +29108,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 2155,
+        "atk": 286,
+        "def": 269
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -24279,6 +29136,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 1323,
+        "atk": 139,
+        "def": 127
       },
       "passives": [
         {
@@ -24309,6 +29171,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 1503,
+        "atk": 147,
+        "def": 125
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -24332,6 +29199,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 2021,
+        "atk": 202,
+        "def": 220
       },
       "passives": [
         {
@@ -24357,6 +29229,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 1300,
+        "atk": 165,
+        "def": 77
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -24381,6 +29258,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 892,
+        "atk": 67,
+        "def": 57
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -24404,6 +29286,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 69
+      },
+      "power_stats": {
+        "hp": 1553,
+        "atk": 218,
+        "def": 225
       },
       "passives": [
         {
@@ -24434,6 +29321,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 556,
+        "atk": 7,
+        "def": 6
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -24457,6 +29349,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 774,
+        "atk": 35,
+        "def": 37
       },
       "passives": [
         {
@@ -24482,6 +29379,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 2025,
+        "atk": 242,
+        "def": 278
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -24506,6 +29408,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 2096,
+        "atk": 236,
+        "def": 189
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -24523,6 +29430,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 1965,
+        "atk": 161,
+        "def": 190
       },
       "passives": [
         {
@@ -24563,6 +29475,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 1271,
+        "atk": 126,
+        "def": 133
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -24586,6 +29503,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 2521,
+        "atk": 317,
+        "def": 231
       },
       "passives": [
         {
@@ -24611,6 +29533,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 2102,
+        "atk": 233,
+        "def": 236
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -24628,6 +29555,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 2147,
+        "atk": 268,
+        "def": 226
       },
       "passives": [
         {
@@ -24653,6 +29585,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 1555,
+        "atk": 149,
+        "def": 139
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -24677,6 +29614,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 1913,
+        "atk": 401,
+        "def": 240
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up3",
@@ -24700,6 +29642,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 2092,
+        "atk": 321,
+        "def": 175
       },
       "passives": [
         {
@@ -24730,6 +29677,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 2187,
+        "atk": 279,
+        "def": 241
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -24753,6 +29705,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 1331,
+        "atk": 149,
+        "def": 119
       },
       "passives": [
         {
@@ -24778,6 +29735,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 1190,
+        "atk": 127,
+        "def": 126
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -24795,6 +29757,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 3626,
+        "atk": 333,
+        "def": 570
       },
       "passives": [
         {
@@ -24825,6 +29792,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 559,
+        "atk": 7,
+        "def": 7
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -24854,6 +29826,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 1941,
+        "atk": 253,
+        "def": 231
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -24877,6 +29854,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 3147,
+        "atk": 407,
+        "def": 306
       },
       "passives": [
         {
@@ -24902,6 +29884,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 1948,
+        "atk": 184,
+        "def": 147
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -24925,6 +29912,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 1787,
+        "atk": 172,
+        "def": 230
       },
       "passives": [
         {
@@ -24955,6 +29947,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 1422,
+        "atk": 164,
+        "def": 130
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -24979,6 +29976,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 1910,
+        "atk": 338,
+        "def": 206
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -25002,6 +30004,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 1781,
+        "atk": 171,
+        "def": 198
       },
       "passives": [
         {
@@ -25032,6 +30039,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 2016,
+        "atk": 187,
+        "def": 210
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -25049,6 +30061,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 1684,
+        "atk": 179,
+        "def": 146
       },
       "passives": [
         {
@@ -25079,6 +30096,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 1244,
+        "atk": 117,
+        "def": 99
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -25102,6 +30124,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 1389,
+        "atk": 137,
+        "def": 137
       },
       "passives": [
         {
@@ -25127,6 +30154,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 1015,
+        "atk": 82,
+        "def": 80
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -25151,6 +30183,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 1632,
+        "atk": 143,
+        "def": 147
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -25174,6 +30211,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 2100,
+        "atk": 308,
+        "def": 265
       },
       "passives": [
         {
@@ -25214,6 +30256,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 1546,
+        "atk": 266,
+        "def": 228
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -25237,6 +30284,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 69
+      },
+      "power_stats": {
+        "hp": 2027,
+        "atk": 187,
+        "def": 204
       },
       "passives": [
         {
@@ -25262,6 +30314,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 746,
+        "atk": 37,
+        "def": 29
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -25286,6 +30343,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 1671,
+        "atk": 154,
+        "def": 186
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -25309,6 +30371,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 2102,
+        "atk": 297,
+        "def": 259
       },
       "passives": [
         {
@@ -25339,6 +30406,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 3511,
+        "atk": 437,
+        "def": 433
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -25362,6 +30434,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 4863,
+        "atk": 623,
+        "def": 812
       },
       "passives": [
         {
@@ -25392,6 +30469,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 3084,
+        "atk": 406,
+        "def": 612
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -25421,6 +30503,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 3902,
+        "atk": 582,
+        "def": 556
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -25444,6 +30531,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 44,
         "defense": 14
+      },
+      "power_stats": {
+        "hp": 3600,
+        "atk": 315,
+        "def": 307
       },
       "passives": [
         {
@@ -25474,6 +30566,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 1202,
+        "atk": 139,
+        "def": 129
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -25498,6 +30595,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 860,
+        "atk": 74,
+        "def": 46
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -25521,6 +30623,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 1226,
+        "atk": 152,
+        "def": 72
       },
       "passives": [
         {
@@ -25561,6 +30668,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 2113,
+        "atk": 351,
+        "def": 197
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -25584,6 +30696,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 710,
+        "atk": 30,
+        "def": 28
       },
       "passives": [
         {
@@ -25609,6 +30726,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 717,
+        "atk": 31,
+        "def": 34
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -25632,6 +30754,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 1882,
+        "atk": 199,
+        "def": 193
       },
       "passives": [
         {
@@ -25657,6 +30784,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 2760,
+        "atk": 411,
+        "def": 237
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -25674,6 +30806,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 2312,
+        "atk": 215,
+        "def": 247
       },
       "passives": [
         {
@@ -25698,6 +30835,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 39
+      },
+      "power_stats": {
+        "hp": 2729,
+        "atk": 390,
+        "def": 274
       },
       "passives": [
         {
@@ -25728,6 +30870,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 3234,
+        "atk": 260,
+        "def": 211
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -25757,6 +30904,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 2619,
+        "atk": 366,
+        "def": 360
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -25780,6 +30932,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 2566,
+        "atk": 278,
+        "def": 347
       },
       "passives": [
         {
@@ -25805,6 +30962,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2484,
+        "atk": 335,
+        "def": 381
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -25829,6 +30991,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 2544,
+        "atk": 390,
+        "def": 327
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -25846,6 +31013,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 4574,
+        "atk": 580,
+        "def": 565
       },
       "passives": [
         {
@@ -25881,6 +31053,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 593,
+        "atk": 16,
+        "def": 13
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -25905,6 +31082,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 1882,
+        "atk": 165,
+        "def": 203
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -25928,6 +31110,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 1790,
+        "atk": 238,
+        "def": 216
       },
       "passives": [
         {
@@ -25958,6 +31145,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 1654,
+        "atk": 228,
+        "def": 203
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -25981,6 +31173,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 2193,
+        "atk": 192,
+        "def": 189
       },
       "passives": [
         {
@@ -26006,6 +31203,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 1025,
+        "atk": 68,
+        "def": 88
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -26029,6 +31231,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 1982,
+        "atk": 250,
+        "def": 225
       },
       "passives": [
         {
@@ -26054,6 +31261,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 3834,
+        "atk": 458,
+        "def": 569
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -26077,6 +31289,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 2675,
+        "atk": 370,
+        "def": 397
       },
       "passives": [
         {
@@ -26107,6 +31324,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 5809,
+        "atk": 846,
+        "def": 718
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -26135,6 +31357,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2735,
+        "atk": 272,
+        "def": 310
       },
       "passives": [
         {
@@ -26165,6 +31392,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 1633,
+        "atk": 158,
+        "def": 162
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -26188,6 +31420,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 923,
+        "atk": 70,
+        "def": 72
       },
       "passives": [
         {
@@ -26213,6 +31450,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 1100,
+        "atk": 127,
+        "def": 70
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -26237,6 +31479,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 1161,
+        "atk": 113,
+        "def": 93
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -26251,7 +31498,7 @@ window.PALWORLD_DATA = {
       "species": "Sekhmet",
       "species_name": "Sekhmet",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Sekhmet_icon_normal.webp",
-      "level": 40,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -26260,6 +31507,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 3014,
+        "atk": 507,
+        "def": 428
       },
       "passives": [
         {
@@ -26285,6 +31537,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 1568,
+        "atk": 229,
+        "def": 211
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -26308,6 +31565,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 1934,
+        "atk": 304,
+        "def": 214
       },
       "passives": [
         {
@@ -26333,6 +31595,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 2508,
+        "atk": 260,
+        "def": 267
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -26356,6 +31623,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 23,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 912,
+        "atk": 50,
+        "def": 54
       },
       "passives": [
         {
@@ -26381,6 +31653,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 3170,
+        "atk": 454,
+        "def": 411
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -26405,6 +31682,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 2936,
+        "atk": 357,
+        "def": 287
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -26428,6 +31710,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 2453,
+        "atk": 431,
+        "def": 277
       },
       "passives": [
         {
@@ -26463,6 +31750,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 2283,
+        "atk": 326,
+        "def": 286
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -26486,6 +31778,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 1145,
+        "atk": 106,
+        "def": 94
       },
       "passives": [
         {
@@ -26511,6 +31808,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 2969,
+        "atk": 352,
+        "def": 268
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -26534,6 +31836,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 2287,
+        "atk": 379,
+        "def": 409
       },
       "passives": [
         {
@@ -26569,6 +31876,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 3505,
+        "atk": 637,
+        "def": 528
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -26592,6 +31904,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 1279,
+        "atk": 116,
+        "def": 88
       },
       "passives": [
         {
@@ -26617,6 +31934,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 1308,
+        "atk": 117,
+        "def": 79
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -26640,6 +31962,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 5903,
+        "atk": 970,
+        "def": 677
       },
       "passives": [
         {
@@ -26670,6 +31997,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 1074,
+        "atk": 89,
+        "def": 64
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -26699,6 +32031,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 2429,
+        "atk": 245,
+        "def": 298
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -26722,6 +32059,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 2472,
+        "atk": 320,
+        "def": 445
       },
       "passives": [
         {
@@ -26747,6 +32089,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 2251,
+        "atk": 192,
+        "def": 275
+      },
       "passives": [
         {
           "id": "Deffence_up3",
@@ -26771,6 +32118,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 2414,
+        "atk": 339,
+        "def": 255
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -26789,6 +32141,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 1795,
+        "atk": 187,
+        "def": 176
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -26806,6 +32163,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 3356,
+        "atk": 462,
+        "def": 390
       },
       "passives": [
         {
@@ -26831,6 +32193,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 2425,
+        "atk": 362,
+        "def": 264
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -26854,6 +32221,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 2158,
+        "atk": 316,
+        "def": 293
       },
       "passives": [
         {
@@ -26879,6 +32251,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 2185,
+        "atk": 280,
+        "def": 223
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -26902,6 +32279,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 5,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 1040,
+        "atk": 79,
+        "def": 67
       },
       "passives": [
         {
@@ -26927,6 +32309,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 637,
+        "atk": 21,
+        "def": 22
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -26950,6 +32337,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2003,
+        "atk": 270,
+        "def": 163
       },
       "passives": [
         {
@@ -26975,6 +32367,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 6745,
+        "atk": 922,
+        "def": 1034
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -26998,6 +32395,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 709,
+        "atk": 27,
+        "def": 31
       },
       "passives": [
         {
@@ -27023,6 +32425,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 858,
+        "atk": 61,
+        "def": 50
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -27046,6 +32453,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 2506,
+        "atk": 322,
+        "def": 315
       },
       "passives": [
         {
@@ -27071,6 +32483,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 2410,
+        "atk": 268,
+        "def": 283
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -27094,6 +32511,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 70,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 782,
+        "atk": 60,
+        "def": 37
       },
       "passives": [
         {
@@ -27119,6 +32541,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 4033,
+        "atk": 491,
+        "def": 477
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -27142,6 +32569,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 2304,
+        "atk": 290,
+        "def": 163
       },
       "passives": [
         {
@@ -27167,6 +32599,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 1894,
+        "atk": 243,
+        "def": 193
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -27190,6 +32627,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 47
+      },
+      "power_stats": {
+        "hp": 2272,
+        "atk": 306,
+        "def": 243
       },
       "passives": [
         {
@@ -27215,6 +32657,11 @@ window.PALWORLD_DATA = {
         "shot": 36,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 566,
+        "atk": 8,
+        "def": 7
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -27238,6 +32685,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 2388,
+        "atk": 332,
+        "def": 237
       },
       "passives": [
         {
@@ -27268,6 +32720,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 1456,
+        "atk": 206,
+        "def": 160
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -27291,6 +32748,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 1342,
+        "atk": 148,
+        "def": 135
       },
       "passives": [
         {
@@ -27316,6 +32778,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 41
       },
+      "power_stats": {
+        "hp": 1548,
+        "atk": 245,
+        "def": 186
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -27339,6 +32806,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 2289,
+        "atk": 309,
+        "def": 449
       },
       "passives": [
         {
@@ -27369,6 +32841,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 2093,
+        "atk": 286,
+        "def": 213
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -27398,6 +32875,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 1386,
+        "atk": 207,
+        "def": 158
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -27421,6 +32903,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 1108,
+        "atk": 111,
+        "def": 83
       },
       "passives": [
         {
@@ -27446,6 +32933,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 2259,
+        "atk": 431,
+        "def": 299
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -27463,6 +32955,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 1121,
+        "atk": 79,
+        "def": 74
       },
       "passives": [
         {
@@ -27488,6 +32985,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 4677,
+        "atk": 710,
+        "def": 783
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -27511,6 +33013,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2154,
+        "atk": 325,
+        "def": 252
       },
       "passives": [
         {
@@ -27541,6 +33048,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 1483,
+        "atk": 216,
+        "def": 171
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -27564,6 +33076,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 2086,
+        "atk": 210,
+        "def": 238
       },
       "passives": [
         {
@@ -27589,6 +33106,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 2189,
+        "atk": 415,
+        "def": 230
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -27612,6 +33134,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 1018,
+        "atk": 104,
+        "def": 119
       },
       "passives": [
         {
@@ -27637,6 +33164,11 @@ window.PALWORLD_DATA = {
         "shot": 53,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 2282,
+        "atk": 287,
+        "def": 253
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -27660,6 +33192,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 2007,
+        "atk": 221,
+        "def": 195
       },
       "passives": [
         {
@@ -27685,6 +33222,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 2441,
+        "atk": 356,
+        "def": 240
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -27708,6 +33250,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 2444,
+        "atk": 346,
+        "def": 292
       },
       "passives": [
         {
@@ -27738,6 +33285,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 2533,
+        "atk": 419,
+        "def": 342
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -27767,6 +33319,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 1580,
+        "atk": 220,
+        "def": 139
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -27790,6 +33347,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 1006,
+        "atk": 95,
+        "def": 87
       },
       "passives": [
         {
@@ -27815,6 +33377,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 2256,
+        "atk": 306,
+        "def": 335
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -27838,6 +33405,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 1640,
+        "atk": 110,
+        "def": 128
       },
       "passives": [
         {
@@ -27863,6 +33435,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 1363,
+        "atk": 198,
+        "def": 115
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -27886,6 +33463,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 2611,
+        "atk": 380,
+        "def": 287
       },
       "passives": [
         {
@@ -27911,6 +33493,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 2292,
+        "atk": 361,
+        "def": 251
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -27935,6 +33522,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1616,
+        "atk": 135,
+        "def": 137
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -27958,6 +33550,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 2959,
+        "atk": 526,
+        "def": 411
       },
       "passives": [
         {
@@ -27998,6 +33595,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 2984,
+        "atk": 454,
+        "def": 405
+      },
       "passives": [
         {
           "id": "Stamina_Up_3",
@@ -28021,6 +33623,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 2509,
+        "atk": 371,
+        "def": 455
       },
       "passives": [
         {
@@ -28046,6 +33653,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 2429,
+        "atk": 301,
+        "def": 291
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -28069,6 +33681,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 7688,
+        "atk": 1098,
+        "def": 896
       },
       "passives": [
         {
@@ -28099,6 +33716,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 2302,
+        "atk": 291,
+        "def": 392
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -28116,6 +33738,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 4446,
+        "atk": 790,
+        "def": 1092
       },
       "passives": [
         {
@@ -28156,6 +33783,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1635,
+        "atk": 211,
+        "def": 198
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -28179,6 +33811,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 1626,
+        "atk": 236,
+        "def": 192
       },
       "passives": [
         {
@@ -28204,6 +33841,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 2729,
+        "atk": 369,
+        "def": 348
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -28221,6 +33863,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 4443,
+        "atk": 647,
+        "def": 688
       },
       "passives": [
         {
@@ -28245,6 +33892,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 2521,
+        "atk": 339,
+        "def": 431
       },
       "passives": [
         {
@@ -28275,6 +33927,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 591,
+        "atk": 7,
+        "def": 8
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -28298,6 +33955,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 3257,
+        "atk": 442,
+        "def": 436
       },
       "passives": [
         {
@@ -28323,6 +33985,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 2555,
+        "atk": 339,
+        "def": 310
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -28346,6 +34013,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 35,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 3685,
+        "atk": 488,
+        "def": 393
       },
       "passives": [
         {
@@ -28371,6 +34043,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 2986,
+        "atk": 489,
+        "def": 426
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -28394,6 +34071,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 1995,
+        "atk": 270,
+        "def": 234
       },
       "passives": [
         {
@@ -28419,6 +34101,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 2579,
+        "atk": 354,
+        "def": 475
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -28442,6 +34129,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 3660,
+        "atk": 614,
+        "def": 446
       },
       "passives": [
         {
@@ -28467,6 +34159,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 2305,
+        "atk": 359,
+        "def": 253
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -28490,6 +34187,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 2070,
+        "atk": 364,
+        "def": 443
       },
       "passives": [
         {
@@ -28520,6 +34222,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 2948,
+        "atk": 399,
+        "def": 489
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -28543,6 +34250,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 1,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 1369,
+        "atk": 149,
+        "def": 131
       },
       "passives": [
         {
@@ -28573,6 +34285,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 1269,
+        "atk": 130,
+        "def": 141
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -28596,6 +34313,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 1333,
+        "atk": 141,
+        "def": 176
       },
       "passives": [
         {
@@ -28621,6 +34343,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 3847,
+        "atk": 493,
+        "def": 393
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -28644,6 +34371,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 36,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 3061,
+        "atk": 497,
+        "def": 388
       },
       "passives": [
         {
@@ -28669,6 +34401,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 3443,
+        "atk": 647,
+        "def": 462
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -28692,6 +34429,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 1318,
+        "atk": 149,
+        "def": 134
       },
       "passives": [
         {
@@ -28717,6 +34459,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 1330,
+        "atk": 150,
+        "def": 114
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -28741,6 +34488,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 2254,
+        "atk": 266,
+        "def": 272
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -28758,6 +34510,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 1450,
+        "atk": 135,
+        "def": 135
       },
       "passives": [
         {
@@ -28793,6 +34550,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2218,
+        "atk": 329,
+        "def": 447
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -28822,6 +34584,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 1993,
+        "atk": 263,
+        "def": 216
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -28845,6 +34612,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 2146,
+        "atk": 277,
+        "def": 425
       },
       "passives": [
         {
@@ -28875,6 +34647,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 1196,
+        "atk": 155,
+        "def": 114
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -28898,6 +34675,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 1870,
+        "atk": 294,
+        "def": 240
       },
       "passives": [
         {
@@ -28923,6 +34705,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 1135,
+        "atk": 105,
+        "def": 158
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -28946,6 +34733,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 1972,
+        "atk": 327,
+        "def": 187
       },
       "passives": [
         {
@@ -28971,6 +34763,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 998,
+        "atk": 92,
+        "def": 104
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -28994,6 +34791,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 1444,
+        "atk": 164,
+        "def": 200
       },
       "passives": [
         {
@@ -29019,6 +34821,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 1934,
+        "atk": 231,
+        "def": 131
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -29042,6 +34849,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 2387,
+        "atk": 236,
+        "def": 213
       },
       "passives": [
         {
@@ -29067,6 +34879,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 3569,
+        "atk": 512,
+        "def": 418
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -29090,6 +34907,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 2280,
+        "atk": 311,
+        "def": 431
       },
       "passives": [
         {
@@ -29115,6 +34937,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 3932,
+        "atk": 518,
+        "def": 606
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -29139,6 +34966,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 2637,
+        "atk": 387,
+        "def": 296
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -29162,6 +34994,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 2258,
+        "atk": 306,
+        "def": 448
       },
       "passives": [
         {
@@ -29192,6 +35029,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 2248,
+        "atk": 256,
+        "def": 291
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -29215,6 +35057,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 36,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 3459,
+        "atk": 575,
+        "def": 494
       },
       "passives": [
         {
@@ -29240,6 +35087,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 2919,
+        "atk": 454,
+        "def": 384
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -29264,6 +35116,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 4228,
+        "atk": 635,
+        "def": 730
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -29287,6 +35144,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 3256,
+        "atk": 572,
+        "def": 517
       },
       "passives": [
         {
@@ -29317,6 +35179,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 1277,
+        "atk": 118,
+        "def": 186
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -29340,6 +35207,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 2462,
+        "atk": 371,
+        "def": 263
       },
       "passives": [
         {
@@ -29380,6 +35252,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 3148,
+        "atk": 444,
+        "def": 373
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -29409,6 +35286,11 @@ window.PALWORLD_DATA = {
         "shot": 36,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 1818,
+        "atk": 252,
+        "def": 216
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -29432,6 +35314,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 800,
+        "atk": 40,
+        "def": 37
       },
       "passives": [
         {
@@ -29457,6 +35344,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 1279,
+        "atk": 142,
+        "def": 176
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -29475,6 +35367,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 2363,
+        "atk": 366,
+        "def": 260
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -29492,6 +35389,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 5015,
+        "atk": 789,
+        "def": 541
       },
       "passives": [
         {
@@ -29522,6 +35424,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 14
       },
+      "power_stats": {
+        "hp": 4242,
+        "atk": 715,
+        "def": 806
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -29551,6 +35458,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 1933,
+        "atk": 314,
+        "def": 246
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -29574,6 +35486,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 70,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 989,
+        "atk": 93,
+        "def": 63
       },
       "passives": [
         {
@@ -29599,6 +35516,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 2640,
+        "atk": 302,
+        "def": 381
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -29622,6 +35544,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 29,
         "defense": 39
+      },
+      "power_stats": {
+        "hp": 4803,
+        "atk": 559,
+        "def": 528
       },
       "passives": [
         {
@@ -29647,6 +35574,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 3014,
+        "atk": 418,
+        "def": 354
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -29670,6 +35602,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 39
+      },
+      "power_stats": {
+        "hp": 4385,
+        "atk": 550,
+        "def": 648
       },
       "passives": [
         {
@@ -29695,6 +35632,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 3457,
+        "atk": 410,
+        "def": 372
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -29718,6 +35660,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 47
+      },
+      "power_stats": {
+        "hp": 4783,
+        "atk": 677,
+        "def": 489
       },
       "passives": [
         {
@@ -29743,6 +35690,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 3771,
+        "atk": 581,
+        "def": 428
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -29760,6 +35712,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 3712,
+        "atk": 342,
+        "def": 378
       },
       "passives": [
         {
@@ -29785,6 +35742,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 3712,
+        "atk": 475,
+        "def": 472
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -29808,6 +35770,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 838,
+        "atk": 75,
+        "def": 44
       },
       "passives": [
         {
@@ -29833,6 +35800,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 3672,
+        "atk": 551,
+        "def": 585
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -29856,6 +35828,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 39,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 1428,
+        "atk": 191,
+        "def": 145
       },
       "passives": [
         {
@@ -29886,6 +35863,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 3335,
+        "atk": 406,
+        "def": 347
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -29909,6 +35891,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 30,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 1745,
+        "atk": 187,
+        "def": 187
       },
       "passives": [
         {
@@ -29934,6 +35921,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 2006,
+        "atk": 349,
+        "def": 221
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -29951,6 +35943,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 2082,
+        "atk": 313,
+        "def": 244
       },
       "passives": [
         {
@@ -29976,6 +35973,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 2865,
+        "atk": 393,
+        "def": 618
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -29999,6 +36001,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 2107,
+        "atk": 305,
+        "def": 235
       },
       "passives": [
         {
@@ -30029,6 +36036,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 1674,
+        "atk": 260,
+        "def": 223
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -30052,6 +36064,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 2637,
+        "atk": 373,
+        "def": 362
       },
       "passives": [
         {
@@ -30077,6 +36094,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 2756,
+        "atk": 313,
+        "def": 410
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -30100,6 +36122,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 55,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 3677,
+        "atk": 533,
+        "def": 629
       },
       "passives": [
         {
@@ -30130,6 +36157,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 2586,
+        "atk": 419,
+        "def": 303
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -30153,6 +36185,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 3216,
+        "atk": 581,
+        "def": 390
       },
       "passives": [
         {
@@ -30178,6 +36215,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 1798,
+        "atk": 282,
+        "def": 215
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -30195,6 +36237,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 3409,
+        "atk": 440,
+        "def": 436
       },
       "passives": [
         {
@@ -30235,6 +36282,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 2901,
+        "atk": 404,
+        "def": 312
+      },
       "passives": [
         {
           "id": "Rare",
@@ -30264,6 +36316,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 2258,
+        "atk": 333,
+        "def": 220
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -30281,6 +36338,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 3164,
+        "atk": 256,
+        "def": 352
       },
       "passives": [
         {
@@ -30310,6 +36372,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 4321,
+        "atk": 628,
+        "def": 643
       },
       "passives": [
         {
@@ -30345,6 +36412,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 5794,
+        "atk": 923,
+        "def": 908
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -30368,6 +36440,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 2343,
+        "atk": 342,
+        "def": 292
       },
       "passives": [
         {
@@ -30393,6 +36470,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 4142,
+        "atk": 544,
+        "def": 571
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -30410,6 +36492,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 4987,
+        "atk": 382,
+        "def": 513
       },
       "passives": [
         {
@@ -30440,6 +36527,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 4884,
+        "atk": 667,
+        "def": 612
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -30457,6 +36549,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 2,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 4323,
+        "atk": 332,
+        "def": 378
       },
       "passives": [
         {
@@ -30482,6 +36579,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 3303,
+        "atk": 397,
+        "def": 396
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -30506,6 +36608,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 838,
+        "atk": 74,
+        "def": 49
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -30529,6 +36636,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 3242,
+        "atk": 840,
+        "def": 442
       },
       "passives": [
         {
@@ -30559,6 +36671,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 4398,
+        "atk": 590,
+        "def": 907
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -30588,6 +36705,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 3768,
+        "atk": 563,
+        "def": 552
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -30611,6 +36733,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 2765,
+        "atk": 298,
+        "def": 382
       },
       "passives": [
         {
@@ -30641,6 +36768,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 2790,
+        "atk": 362,
+        "def": 389
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -30664,6 +36796,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 2504,
+        "atk": 451,
+        "def": 255
       },
       "passives": [
         {
@@ -30689,6 +36826,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 1503,
+        "atk": 200,
+        "def": 199
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -30712,6 +36854,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 552,
+        "atk": 7,
+        "def": 7
       },
       "passives": [
         {
@@ -30737,6 +36884,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 2640,
+        "atk": 332,
+        "def": 330
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -30754,6 +36906,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 2600,
+        "atk": 401,
+        "def": 298
       },
       "passives": [
         {
@@ -30778,6 +36935,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 4465,
+        "atk": 530,
+        "def": 631
       },
       "passives": [
         {
@@ -30808,6 +36970,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 1847,
+        "atk": 289,
+        "def": 198
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -30831,6 +36998,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 3786,
+        "atk": 657,
+        "def": 475
       },
       "passives": [
         {
@@ -30861,6 +37033,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 4630,
+        "atk": 787,
+        "def": 658
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -30890,6 +37067,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 3003,
+        "atk": 507,
+        "def": 486
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -30913,6 +37095,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 2434,
+        "atk": 355,
+        "def": 341
       },
       "passives": [
         {
@@ -30938,6 +37125,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2976,
+        "atk": 364,
+        "def": 312
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -30961,6 +37153,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 547,
+        "atk": 10,
+        "def": 10
       },
       "passives": [
         {
@@ -30990,6 +37187,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 36,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 2945,
+        "atk": 516,
+        "def": 418
       },
       "passives": [
         {
@@ -31025,6 +37227,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 1815,
+        "atk": 272,
+        "def": 198
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -31048,6 +37255,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 3463,
+        "atk": 636,
+        "def": 353
       },
       "passives": [
         {
@@ -31073,6 +37285,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 845,
+        "atk": 50,
+        "def": 47
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -31096,6 +37313,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 2324,
+        "atk": 426,
+        "def": 382
       },
       "passives": [
         {
@@ -31121,6 +37343,7 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 74
       },
+      "power_stats": null,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -31144,6 +37367,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 3666,
+        "atk": 537,
+        "def": 455
       },
       "passives": [
         {
@@ -31169,6 +37397,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 2881,
+        "atk": 476,
+        "def": 379
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -31192,6 +37425,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 3562,
+        "atk": 417,
+        "def": 527
       },
       "passives": [
         {
@@ -31222,6 +37460,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 945,
+        "atk": 60,
+        "def": 56
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -31246,6 +37489,7 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 77
       },
+      "power_stats": null,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -31275,6 +37519,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 3485,
+        "atk": 498,
+        "def": 412
+      },
       "passives": [
         {
           "id": "Stamina_Up_3",
@@ -31303,6 +37552,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 3711,
+        "atk": 511,
+        "def": 518
       },
       "passives": [
         {
@@ -31338,6 +37592,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 4855,
+        "atk": 688,
+        "def": 682
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_3",
@@ -31361,6 +37620,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 5,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 3935,
+        "atk": 361,
+        "def": 493
       },
       "passives": [
         {
@@ -31396,6 +37660,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 91
       },
+      "power_stats": {
+        "hp": 4077,
+        "atk": 358,
+        "def": 469
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -31419,6 +37688,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 4069,
+        "atk": 434,
+        "def": 495
       },
       "passives": [
         {
@@ -31449,6 +37723,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2392,
+        "atk": 342,
+        "def": 274
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -31472,6 +37751,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 70,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 2629,
+        "atk": 407,
+        "def": 250
       },
       "passives": [
         {
@@ -31497,6 +37781,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 1712,
+        "atk": 211,
+        "def": 203
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -31521,6 +37810,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 4415,
+        "atk": 541,
+        "def": 548
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -31544,6 +37838,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 3370,
+        "atk": 399,
+        "def": 527
       },
       "passives": [
         {
@@ -31574,6 +37873,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 2388,
+        "atk": 263,
+        "def": 238
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -31597,6 +37901,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 2564,
+        "atk": 206,
+        "def": 287
       },
       "passives": [
         {
@@ -31622,6 +37931,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 1834,
+        "atk": 332,
+        "def": 217
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -31646,6 +37960,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 1597,
+        "atk": 152,
+        "def": 153
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -31663,6 +37982,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 30,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 4012,
+        "atk": 574,
+        "def": 531
       },
       "passives": [
         {
@@ -31688,6 +38012,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 585,
+        "atk": 15,
+        "def": 13
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_3",
@@ -31711,6 +38040,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2954,
+        "atk": 342,
+        "def": 361
       },
       "passives": [
         {
@@ -31736,6 +38070,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 2455,
+        "atk": 392,
+        "def": 295
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -31759,6 +38098,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 3165,
+        "atk": 301,
+        "def": 439
       },
       "passives": [
         {
@@ -31789,6 +38133,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 2001,
+        "atk": 222,
+        "def": 246
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -31813,6 +38162,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 3003,
+        "atk": 363,
+        "def": 321
+      },
       "passives": [
         {
           "id": "CraftSpeed_up3",
@@ -31836,6 +38190,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 1367,
+        "atk": 160,
+        "def": 145
       },
       "passives": [
         {
@@ -31866,6 +38225,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 3075,
+        "atk": 427,
+        "def": 429
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -31889,6 +38253,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 849,
+        "atk": 65,
+        "def": 49
       },
       "passives": [
         {
@@ -31914,6 +38283,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 1791,
+        "atk": 194,
+        "def": 207
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -31931,6 +38305,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 1403,
+        "atk": 153,
+        "def": 147
       },
       "passives": [
         {
@@ -31961,6 +38340,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 1146,
+        "atk": 121,
+        "def": 132
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -31984,6 +38368,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 2338,
+        "atk": 219,
+        "def": 262
       },
       "passives": [
         {
@@ -32014,6 +38403,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 3311,
+        "atk": 331,
+        "def": 413
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -32037,6 +38431,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 6878,
+        "atk": 1102,
+        "def": 1197
       },
       "passives": [
         {
@@ -32077,6 +38476,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 4234,
+        "atk": 651,
+        "def": 509
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -32100,6 +38504,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 5248,
+        "atk": 717,
+        "def": 771
       },
       "passives": [
         {
@@ -32130,6 +38539,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 3544,
+        "atk": 439,
+        "def": 451
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -32153,6 +38567,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 70,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 5365,
+        "atk": 743,
+        "def": 615
       },
       "passives": [
         {
@@ -32183,6 +38602,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 29
       },
+      "power_stats": {
+        "hp": 1299,
+        "atk": 134,
+        "def": 97
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -32206,6 +38630,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 2003,
+        "atk": 262,
+        "def": 228
       },
       "passives": [
         {
@@ -32231,6 +38660,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 1747,
+        "atk": 278,
+        "def": 228
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -32255,6 +38689,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 1639,
+        "atk": 183,
+        "def": 190
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -32272,6 +38711,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 1996,
+        "atk": 247,
+        "def": 288
       },
       "passives": [
         {
@@ -32297,6 +38741,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 680,
+        "atk": 40,
+        "def": 41
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -32320,6 +38769,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 13
+      },
+      "power_stats": {
+        "hp": 674,
+        "atk": 31,
+        "def": 27
       },
       "passives": [
         {
@@ -32350,6 +38804,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 754,
+        "atk": 35,
+        "def": 32
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -32367,6 +38826,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 3063,
+        "atk": 370,
+        "def": 332
       },
       "passives": [
         {
@@ -32392,6 +38856,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 3067,
+        "atk": 462,
+        "def": 383
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -32409,6 +38878,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 796,
+        "atk": 41,
+        "def": 40
       },
       "passives": [
         {
@@ -32434,6 +38908,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 3833,
+        "atk": 352,
+        "def": 477
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -32457,6 +38936,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 1951,
+        "atk": 236,
+        "def": 213
       },
       "passives": [
         {
@@ -32482,6 +38966,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 2674,
+        "atk": 412,
+        "def": 413
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -32505,6 +38994,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 7195,
+        "atk": 1174,
+        "def": 1034
       },
       "passives": [
         {
@@ -32535,6 +39029,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 576,
+        "atk": 11,
+        "def": 12
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -32564,6 +39063,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 746,
+        "atk": 37,
+        "def": 36
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -32578,7 +39082,7 @@ window.PALWORLD_DATA = {
       "species": "MoonQueen",
       "species_name": "Selyne",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MoonQueen_icon_normal.webp",
-      "level": 51,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -32587,6 +39091,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 5062,
+        "atk": 559,
+        "def": 539
       },
       "passives": [
         {
@@ -32612,6 +39121,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 843,
+        "atk": 48,
+        "def": 46
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -32629,6 +39143,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 1308,
+        "atk": 171,
+        "def": 126
       },
       "passives": [
         {
@@ -32654,6 +39173,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 739,
+        "atk": 23,
+        "def": 37
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -32677,6 +39201,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 729,
+        "atk": 52,
+        "def": 40
       },
       "passives": [
         {
@@ -32707,6 +39236,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 717,
+        "atk": 32,
+        "def": 25
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -32730,6 +39264,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 773,
+        "atk": 31,
+        "def": 42
       },
       "passives": [
         {
@@ -32760,6 +39299,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 706,
+        "atk": 31,
+        "def": 26
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -32783,6 +39327,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 93
+      },
+      "power_stats": {
+        "hp": 2102,
+        "atk": 180,
+        "def": 259
       },
       "passives": [
         {
@@ -32808,6 +39357,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 3461,
+        "atk": 554,
+        "def": 432
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -32831,6 +39385,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 1884,
+        "atk": 246,
+        "def": 252
       },
       "passives": [
         {
@@ -32856,6 +39415,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 2488,
+        "atk": 315,
+        "def": 298
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -32879,6 +39443,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 3902,
+        "atk": 592,
+        "def": 459
       },
       "passives": [
         {
@@ -32904,6 +39473,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 1868,
+        "atk": 217,
+        "def": 252
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -32928,6 +39502,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 1884,
+        "atk": 216,
+        "def": 245
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -32951,6 +39530,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 4
+      },
+      "power_stats": {
+        "hp": 3630,
+        "atk": 537,
+        "def": 381
       },
       "passives": [
         {
@@ -32986,6 +39570,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 717,
+        "atk": 34,
+        "def": 41
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -33010,6 +39599,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 1614,
+        "atk": 223,
+        "def": 191
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -33027,6 +39621,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 2376,
+        "atk": 329,
+        "def": 245
       },
       "passives": [
         {
@@ -33057,6 +39656,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 675,
+        "atk": 25,
+        "def": 29
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -33081,6 +39685,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 41
       },
+      "power_stats": {
+        "hp": 1663,
+        "atk": 170,
+        "def": 217
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -33104,6 +39713,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 96,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 1731,
+        "atk": 193,
+        "def": 162
       },
       "passives": [
         {
@@ -33134,6 +39748,11 @@ window.PALWORLD_DATA = {
         "shot": 11,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 1665,
+        "atk": 185,
+        "def": 174
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -33158,6 +39777,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 2223,
+        "atk": 303,
+        "def": 180
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -33181,6 +39805,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 1817,
+        "atk": 181,
+        "def": 170
       },
       "passives": [
         {
@@ -33211,6 +39840,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 720,
+        "atk": 39,
+        "def": 31
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -33234,6 +39868,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 3232,
+        "atk": 554,
+        "def": 404
       },
       "passives": [
         {
@@ -33259,6 +39898,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 2113,
+        "atk": 309,
+        "def": 236
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -33282,6 +39926,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 2153,
+        "atk": 294,
+        "def": 241
       },
       "passives": [
         {
@@ -33317,6 +39966,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 1107,
+        "atk": 110,
+        "def": 88
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -33340,6 +39994,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 997,
+        "atk": 66,
+        "def": 68
       },
       "passives": [
         {
@@ -33365,6 +40024,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 1114,
+        "atk": 112,
+        "def": 100
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -33389,6 +40053,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 1136,
+        "atk": 140,
+        "def": 90
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -33412,6 +40081,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 1210,
+        "atk": 105,
+        "def": 82
       },
       "passives": [
         {
@@ -33447,6 +40121,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 887,
+        "atk": 54,
+        "def": 47
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -33470,6 +40149,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 836,
+        "atk": 53,
+        "def": 42
       },
       "passives": [
         {
@@ -33495,6 +40179,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 784,
+        "atk": 47,
+        "def": 41
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -33518,6 +40207,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 54,
         "defense": 30
+      },
+      "power_stats": {
+        "hp": 2209,
+        "atk": 258,
+        "def": 247
       },
       "passives": [
         {
@@ -33543,6 +40237,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2793,
+        "atk": 372,
+        "def": 312
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -33566,6 +40265,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 2385,
+        "atk": 387,
+        "def": 381
       },
       "passives": [
         {
@@ -33591,6 +40295,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 1801,
+        "atk": 271,
+        "def": 228
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -33614,6 +40323,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 1074,
+        "atk": 91,
+        "def": 98
       },
       "passives": [
         {
@@ -33639,6 +40353,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 2568,
+        "atk": 297,
+        "def": 271
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -33663,6 +40382,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 2459,
+        "atk": 322,
+        "def": 340
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -33680,6 +40404,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 2576,
+        "atk": 372,
+        "def": 407
       },
       "passives": [
         {
@@ -33705,6 +40434,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1769,
+        "atk": 241,
+        "def": 255
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -33728,6 +40462,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 1950,
+        "atk": 261,
+        "def": 280
       },
       "passives": [
         {
@@ -33753,6 +40492,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 2471,
+        "atk": 362,
+        "def": 291
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -33777,6 +40521,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 2076,
+        "atk": 288,
+        "def": 247
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -33800,6 +40549,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 3831,
+        "atk": 588,
+        "def": 489
       },
       "passives": [
         {
@@ -33835,6 +40589,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 3128,
+        "atk": 394,
+        "def": 376
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -33859,6 +40618,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 3409,
+        "atk": 463,
+        "def": 394
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -33876,6 +40640,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 10,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 2967,
+        "atk": 396,
+        "def": 355
       },
       "passives": [
         {
@@ -33901,6 +40670,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 2326,
+        "atk": 312,
+        "def": 276
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -33924,6 +40698,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 2238,
+        "atk": 264,
+        "def": 271
       },
       "passives": [
         {
@@ -33949,6 +40728,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 2093,
+        "atk": 296,
+        "def": 249
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -33972,6 +40756,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 37,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 2206,
+        "atk": 249,
+        "def": 268
       },
       "passives": [
         {
@@ -33997,6 +40786,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 1965,
+        "atk": 241,
+        "def": 305
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -34020,6 +40814,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 2634,
+        "atk": 378,
+        "def": 301
       },
       "passives": [
         {
@@ -34050,6 +40849,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 2360,
+        "atk": 318,
+        "def": 333
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -34073,6 +40877,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 55,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 4273,
+        "atk": 577,
+        "def": 482
       },
       "passives": [
         {
@@ -34098,6 +40907,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2106,
+        "atk": 284,
+        "def": 306
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -34121,6 +40935,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 2302,
+        "atk": 362,
+        "def": 316
       },
       "passives": [
         {
@@ -34146,6 +40965,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 2156,
+        "atk": 193,
+        "def": 241
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -34169,6 +40993,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 13
+      },
+      "power_stats": {
+        "hp": 1857,
+        "atk": 378,
+        "def": 209
       },
       "passives": [
         {
@@ -34199,6 +41028,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 2112,
+        "atk": 339,
+        "def": 268
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -34216,6 +41050,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 2100,
+        "atk": 335,
+        "def": 300
       },
       "passives": [
         {
@@ -34241,6 +41080,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 2238,
+        "atk": 368,
+        "def": 263
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -34264,6 +41108,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 1761,
+        "atk": 185,
+        "def": 126
       },
       "passives": [
         {
@@ -34294,6 +41143,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 4000,
+        "atk": 644,
+        "def": 469
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -34311,6 +41165,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 34,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 2465,
+        "atk": 291,
+        "def": 301
       },
       "passives": [
         {
@@ -34341,6 +41200,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 2863,
+        "atk": 323,
+        "def": 395
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -34364,6 +41228,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 2953,
+        "atk": 553,
+        "def": 328
       },
       "passives": [
         {
@@ -34389,6 +41258,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 2131,
+        "atk": 288,
+        "def": 284
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -34412,6 +41286,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 3117,
+        "atk": 438,
+        "def": 370
       },
       "passives": [
         {
@@ -34437,6 +41316,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 3009,
+        "atk": 481,
+        "def": 341
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -34461,6 +41345,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 2582,
+        "atk": 525,
+        "def": 325
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -34484,6 +41373,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 30,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 575,
+        "atk": 11,
+        "def": 9
       },
       "passives": [
         {
@@ -34514,6 +41408,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 3180,
+        "atk": 406,
+        "def": 405
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -34537,6 +41436,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 3069,
+        "atk": 442,
+        "def": 461
       },
       "passives": [
         {
@@ -34562,6 +41466,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 2814,
+        "atk": 371,
+        "def": 370
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -34586,6 +41495,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 3399,
+        "atk": 585,
+        "def": 445
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -34609,6 +41523,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 4714,
+        "atk": 473,
+        "def": 520
       },
       "passives": [
         {
@@ -34644,6 +41563,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 3783,
+        "atk": 425,
+        "def": 630
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -34667,6 +41591,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 16,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 3229,
+        "atk": 491,
+        "def": 390
       },
       "passives": [
         {
@@ -34692,6 +41621,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 91
       },
+      "power_stats": {
+        "hp": 2088,
+        "atk": 261,
+        "def": 252
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -34716,6 +41650,11 @@ window.PALWORLD_DATA = {
         "shot": 14,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 570,
+        "atk": 10,
+        "def": 13
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -34739,6 +41678,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 573,
+        "atk": 11,
+        "def": 10
       },
       "passives": [
         {
@@ -34774,6 +41718,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 3777,
+        "atk": 351,
+        "def": 418
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -34797,6 +41746,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 7668,
+        "atk": 1334,
+        "def": 1064
       },
       "passives": [
         {
@@ -34832,6 +41786,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 581,
+        "atk": 9,
+        "def": 11
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -34866,6 +41825,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 2682,
+        "atk": 379,
+        "def": 347
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -34889,6 +41853,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 29,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 2708,
+        "atk": 297,
+        "def": 428
       },
       "passives": [
         {
@@ -34914,6 +41883,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 573,
+        "atk": 11,
+        "def": 11
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -34937,6 +41911,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 4455,
+        "atk": 382,
+        "def": 448
       },
       "passives": [
         {
@@ -34962,6 +41941,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 3073,
+        "atk": 446,
+        "def": 351
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -34985,6 +41969,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 3212,
+        "atk": 401,
+        "def": 487
       },
       "passives": [
         {
@@ -35010,6 +41999,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 569,
+        "atk": 11,
+        "def": 8
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -35033,6 +42027,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 2,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 967,
+        "atk": 63,
+        "def": 85
       },
       "passives": [
         {
@@ -35058,6 +42057,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 2484,
+        "atk": 319,
+        "def": 256
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -35081,6 +42085,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 3368,
+        "atk": 315,
+        "def": 438
       },
       "passives": [
         {
@@ -35110,6 +42119,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 3693,
+        "atk": 357,
+        "def": 621
       },
       "passives": [
         {
@@ -35150,6 +42164,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 573,
+        "atk": 11,
+        "def": 11
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -35184,6 +42203,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 578,
+        "atk": 10,
+        "def": 13
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -35207,6 +42231,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 3139,
+        "atk": 490,
+        "def": 395
       },
       "passives": [
         {
@@ -35242,6 +42271,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 2941,
+        "atk": 322,
+        "def": 396
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -35265,6 +42299,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 4291,
+        "atk": 653,
+        "def": 559
       },
       "passives": [
         {
@@ -35290,6 +42329,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 573,
+        "atk": 11,
+        "def": 13
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -35313,6 +42357,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 986,
+        "atk": 97,
+        "def": 82
       },
       "passives": [
         {
@@ -35353,6 +42402,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 3025,
+        "atk": 435,
+        "def": 520
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -35376,6 +42430,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 2729,
+        "atk": 399,
+        "def": 429
       },
       "passives": [
         {
@@ -35401,6 +42460,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 3163,
+        "atk": 544,
+        "def": 359
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -35424,6 +42488,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 45
+      },
+      "power_stats": {
+        "hp": 2672,
+        "atk": 488,
+        "def": 386
       },
       "passives": [
         {
@@ -35449,6 +42518,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 3881,
+        "atk": 552,
+        "def": 505
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -35466,6 +42540,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 2700,
+        "atk": 505,
+        "def": 373
       },
       "passives": [
         {
@@ -35496,6 +42575,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 5560,
+        "atk": 928,
+        "def": 914
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -35519,6 +42603,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 10
+      },
+      "power_stats": {
+        "hp": 3240,
+        "atk": 665,
+        "def": 371
       },
       "passives": [
         {
@@ -35544,6 +42633,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 3226,
+        "atk": 529,
+        "def": 459
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -35568,6 +42662,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 573,
+        "atk": 11,
+        "def": 10
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -35591,6 +42690,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 3589,
+        "atk": 259,
+        "def": 505
       },
       "passives": [
         {
@@ -35626,6 +42730,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 579,
+        "atk": 12,
+        "def": 9
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -35650,6 +42759,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 3429,
+        "atk": 536,
+        "def": 478
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -35667,6 +42781,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 52
+      },
+      "power_stats": {
+        "hp": 5812,
+        "atk": 713,
+        "def": 784
       },
       "passives": [
         {
@@ -35697,6 +42816,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 2686,
+        "atk": 432,
+        "def": 337
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -35720,6 +42844,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 570,
+        "atk": 13,
+        "def": 9
       },
       "passives": [
         {
@@ -35760,6 +42889,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 564,
+        "atk": 12,
+        "def": 7
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -35783,6 +42917,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2894,
+        "atk": 441,
+        "def": 512
       },
       "passives": [
         {
@@ -35808,6 +42947,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 4081,
+        "atk": 505,
+        "def": 456
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -35831,6 +42975,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 571,
+        "atk": 12,
+        "def": 15
       },
       "passives": [
         {
@@ -35871,6 +43020,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 1209,
+        "atk": 127,
+        "def": 118
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -35910,6 +43064,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 581,
+        "atk": 11,
+        "def": 11
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -35934,6 +43093,11 @@ window.PALWORLD_DATA = {
         "shot": 53,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 4411,
+        "atk": 633,
+        "def": 653
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -35957,6 +43121,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 70,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 570,
+        "atk": 12,
+        "def": 12
       },
       "passives": [
         {
@@ -35986,6 +43155,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 10,
+        "def": 11
       },
       "passives": [
         {
@@ -36026,6 +43200,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 570,
+        "atk": 11,
+        "def": 11
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -36054,6 +43233,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 13,
+        "def": 9
       },
       "passives": [
         {
@@ -36089,6 +43273,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 581,
+        "atk": 11,
+        "def": 10
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -36112,6 +43301,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 2755,
+        "atk": 289,
+        "def": 353
       },
       "passives": [
         {
@@ -36137,6 +43331,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 560,
+        "atk": 10,
+        "def": 7
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -36161,6 +43360,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 2487,
+        "atk": 273,
+        "def": 289
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -36184,6 +43388,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 5638,
+        "atk": 418,
+        "def": 610
       },
       "passives": [
         {
@@ -36214,6 +43423,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 3564,
+        "atk": 558,
+        "def": 481
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -36237,6 +43451,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 29,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 3591,
+        "atk": 565,
+        "def": 414
       },
       "passives": [
         {
@@ -36267,6 +43486,11 @@ window.PALWORLD_DATA = {
         "shot": 28,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 4162,
+        "atk": 353,
+        "def": 475
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36296,6 +43520,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 574,
+        "atk": 8,
+        "def": 7
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -36319,6 +43548,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 581,
+        "atk": 12,
+        "def": 13
       },
       "passives": [
         {
@@ -36344,6 +43578,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 3969,
+        "atk": 616,
+        "def": 532
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -36367,6 +43606,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 565,
+        "atk": 8,
+        "def": 12
       },
       "passives": [
         {
@@ -36402,6 +43646,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 3346,
+        "atk": 512,
+        "def": 418
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -36430,6 +43679,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 4724,
+        "atk": 1062,
+        "def": 1007
       },
       "passives": [
         {
@@ -36460,6 +43714,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 1862,
+        "atk": 314,
+        "def": 222
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -36484,6 +43743,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 5343,
+        "atk": 644,
+        "def": 542
+      },
       "passives": [],
       "owner": "inconnu"
     },
@@ -36501,6 +43765,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 1750,
+        "atk": 241,
+        "def": 182
       },
       "passives": [
         {
@@ -36526,6 +43795,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 1992,
+        "atk": 222,
+        "def": 235
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36550,6 +43824,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 1930,
+        "atk": 256,
+        "def": 222
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -36573,6 +43852,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 2642,
+        "atk": 348,
+        "def": 291
       },
       "passives": [
         {
@@ -36602,6 +43886,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 567,
+        "atk": 12,
+        "def": 13
       },
       "passives": [
         {
@@ -36642,6 +43931,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 2671,
+        "atk": 421,
+        "def": 279
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -36665,6 +43959,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 4352,
+        "atk": 524,
+        "def": 587
       },
       "passives": [
         {
@@ -36690,6 +43989,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 4172,
+        "atk": 790,
+        "def": 635
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -36713,6 +44017,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 24,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 3892,
+        "atk": 486,
+        "def": 748
       },
       "passives": [
         {
@@ -36743,6 +44052,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 5138,
+        "atk": 447,
+        "def": 532
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36771,6 +44085,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 4251,
+        "atk": 674,
+        "def": 745
       },
       "passives": [
         {
@@ -36801,6 +44120,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2292,
+        "atk": 485,
+        "def": 305
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -36824,6 +44148,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 2906,
+        "atk": 424,
+        "def": 372
       },
       "passives": [
         {
@@ -36849,6 +44178,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 3729,
+        "atk": 515,
+        "def": 554
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -36873,6 +44207,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 554,
+        "atk": 10,
+        "def": 12
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -36896,6 +44235,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 27,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 4757,
+        "atk": 352,
+        "def": 470
       },
       "passives": [
         {
@@ -36931,6 +44275,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 2980,
+        "atk": 461,
+        "def": 419
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -36954,6 +44303,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 3078,
+        "atk": 532,
+        "def": 415
       },
       "passives": [
         {
@@ -36979,6 +44333,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 3683,
+        "atk": 370,
+        "def": 403
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -37003,6 +44362,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 1792,
+        "atk": 254,
+        "def": 235
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -37026,6 +44390,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 2304,
+        "atk": 340,
+        "def": 292
       },
       "passives": [
         {
@@ -37056,6 +44425,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1791,
+        "atk": 270,
+        "def": 263
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -37073,6 +44447,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 5523,
+        "atk": 696,
+        "def": 794
       },
       "passives": [
         {
@@ -37108,6 +44487,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 2858,
+        "atk": 410,
+        "def": 365
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -37131,6 +44515,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 2422,
+        "atk": 400,
+        "def": 273
       },
       "passives": [
         {
@@ -37156,6 +44545,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 3013,
+        "atk": 495,
+        "def": 463
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -37179,6 +44573,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 3406,
+        "atk": 481,
+        "def": 453
       },
       "passives": [
         {
@@ -37204,6 +44603,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2683,
+        "atk": 345,
+        "def": 305
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -37227,6 +44631,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 28
+      },
+      "power_stats": {
+        "hp": 2553,
+        "atk": 368,
+        "def": 259
       },
       "passives": [
         {
@@ -37252,6 +44661,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 565,
+        "atk": 11,
+        "def": 12
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -37275,6 +44689,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 2703,
+        "atk": 343,
+        "def": 266
       },
       "passives": [
         {
@@ -37300,6 +44719,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 2536,
+        "atk": 359,
+        "def": 378
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -37317,6 +44741,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 57,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 4120,
+        "atk": 349,
+        "def": 409
       },
       "passives": [
         {
@@ -37347,6 +44776,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 2722,
+        "atk": 273,
+        "def": 316
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -37371,6 +44805,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 2472,
+        "atk": 324,
+        "def": 319
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -37394,6 +44833,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 582,
+        "atk": 12,
+        "def": 10
       },
       "passives": [
         {
@@ -37434,6 +44878,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 2609,
+        "atk": 386,
+        "def": 331
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -37457,6 +44906,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 2527,
+        "atk": 309,
+        "def": 371
       },
       "passives": [
         {
@@ -37482,6 +44936,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 2532,
+        "atk": 360,
+        "def": 399
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -37505,6 +44964,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 2801,
+        "atk": 327,
+        "def": 332
       },
       "passives": [
         {
@@ -37530,6 +44994,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2200,
+        "atk": 333,
+        "def": 322
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -37547,6 +45016,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 3955,
+        "atk": 675,
+        "def": 609
       },
       "passives": [
         {
@@ -37576,6 +45050,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 2836,
+        "atk": 265,
+        "def": 279
       },
       "passives": [
         {
@@ -37610,6 +45089,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 2477,
+        "atk": 388,
+        "def": 376
       },
       "passives": [
         {
@@ -37650,6 +45134,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 2562,
+        "atk": 373,
+        "def": 270
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -37679,6 +45168,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 2699,
+        "atk": 451,
+        "def": 363
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -37702,6 +45196,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 4600,
+        "atk": 353,
+        "def": 530
       },
       "passives": [
         {
@@ -37732,6 +45231,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 4398,
+        "atk": 392,
+        "def": 403
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -37761,6 +45265,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 2577,
+        "atk": 415,
+        "def": 295
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -37784,6 +45293,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 27,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 2865,
+        "atk": 333,
+        "def": 333
       },
       "passives": [
         {
@@ -37809,6 +45323,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 3025,
+        "atk": 271,
+        "def": 292
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -37832,6 +45351,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 48
+      },
+      "power_stats": {
+        "hp": 2792,
+        "atk": 398,
+        "def": 497
       },
       "passives": [
         {
@@ -37862,6 +45386,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 3004,
+        "atk": 377,
+        "def": 464
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -37885,6 +45414,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 47
+      },
+      "power_stats": {
+        "hp": 2727,
+        "atk": 405,
+        "def": 310
       },
       "passives": [
         {
@@ -37910,6 +45444,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 2195,
+        "atk": 277,
+        "def": 246
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -37933,6 +45472,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 2825,
+        "atk": 438,
+        "def": 391
       },
       "passives": [
         {
@@ -37958,6 +45502,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 4812,
+        "atk": 821,
+        "def": 688
+      },
       "passives": [
         {
           "id": "Rare",
@@ -37981,6 +45530,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 2689,
+        "atk": 332,
+        "def": 297
       },
       "passives": [
         {
@@ -38006,6 +45560,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 2400,
+        "atk": 400,
+        "def": 288
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -38029,6 +45588,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 4809,
+        "atk": 655,
+        "def": 670
       },
       "passives": [
         {
@@ -38054,6 +45618,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 2615,
+        "atk": 353,
+        "def": 266
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -38077,6 +45646,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 1904,
+        "atk": 246,
+        "def": 193
       },
       "passives": [
         {
@@ -38102,6 +45676,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 8
       },
+      "power_stats": {
+        "hp": 2893,
+        "atk": 348,
+        "def": 351
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -38119,6 +45698,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 2106,
+        "atk": 234,
+        "def": 312
       },
       "passives": [
         {
@@ -38143,6 +45727,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 93
+      },
+      "power_stats": {
+        "hp": 1888,
+        "atk": 320,
+        "def": 220
       },
       "passives": [
         {
@@ -38173,6 +45762,11 @@ window.PALWORLD_DATA = {
         "shot": 85,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 1943,
+        "atk": 313,
+        "def": 172
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -38190,6 +45784,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 2725,
+        "atk": 377,
+        "def": 383
       },
       "passives": [
         {
@@ -38214,6 +45813,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 1596,
+        "atk": 196,
+        "def": 200
       },
       "passives": [
         {
@@ -38254,6 +45858,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 2142,
+        "atk": 271,
+        "def": 272
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -38277,6 +45886,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 1934,
+        "atk": 227,
+        "def": 281
       },
       "passives": [
         {
@@ -38302,6 +45916,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 1865,
+        "atk": 256,
+        "def": 271
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -38320,6 +45939,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 2086,
+        "atk": 294,
+        "def": 219
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -38337,6 +45961,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 2377,
+        "atk": 305,
+        "def": 339
       },
       "passives": [
         {
@@ -38361,6 +45990,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 46
+      },
+      "power_stats": {
+        "hp": 2238,
+        "atk": 359,
+        "def": 422
       },
       "passives": [
         {
@@ -38391,6 +46025,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 2325,
+        "atk": 325,
+        "def": 247
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -38415,6 +46054,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 2469,
+        "atk": 358,
+        "def": 282
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -38438,6 +46082,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 1607,
+        "atk": 212,
+        "def": 214
       },
       "passives": [
         {
@@ -38473,6 +46122,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 7277,
+        "atk": 976,
+        "def": 945
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -38496,6 +46150,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 2166,
+        "atk": 283,
+        "def": 221
       },
       "passives": [
         {
@@ -38521,6 +46180,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 2664,
+        "atk": 364,
+        "def": 266
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -38544,6 +46208,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 2598,
+        "atk": 428,
+        "def": 372
       },
       "passives": [
         {
@@ -38579,6 +46248,11 @@ window.PALWORLD_DATA = {
         "shot": 85,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 4757,
+        "atk": 701,
+        "def": 441
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -38608,6 +46282,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 1952,
+        "atk": 270,
+        "def": 248
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -38626,6 +46305,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 1737,
+        "atk": 247,
+        "def": 225
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -38643,6 +46327,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 4024,
+        "atk": 912,
+        "def": 649
       },
       "passives": [
         {
@@ -38668,6 +46357,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 3063,
+        "atk": 250,
+        "def": 298
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -38691,6 +46385,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 1961,
+        "atk": 226,
+        "def": 180
       },
       "passives": [
         {
@@ -38721,6 +46420,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 1426,
+        "atk": 190,
+        "def": 127
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -38738,6 +46442,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 2158,
+        "atk": 309,
+        "def": 242
       },
       "passives": [
         {
@@ -38763,6 +46472,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 1908,
+        "atk": 281,
+        "def": 210
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -38786,6 +46500,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 4638,
+        "atk": 713,
+        "def": 650
       },
       "passives": [
         {
@@ -38816,6 +46535,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 1996,
+        "atk": 288,
+        "def": 271
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -38839,6 +46563,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 2617,
+        "atk": 402,
+        "def": 268
       },
       "passives": [
         {
@@ -38864,6 +46593,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2890,
+        "atk": 419,
+        "def": 308
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -38887,6 +46621,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 576,
+        "atk": 10,
+        "def": 12
       },
       "passives": [
         {
@@ -38917,6 +46656,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 3979,
+        "atk": 664,
+        "def": 545
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -38940,6 +46684,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 3258,
+        "atk": 425,
+        "def": 328
       },
       "passives": [
         {
@@ -38965,6 +46714,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 1926,
+        "atk": 325,
+        "def": 225
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -38988,6 +46742,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 69
+      },
+      "power_stats": {
+        "hp": 2821,
+        "atk": 437,
+        "def": 279
       },
       "passives": [
         {
@@ -39018,6 +46777,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 3147,
+        "atk": 586,
+        "def": 459
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -39046,6 +46810,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 1642,
+        "atk": 204,
+        "def": 185
       },
       "passives": [
         {
@@ -39076,6 +46845,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 1107,
+        "atk": 122,
+        "def": 122
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -39099,6 +46873,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 575,
+        "atk": 10,
+        "def": 8
       },
       "passives": [
         {
@@ -39124,6 +46903,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 3537,
+        "atk": 390,
+        "def": 339
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -39147,6 +46931,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 3000,
+        "atk": 560,
+        "def": 294
       },
       "passives": [
         {
@@ -39172,6 +46961,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 558,
+        "atk": 11,
+        "def": 7
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -39196,6 +46990,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 2567,
+        "atk": 359,
+        "def": 276
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -39213,6 +47012,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 2797,
+        "atk": 361,
+        "def": 303
       },
       "passives": [
         {
@@ -39238,6 +47042,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 3897,
+        "atk": 507,
+        "def": 412
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -39262,6 +47071,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 2412,
+        "atk": 304,
+        "def": 261
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -39285,6 +47099,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 3408,
+        "atk": 417,
+        "def": 437
       },
       "passives": [
         {
@@ -39315,6 +47134,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 3956,
+        "atk": 600,
+        "def": 524
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -39338,6 +47162,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 2111,
+        "atk": 208,
+        "def": 233
       },
       "passives": [
         {
@@ -39368,6 +47197,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 96
       },
+      "power_stats": {
+        "hp": 3344,
+        "atk": 453,
+        "def": 355
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -39387,7 +47221,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 1,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -39396,6 +47230,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 4048,
+        "atk": 577,
+        "def": 618
       },
       "passives": [
         {
@@ -39420,6 +47259,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 41
+      },
+      "power_stats": {
+        "hp": 5383,
+        "atk": 745,
+        "def": 661
       },
       "passives": [
         {
@@ -39455,6 +47299,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 4250,
+        "atk": 606,
+        "def": 384
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -39478,6 +47327,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 4022,
+        "atk": 560,
+        "def": 741
       },
       "passives": [
         {
@@ -39503,6 +47357,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 1120,
+        "atk": 95,
+        "def": 88
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -39526,6 +47385,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 2681,
+        "atk": 382,
+        "def": 402
       },
       "passives": [
         {
@@ -39561,6 +47425,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 4169,
+        "atk": 639,
+        "def": 540
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -39584,6 +47453,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 96,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 2970,
+        "atk": 440,
+        "def": 258
       },
       "passives": [
         {
@@ -39614,6 +47488,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 5182,
+        "atk": 770,
+        "def": 656
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -39638,6 +47517,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 2482,
+        "atk": 354,
+        "def": 282
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -39655,6 +47539,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 3171,
+        "atk": 528,
+        "def": 375
       },
       "passives": [
         {
@@ -39680,6 +47569,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 3317,
+        "atk": 482,
+        "def": 555
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -39703,6 +47597,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 2449,
+        "atk": 319,
+        "def": 291
       },
       "passives": [
         {
@@ -39728,6 +47627,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 2953,
+        "atk": 400,
+        "def": 349
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -39746,6 +47650,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 2765,
+        "atk": 354,
+        "def": 380
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -39763,6 +47672,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 2058,
+        "atk": 250,
+        "def": 218
       },
       "passives": [
         {
@@ -39788,6 +47702,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 5235,
+        "atk": 852,
+        "def": 607
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -39812,6 +47731,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 886,
+        "atk": 83,
+        "def": 70
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -39829,6 +47753,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 574,
+        "atk": 11,
+        "def": 10
       },
       "passives": [
         {
@@ -39869,6 +47798,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 2651,
+        "atk": 433,
+        "def": 305
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -39886,6 +47820,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 41
+      },
+      "power_stats": {
+        "hp": 1684,
+        "atk": 318,
+        "def": 190
       },
       "passives": [
         {
@@ -39911,6 +47850,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 2617,
+        "atk": 398,
+        "def": 350
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -39934,6 +47878,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 44,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 12,
+        "def": 11
       },
       "passives": [
         {
@@ -39969,6 +47918,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 2595,
+        "atk": 365,
+        "def": 353
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -39992,6 +47946,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 7326,
+        "atk": 1323,
+        "def": 1171
       },
       "passives": [
         {
@@ -40027,6 +47986,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 2642,
+        "atk": 301,
+        "def": 237
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -40044,6 +48008,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 581,
+        "atk": 10,
+        "def": 12
       },
       "passives": [
         {
@@ -40079,6 +48048,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 2936,
+        "atk": 335,
+        "def": 327
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -40102,6 +48076,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 3271,
+        "atk": 376,
+        "def": 457
       },
       "passives": [
         {
@@ -40142,6 +48121,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2031,
+        "atk": 254,
+        "def": 220
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -40166,6 +48150,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2853,
+        "atk": 431,
+        "def": 394
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -40189,6 +48178,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 2,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 2259,
+        "atk": 302,
+        "def": 444
       },
       "passives": [
         {
@@ -40219,6 +48213,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 2399,
+        "atk": 327,
+        "def": 307
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -40242,6 +48241,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 29
+      },
+      "power_stats": {
+        "hp": 2207,
+        "atk": 373,
+        "def": 291
       },
       "passives": [
         {
@@ -40282,6 +48286,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 3666,
+        "atk": 581,
+        "def": 421
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -40305,6 +48314,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 55,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 2779,
+        "atk": 352,
+        "def": 265
       },
       "passives": [
         {
@@ -40330,6 +48344,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 2553,
+        "atk": 347,
+        "def": 260
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -40354,6 +48373,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 4593,
+        "atk": 556,
+        "def": 502
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -40371,6 +48395,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 12,
+        "def": 10
       },
       "passives": [
         {
@@ -40411,6 +48440,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 3076,
+        "atk": 475,
+        "def": 393
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -40440,6 +48474,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 573,
+        "atk": 10,
+        "def": 12
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -40463,6 +48502,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 3510,
+        "atk": 435,
+        "def": 431
       },
       "passives": [
         {
@@ -40488,6 +48532,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 4809,
+        "atk": 655,
+        "def": 573
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -40511,6 +48560,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 3993,
+        "atk": 581,
+        "def": 599
       },
       "passives": [
         {
@@ -40536,6 +48590,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 2886,
+        "atk": 328,
+        "def": 380
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -40559,6 +48618,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 17,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 4372,
+        "atk": 643,
+        "def": 742
       },
       "passives": [
         {
@@ -40594,6 +48658,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 3966,
+        "atk": 562,
+        "def": 329
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -40617,6 +48686,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 44,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 4148,
+        "atk": 596,
+        "def": 565
       },
       "passives": [
         {
@@ -40642,6 +48716,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 696,
+        "atk": 21,
+        "def": 28
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -40660,6 +48739,11 @@ window.PALWORLD_DATA = {
         "shot": 7,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 4806,
+        "atk": 515,
+        "def": 498
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -40677,6 +48761,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 1,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 2324,
+        "atk": 345,
+        "def": 397
       },
       "passives": [
         {
@@ -40707,6 +48796,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 2832,
+        "atk": 361,
+        "def": 337
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -40736,6 +48830,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 34
       },
+      "power_stats": {
+        "hp": 1010,
+        "atk": 105,
+        "def": 78
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -40759,6 +48858,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 2759,
+        "atk": 347,
+        "def": 271
       },
       "passives": [
         {
@@ -40784,6 +48888,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 2646,
+        "atk": 381,
+        "def": 313
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -40807,6 +48916,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 4
+      },
+      "power_stats": {
+        "hp": 2826,
+        "atk": 401,
+        "def": 238
       },
       "passives": [
         {
@@ -40832,6 +48946,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 23
       },
+      "power_stats": {
+        "hp": 2193,
+        "atk": 279,
+        "def": 183
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -40855,6 +48974,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 2781,
+        "atk": 290,
+        "def": 291
       },
       "passives": [
         {
@@ -40880,6 +49004,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 2176,
+        "atk": 321,
+        "def": 229
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -40903,6 +49032,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 30
+      },
+      "power_stats": {
+        "hp": 5125,
+        "atk": 767,
+        "def": 634
       },
       "passives": [
         {
@@ -40928,6 +49062,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 5112,
+        "atk": 747,
+        "def": 675
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -40951,6 +49090,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 3737,
+        "atk": 576,
+        "def": 439
       },
       "passives": [
         {
@@ -40976,6 +49120,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 3848,
+        "atk": 552,
+        "def": 551
+      },
       "passives": [
         {
           "id": "NonKilling",
@@ -40999,6 +49148,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 4337,
+        "atk": 700,
+        "def": 679
       },
       "passives": [
         {
@@ -41034,6 +49188,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 1428,
+        "atk": 221,
+        "def": 193
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -41058,6 +49217,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 3957,
+        "atk": 530,
+        "def": 477
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -41075,6 +49239,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 44
+      },
+      "power_stats": {
+        "hp": 3333,
+        "atk": 526,
+        "def": 346
       },
       "passives": [
         {
@@ -41105,6 +49274,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 3951,
+        "atk": 897,
+        "def": 596
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -41129,6 +49303,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 988,
+        "atk": 105,
+        "def": 82
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -41146,6 +49325,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 4497,
+        "atk": 628,
+        "def": 480
       },
       "passives": [
         {
@@ -41176,6 +49360,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 3875,
+        "atk": 652,
+        "def": 475
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -41193,6 +49382,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 25
+      },
+      "power_stats": {
+        "hp": 986,
+        "atk": 79,
+        "def": 78
       },
       "passives": [
         {
@@ -41218,6 +49412,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 2403,
+        "atk": 469,
+        "def": 259
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -41242,6 +49441,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 2429,
+        "atk": 353,
+        "def": 240
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -41259,6 +49463,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 90,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 2296,
+        "atk": 374,
+        "def": 233
       },
       "passives": [
         {
@@ -41283,6 +49492,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 17,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 2418,
+        "atk": 290,
+        "def": 283
       },
       "passives": [
         {
@@ -41313,6 +49527,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 4249,
+        "atk": 794,
+        "def": 434
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -41342,6 +49561,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 5174,
+        "atk": 1063,
+        "def": 726
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -41365,6 +49589,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 48,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 10,
+        "def": 9
       },
       "passives": [
         {
@@ -41395,6 +49624,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 4456,
+        "atk": 844,
+        "def": 845
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -41424,6 +49658,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 4223,
+        "atk": 696,
+        "def": 527
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -41447,6 +49686,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 35,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 3978,
+        "atk": 728,
+        "def": 523
       },
       "passives": [
         {
@@ -41472,6 +49716,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 14
       },
+      "power_stats": {
+        "hp": 4522,
+        "atk": 543,
+        "def": 457
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -41495,6 +49744,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 26
+      },
+      "power_stats": {
+        "hp": 2027,
+        "atk": 323,
+        "def": 262
       },
       "passives": [
         {
@@ -41520,6 +49774,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 3455,
+        "atk": 707,
+        "def": 491
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -41543,6 +49802,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 6080,
+        "atk": 1224,
+        "def": 997
       },
       "passives": [
         {
@@ -41578,6 +49842,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 3979,
+        "atk": 477,
+        "def": 478
+      },
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -41607,6 +49876,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 3498,
+        "atk": 400,
+        "def": 514
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -41630,6 +49904,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 4780,
+        "atk": 602,
+        "def": 723
       },
       "passives": [
         {
@@ -41660,6 +49939,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 2678,
+        "atk": 345,
+        "def": 346
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -41683,6 +49967,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 4083,
+        "atk": 890,
+        "def": 491
       },
       "passives": [
         {
@@ -41718,6 +50007,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 4258,
+        "atk": 668,
+        "def": 556
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -41742,6 +50036,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 3536,
+        "atk": 720,
+        "def": 471
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -41759,6 +50058,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 568,
+        "atk": 10,
+        "def": 10
       },
       "passives": [
         {
@@ -41794,6 +50098,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 4302,
+        "atk": 769,
+        "def": 759
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -41818,6 +50127,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 3976,
+        "atk": 654,
+        "def": 435
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -41841,6 +50155,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 3708,
+        "atk": 549,
+        "def": 514
       },
       "passives": [
         {
@@ -41871,6 +50190,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 582,
+        "atk": 12,
+        "def": 8
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -41894,6 +50218,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 879,
+        "atk": 86,
+        "def": 66
       },
       "passives": [
         {
@@ -41919,6 +50248,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 3236,
+        "atk": 625,
+        "def": 531
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -41942,6 +50276,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 74,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 571,
+        "atk": 12,
+        "def": 8
       },
       "passives": [
         {
@@ -41972,6 +50311,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 984,
+        "atk": 101,
+        "def": 60
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -41996,6 +50340,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 2184,
+        "atk": 335,
+        "def": 248
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -42013,6 +50362,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 3520,
+        "atk": 691,
+        "def": 478
       },
       "passives": [
         {
@@ -42043,6 +50397,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 4037,
+        "atk": 601,
+        "def": 524
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -42066,6 +50425,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 566,
+        "atk": 9,
+        "def": 10
       },
       "passives": [
         {
@@ -42091,6 +50455,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 2738,
+        "atk": 417,
+        "def": 392
+      },
       "passives": [
         {
           "id": "PAL_conceited",
@@ -42114,6 +50483,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 1278,
+        "atk": 146,
+        "def": 106
       },
       "passives": [
         {
@@ -42154,6 +50528,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 2848,
+        "atk": 359,
+        "def": 361
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -42177,6 +50556,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 6356,
+        "atk": 1023,
+        "def": 1162
       },
       "passives": [
         {
@@ -42217,6 +50601,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 7720,
+        "atk": 1395,
+        "def": 1096
+      },
       "passives": [
         {
           "id": "Legend",
@@ -42251,6 +50640,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 1178,
+        "atk": 135,
+        "def": 87
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -42274,6 +50668,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 5275,
+        "atk": 1201,
+        "def": 1117
       },
       "passives": [
         {
@@ -42309,6 +50708,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 568,
+        "atk": 11,
+        "def": 11
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -42338,6 +50742,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 3207,
+        "atk": 438,
+        "def": 490
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -42366,6 +50775,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 5125,
+        "atk": 766,
+        "def": 677
       },
       "passives": [
         {
@@ -42401,6 +50815,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 557,
+        "atk": 9,
+        "def": 6
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -42424,6 +50843,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 3883,
+        "atk": 496,
+        "def": 430
       },
       "passives": [
         {
@@ -42449,6 +50873,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 929,
+        "atk": 103,
+        "def": 68
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -42472,6 +50901,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 3717,
+        "atk": 739,
+        "def": 523
       },
       "passives": [
         {
@@ -42497,6 +50931,11 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 3329,
+        "atk": 558,
+        "def": 409
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_3",
@@ -42521,6 +50960,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 5126,
+        "atk": 694,
+        "def": 716
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -42544,6 +50988,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 5026,
+        "atk": 677,
+        "def": 700
       },
       "passives": [
         {
@@ -42584,6 +51033,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 17
       },
+      "power_stats": {
+        "hp": 4421,
+        "atk": 795,
+        "def": 611
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -42607,6 +51061,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 1606,
+        "atk": 239,
+        "def": 154
       },
       "passives": [
         {
@@ -42632,6 +51091,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 3085,
+        "atk": 438,
+        "def": 391
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -42656,6 +51120,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 69
       },
+      "power_stats": {
+        "hp": 5301,
+        "atk": 632,
+        "def": 697
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -42679,6 +51148,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 3050,
+        "atk": 480,
+        "def": 474
       },
       "passives": [
         {
@@ -42709,6 +51183,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 1291,
+        "atk": 173,
+        "def": 114
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -42733,6 +51212,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 4583,
+        "atk": 746,
+        "def": 634
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -42750,6 +51234,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 945,
+        "atk": 90,
+        "def": 84
       },
       "passives": [
         {
@@ -42775,6 +51264,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 4513,
+        "atk": 765,
+        "def": 565
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -42799,6 +51293,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 5171,
+        "atk": 634,
+        "def": 585
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -42822,6 +51321,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 4862,
+        "atk": 852,
+        "def": 747
       },
       "passives": [
         {
@@ -42851,6 +51355,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 20,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 4820,
+        "atk": 669,
+        "def": 642
       },
       "passives": [
         {
@@ -42885,6 +51394,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 568,
+        "atk": 12,
+        "def": 11
       },
       "passives": [
         {
@@ -42925,6 +51439,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 3505,
+        "atk": 609,
+        "def": 574
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -42948,6 +51467,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 45
+      },
+      "power_stats": {
+        "hp": 5586,
+        "atk": 749,
+        "def": 667
       },
       "passives": [
         {
@@ -42973,6 +51497,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 3243,
+        "atk": 449,
+        "def": 494
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -42996,6 +51525,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 5272,
+        "atk": 799,
+        "def": 666
       },
       "passives": [
         {
@@ -43026,6 +51560,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 1128,
+        "atk": 131,
+        "def": 95
+      },
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -43049,6 +51588,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 2848,
+        "atk": 320,
+        "def": 259
       },
       "passives": [
         {
@@ -43074,6 +51618,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 3833,
+        "atk": 635,
+        "def": 581
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -43097,6 +51646,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 41
+      },
+      "power_stats": {
+        "hp": 2931,
+        "atk": 502,
+        "def": 452
       },
       "passives": [
         {
@@ -43122,6 +51676,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 3454,
+        "atk": 571,
+        "def": 462
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -43139,6 +51698,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 40
+      },
+      "power_stats": {
+        "hp": 2194,
+        "atk": 293,
+        "def": 262
       },
       "passives": [
         {
@@ -43169,6 +51733,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 4544,
+        "atk": 827,
+        "def": 626
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -43186,6 +51755,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 4501,
+        "atk": 869,
+        "def": 677
       },
       "passives": [
         {
@@ -43211,6 +51785,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 5347,
+        "atk": 682,
+        "def": 695
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -43234,6 +51813,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 2979,
+        "atk": 449,
+        "def": 398
       },
       "passives": [
         {
@@ -43259,6 +51843,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 4367,
+        "atk": 783,
+        "def": 677
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -43282,6 +51871,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 5025,
+        "atk": 673,
+        "def": 592
       },
       "passives": [
         {
@@ -43307,6 +51901,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 4483,
+        "atk": 609,
+        "def": 656
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -43330,6 +51929,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 73
+      },
+      "power_stats": {
+        "hp": 7327,
+        "atk": 1382,
+        "def": 1128
       },
       "passives": [
         {
@@ -43365,6 +51969,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 1248,
+        "atk": 128,
+        "def": 141
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -43388,6 +51997,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 44
+      },
+      "power_stats": {
+        "hp": 4398,
+        "atk": 767,
+        "def": 665
       },
       "passives": [
         {
@@ -43413,6 +52027,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 2849,
+        "atk": 511,
+        "def": 392
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -43436,6 +52055,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 3754,
+        "atk": 586,
+        "def": 486
       },
       "passives": [
         {
@@ -43461,6 +52085,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 3295,
+        "atk": 447,
+        "def": 419
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -43484,6 +52113,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 3167,
+        "atk": 525,
+        "def": 517
       },
       "passives": [
         {
@@ -43509,6 +52143,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 5562,
+        "atk": 901,
+        "def": 802
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -43532,6 +52171,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 4173,
+        "atk": 631,
+        "def": 560
       },
       "passives": [
         {
@@ -43557,6 +52201,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 5240,
+        "atk": 656,
+        "def": 690
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -43580,6 +52229,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 38
+      },
+      "power_stats": {
+        "hp": 3785,
+        "atk": 513,
+        "def": 495
       },
       "passives": [
         {
@@ -43610,6 +52264,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 3618,
+        "atk": 583,
+        "def": 508
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -43633,6 +52292,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 3062,
+        "atk": 571,
+        "def": 473
       },
       "passives": [
         {
@@ -43658,6 +52322,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 3735,
+        "atk": 734,
+        "def": 554
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -43681,6 +52350,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 10
+      },
+      "power_stats": {
+        "hp": 3987,
+        "atk": 683,
+        "def": 504
       },
       "passives": [
         {
@@ -43706,6 +52380,11 @@ window.PALWORLD_DATA = {
         "shot": 53,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 560,
+        "atk": 8,
+        "def": 9
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -43723,6 +52402,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 67
+      },
+      "power_stats": {
+        "hp": 3596,
+        "atk": 525,
+        "def": 550
       },
       "passives": [
         {
@@ -43747,6 +52431,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 5254,
+        "atk": 775,
+        "def": 618
       },
       "passives": [
         {
@@ -43787,6 +52476,11 @@ window.PALWORLD_DATA = {
         "shot": 36,
         "defense": 8
       },
+      "power_stats": {
+        "hp": 5899,
+        "atk": 695,
+        "def": 599
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -43804,6 +52498,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 4711,
+        "atk": 781,
+        "def": 743
       },
       "passives": [
         {
@@ -43829,6 +52528,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 4806,
+        "atk": 688,
+        "def": 723
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -43852,6 +52556,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 42
+      },
+      "power_stats": {
+        "hp": 5508,
+        "atk": 765,
+        "def": 560
       },
       "passives": [
         {
@@ -43881,6 +52590,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 5026,
+        "atk": 740,
+        "def": 585
       },
       "passives": [
         {
@@ -43916,6 +52630,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 1391,
+        "atk": 146,
+        "def": 139
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -43945,6 +52664,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 3189,
+        "atk": 486,
+        "def": 375
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -43968,6 +52692,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 4793,
+        "atk": 699,
+        "def": 613
       },
       "passives": [
         {
@@ -43993,6 +52722,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 558,
+        "atk": 8,
+        "def": 9
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -44016,6 +52750,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 2990,
+        "atk": 396,
+        "def": 430
       },
       "passives": [
         {
@@ -44046,6 +52785,11 @@ window.PALWORLD_DATA = {
         "shot": 64,
         "defense": 40
       },
+      "power_stats": {
+        "hp": 3229,
+        "atk": 590,
+        "def": 484
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -44069,6 +52813,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 3875,
+        "atk": 527,
+        "def": 608
       },
       "passives": [
         {
@@ -44104,6 +52853,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 3899,
+        "atk": 612,
+        "def": 471
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -44127,6 +52881,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 3160,
+        "atk": 549,
+        "def": 383
       },
       "passives": [
         {
@@ -44152,6 +52911,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 3596,
+        "atk": 561,
+        "def": 464
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -44169,6 +52933,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 3431,
+        "atk": 519,
+        "def": 526
       },
       "passives": [
         {
@@ -44194,6 +52963,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 3659,
+        "atk": 518,
+        "def": 428
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -44217,6 +52991,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 3644,
+        "atk": 623,
+        "def": 489
       },
       "passives": [
         {
@@ -44242,6 +53021,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 2927,
+        "atk": 345,
+        "def": 324
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -44265,6 +53049,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 4992,
+        "atk": 517,
+        "def": 582
       },
       "passives": [
         {
@@ -44295,6 +53084,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 2411,
+        "atk": 434,
+        "def": 412
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -44323,6 +53117,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 45
+      },
+      "power_stats": {
+        "hp": 2813,
+        "atk": 422,
+        "def": 327
       },
       "passives": [
         {
@@ -44353,6 +53152,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2781,
+        "atk": 395,
+        "def": 510
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -44376,6 +53180,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 5049,
+        "atk": 921,
+        "def": 896
       },
       "passives": [
         {
@@ -44406,6 +53215,11 @@ window.PALWORLD_DATA = {
         "shot": 77,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 3320,
+        "atk": 488,
+        "def": 570
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -44434,6 +53248,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 3745,
+        "atk": 524,
+        "def": 531
       },
       "passives": [
         {
@@ -44464,6 +53283,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 2083,
+        "atk": 268,
+        "def": 253
+      },
       "passives": [
         {
           "id": "Vampire",
@@ -44488,6 +53312,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 3481,
+        "atk": 437,
+        "def": 401
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -44511,6 +53340,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 2083,
+        "atk": 266,
+        "def": 339
       },
       "passives": [
         {
@@ -44541,6 +53375,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 3486,
+        "atk": 468,
+        "def": 388
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -44558,6 +53397,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 91,
         "defense": 86
+      },
+      "power_stats": {
+        "hp": 3050,
+        "atk": 530,
+        "def": 664
       },
       "passives": [
         {
@@ -44588,6 +53432,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 3996,
+        "atk": 537,
+        "def": 506
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -44612,6 +53461,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 2810,
+        "atk": 422,
+        "def": 503
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -44635,6 +53489,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 30,
         "defense": 32
+      },
+      "power_stats": {
+        "hp": 2968,
+        "atk": 433,
+        "def": 547
       },
       "passives": [
         {
@@ -44665,6 +53524,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 3872,
+        "atk": 565,
+        "def": 740
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44694,6 +53558,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 3497,
+        "atk": 486,
+        "def": 436
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -44717,6 +53586,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 3902,
+        "atk": 469,
+        "def": 580
       },
       "passives": [
         {
@@ -44742,6 +53616,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 3300,
+        "atk": 666,
+        "def": 451
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -44765,6 +53644,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 5026,
+        "atk": 509,
+        "def": 607
       },
       "passives": [
         {
@@ -44795,6 +53679,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 3406,
+        "atk": 322,
+        "def": 458
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44824,6 +53713,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 3168,
+        "atk": 493,
+        "def": 411
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -44848,6 +53742,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 2454,
+        "atk": 339,
+        "def": 399
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -44871,6 +53770,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 4057,
+        "atk": 616,
+        "def": 432
       },
       "passives": [
         {
@@ -44906,6 +53810,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 2478,
+        "atk": 355,
+        "def": 242
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -44930,6 +53839,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 2658,
+        "atk": 351,
+        "def": 241
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -44953,6 +53867,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 42,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 3519,
+        "atk": 556,
+        "def": 470
       },
       "passives": [
         {
@@ -44983,6 +53902,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 2
       },
+      "power_stats": {
+        "hp": 3625,
+        "atk": 490,
+        "def": 380
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -45006,6 +53930,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 2636,
+        "atk": 357,
+        "def": 349
       },
       "passives": [
         {
@@ -45031,6 +53960,11 @@ window.PALWORLD_DATA = {
         "shot": 27,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 4415,
+        "atk": 422,
+        "def": 469
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -45054,6 +53988,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 52,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 2606,
+        "atk": 457,
+        "def": 295
       },
       "passives": [
         {
@@ -45079,6 +54018,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 2960,
+        "atk": 317,
+        "def": 383
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -45102,6 +54046,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 4477,
+        "atk": 837,
+        "def": 596
       },
       "passives": [
         {
@@ -45127,6 +54076,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 3308,
+        "atk": 578,
+        "def": 504
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -45150,6 +54104,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 29,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 3550,
+        "atk": 578,
+        "def": 369
       },
       "passives": [
         {
@@ -45190,6 +54149,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 3114,
+        "atk": 605,
+        "def": 445
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -45219,6 +54183,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 2760,
+        "atk": 363,
+        "def": 381
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -45242,6 +54211,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 39
+      },
+      "power_stats": {
+        "hp": 3404,
+        "atk": 443,
+        "def": 401
       },
       "passives": [
         {
@@ -45267,6 +54241,11 @@ window.PALWORLD_DATA = {
         "shot": 53,
         "defense": 22
       },
+      "power_stats": {
+        "hp": 3272,
+        "atk": 407,
+        "def": 349
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -45291,6 +54270,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 2522,
+        "atk": 491,
+        "def": 324
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -45314,6 +54298,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 17,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 3705,
+        "atk": 533,
+        "def": 459
       },
       "passives": [
         {
@@ -45344,6 +54333,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 3792,
+        "atk": 514,
+        "def": 540
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -45372,6 +54366,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 3313,
+        "atk": 581,
+        "def": 417
       },
       "passives": [
         {
@@ -45402,6 +54401,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 3132,
+        "atk": 615,
+        "def": 401
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -45431,6 +54435,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 2822,
+        "atk": 381,
+        "def": 554
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -45455,6 +54464,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 2513,
+        "atk": 348,
+        "def": 404
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -45472,6 +54486,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 2719,
+        "atk": 371,
+        "def": 334
       },
       "passives": [
         {
@@ -45496,6 +54515,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 0,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 4959,
+        "atk": 412,
+        "def": 690
       },
       "passives": [
         {
@@ -45526,6 +54550,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 6155,
+        "atk": 909,
+        "def": 801
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -45544,6 +54573,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 4010,
+        "atk": 494,
+        "def": 413
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -45561,6 +54595,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 2828,
+        "atk": 431,
+        "def": 536
       },
       "passives": [
         {
@@ -45591,6 +54630,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 1862,
+        "atk": 249,
+        "def": 329
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_3",
@@ -45620,6 +54664,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 3823,
+        "atk": 561,
+        "def": 387
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -45643,6 +54692,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 2757,
+        "atk": 373,
+        "def": 314
       },
       "passives": [
         {
@@ -45668,6 +54722,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 2500,
+        "atk": 371,
+        "def": 370
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -45691,6 +54750,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 36,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 3331,
+        "atk": 558,
+        "def": 492
       },
       "passives": [
         {
@@ -45721,6 +54785,11 @@ window.PALWORLD_DATA = {
         "shot": 25,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 3025,
+        "atk": 325,
+        "def": 413
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -45744,6 +54813,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 54,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 5869,
+        "atk": 986,
+        "def": 816
       },
       "passives": [
         {
@@ -45779,6 +54853,7 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 92
       },
+      "power_stats": null,
       "passives": [],
       "owner": "Theo"
     },
@@ -45796,6 +54871,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 3326,
+        "atk": 582,
+        "def": 646
       },
       "passives": [
         {
@@ -45821,6 +54901,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 3282,
+        "atk": 651,
+        "def": 448
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -45844,6 +54929,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 93
+      },
+      "power_stats": {
+        "hp": 3405,
+        "atk": 337,
+        "def": 475
       },
       "passives": [
         {
@@ -45873,6 +54963,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 54,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 6402,
+        "atk": 1106,
+        "def": 892
       },
       "passives": [
         {
@@ -45908,6 +55003,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2819,
+        "atk": 421,
+        "def": 296
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -45932,6 +55032,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 4256,
+        "atk": 426,
+        "def": 460
+      },
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -45955,6 +55060,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 1754,
+        "atk": 228,
+        "def": 190
       },
       "passives": [
         {
@@ -45985,6 +55095,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 2300,
+        "atk": 330,
+        "def": 386
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -46002,6 +55117,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 3821,
+        "atk": 603,
+        "def": 612
       },
       "passives": [
         {
@@ -46031,6 +55151,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 2923,
+        "atk": 418,
+        "def": 426
       },
       "passives": [
         {
@@ -46066,6 +55191,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 3405,
+        "atk": 482,
+        "def": 395
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -46090,6 +55220,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 3177,
+        "atk": 579,
+        "def": 450
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -46113,6 +55248,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 1952,
+        "atk": 359,
+        "def": 220
       },
       "passives": [
         {
@@ -46143,6 +55283,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 4147,
+        "atk": 673,
+        "def": 514
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -46166,6 +55311,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 4630,
+        "atk": 789,
+        "def": 989
       },
       "passives": [
         {
@@ -46201,6 +55351,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 3058,
+        "atk": 315,
+        "def": 342
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -46230,6 +55385,11 @@ window.PALWORLD_DATA = {
         "shot": 71,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 2127,
+        "atk": 307,
+        "def": 285
+      },
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -46253,6 +55413,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 3840,
+        "atk": 521,
+        "def": 693
       },
       "passives": [
         {
@@ -46278,6 +55443,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 46
       },
+      "power_stats": {
+        "hp": 2304,
+        "atk": 280,
+        "def": 212
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -46301,6 +55471,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 2088,
+        "atk": 280,
+        "def": 257
       },
       "passives": [
         {
@@ -46326,6 +55501,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 4856,
+        "atk": 741,
+        "def": 684
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -46350,6 +55530,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 4722,
+        "atk": 532,
+        "def": 499
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -46373,6 +55558,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 4143,
+        "atk": 685,
+        "def": 975
       },
       "passives": [
         {
@@ -46403,6 +55593,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 2477,
+        "atk": 285,
+        "def": 289
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -46427,6 +55622,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 3469,
+        "atk": 575,
+        "def": 423
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -46444,6 +55644,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 60,
         "defense": 6
+      },
+      "power_stats": {
+        "hp": 3557,
+        "atk": 618,
+        "def": 403
       },
       "passives": [
         {
@@ -46469,6 +55674,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 2603,
+        "atk": 442,
+        "def": 367
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -46492,6 +55702,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 19,
         "defense": 60
+      },
+      "power_stats": {
+        "hp": 2374,
+        "atk": 400,
+        "def": 321
       },
       "passives": [
         {
@@ -46522,6 +55737,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2752,
+        "atk": 352,
+        "def": 263
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -46545,6 +55765,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 4107,
+        "atk": 563,
+        "def": 486
       },
       "passives": [
         {
@@ -46570,6 +55795,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 2975,
+        "atk": 568,
+        "def": 338
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -46593,6 +55823,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 4163,
+        "atk": 503,
+        "def": 455
       },
       "passives": [
         {
@@ -46618,6 +55853,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 1912,
+        "atk": 165,
+        "def": 190
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -46641,6 +55881,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 47,
         "defense": 25
+      },
+      "power_stats": {
+        "hp": 3416,
+        "atk": 473,
+        "def": 492
       },
       "passives": [
         {
@@ -46666,6 +55911,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 13
       },
+      "power_stats": {
+        "hp": 2685,
+        "atk": 340,
+        "def": 372
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -46683,6 +55933,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 4478,
+        "atk": 490,
+        "def": 515
       },
       "passives": [
         {
@@ -46708,6 +55963,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 2862,
+        "atk": 491,
+        "def": 395
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -46732,6 +55992,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 3766,
+        "atk": 712,
+        "def": 450
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -46755,6 +56020,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 1812,
+        "atk": 177,
+        "def": 147
       },
       "passives": [
         {
@@ -46785,6 +56055,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 4322,
+        "atk": 635,
+        "def": 421
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -46808,6 +56083,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 2755,
+        "atk": 377,
+        "def": 311
       },
       "passives": [
         {
@@ -46833,6 +56113,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 3542,
+        "atk": 519,
+        "def": 351
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -46856,6 +56141,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 27
+      },
+      "power_stats": {
+        "hp": 3457,
+        "atk": 395,
+        "def": 463
       },
       "passives": [
         {
@@ -46891,6 +56181,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 563,
+        "atk": 10,
+        "def": 9
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -46920,6 +56215,11 @@ window.PALWORLD_DATA = {
         "shot": 14,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 3424,
+        "atk": 362,
+        "def": 468
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -46943,6 +56243,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 4662,
+        "atk": 537,
+        "def": 449
       },
       "passives": [
         {
@@ -46973,6 +56278,11 @@ window.PALWORLD_DATA = {
         "shot": 62,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 3201,
+        "atk": 437,
+        "def": 391
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -46996,6 +56306,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 25
+      },
+      "power_stats": {
+        "hp": 4832,
+        "atk": 487,
+        "def": 633
       },
       "passives": [
         {
@@ -47021,6 +56336,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 2936,
+        "atk": 535,
+        "def": 437
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -47045,6 +56365,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 3089,
+        "atk": 493,
+        "def": 403
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -47062,6 +56387,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 7
+      },
+      "power_stats": {
+        "hp": 4165,
+        "atk": 517,
+        "def": 458
       },
       "passives": [
         {
@@ -47087,6 +56417,11 @@ window.PALWORLD_DATA = {
         "shot": 24,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 3628,
+        "atk": 486,
+        "def": 686
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -47111,6 +56446,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 4331,
+        "atk": 451,
+        "def": 537
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -47134,6 +56474,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 5957,
+        "atk": 986,
+        "def": 1070
       },
       "passives": [
         {
@@ -47174,6 +56519,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 2611,
+        "atk": 326,
+        "def": 341
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -47198,6 +56548,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 2258,
+        "atk": 378,
+        "def": 240
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -47221,6 +56576,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 4260,
+        "atk": 694,
+        "def": 507
       },
       "passives": [
         {
@@ -47256,6 +56616,11 @@ window.PALWORLD_DATA = {
         "shot": 58,
         "defense": 15
       },
+      "power_stats": {
+        "hp": 3360,
+        "atk": 536,
+        "def": 374
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -47280,6 +56645,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 3703,
+        "atk": 358,
+        "def": 538
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -47303,6 +56673,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 91
+      },
+      "power_stats": {
+        "hp": 2603,
+        "atk": 468,
+        "def": 393
       },
       "passives": [
         {
@@ -47333,6 +56708,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 2465,
+        "atk": 438,
+        "def": 255
+      },
       "passives": [
         {
           "id": "Rare",
@@ -47356,6 +56736,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 57,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 2309,
+        "atk": 328,
+        "def": 415
       },
       "passives": [
         {
@@ -47391,6 +56776,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 2510,
+        "atk": 328,
+        "def": 378
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -47414,6 +56804,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 3098,
+        "atk": 582,
+        "def": 356
       },
       "passives": [
         {
@@ -47439,6 +56834,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2777,
+        "atk": 371,
+        "def": 384
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -47456,6 +56856,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 17
+      },
+      "power_stats": {
+        "hp": 3685,
+        "atk": 519,
+        "def": 474
       },
       "passives": [
         {
@@ -47481,6 +56886,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 2117,
+        "atk": 257,
+        "def": 213
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -47504,6 +56914,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 4061,
+        "atk": 473,
+        "def": 502
       },
       "passives": [
         {
@@ -47534,6 +56949,11 @@ window.PALWORLD_DATA = {
         "shot": 17,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 2696,
+        "atk": 341,
+        "def": 366
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -47557,6 +56977,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 3349,
+        "atk": 432,
+        "def": 375
       },
       "passives": [
         {
@@ -47582,6 +57007,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 83
       },
+      "power_stats": {
+        "hp": 2350,
+        "atk": 290,
+        "def": 313
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -47599,6 +57029,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 89,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 562,
+        "atk": 11,
+        "def": 11
       },
       "passives": [
         {
@@ -47639,6 +57074,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 3993,
+        "atk": 521,
+        "def": 522
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -47667,6 +57107,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 97,
         "defense": 37
+      },
+      "power_stats": {
+        "hp": 3243,
+        "atk": 489,
+        "def": 345
       },
       "passives": [
         {
@@ -47697,6 +57142,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 2398,
+        "atk": 322,
+        "def": 342
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -47720,6 +57170,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 25,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 3340,
+        "atk": 476,
+        "def": 385
       },
       "passives": [
         {
@@ -47745,6 +57200,11 @@ window.PALWORLD_DATA = {
         "shot": 18,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 2640,
+        "atk": 319,
+        "def": 282
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -47768,6 +57228,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 41
+      },
+      "power_stats": {
+        "hp": 3656,
+        "atk": 654,
+        "def": 444
       },
       "passives": [
         {
@@ -47803,6 +57268,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 4816,
+        "atk": 812,
+        "def": 563
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -47837,6 +57307,11 @@ window.PALWORLD_DATA = {
         "shot": 14,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 1910,
+        "atk": 194,
+        "def": 175
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -47861,6 +57336,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 3292,
+        "atk": 457,
+        "def": 422
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -47884,6 +57364,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 568,
+        "atk": 9,
+        "def": 11
       },
       "passives": [
         {
@@ -47914,6 +57399,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 3226,
+        "atk": 378,
+        "def": 667
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -47937,6 +57427,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 31,
         "defense": 91
+      },
+      "power_stats": {
+        "hp": 2653,
+        "atk": 371,
+        "def": 284
       },
       "passives": [
         {
@@ -47962,6 +57457,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 2743,
+        "atk": 392,
+        "def": 284
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -47985,6 +57485,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 71,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 3457,
+        "atk": 507,
+        "def": 392
       },
       "passives": [
         {
@@ -48020,6 +57525,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 4146,
+        "atk": 591,
+        "def": 708
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -48043,6 +57553,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 2590,
+        "atk": 386,
+        "def": 493
       },
       "passives": [
         {
@@ -48068,6 +57583,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 3552,
+        "atk": 510,
+        "def": 409
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -48091,6 +57611,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 22,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 3230,
+        "atk": 455,
+        "def": 538
       },
       "passives": [
         {
@@ -48126,6 +57651,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 3912,
+        "atk": 560,
+        "def": 682
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -48155,6 +57685,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 3289,
+        "atk": 620,
+        "def": 463
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -48178,6 +57713,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 3096,
+        "atk": 652,
+        "def": 395
       },
       "passives": [
         {
@@ -48208,6 +57748,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 1693,
+        "atk": 218,
+        "def": 235
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -48232,6 +57777,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 4348,
+        "atk": 623,
+        "def": 552
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -48255,6 +57805,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 0
+      },
+      "power_stats": {
+        "hp": 2511,
+        "atk": 317,
+        "def": 313
       },
       "passives": [
         {
@@ -48285,6 +57840,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2440,
+        "atk": 489,
+        "def": 354
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -48308,6 +57868,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 2131,
+        "atk": 305,
+        "def": 341
       },
       "passives": [
         {
@@ -48343,6 +57908,11 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 4102,
+        "atk": 479,
+        "def": 535
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -48367,6 +57937,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2243,
+        "atk": 460,
+        "def": 312
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -48390,6 +57965,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 15,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 3391,
+        "atk": 431,
+        "def": 388
       },
       "passives": [
         {
@@ -48420,6 +58000,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 3184,
+        "atk": 606,
+        "def": 530
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -48448,6 +58033,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 1728,
+        "atk": 213,
+        "def": 147
       },
       "passives": [
         {
@@ -48478,6 +58068,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 43
       },
+      "power_stats": {
+        "hp": 2151,
+        "atk": 250,
+        "def": 195
+      },
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -48502,6 +58097,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2423,
+        "atk": 224,
+        "def": 292
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -48525,6 +58125,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 6316,
+        "atk": 1096,
+        "def": 986
       },
       "passives": [
         {
@@ -48560,6 +58165,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 53
       },
+      "power_stats": {
+        "hp": 1745,
+        "atk": 206,
+        "def": 168
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -48584,6 +58194,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 4222,
+        "atk": 670,
+        "def": 860
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -48607,6 +58222,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 5932,
+        "atk": 1112,
+        "def": 767
       },
       "passives": [
         {
@@ -48642,6 +58262,11 @@ window.PALWORLD_DATA = {
         "shot": 89,
         "defense": 81
       },
+      "power_stats": {
+        "hp": 2953,
+        "atk": 477,
+        "def": 287
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -48671,6 +58296,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 2370,
+        "atk": 483,
+        "def": 348
+      },
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -48694,6 +58324,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 15
+      },
+      "power_stats": {
+        "hp": 3723,
+        "atk": 564,
+        "def": 475
       },
       "passives": [
         {
@@ -48719,6 +58354,11 @@ window.PALWORLD_DATA = {
         "shot": 86,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 1923,
+        "atk": 248,
+        "def": 211
+      },
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -48743,6 +58383,11 @@ window.PALWORLD_DATA = {
         "shot": 31,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 2038,
+        "atk": 282,
+        "def": 264
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -48760,6 +58405,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 39,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 2370,
+        "atk": 302,
+        "def": 273
       },
       "passives": [
         {
@@ -48785,6 +58435,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 1965,
+        "atk": 305,
+        "def": 294
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -48808,6 +58463,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 21,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 3047,
+        "atk": 266,
+        "def": 370
       },
       "passives": [
         {
@@ -48833,6 +58493,11 @@ window.PALWORLD_DATA = {
         "shot": 56,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 2014,
+        "atk": 276,
+        "def": 233
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -48856,6 +58521,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 77,
         "defense": 34
+      },
+      "power_stats": {
+        "hp": 3445,
+        "atk": 480,
+        "def": 549
       },
       "passives": [
         {
@@ -48886,6 +58556,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2792,
+        "atk": 376,
+        "def": 420
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -48910,6 +58585,11 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 2429,
+        "atk": 270,
+        "def": 281
+      },
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -48933,6 +58613,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 87
+      },
+      "power_stats": {
+        "hp": 2689,
+        "atk": 451,
+        "def": 341
       },
       "passives": [
         {
@@ -48963,6 +58648,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 2704,
+        "atk": 422,
+        "def": 281
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -48992,6 +58682,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 3309,
+        "atk": 561,
+        "def": 381
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -49015,6 +58710,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 2868,
+        "atk": 388,
+        "def": 385
       },
       "passives": [
         {
@@ -49040,6 +58740,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 47
       },
+      "power_stats": {
+        "hp": 3934,
+        "atk": 538,
+        "def": 529
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -49063,6 +58768,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 3275,
+        "atk": 447,
+        "def": 715
       },
       "passives": [
         {
@@ -49103,6 +58813,11 @@ window.PALWORLD_DATA = {
         "shot": 85,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 2945,
+        "atk": 576,
+        "def": 453
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -49131,6 +58846,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 54,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 4193,
+        "atk": 554,
+        "def": 427
       },
       "passives": [
         {
@@ -49161,6 +58881,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 2618,
+        "atk": 324,
+        "def": 289
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -49185,6 +58910,11 @@ window.PALWORLD_DATA = {
         "shot": 39,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 3085,
+        "atk": 423,
+        "def": 272
+      },
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -49208,6 +58938,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 58,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 4163,
+        "atk": 637,
+        "def": 859
       },
       "passives": [
         {
@@ -49238,6 +58973,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 3973,
+        "atk": 393,
+        "def": 349
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -49261,6 +59001,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 2657,
+        "atk": 309,
+        "def": 456
       },
       "passives": [
         {
@@ -49286,6 +59031,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 4528,
+        "atk": 707,
+        "def": 768
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -49309,6 +59059,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 53
+      },
+      "power_stats": {
+        "hp": 2399,
+        "atk": 428,
+        "def": 316
       },
       "passives": [
         {
@@ -49349,6 +59104,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 7
       },
+      "power_stats": {
+        "hp": 3902,
+        "atk": 491,
+        "def": 311
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -49377,6 +59137,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 2904,
+        "atk": 408,
+        "def": 377
       },
       "passives": [
         {
@@ -49407,6 +59172,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 3231,
+        "atk": 423,
+        "def": 361
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -49431,6 +59201,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 0
       },
+      "power_stats": {
+        "hp": 2996,
+        "atk": 412,
+        "def": 322
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -49448,6 +59223,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 53,
         "defense": 1
+      },
+      "power_stats": {
+        "hp": 3111,
+        "atk": 446,
+        "def": 315
       },
       "passives": [
         {
@@ -49473,6 +59253,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 2722,
+        "atk": 396,
+        "def": 368
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -49496,6 +59281,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 567,
+        "atk": 12,
+        "def": 8
       },
       "passives": [
         {
@@ -49521,6 +59311,11 @@ window.PALWORLD_DATA = {
         "shot": 66,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 2960,
+        "atk": 362,
+        "def": 379
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -49545,6 +59340,11 @@ window.PALWORLD_DATA = {
         "shot": 68,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 2873,
+        "atk": 355,
+        "def": 331
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -49562,6 +59362,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 89
+      },
+      "power_stats": {
+        "hp": 2226,
+        "atk": 322,
+        "def": 278
       },
       "passives": [
         {
@@ -49587,6 +59392,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2532,
+        "atk": 268,
+        "def": 268
+      },
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -49610,6 +59420,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 3
+      },
+      "power_stats": {
+        "hp": 2729,
+        "atk": 473,
+        "def": 390
       },
       "passives": [
         {
@@ -49635,6 +59450,11 @@ window.PALWORLD_DATA = {
         "shot": 59,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 3074,
+        "atk": 392,
+        "def": 455
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -49652,6 +59472,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 3833,
+        "atk": 696,
+        "def": 525
       },
       "passives": [
         {
@@ -49677,6 +59502,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2786,
+        "atk": 487,
+        "def": 392
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -49700,6 +59530,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 13,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 2135,
+        "atk": 212,
+        "def": 246
       },
       "passives": [
         {
@@ -49725,6 +59560,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 4624,
+        "atk": 824,
+        "def": 571
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -49748,6 +59588,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 2505,
+        "atk": 363,
+        "def": 379
       },
       "passives": [
         {
@@ -49773,6 +59618,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 4231,
+        "atk": 502,
+        "def": 555
+      },
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -49796,6 +59646,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 4069,
+        "atk": 700,
+        "def": 602
       },
       "passives": [
         {
@@ -49826,6 +59681,11 @@ window.PALWORLD_DATA = {
         "shot": 5,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 3848,
+        "atk": 488,
+        "def": 522
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -49849,6 +59709,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 1965,
+        "atk": 247,
+        "def": 233
       },
       "passives": [
         {
@@ -49874,6 +59739,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 1902,
+        "atk": 367,
+        "def": 273
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -49891,6 +59761,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 8,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 3924,
+        "atk": 465,
+        "def": 550
       },
       "passives": [
         {
@@ -49915,6 +59790,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 3841,
+        "atk": 525,
+        "def": 632
       },
       "passives": [
         {
@@ -49945,6 +59825,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 1
       },
+      "power_stats": {
+        "hp": 3747,
+        "atk": 615,
+        "def": 537
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -49968,6 +59853,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 73,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 573,
+        "atk": 11,
+        "def": 8
       },
       "passives": [
         {
@@ -49993,6 +59883,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 67
       },
+      "power_stats": {
+        "hp": 4156,
+        "atk": 637,
+        "def": 850
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -50017,6 +59912,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 4412,
+        "atk": 663,
+        "def": 840
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -50040,6 +59940,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 30
+      },
+      "power_stats": {
+        "hp": 4433,
+        "atk": 481,
+        "def": 445
       },
       "passives": [
         {
@@ -50075,6 +59980,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 3812,
+        "atk": 552,
+        "def": 689
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -50104,6 +60014,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 3731,
+        "atk": 422,
+        "def": 458
+      },
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -50132,6 +60047,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 3010,
+        "atk": 534,
+        "def": 615
       },
       "passives": [
         {
@@ -50167,6 +60087,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 3846,
+        "atk": 775,
+        "def": 505
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -50190,6 +60115,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 5729,
+        "atk": 922,
+        "def": 981
       },
       "passives": [
         {
@@ -50225,6 +60155,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 3247,
+        "atk": 499,
+        "def": 387
+      },
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -50248,6 +60183,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 5251,
+        "atk": 712,
+        "def": 650
       },
       "passives": [
         {
@@ -50277,6 +60217,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 4479,
+        "atk": 1040,
+        "def": 1010
       },
       "passives": [
         {
@@ -50312,6 +60257,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 4977,
+        "atk": 695,
+        "def": 894
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -50336,6 +60286,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 954,
+        "atk": 83,
+        "def": 69
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -50359,6 +60314,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 3875,
+        "atk": 513,
+        "def": 592
       },
       "passives": [
         {
@@ -50399,6 +60359,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 4662,
+        "atk": 589,
+        "def": 799
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -50427,6 +60392,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 11,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 2957,
+        "atk": 387,
+        "def": 510
       },
       "passives": [
         {
@@ -50457,6 +60427,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 8
       },
+      "power_stats": {
+        "hp": 542,
+        "atk": 7,
+        "def": 6
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -50480,6 +60455,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 2238,
+        "atk": 263,
+        "def": 221
       },
       "passives": [
         {
@@ -50505,6 +60485,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 3643,
+        "atk": 591,
+        "def": 509
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -50529,6 +60514,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 3530,
+        "atk": 379,
+        "def": 342
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -50552,6 +60542,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 54,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 4086,
+        "atk": 435,
+        "def": 438
       },
       "passives": [
         {
@@ -50582,6 +60577,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 582,
+        "atk": 9,
+        "def": 9
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -50611,6 +60611,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 3491,
+        "atk": 574,
+        "def": 408
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -50635,6 +60640,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 547,
+        "atk": 11,
+        "def": 6
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -50658,6 +60668,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 56,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 6333,
+        "atk": 1080,
+        "def": 1082
       },
       "passives": [
         {
@@ -50693,6 +60708,11 @@ window.PALWORLD_DATA = {
         "shot": 8,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 1983,
+        "atk": 195,
+        "def": 202
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -50717,6 +60737,11 @@ window.PALWORLD_DATA = {
         "shot": 16,
         "defense": 89
       },
+      "power_stats": {
+        "hp": 3263,
+        "atk": 392,
+        "def": 547
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -50735,6 +60760,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 3444,
+        "atk": 437,
+        "def": 406
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -50752,6 +60782,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 14,
         "defense": 82
+      },
+      "power_stats": {
+        "hp": 4346,
+        "atk": 576,
+        "def": 606
       },
       "passives": [
         {
@@ -50776,6 +60811,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 35,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 1593,
+        "atk": 224,
+        "def": 219
       },
       "passives": [
         {
@@ -50806,6 +60846,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 76
       },
+      "power_stats": {
+        "hp": 1975,
+        "atk": 221,
+        "def": 194
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -50835,6 +60880,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 58
       },
+      "power_stats": {
+        "hp": 2529,
+        "atk": 369,
+        "def": 324
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -50858,6 +60908,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 3796,
+        "atk": 638,
+        "def": 502
       },
       "passives": [
         {
@@ -50888,6 +60943,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 3815,
+        "atk": 556,
+        "def": 533
+      },
       "passives": [],
       "owner": "Martial"
     },
@@ -50905,6 +60965,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 33,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 3854,
+        "atk": 460,
+        "def": 438
       },
       "passives": [
         {
@@ -50930,6 +60995,11 @@ window.PALWORLD_DATA = {
         "shot": 53,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 4392,
+        "atk": 666,
+        "def": 555
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -50953,6 +61023,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 6
+      },
+      "power_stats": {
+        "hp": 4325,
+        "atk": 922,
+        "def": 476
       },
       "passives": [
         {
@@ -50983,6 +61058,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 20
       },
+      "power_stats": {
+        "hp": 1920,
+        "atk": 328,
+        "def": 233
+      },
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -51006,6 +61086,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 3774,
+        "atk": 506,
+        "def": 343
       },
       "passives": [
         {
@@ -51031,6 +61116,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 4115,
+        "atk": 646,
+        "def": 578
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_3",
@@ -51054,6 +61144,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 56
+      },
+      "power_stats": {
+        "hp": 2632,
+        "atk": 337,
+        "def": 302
       },
       "passives": [
         {
@@ -51079,6 +61174,11 @@ window.PALWORLD_DATA = {
         "shot": 32,
         "defense": 28
       },
+      "power_stats": {
+        "hp": 3293,
+        "atk": 580,
+        "def": 426
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -51096,6 +61196,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 2252,
+        "atk": 299,
+        "def": 483
       },
       "passives": [
         {
@@ -51136,6 +61241,11 @@ window.PALWORLD_DATA = {
         "shot": 26,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 2765,
+        "atk": 353,
+        "def": 338
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -51159,6 +61269,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 12,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 4510,
+        "atk": 582,
+        "def": 933
       },
       "passives": [
         {
@@ -51194,6 +61309,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 3083,
+        "atk": 461,
+        "def": 359
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -51217,6 +61337,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 96,
         "defense": 68
+      },
+      "power_stats": {
+        "hp": 3618,
+        "atk": 544,
+        "def": 521
       },
       "passives": [
         {
@@ -51247,6 +61372,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 2050,
+        "atk": 232,
+        "def": 198
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -51271,6 +61401,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 39
       },
+      "power_stats": {
+        "hp": 3872,
+        "atk": 583,
+        "def": 697
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -51294,6 +61429,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 58
+      },
+      "power_stats": {
+        "hp": 2554,
+        "atk": 456,
+        "def": 407
       },
       "passives": [
         {
@@ -51329,6 +61469,11 @@ window.PALWORLD_DATA = {
         "shot": 13,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 4156,
+        "atk": 532,
+        "def": 532
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -51352,6 +61497,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 9,
         "defense": 83
+      },
+      "power_stats": {
+        "hp": 4045,
+        "atk": 440,
+        "def": 395
       },
       "passives": [
         {
@@ -51377,6 +61527,11 @@ window.PALWORLD_DATA = {
         "shot": 1,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 579,
+        "atk": 9,
+        "def": 9
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -51400,6 +61555,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 92,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 3174,
+        "atk": 423,
+        "def": 363
       },
       "passives": [
         {
@@ -51425,6 +61585,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 2698,
+        "atk": 428,
+        "def": 314
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -51448,6 +61613,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 49,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 2850,
+        "atk": 338,
+        "def": 331
       },
       "passives": [
         {
@@ -51473,6 +61643,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 2733,
+        "atk": 370,
+        "def": 309
+      },
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -51497,6 +61672,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 31
       },
+      "power_stats": {
+        "hp": 2940,
+        "atk": 333,
+        "def": 299
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -51520,6 +61700,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 55,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 4631,
+        "atk": 581,
+        "def": 509
       },
       "passives": [
         {
@@ -51555,6 +61740,11 @@ window.PALWORLD_DATA = {
         "shot": 30,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 2971,
+        "atk": 333,
+        "def": 321
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -51579,6 +61769,11 @@ window.PALWORLD_DATA = {
         "shot": 49,
         "defense": 71
       },
+      "power_stats": {
+        "hp": 2662,
+        "atk": 357,
+        "def": 329
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -51602,6 +61797,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 2766,
+        "atk": 331,
+        "def": 304
       },
       "passives": [
         {
@@ -51637,6 +61837,11 @@ window.PALWORLD_DATA = {
         "shot": 35,
         "defense": 66
       },
+      "power_stats": {
+        "hp": 2804,
+        "atk": 337,
+        "def": 318
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -51661,6 +61866,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 69
       },
+      "power_stats": {
+        "hp": 2305,
+        "atk": 343,
+        "def": 262
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -51684,6 +61894,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 3761,
+        "atk": 516,
+        "def": 381
       },
       "passives": [
         {
@@ -51714,6 +61929,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 3475,
+        "atk": 436,
+        "def": 412
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -51743,6 +61963,11 @@ window.PALWORLD_DATA = {
         "shot": 46,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 4582,
+        "atk": 527,
+        "def": 479
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -51760,6 +61985,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 57,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 3009,
+        "atk": 404,
+        "def": 388
       },
       "passives": [
         {
@@ -51789,6 +62019,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 32,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 2639,
+        "atk": 186,
+        "def": 364
       },
       "passives": [
         {
@@ -51829,6 +62064,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 4225,
+        "atk": 582,
+        "def": 579
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -51852,6 +62092,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 88,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 5437,
+        "atk": 1096,
+        "def": 888
       },
       "passives": [
         {
@@ -51887,6 +62132,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 3
       },
+      "power_stats": {
+        "hp": 3398,
+        "atk": 587,
+        "def": 395
+      },
       "passives": [
         {
           "id": "PAL_sadist",
@@ -51910,6 +62160,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 80,
         "defense": 18
+      },
+      "power_stats": {
+        "hp": 4167,
+        "atk": 437,
+        "def": 384
       },
       "passives": [
         {
@@ -51935,6 +62190,11 @@ window.PALWORLD_DATA = {
         "shot": 85,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 4320,
+        "atk": 705,
+        "def": 572
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -51958,6 +62218,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 579,
+        "atk": 12,
+        "def": 9
       },
       "passives": [
         {
@@ -51988,6 +62253,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 3882,
+        "atk": 372,
+        "def": 318
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -52011,6 +62281,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 94,
         "defense": 77
+      },
+      "power_stats": {
+        "hp": 5413,
+        "atk": 1111,
+        "def": 921
       },
       "passives": [
         {
@@ -52046,6 +62321,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 5745,
+        "atk": 747,
+        "def": 624
+      },
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -52069,6 +62349,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 66
+      },
+      "power_stats": {
+        "hp": 3034,
+        "atk": 423,
+        "def": 454
       },
       "passives": [
         {
@@ -52099,6 +62384,11 @@ window.PALWORLD_DATA = {
         "shot": 95,
         "defense": 68
       },
+      "power_stats": {
+        "hp": 6496,
+        "atk": 939,
+        "def": 655
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -52123,6 +62413,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2138,
+        "atk": 289,
+        "def": 297
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -52140,6 +62435,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 30,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 1959,
+        "atk": 237,
+        "def": 255
       },
       "passives": [
         {
@@ -52164,6 +62464,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 2357,
+        "atk": 417,
+        "def": 491
       },
       "passives": [
         {
@@ -52199,6 +62504,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 3976,
+        "atk": 356,
+        "def": 388
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -52228,6 +62538,11 @@ window.PALWORLD_DATA = {
         "shot": 51,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 5032,
+        "atk": 747,
+        "def": 710
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -52252,6 +62567,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 94
       },
+      "power_stats": {
+        "hp": 2500,
+        "atk": 384,
+        "def": 351
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -52269,6 +62589,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 100
+      },
+      "power_stats": {
+        "hp": 3973,
+        "atk": 410,
+        "def": 513
       },
       "passives": [
         {
@@ -52294,6 +62619,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 559,
+        "atk": 10,
+        "def": 8
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -52318,6 +62648,11 @@ window.PALWORLD_DATA = {
         "shot": 42,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 2778,
+        "atk": 397,
+        "def": 621
+      },
       "passives": [
         {
           "id": "Deffence_up2",
@@ -52341,6 +62676,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 4267,
+        "atk": 594,
+        "def": 663
       },
       "passives": [
         {
@@ -52371,6 +62711,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 25
       },
+      "power_stats": {
+        "hp": 1623,
+        "atk": 177,
+        "def": 159
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -52394,6 +62739,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 3879,
+        "atk": 575,
+        "def": 546
       },
       "passives": [
         {
@@ -52419,6 +62769,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 9
       },
+      "power_stats": {
+        "hp": 3302,
+        "atk": 440,
+        "def": 330
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -52442,6 +62797,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 95,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 5098,
+        "atk": 487,
+        "def": 690
       },
       "passives": [
         {
@@ -52472,6 +62832,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 86
       },
+      "power_stats": {
+        "hp": 3271,
+        "atk": 460,
+        "def": 556
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -52501,6 +62866,11 @@ window.PALWORLD_DATA = {
         "shot": 41,
         "defense": 74
       },
+      "power_stats": {
+        "hp": 3479,
+        "atk": 450,
+        "def": 420
+      },
       "passives": [
         {
           "id": "Nocturnal",
@@ -52524,6 +62894,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 99,
         "defense": 50
+      },
+      "power_stats": {
+        "hp": 5433,
+        "atk": 1326,
+        "def": 1156
       },
       "passives": [
         {
@@ -52559,6 +62934,11 @@ window.PALWORLD_DATA = {
         "shot": 57,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2569,
+        "atk": 396,
+        "def": 283
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -52576,6 +62956,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 6,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 4750,
+        "atk": 603,
+        "def": 512
       },
       "passives": [
         {
@@ -52600,6 +62985,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 66,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 5907,
+        "atk": 1012,
+        "def": 844
       },
       "passives": [
         {
@@ -52635,6 +63025,11 @@ window.PALWORLD_DATA = {
         "shot": 70,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 5641,
+        "atk": 481,
+        "def": 622
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -52664,6 +63059,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 2970,
+        "atk": 520,
+        "def": 399
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -52687,6 +63087,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 65,
         "defense": 22
+      },
+      "power_stats": {
+        "hp": 3885,
+        "atk": 826,
+        "def": 473
       },
       "passives": [
         {
@@ -52717,6 +63122,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 57
       },
+      "power_stats": {
+        "hp": 2803,
+        "atk": 411,
+        "def": 320
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -52740,6 +63150,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 16,
         "defense": 71
+      },
+      "power_stats": {
+        "hp": 574,
+        "atk": 9,
+        "def": 10
       },
       "passives": [
         {
@@ -52765,6 +63180,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 2589,
+        "atk": 457,
+        "def": 358
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -52788,6 +63208,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 5729,
+        "atk": 1076,
+        "def": 844
       },
       "passives": [
         {
@@ -52823,6 +63248,11 @@ window.PALWORLD_DATA = {
         "shot": 15,
         "defense": 16
       },
+      "power_stats": {
+        "hp": 4111,
+        "atk": 380,
+        "def": 382
+      },
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -52846,6 +63276,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 3598,
+        "atk": 622,
+        "def": 514
       },
       "passives": [
         {
@@ -52876,6 +63311,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 5
       },
+      "power_stats": {
+        "hp": 3121,
+        "atk": 659,
+        "def": 395
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -52891,6 +63331,35 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Dazzi",
+      "species": "RaijinDaughter",
+      "species_name": "Dazzi",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RaijinDaughter_icon_normal.webp",
+      "level": 21,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 5,
+        "melee": 0,
+        "shot": 56,
+        "defense": 6
+      },
+      "power_stats": {
+        "hp": 1351,
+        "atk": 178,
+        "def": 127
+      },
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Down_1",
+          "name": "Easygoing",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Fuddler",
       "species": "CuteMole",
       "species_name": "Fuddler",
@@ -52904,6 +63373,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 1853,
+        "atk": 299,
+        "def": 182
       },
       "passives": [
         {
@@ -52929,6 +63403,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2882,
+        "atk": 414,
+        "def": 445
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -52953,6 +63432,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 93
       },
+      "power_stats": {
+        "hp": 4580,
+        "atk": 538,
+        "def": 547
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -52970,6 +63454,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 24
+      },
+      "power_stats": {
+        "hp": 3553,
+        "atk": 781,
+        "def": 452
       },
       "passives": [
         {
@@ -52995,6 +63484,11 @@ window.PALWORLD_DATA = {
         "shot": 65,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 3352,
+        "atk": 510,
+        "def": 466
+      },
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -53018,6 +63512,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 29,
         "defense": 93
+      },
+      "power_stats": {
+        "hp": 3322,
+        "atk": 540,
+        "def": 579
       },
       "passives": [
         {
@@ -53043,6 +63542,11 @@ window.PALWORLD_DATA = {
         "shot": 97,
         "defense": 61
       },
+      "power_stats": {
+        "hp": 4031,
+        "atk": 566,
+        "def": 509
+      },
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -53066,6 +63570,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 28,
         "defense": 31
+      },
+      "power_stats": {
+        "hp": 4734,
+        "atk": 506,
+        "def": 491
       },
       "passives": [
         {
@@ -53091,6 +63600,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 3007,
+        "atk": 360,
+        "def": 326
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -53115,6 +63629,11 @@ window.PALWORLD_DATA = {
         "shot": 99,
         "defense": 36
       },
+      "power_stats": {
+        "hp": 3986,
+        "atk": 580,
+        "def": 488
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -53138,6 +63657,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 11
+      },
+      "power_stats": {
+        "hp": 4763,
+        "atk": 418,
+        "def": 610
       },
       "passives": [
         {
@@ -53168,6 +63692,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 33
       },
+      "power_stats": {
+        "hp": 3863,
+        "atk": 445,
+        "def": 392
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -53192,6 +63721,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 4240,
+        "atk": 523,
+        "def": 503
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -53209,6 +63743,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 46,
         "defense": 43
+      },
+      "power_stats": {
+        "hp": 2481,
+        "atk": 370,
+        "def": 391
       },
       "passives": [
         {
@@ -53244,6 +63783,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 2880,
+        "atk": 516,
+        "def": 346
+      },
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -53268,6 +63812,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 44
       },
+      "power_stats": {
+        "hp": 3400,
+        "atk": 518,
+        "def": 398
+      },
       "passives": [
         {
           "id": "NightOwl",
@@ -53291,6 +63840,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 90
+      },
+      "power_stats": {
+        "hp": 4521,
+        "atk": 667,
+        "def": 754
       },
       "passives": [
         {
@@ -53326,6 +63880,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 3679,
+        "atk": 580,
+        "def": 508
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -53350,6 +63909,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2779,
+        "atk": 412,
+        "def": 299
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -53373,6 +63937,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 9
+      },
+      "power_stats": {
+        "hp": 4155,
+        "atk": 524,
+        "def": 433
       },
       "passives": [
         {
@@ -53403,6 +63972,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 2566,
+        "atk": 352,
+        "def": 308
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -53426,6 +64000,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 4,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 2723,
+        "atk": 407,
+        "def": 320
       },
       "passives": [
         {
@@ -53456,6 +64035,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 1879,
+        "atk": 222,
+        "def": 242
+      },
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -53479,6 +64063,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 20
+      },
+      "power_stats": {
+        "hp": 2679,
+        "atk": 283,
+        "def": 298
       },
       "passives": [
         {
@@ -53504,6 +64093,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 2527,
+        "atk": 337,
+        "def": 309
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -53521,6 +64115,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 86,
         "defense": 41
+      },
+      "power_stats": {
+        "hp": 3533,
+        "atk": 650,
+        "def": 407
       },
       "passives": [
         {
@@ -53556,6 +64155,11 @@ window.PALWORLD_DATA = {
         "shot": 61,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 4308,
+        "atk": 691,
+        "def": 720
+      },
       "passives": [
         {
           "id": "Deffence_up1",
@@ -53585,6 +64189,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 84
       },
+      "power_stats": {
+        "hp": 2554,
+        "atk": 419,
+        "def": 432
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -53608,6 +64217,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 62,
         "defense": 98
+      },
+      "power_stats": {
+        "hp": 3936,
+        "atk": 585,
+        "def": 564
       },
       "passives": [
         {
@@ -53633,6 +64247,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 21
       },
+      "power_stats": {
+        "hp": 3958,
+        "atk": 570,
+        "def": 465
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -53656,6 +64275,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 38,
         "defense": 2
+      },
+      "power_stats": {
+        "hp": 3631,
+        "atk": 521,
+        "def": 382
       },
       "passives": [
         {
@@ -53686,6 +64310,11 @@ window.PALWORLD_DATA = {
         "shot": 4,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 3555,
+        "atk": 480,
+        "def": 479
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -53715,6 +64344,11 @@ window.PALWORLD_DATA = {
         "shot": 69,
         "defense": 79
       },
+      "power_stats": {
+        "hp": 3746,
+        "atk": 410,
+        "def": 427
+      },
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -53738,6 +64372,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 79,
         "defense": 51
+      },
+      "power_stats": {
+        "hp": 569,
+        "atk": 12,
+        "def": 8
       },
       "passives": [
         {
@@ -53763,6 +64402,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 35
       },
+      "power_stats": {
+        "hp": 3310,
+        "atk": 440,
+        "def": 295
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -53786,6 +64430,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 2354,
+        "atk": 324,
+        "def": 559
       },
       "passives": [
         {
@@ -53821,6 +64470,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 38
       },
+      "power_stats": {
+        "hp": 1881,
+        "atk": 234,
+        "def": 252
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -53844,6 +64498,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 54
+      },
+      "power_stats": {
+        "hp": 4349,
+        "atk": 560,
+        "def": 592
       },
       "passives": [
         {
@@ -53869,6 +64528,11 @@ window.PALWORLD_DATA = {
         "shot": 44,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 3567,
+        "atk": 470,
+        "def": 333
+      },
       "passives": [
         {
           "id": "Deffence_down2",
@@ -53893,6 +64557,11 @@ window.PALWORLD_DATA = {
         "shot": 67,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 3676,
+        "atk": 429,
+        "def": 370
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -53916,6 +64585,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 83,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 3971,
+        "atk": 575,
+        "def": 628
       },
       "passives": [
         {
@@ -53946,6 +64620,11 @@ window.PALWORLD_DATA = {
         "shot": 91,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 3682,
+        "atk": 599,
+        "def": 490
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -53970,6 +64649,11 @@ window.PALWORLD_DATA = {
         "shot": 75,
         "defense": 30
       },
+      "power_stats": {
+        "hp": 2563,
+        "atk": 411,
+        "def": 389
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -53993,6 +64677,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 81,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 2224,
+        "atk": 507,
+        "def": 262
       },
       "passives": [
         {
@@ -54023,6 +64712,7 @@ window.PALWORLD_DATA = {
         "shot": 45,
         "defense": 88
       },
+      "power_stats": null,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -54047,6 +64737,11 @@ window.PALWORLD_DATA = {
         "shot": 93,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 2475,
+        "atk": 286,
+        "def": 275
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -54070,6 +64765,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 68,
         "defense": 94
+      },
+      "power_stats": {
+        "hp": 4986,
+        "atk": 614,
+        "def": 756
       },
       "passives": [
         {
@@ -54100,6 +64800,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 60
       },
+      "power_stats": {
+        "hp": 4111,
+        "atk": 660,
+        "def": 599
+      },
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -54129,6 +64834,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 2801,
+        "atk": 630,
+        "def": 319
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -54146,6 +64856,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 41,
         "defense": 19
+      },
+      "power_stats": {
+        "hp": 2057,
+        "atk": 236,
+        "def": 169
       },
       "passives": [
         {
@@ -54171,6 +64886,11 @@ window.PALWORLD_DATA = {
         "shot": 21,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 1965,
+        "atk": 254,
+        "def": 235
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -54188,6 +64908,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 57
+      },
+      "power_stats": {
+        "hp": 5293,
+        "atk": 651,
+        "def": 471
       },
       "passives": [
         {
@@ -54223,6 +64948,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 3074,
+        "atk": 584,
+        "def": 432
+      },
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -54247,6 +64977,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 3023,
+        "atk": 698,
+        "def": 408
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -54270,6 +65005,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 50,
         "defense": 95
+      },
+      "power_stats": {
+        "hp": 4629,
+        "atk": 698,
+        "def": 571
       },
       "passives": [
         {
@@ -54300,6 +65040,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 55
       },
+      "power_stats": {
+        "hp": 2726,
+        "atk": 489,
+        "def": 412
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -54329,6 +65074,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 3935,
+        "atk": 544,
+        "def": 362
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -54353,6 +65103,11 @@ window.PALWORLD_DATA = {
         "shot": 20,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 695,
+        "atk": 30,
+        "def": 29
+      },
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -54376,6 +65131,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 93,
         "defense": 92
+      },
+      "power_stats": {
+        "hp": 3037,
+        "atk": 522,
+        "def": 383
       },
       "passives": [
         {
@@ -54406,6 +65166,11 @@ window.PALWORLD_DATA = {
         "shot": 22,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 2084,
+        "atk": 246,
+        "def": 244
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -54429,6 +65194,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 67,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 5282,
+        "atk": 782,
+        "def": 1016
       },
       "passives": [
         {
@@ -54459,6 +65229,11 @@ window.PALWORLD_DATA = {
         "shot": 87,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2651,
+        "atk": 478,
+        "def": 322
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -54474,6 +65249,35 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Ribbuny",
+      "species": "PinkRabbit",
+      "species_name": "Ribbuny",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkRabbit_icon_normal.webp",
+      "level": 24,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 45,
+        "melee": 0,
+        "shot": 69,
+        "defense": 3
+      },
+      "power_stats": {
+        "hp": 1641,
+        "atk": 177,
+        "def": 159
+      },
+      "passives": [
+        {
+          "id": "Deffence_up1",
+          "name": "Peau dure",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Suzaku",
       "species": "BOSS_Suzaku",
       "species_name": "Suzaku",
@@ -54487,6 +65291,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 4358,
+        "atk": 526,
+        "def": 499
       },
       "passives": [
         {
@@ -54512,6 +65321,11 @@ window.PALWORLD_DATA = {
         "shot": 38,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 3102,
+        "atk": 388,
+        "def": 316
+      },
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -54535,6 +65349,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 79
+      },
+      "power_stats": {
+        "hp": 2348,
+        "atk": 431,
+        "def": 294
       },
       "passives": [
         {
@@ -54560,6 +65379,11 @@ window.PALWORLD_DATA = {
         "shot": 6,
         "defense": 65
       },
+      "power_stats": {
+        "hp": 1989,
+        "atk": 228,
+        "def": 210
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -54584,6 +65408,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 10
       },
+      "power_stats": {
+        "hp": 1992,
+        "atk": 272,
+        "def": 184
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -54601,6 +65430,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 61,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 2428,
+        "atk": 268,
+        "def": 327
       },
       "passives": [
         {
@@ -54626,6 +65460,11 @@ window.PALWORLD_DATA = {
         "shot": 0,
         "defense": 26
       },
+      "power_stats": {
+        "hp": 1843,
+        "atk": 235,
+        "def": 252
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -54643,6 +65482,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 84
+      },
+      "power_stats": {
+        "hp": 566,
+        "atk": 12,
+        "def": 9
       },
       "passives": [
         {
@@ -54668,6 +65512,11 @@ window.PALWORLD_DATA = {
         "shot": 73,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 2000,
+        "atk": 252,
+        "def": 212
+      },
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -54691,6 +65540,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 76,
         "defense": 96
+      },
+      "power_stats": {
+        "hp": 701,
+        "atk": 34,
+        "def": 31
       },
       "passives": [
         {
@@ -54716,6 +65570,11 @@ window.PALWORLD_DATA = {
         "shot": 96,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 683,
+        "atk": 25,
+        "def": 27
+      },
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -54739,6 +65598,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 7,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 699,
+        "atk": 33,
+        "def": 24
       },
       "passives": [
         {
@@ -54764,6 +65628,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 685,
+        "atk": 24,
+        "def": 33
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -54788,6 +65657,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 54
       },
+      "power_stats": {
+        "hp": 2903,
+        "atk": 385,
+        "def": 315
+      },
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -54811,6 +65685,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 569,
+        "atk": 11,
+        "def": 13
       },
       "passives": [
         {
@@ -54846,6 +65725,11 @@ window.PALWORLD_DATA = {
         "shot": 74,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 3110,
+        "atk": 597,
+        "def": 400
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -54869,6 +65753,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 43,
         "defense": 61
+      },
+      "power_stats": {
+        "hp": 3621,
+        "atk": 540,
+        "def": 414
       },
       "passives": [
         {
@@ -54894,6 +65783,11 @@ window.PALWORLD_DATA = {
         "shot": 88,
         "defense": 37
       },
+      "power_stats": {
+        "hp": 3524,
+        "atk": 631,
+        "def": 519
+      },
       "passives": [],
       "owner": "Theo"
     },
@@ -54911,6 +65805,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 40,
         "defense": 49
+      },
+      "power_stats": {
+        "hp": 1959,
+        "atk": 250,
+        "def": 258
       },
       "passives": [
         {
@@ -54936,6 +65835,11 @@ window.PALWORLD_DATA = {
         "shot": 90,
         "defense": 32
       },
+      "power_stats": {
+        "hp": 2629,
+        "atk": 285,
+        "def": 299
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -54959,6 +65863,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 39,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 2031,
+        "atk": 278,
+        "def": 224
       },
       "passives": [
         {
@@ -54984,6 +65893,11 @@ window.PALWORLD_DATA = {
         "shot": 40,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 2808,
+        "atk": 250,
+        "def": 318
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -55007,6 +65921,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 4
+      },
+      "power_stats": {
+        "hp": 2490,
+        "atk": 335,
+        "def": 378
       },
       "passives": [
         {
@@ -55037,6 +65956,11 @@ window.PALWORLD_DATA = {
         "shot": 98,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 2405,
+        "atk": 388,
+        "def": 251
+      },
       "passives": [
         {
           "id": "Deffence_down1",
@@ -55060,6 +65984,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 72,
         "defense": 5
+      },
+      "power_stats": {
+        "hp": 2397,
+        "atk": 349,
+        "def": 232
       },
       "passives": [
         {
@@ -55085,6 +66014,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 87
       },
+      "power_stats": {
+        "hp": 4198,
+        "atk": 676,
+        "def": 549
+      },
       "passives": [
         {
           "id": "PAL_oraora",
@@ -55108,6 +66042,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 36
+      },
+      "power_stats": {
+        "hp": 1788,
+        "atk": 327,
+        "def": 196
       },
       "passives": [
         {
@@ -55133,6 +66072,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 18
       },
+      "power_stats": {
+        "hp": 1929,
+        "atk": 241,
+        "def": 247
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -55156,6 +66100,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 78,
         "defense": 75
+      },
+      "power_stats": {
+        "hp": 977,
+        "atk": 78,
+        "def": 79
       },
       "passives": [
         {
@@ -55196,6 +66145,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 45
       },
+      "power_stats": {
+        "hp": 2247,
+        "atk": 297,
+        "def": 278
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -55219,6 +66173,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 76
+      },
+      "power_stats": {
+        "hp": 2284,
+        "atk": 359,
+        "def": 466
       },
       "passives": [
         {
@@ -55249,6 +66208,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 2759,
+        "atk": 368,
+        "def": 405
+      },
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -55272,6 +66236,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 88
+      },
+      "power_stats": {
+        "hp": 4127,
+        "atk": 634,
+        "def": 594
       },
       "passives": [
         {
@@ -55297,6 +66266,11 @@ window.PALWORLD_DATA = {
         "shot": 55,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 3666,
+        "atk": 580,
+        "def": 567
+      },
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -55321,6 +66295,11 @@ window.PALWORLD_DATA = {
         "shot": 79,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 1846,
+        "atk": 279,
+        "def": 293
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -55344,6 +66323,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 100,
         "defense": 85
+      },
+      "power_stats": {
+        "hp": 5485,
+        "atk": 958,
+        "def": 809
       },
       "passives": [
         {
@@ -55374,6 +66358,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 4
       },
+      "power_stats": {
+        "hp": 3972,
+        "atk": 755,
+        "def": 403
+      },
       "passives": [
         {
           "id": "Alien",
@@ -55397,6 +66386,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 55
+      },
+      "power_stats": {
+        "hp": 4664,
+        "atk": 684,
+        "def": 565
       },
       "passives": [
         {
@@ -55432,6 +66426,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 92
       },
+      "power_stats": {
+        "hp": 2788,
+        "atk": 445,
+        "def": 372
+      },
       "passives": [
         {
           "id": "Noukin",
@@ -55440,6 +66439,35 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Katress",
+      "species": "CatMage",
+      "species_name": "Katress",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_CatMage_icon_normal.webp",
+      "level": 21,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 4,
+        "melee": 0,
+        "shot": 96,
+        "defense": 47
+      },
+      "power_stats": {
+        "hp": 1561,
+        "atk": 244,
+        "def": 176
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Aqua_1_PAL",
+          "name": "Hydrophile",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Shroomer Noct",
@@ -55456,8 +66484,36 @@ window.PALWORLD_DATA = {
         "shot": 19,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 3018,
+        "atk": 329,
+        "def": 309
+      },
       "passives": [],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Bristla",
+      "species": "LittleBriarRose",
+      "species_name": "Bristla",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LittleBriarRose_icon_normal.webp",
+      "level": 23,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 72,
+        "melee": 0,
+        "shot": 24,
+        "defense": 3
+      },
+      "power_stats": {
+        "hp": 1733,
+        "atk": 181,
+        "def": 156
+      },
+      "passives": [],
+      "owner": "Martial"
     },
     {
       "nickname": "Jellroy",
@@ -55473,6 +66529,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 84,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 3009,
+        "atk": 349,
+        "def": 292
       },
       "passives": [
         {
@@ -55498,6 +66559,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 95
       },
+      "power_stats": {
+        "hp": 3626,
+        "atk": 490,
+        "def": 798
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -55522,6 +66588,11 @@ window.PALWORLD_DATA = {
         "shot": 60,
         "defense": 88
       },
+      "power_stats": {
+        "hp": 4154,
+        "atk": 406,
+        "def": 536
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -55545,6 +66616,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 85,
         "defense": 21
+      },
+      "power_stats": {
+        "hp": 3416,
+        "atk": 815,
+        "def": 437
       },
       "passives": [
         {
@@ -55575,6 +66651,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 52
       },
+      "power_stats": {
+        "hp": 2657,
+        "atk": 448,
+        "def": 308
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -55583,6 +66664,40 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
+    },
+    {
+      "nickname": "Ribbuny",
+      "species": "PinkRabbit",
+      "species_name": "Ribbuny",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkRabbit_icon_normal.webp",
+      "level": 23,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 74,
+        "melee": 0,
+        "shot": 93,
+        "defense": 82
+      },
+      "power_stats": {
+        "hp": 1668,
+        "atk": 177,
+        "def": 167
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_down2",
+          "name": "Négligent",
+          "rank": -3
+        },
+        {
+          "id": "Stamina_Up_1",
+          "name": "Infinite Stamina",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Whalaska",
@@ -55598,6 +66713,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 8
+      },
+      "power_stats": {
+        "hp": 4821,
+        "atk": 773,
+        "def": 597
       },
       "passives": [
         {
@@ -55622,6 +66742,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 18,
         "defense": 72
+      },
+      "power_stats": {
+        "hp": 5124,
+        "atk": 620,
+        "def": 650
       },
       "passives": [
         {
@@ -55652,6 +66777,11 @@ window.PALWORLD_DATA = {
         "shot": 100,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 2499,
+        "atk": 425,
+        "def": 306
+      },
       "passives": [
         {
           "id": "PAL_rude",
@@ -55680,6 +66810,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 69,
         "defense": 81
+      },
+      "power_stats": {
+        "hp": 545,
+        "atk": 8,
+        "def": 6
       },
       "passives": [
         {
@@ -55710,6 +66845,11 @@ window.PALWORLD_DATA = {
         "shot": 37,
         "defense": 19
       },
+      "power_stats": {
+        "hp": 2198,
+        "atk": 255,
+        "def": 220
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -55734,6 +66874,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 90
       },
+      "power_stats": {
+        "hp": 4307,
+        "atk": 699,
+        "def": 612
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -55742,6 +66887,35 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Ribbuny Botan",
+      "species": "PinkRabbit_Grass",
+      "species_name": "Ribbuny Botan",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkRabbit_Grass_icon_normal.webp",
+      "level": 30,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 0,
+        "melee": 0,
+        "shot": 44,
+        "defense": 90
+      },
+      "power_stats": {
+        "hp": 1850,
+        "atk": 210,
+        "def": 222
+      },
+      "passives": [
+        {
+          "id": "CraftSpeed_up1",
+          "name": "Sérieux",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Dualith Noct",
@@ -55758,6 +66932,11 @@ window.PALWORLD_DATA = {
         "shot": 50,
         "defense": 56
       },
+      "power_stats": {
+        "hp": 5647,
+        "atk": 769,
+        "def": 981
+      },
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -55773,6 +66952,35 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Flopie",
+      "species": "FlowerRabbit",
+      "species_name": "Flopie",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlowerRabbit_icon_normal.webp",
+      "level": 23,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 75,
+        "melee": 0,
+        "shot": 84,
+        "defense": 86
+      },
+      "power_stats": {
+        "hp": 1671,
+        "atk": 174,
+        "def": 168
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Thunder_1_PAL",
+          "name": "Condensateur",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Blazamut",
       "species": "BOSS_KingBahamut",
       "species_name": "Blazamut",
@@ -55786,6 +66994,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 99
+      },
+      "power_stats": {
+        "hp": 3828,
+        "atk": 657,
+        "def": 645
       },
       "passives": [
         {
@@ -55816,6 +67029,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 27
       },
+      "power_stats": {
+        "hp": 2933,
+        "atk": 385,
+        "def": 321
+      },
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -55839,6 +67057,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 63,
         "defense": 80
+      },
+      "power_stats": {
+        "hp": 3142,
+        "atk": 408,
+        "def": 583
       },
       "passives": [
         {
@@ -55874,6 +67097,11 @@ window.PALWORLD_DATA = {
         "shot": 80,
         "defense": 72
       },
+      "power_stats": {
+        "hp": 5537,
+        "atk": 731,
+        "def": 703
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -55903,6 +67131,11 @@ window.PALWORLD_DATA = {
         "shot": 48,
         "defense": 48
       },
+      "power_stats": {
+        "hp": 1925,
+        "atk": 262,
+        "def": 266
+      },
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -55927,6 +67160,11 @@ window.PALWORLD_DATA = {
         "shot": 34,
         "defense": 6
       },
+      "power_stats": {
+        "hp": 2201,
+        "atk": 254,
+        "def": 239
+      },
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -55935,6 +67173,40 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Caprity",
+      "species": "BerryGoat",
+      "species_name": "Caprity",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BerryGoat_icon_normal.webp",
+      "level": 26,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 91,
+        "melee": 0,
+        "shot": 11,
+        "defense": 87
+      },
+      "power_stats": {
+        "hp": 2284,
+        "atk": 180,
+        "def": 312
+      },
+      "passives": [
+        {
+          "id": "MoveSpeed_up_2",
+          "name": "Coursier",
+          "rank": 3
+        },
+        {
+          "id": "Deffence_up3",
+          "name": "Diamond Body",
+          "rank": 4
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Tocotoco",
@@ -55950,6 +67222,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 70
+      },
+      "power_stats": {
+        "hp": 1802,
+        "atk": 233,
+        "def": 219
       },
       "passives": [
         {
@@ -55975,6 +67252,11 @@ window.PALWORLD_DATA = {
         "shot": 29,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 1822,
+        "atk": 258,
+        "def": 225
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -55998,6 +67280,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 82,
         "defense": 97
+      },
+      "power_stats": {
+        "hp": 6357,
+        "atk": 1136,
+        "def": 1076
       },
       "passives": [
         {
@@ -56033,6 +67320,11 @@ window.PALWORLD_DATA = {
         "shot": 23,
         "defense": 24
       },
+      "power_stats": {
+        "hp": 692,
+        "atk": 31,
+        "def": 27
+      },
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -56041,6 +67333,35 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
+    },
+    {
+      "nickname": "Caprity",
+      "species": "BerryGoat",
+      "species_name": "Caprity",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BerryGoat_icon_normal.webp",
+      "level": 24,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 99,
+        "melee": 0,
+        "shot": 26,
+        "defense": 63
+      },
+      "power_stats": {
+        "hp": 2176,
+        "atk": 171,
+        "def": 210
+      },
+      "passives": [
+        {
+          "id": "SalePrice_Up_1",
+          "name": "Noble",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Tombat",
@@ -56056,6 +67377,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 3,
         "defense": 23
+      },
+      "power_stats": {
+        "hp": 2410,
+        "atk": 312,
+        "def": 257
       },
       "passives": [
         {
@@ -56091,6 +67417,11 @@ window.PALWORLD_DATA = {
         "shot": 63,
         "defense": 49
       },
+      "power_stats": {
+        "hp": 2151,
+        "atk": 250,
+        "def": 274
+      },
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -56125,6 +67456,11 @@ window.PALWORLD_DATA = {
         "shot": 72,
         "defense": 97
       },
+      "power_stats": {
+        "hp": 2805,
+        "atk": 259,
+        "def": 327
+      },
       "passives": [],
       "owner": "takitome"
     },
@@ -56142,6 +67478,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 44
+      },
+      "power_stats": {
+        "hp": 3031,
+        "atk": 348,
+        "def": 286
       },
       "passives": [
         {
@@ -56166,6 +67507,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 64,
         "defense": 59
+      },
+      "power_stats": {
+        "hp": 2494,
+        "atk": 442,
+        "def": 320
       },
       "passives": [
         {
@@ -56196,6 +67542,11 @@ window.PALWORLD_DATA = {
         "shot": 83,
         "defense": 62
       },
+      "power_stats": {
+        "hp": 3437,
+        "atk": 370,
+        "def": 486
+      },
       "passives": [
         {
           "id": "PAL_masochist",
@@ -56219,6 +67570,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 26,
         "defense": 62
+      },
+      "power_stats": {
+        "hp": 2916,
+        "atk": 439,
+        "def": 385
       },
       "passives": [
         {
@@ -56254,6 +67610,11 @@ window.PALWORLD_DATA = {
         "shot": 9,
         "defense": 80
       },
+      "power_stats": {
+        "hp": 3528,
+        "atk": 329,
+        "def": 373
+      },
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -56278,6 +67639,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 73
       },
+      "power_stats": {
+        "hp": 3332,
+        "atk": 364,
+        "def": 367
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -56295,6 +67661,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 13
+      },
+      "power_stats": {
+        "hp": 3271,
+        "atk": 340,
+        "def": 317
       },
       "passives": [
         {
@@ -56320,6 +67691,11 @@ window.PALWORLD_DATA = {
         "shot": 3,
         "defense": 12
       },
+      "power_stats": {
+        "hp": 3354,
+        "atk": 294,
+        "def": 301
+      },
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -56343,6 +67719,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 45,
         "defense": 35
+      },
+      "power_stats": {
+        "hp": 2251,
+        "atk": 283,
+        "def": 279
       },
       "passives": [
         {
@@ -56368,6 +67749,11 @@ window.PALWORLD_DATA = {
         "shot": 54,
         "defense": 64
       },
+      "power_stats": {
+        "hp": 2351,
+        "atk": 243,
+        "def": 295
+      },
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -56392,6 +67778,11 @@ window.PALWORLD_DATA = {
         "shot": 12,
         "defense": 82
       },
+      "power_stats": {
+        "hp": 5587,
+        "atk": 656,
+        "def": 718
+      },
       "passives": [],
       "owner": "LawzZ"
     },
@@ -56409,6 +67800,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 57,
         "defense": 16
+      },
+      "power_stats": {
+        "hp": 2165,
+        "atk": 260,
+        "def": 305
       },
       "passives": [
         {
@@ -56434,6 +67830,11 @@ window.PALWORLD_DATA = {
         "shot": 33,
         "defense": 11
       },
+      "power_stats": {
+        "hp": 3540,
+        "atk": 525,
+        "def": 400
+      },
       "passives": [
         {
           "id": "RideJumpCount_Increase1",
@@ -56458,6 +67859,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 85
       },
+      "power_stats": {
+        "hp": 5776,
+        "atk": 1106,
+        "def": 866
+      },
       "passives": [
         {
           "id": "Legend",
@@ -56473,6 +67879,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Ribbuny",
+      "species": "PinkRabbit",
+      "species_name": "Ribbuny",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkRabbit_icon_normal.webp",
+      "level": 24,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 52,
+        "melee": 0,
+        "shot": 67,
+        "defense": 93
+      },
+      "power_stats": {
+        "hp": 1660,
+        "atk": 176,
+        "def": 179
+      },
+      "passives": [
+        {
+          "id": "Test_PalEgg_HatchingSpeed_Up",
+          "name": "Philanthropist",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Paladius",
       "species": "BOSS_SaintCentaur",
       "species_name": "Paladius",
@@ -56486,6 +67921,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 51,
         "defense": 78
+      },
+      "power_stats": {
+        "hp": 5647,
+        "atk": 925,
+        "def": 1020
       },
       "passives": [
         {
@@ -56521,6 +67961,11 @@ window.PALWORLD_DATA = {
         "shot": 76,
         "defense": 59
       },
+      "power_stats": {
+        "hp": 3981,
+        "atk": 411,
+        "def": 444
+      },
       "passives": [
         {
           "id": "MiniNushi",
@@ -56550,6 +67995,11 @@ window.PALWORLD_DATA = {
         "shot": 94,
         "defense": 99
       },
+      "power_stats": {
+        "hp": 6433,
+        "atk": 865,
+        "def": 856
+      },
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -56573,6 +68023,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 87,
         "defense": 63
+      },
+      "power_stats": {
+        "hp": 4943,
+        "atk": 889,
+        "def": 855
       },
       "passives": [
         {
@@ -56613,6 +68068,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 75
       },
+      "power_stats": {
+        "hp": 2636,
+        "atk": 297,
+        "def": 324
+      },
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -56636,6 +68096,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 59,
         "defense": 64
+      },
+      "power_stats": {
+        "hp": 5049,
+        "atk": 656,
+        "def": 678
       },
       "passives": [
         {
@@ -56666,6 +68131,11 @@ window.PALWORLD_DATA = {
         "shot": 82,
         "defense": 50
       },
+      "power_stats": {
+        "hp": 4837,
+        "atk": 750,
+        "def": 515
+      },
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -56695,6 +68165,11 @@ window.PALWORLD_DATA = {
         "shot": 92,
         "defense": 51
       },
+      "power_stats": {
+        "hp": 3872,
+        "atk": 822,
+        "def": 694
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -56718,6 +68193,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 75,
         "defense": 93
+      },
+      "power_stats": {
+        "hp": 4758,
+        "atk": 1239,
+        "def": 1104
       },
       "passives": [
         {
@@ -56753,6 +68233,11 @@ window.PALWORLD_DATA = {
         "shot": 52,
         "defense": 100
       },
+      "power_stats": {
+        "hp": 5091,
+        "atk": 549,
+        "def": 903
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -56787,6 +68272,11 @@ window.PALWORLD_DATA = {
         "shot": 2,
         "defense": 63
       },
+      "power_stats": {
+        "hp": 2887,
+        "atk": 252,
+        "def": 282
+      },
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -56811,6 +68301,11 @@ window.PALWORLD_DATA = {
         "shot": 43,
         "defense": 42
       },
+      "power_stats": {
+        "hp": 2404,
+        "atk": 259,
+        "def": 239
+      },
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -56834,6 +68329,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 98,
         "defense": 74
+      },
+      "power_stats": {
+        "hp": 4395,
+        "atk": 648,
+        "def": 846
       },
       "passives": [
         {
@@ -56864,6 +68364,11 @@ window.PALWORLD_DATA = {
         "shot": 10,
         "defense": 70
       },
+      "power_stats": {
+        "hp": 2441,
+        "atk": 401,
+        "def": 303
+      },
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -56893,6 +68398,11 @@ window.PALWORLD_DATA = {
         "shot": 81,
         "defense": 91
       },
+      "power_stats": {
+        "hp": 3910,
+        "atk": 632,
+        "def": 723
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -56917,6 +68427,11 @@ window.PALWORLD_DATA = {
         "shot": 78,
         "defense": 77
       },
+      "power_stats": {
+        "hp": 3875,
+        "atk": 627,
+        "def": 544
+      },
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -56925,6 +68440,35 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "inconnu"
+    },
+    {
+      "nickname": "Bristla",
+      "species": "BOSS_LittleBriarRose",
+      "species_name": "Bristla",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LittleBriarRose_icon_normal.webp",
+      "level": 28,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 57,
+        "melee": 0,
+        "shot": 59,
+        "defense": 99
+      },
+      "power_stats": {
+        "hp": 1951,
+        "atk": 239,
+        "def": 238
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Leaf_1_PAL",
+          "name": "Fragrance boisée",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Eikthyrdeer Terra",
@@ -56941,8 +68485,71 @@ window.PALWORLD_DATA = {
         "shot": 47,
         "defense": 98
       },
+      "power_stats": {
+        "hp": 1897,
+        "atk": 191,
+        "def": 195
+      },
       "passives": [],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Ribbuny",
+      "species": "PinkRabbit",
+      "species_name": "Ribbuny",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_PinkRabbit_icon_normal.webp",
+      "level": 22,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 66,
+        "melee": 0,
+        "shot": 16,
+        "defense": 24
+      },
+      "power_stats": {
+        "hp": 1598,
+        "atk": 145,
+        "def": 139
+      },
+      "passives": [
+        {
+          "id": "TrainerWorkSpeed_UP_1",
+          "name": "Motivateur",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Bristla",
+      "species": "LittleBriarRose",
+      "species_name": "Bristla",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LittleBriarRose_icon_normal.webp",
+      "level": 23,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 95,
+        "melee": 0,
+        "shot": 93,
+        "defense": 94
+      },
+      "power_stats": {
+        "hp": 1797,
+        "atk": 210,
+        "def": 193
+      },
+      "passives": [
+        {
+          "id": "SwimSpeed_up_1",
+          "name": "Sleek Stroke",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Azurobe Cryst",
@@ -56959,6 +68566,11 @@ window.PALWORLD_DATA = {
         "shot": 84,
         "defense": 78
       },
+      "power_stats": {
+        "hp": 4162,
+        "atk": 578,
+        "def": 639
+      },
       "passives": [
         {
           "id": "Nushi",
@@ -56974,6 +68586,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Caprity",
+      "species": "BerryGoat",
+      "species_name": "Caprity",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BerryGoat_icon_normal.webp",
+      "level": 24,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 48,
+        "melee": 0,
+        "shot": 51,
+        "defense": 85
+      },
+      "power_stats": {
+        "hp": 1992,
+        "atk": 199,
+        "def": 221
+      },
+      "passives": [
+        {
+          "id": "TrainerATK_UP_1",
+          "name": "Chef d'assaut",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Incineram",
       "species": "Baphomet",
       "species_name": "Incineram",
@@ -56987,6 +68628,11 @@ window.PALWORLD_DATA = {
         "melee": 0,
         "shot": 17,
         "defense": 65
+      },
+      "power_stats": {
+        "hp": 3262,
+        "atk": 431,
+        "def": 384
       },
       "passives": [
         {
