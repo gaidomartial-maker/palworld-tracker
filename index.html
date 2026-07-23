@@ -161,7 +161,8 @@
   }
   .pal-card .card-badges{position:absolute; top:14px; right:14px; display:flex; flex-direction:column; align-items:flex-end; gap:4px;}
   .rank-star{font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--amber);}
-  .soul-badge{font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--accent);}
+  .soul-badge{display:inline-flex; align-items:center; gap:3px; font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--amber);}
+  .soul-badge svg{width:12px; height:12px; flex-shrink:0;}
   .pal-icon{
     display:block; width:64px; height:64px; object-fit:contain; margin:0 auto 8px;
     background:var(--panel-alt); border-radius:8px; padding:6px;
@@ -404,7 +405,7 @@
     return `
       <div class="card-badges">
         ${stars ? `<span class="rank-star">${stars}</span>` : ''}
-        ${p.souls ? `<span class="soul-badge" title="Âmes">🔮 +${p.souls}</span>` : ''}
+        ${p.souls ? `<span class="soul-badge" title="Âmes"><svg viewBox="0 0 24 24"><path d="M14 2c-3 5-8.5 10.2-8.5 14.5a8.5 6.8 0 0 0 15.8 3.3C23.5 15 17 7 14 2z" fill="currentColor"/></svg>+${p.souls}</span>` : ''}
       </div>
     `;
   }
