@@ -110,7 +110,16 @@ def decompress_sav(data):
 
     uncompressed_len, compressed_len = struct.unpack("<II", data[0:8])
     magic = data[8:11]
+    save_type = data[11]
     body = data[12:12 + compressed_len]
+
+    print(
+        f"[decompress_sav] taille fichier={len(data)} uncompressed_len={uncompressed_len} "
+        f"compressed_len={compressed_len} magic={magic!r} save_type=0x{save_type:02X} "
+        f"body_len={len(body)} (attendu {compressed_len}) "
+        f"header+body={12 + compressed_len} (fichier={len(data)}) "
+        f"premiers_octets_body={body[:16].hex()}"
+    )
 
     if magic == b"PlZ":
         from palworld_save_tools.palsav import decompress_sav_to_gvas
@@ -118,7 +127,13 @@ def decompress_sav(data):
         return raw
     elif magic == b"PlM":
         from kraken_decompressor import decompress as kraken_decompress
-        raw = kraken_decompress(body, uncompressed_len)
+        try:
+            raw = kraken_decompress(body, uncompressed_len)
+        except Exception as e:
+            raise Exception(
+                f"Echec kraken_decompress (body_len={len(body)}, "
+                f"uncompressed_len={uncompressed_len}) : {e}"
+            ) from e
         if len(raw) != uncompressed_len:
             raise Exception(
                 f"Decompression Oodle incoherente : {len(raw)} octets obtenus, "
