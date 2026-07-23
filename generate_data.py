@@ -42,6 +42,11 @@ def _load_paldata(filename):
 
 PAL_NAMES = _load_paldata("pal_names.json")
 PASSIVE_NAMES = _load_paldata("passive_names.json")
+PAL_STATS = _load_paldata("pal_stats.json")
+
+# Seuils de points de confiance -> rang de confiance (0-10), verifies en jeu
+# (cf. paldata/README.md). Utilises par _compute_pal_power_stats().
+FRIENDSHIP_THRESHOLDS = [0, 6000, 13000, 21000, 30000, 40000, 55000, 80000, 110000, 150000, 200000]
 
 
 def _lookup_pal(char_id):
@@ -67,6 +72,72 @@ def _lookup_passive(passive_id):
         return {"id": passive_id, "name": passive_id, "rank": 0}
     name = entry.get("name_fr") or entry["name"]
     return {"id": passive_id, "name": name, "rank": entry.get("rank", 0)}
+
+
+def _friendship_rank(trust_points):
+    for r in range(len(FRIENDSHIP_THRESHOLDS) - 1, 0, -1):
+        if trust_points >= FRIENDSHIP_THRESHOLDS[r]:
+            return r
+    return 0
+
+
+def _compute_pal_power_stats(char_id, level, talents, rank_hp, rank_attack, rank_defense,
+                              condenser_rank, friendship_points, is_awake):
+    """
+    Porte en Python la formule de calcul des vraies stats (PV/ATQ/DEF)
+    verifiee en jeu par deafdudecomputers/PalworldSaveTools
+    (.opencode/skills/pst-stat-formula/SKILL.md, src/palworld_aio/utils.py).
+    Simplification : le bonus des passifs n'est pas applique (voir
+    paldata/README.md) -- les valeurs sont donc une legere sous-estimation
+    pour les Pals dont un passif boost une de ces trois stats.
+
+    Retourne None si l'espece n'est pas dans paldata/pal_stats.json.
+    """
+    import math
+
+    key = str(char_id).lower()
+    if key.startswith("boss_"):
+        key = key[5:]
+    sd = PAL_STATS.get(key)
+    if not sd:
+        return None
+
+    friendship_rank = _friendship_rank(friendship_points)
+    condenser_bonus = max(0, condenser_rank - 1) * 0.05
+    awake = bool(is_awake)
+
+    # -- PV --
+    hp_scaling = sd["hp_scaling"]
+    hp_iv = talents.get("hp", 0) * 0.3 / 100
+    base_hp = math.floor(500 + 5 * level + hp_scaling * 0.5 * level * (1 + hp_iv))
+    base_wc_hp = math.floor(base_hp * (1 + condenser_bonus))
+    trust_hp = int(level * friendship_rank * sd["friendship_hp"] * 0.65 * (1 + condenser_bonus) + 0.5)
+    awake_hp = math.floor(hp_scaling * level * 0.065 * (1 + condenser_bonus)) if awake else 0
+    subtotal_hp = base_wc_hp + trust_hp + awake_hp
+    hp = math.floor(subtotal_hp * (1 + rank_hp * 0.03))
+
+    # -- ATQ (Shot Attack, seule stat d'attaque depuis la fusion Melee/Shot) --
+    shot_scaling = sd["shot_attack"]
+    atk_iv = talents.get("shot", 0) * 0.3 / 100
+    additive_const = math.floor(1.5 * level)
+    base_atk = math.floor(additive_const + shot_scaling * 0.075 * level * (1 + atk_iv) * (1 + condenser_bonus))
+    base_trust_atk = level * friendship_rank * sd["friendship_shotattack"] / 10.2
+    trust_atk = math.floor(base_trust_atk) + math.floor(base_trust_atk * condenser_bonus)
+    awake_atk = math.floor(shot_scaling * level * (1 + atk_iv) * 0.009) if awake else 0
+    subtotal_atk = base_atk + trust_atk + awake_atk
+    atk = math.floor(subtotal_atk * (1 + rank_attack * 0.03))
+
+    # -- DEF --
+    def_scaling = sd["def_scaling"]
+    def_iv = talents.get("defense", 0) * 0.3 / 100
+    additive_const_def = math.floor(0.75 * level)
+    base_def = math.floor(additive_const_def + def_scaling * 0.075 * level * (1 + def_iv) * (1 + condenser_bonus))
+    trust_def = math.floor(level * friendship_rank * sd["friendship_defense"] / 10.2 * (1 + condenser_bonus))
+    awake_def = math.floor(def_scaling * level * (1 + def_iv) * 0.009) if awake else 0
+    subtotal_def = base_def + trust_def + awake_def
+    defense = math.floor(subtotal_def * (1 + rank_defense * 0.03))
+
+    return {"hp": hp, "atk": atk, "def": defense}
 
 
 def env(name, required=True, default=None):
@@ -366,23 +437,39 @@ def parse_characters(save_path, online_players):
         char_id = params.get("CharacterID", {}).get("value", "???")
         pal_info = _lookup_pal(char_id)
 
+        level = _byte_prop_value(params.get("Level"), 1)
+        # Rank est stocke decale de +1 par rapport aux etoiles affichees en jeu
+        # (verifie : Lullu stockee a 4 s'affiche avec 3 etoiles) -- mais c'est
+        # bien la valeur BRUTE (condenser_rank) qu'attend la formule de stats.
+        raw_rank = _byte_prop_value(params.get("Rank"), 1)
+        talents = {
+            "hp": talent("Talent_HP"),
+            "melee": talent("Talent_Melee"),
+            "shot": talent("Talent_Shot"),
+            "defense": talent("Talent_Defense"),
+        }
+        is_awakened = params.get("bIsAwakening", {}).get("value", False)
+        power_stats = _compute_pal_power_stats(
+            char_id, level, talents,
+            rank_hp=talent("Rank_HP"),
+            rank_attack=talent("Rank_Attack"),
+            rank_defense=talent("Rank_Defence"),
+            condenser_rank=raw_rank,
+            friendship_points=_byte_prop_value(params.get("FriendshipPoint"), 0),
+            is_awake=is_awakened,
+        )
+
         pals_raw.append((owner_uid, {
             "nickname": params.get("NickName", {}).get("value") or pal_info["name"],
             "species": char_id,
             "species_name": pal_info["name"],
             "icon": pal_info["icon"],
-            "level": _byte_prop_value(params.get("Level"), 1),
-            # Rank est stocke decale de +1 par rapport aux etoiles affichees
-            # en jeu (verifie : Lullu stockee a 4 s'affiche avec 3 etoiles).
-            "rank": max(0, _byte_prop_value(params.get("Rank"), 1) - 1),
+            "level": level,
+            "rank": max(0, raw_rank - 1),
             "is_alpha": params.get("IsRarePal", {}).get("value", False),
-            "is_awakened": params.get("bIsAwakening", {}).get("value", False),
-            "talents": {
-                "hp": talent("Talent_HP"),
-                "melee": talent("Talent_Melee"),
-                "shot": talent("Talent_Shot"),
-                "defense": talent("Talent_Defense"),
-            },
+            "is_awakened": is_awakened,
+            "talents": talents,
+            "power_stats": power_stats,
             "passives": [_lookup_passive(pid) for pid in passive_ids],
         }))
 

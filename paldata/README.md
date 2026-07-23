@@ -1,7 +1,25 @@
 # paldata
 
 Tables de correspondance "ID interne du jeu -> nom affichable" pour les
-Pals (`pal_names.json`) et les competences passives (`passive_names.json`).
+Pals (`pal_names.json`) et les competences passives (`passive_names.json`),
+plus les stats de base par espece necessaires au calcul des vraies stats
+finales (`pal_stats.json`).
+
+## pal_stats.json
+
+Cle : asset en minuscules (sans prefixe Boss_, cf. generate_data.py qui le
+retire avant de chercher). Valeur : `{hp_scaling, def_scaling, shot_attack,
+craft_speed, friendship_hp, friendship_shotattack, friendship_defense}`,
+extraits de characters.json (deafdudecomputers/PalworldSaveTools). Utilise
+par `_compute_pal_power_stats()` dans generate_data.py, qui porte en Python
+la formule de calcul de stats verifiee en jeu documentee dans
+`.opencode/skills/pst-stat-formula/SKILL.md` et `src/palworld_aio/utils.py`
+de ce meme depot (fonctions `_hp_breakdown`/`_atk_breakdown`/`_def_breakdown`).
+Simplification assumee : le bonus multiplicatif des passifs n'est pas
+applique (passive_bonus=0) faute d'avoir mappe les ~1905 passifs a leur
+effet exact sur PV/ATQ/DEF -- les stats calculees sont donc une
+approximation par defaut, legerement sous-estimee pour les Pals dont les
+passifs boostent une des trois stats.
 
 - Cle : l'ID interne (`CharacterID` / nom de passif) en minuscules.
 - Valeur pour les Pals : `{"name": "...", "name_fr": "..." (optionnel), "icon": "..."}`.

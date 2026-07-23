@@ -183,7 +183,7 @@
   <section id="pals-section">
     <div class="section-head">
       <h2>Top 10 Pals</h2>
-      <p>Classés par score (niveau + rang + talents), propriétaire indiqué en bas de carte.</p>
+      <p>Classés par puissance réelle (PV + ATQ + DEF calculés), propriétaire indiqué en bas de carte.</p>
     </div>
     <div class="pal-grid" id="pal-grid"></div>
   </section>
@@ -269,6 +269,12 @@
   }
 
   function palScore(p){
+    // Vraies stats en jeu (PV+ATQ+DEF calcules) quand on les a ; sinon on
+    // retombe sur une estimation approximative basee sur %IV/niveau/rang.
+    if (p.power_stats) {
+      const ps = p.power_stats;
+      return (ps.hp||0) + (ps.atk||0) + (ps.def||0);
+    }
     const t = p.talents || {};
     const talentSum = (t.hp||0)+(t.melee||0)+(t.shot||0)+(t.defense||0);
     return (p.level||0)*4 + (p.rank||0)*15 + talentSum + (p.is_alpha ? 50 : 0);
@@ -291,18 +297,19 @@
         ${(p.is_alpha || p.is_awakened) ? '<br>' : ''}
         <h3>${escapeHtml(p.nickname || speciesName)}</h3>
         <div class="species">${escapeHtml(speciesName)} · niv. ${p.level ?? '—'}</div>
-        ${statRow('PV', t.hp)}
-        ${statRow('ATQ', t.shot)}
-        ${statRow('DEF', t.defense)}
+        ${statRow('PV', t.hp, p.power_stats && p.power_stats.hp)}
+        ${statRow('ATQ', t.shot, p.power_stats && p.power_stats.atk)}
+        ${statRow('DEF', t.defense, p.power_stats && p.power_stats.def)}
         ${passives.length ? `<div class="passives">${passives.map(x=>`<span class="${passiveClass(x.rank)}">${escapeHtml(x.name)}</span>`).join('')}</div>` : ''}
         <div class="owner-row">Appartient à <b>${escapeHtml(p.owner || 'inconnu')}</b></div>
       </div>
     `;
   }).join('') || '<p style="color:var(--muted)">Aucun Pal à afficher pour le moment.</p>';
 
-  function statRow(label, val){
-    val = val || 0;
-    return `<div class="stat-row"><span class="label">${label}</span><span class="bar"><i style="width:${Math.min(val,100)}%"></i></span><span class="val">${val}</span></div>`;
+  function statRow(label, ivPercent, realValue){
+    ivPercent = ivPercent || 0;
+    const shown = (realValue === undefined || realValue === null) ? ivPercent : realValue;
+    return `<div class="stat-row"><span class="label">${label}</span><span class="bar"><i style="width:${Math.min(ivPercent,100)}%"></i></span><span class="val">${shown}</span></div>`;
   }
 
   function escapeHtml(str){
