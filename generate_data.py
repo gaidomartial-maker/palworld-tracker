@@ -28,6 +28,36 @@ import datetime
 import requests
 import paramiko
 
+PALDATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "paldata")
+PAL_ICON_BASE_URL = (
+    "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data"
+)
+
+
+def _load_paldata(filename):
+    path = os.path.join(PALDATA_DIR, filename)
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+PAL_NAMES = _load_paldata("pal_names.json")
+PASSIVE_NAMES = _load_paldata("passive_names.json")
+
+
+def _lookup_pal(char_id):
+    entry = PAL_NAMES.get(str(char_id).lower())
+    if not entry:
+        return {"name": char_id, "icon": None}
+    icon = f"{PAL_ICON_BASE_URL}{entry['icon']}" if entry.get("icon") else None
+    return {"name": entry["name"], "icon": icon}
+
+
+def _lookup_passive(passive_id):
+    entry = PASSIVE_NAMES.get(str(passive_id).lower())
+    if not entry:
+        return {"id": passive_id, "name": passive_id, "rank": 0}
+    return {"id": passive_id, "name": entry["name"], "rank": entry.get("rank", 0)}
+
 
 def env(name, required=True, default=None):
     val = os.environ.get(name, default)
@@ -293,6 +323,7 @@ def parse_characters(save_path, online_players):
     online_by_uid = {_normalize_uid(p["playerId"]): p for p in online_players}
     players_by_uid = {}
     pals_raw = []
+    pal_param_keys = set()  # diagnostic : voir _lookup_pal / note "Eveille" plus bas
 
     for entry in char_map:
         try:
@@ -316,15 +347,22 @@ def parse_characters(save_path, online_players):
             continue
 
         owner_uid = _normalize_uid(params.get("OwnerPlayerUId", {}).get("value"))
+        pal_param_keys.update(params.keys())
 
         def talent(key):
             return _byte_prop_value(params.get(key), 0)
 
         passives_raw = params.get("PassiveSkillList", {}).get("value", {}).get("values", [])
+        passive_ids = [p.get("value", p) if isinstance(p, dict) else p for p in passives_raw]
+
+        char_id = params.get("CharacterID", {}).get("value", "???")
+        pal_info = _lookup_pal(char_id)
 
         pals_raw.append((owner_uid, {
-            "nickname": params.get("NickName", {}).get("value") or params.get("CharacterID", {}).get("value", "???"),
-            "species": params.get("CharacterID", {}).get("value", "???"),
+            "nickname": params.get("NickName", {}).get("value") or pal_info["name"],
+            "species": char_id,
+            "species_name": pal_info["name"],
+            "icon": pal_info["icon"],
             "level": _byte_prop_value(params.get("Level"), 1),
             "rank": _byte_prop_value(params.get("Rank"), 0),
             "is_alpha": params.get("IsRarePal", {}).get("value", False),
@@ -334,13 +372,17 @@ def parse_characters(save_path, online_players):
                 "shot": talent("Talent_Shot"),
                 "defense": talent("Talent_Defense"),
             },
-            "passives": [p.get("value", p) if isinstance(p, dict) else p for p in passives_raw],
+            "passives": [_lookup_passive(pid) for pid in passive_ids],
         }))
 
     print(
         f"[parse_characters] char_map={len(char_map)} entrees, "
         f"joueurs_trouves={len(players_by_uid)}, pals_trouves={len(pals_raw)}"
     )
+    # Diagnostic temporaire : liste de toutes les cles vues sur les Pals, pour
+    # trouver le nom exact du champ "Eveille" (aucune piste trouvee dans les
+    # sources disponibles -- si le champ existe, il doit apparaitre ici).
+    print(f"[parse_characters] cles SaveParameter (Pals) vues : {sorted(pal_param_keys)}")
 
     # Un joueur qui vient de se connecter pour la premiere fois peut ne pas
     # encore avoir ete ecrit dans Level.sav -- on le rajoute quand meme.

@@ -98,6 +98,10 @@
   }
   .pal-card:hover{border-color:var(--accent-dim);}
   .pal-card .rank-star{position:absolute; top:14px; right:14px; font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--amber);}
+  .pal-card .pal-icon{
+    display:block; width:64px; height:64px; object-fit:contain; margin:0 0 8px;
+    background:var(--panel-alt); border-radius:8px; padding:6px;
+  }
   .pal-card .alpha-tag{
     display:inline-block; font-family:'JetBrains Mono', monospace; font-size:10px; letter-spacing:0.06em;
     color:#0f1115; background:var(--amber); border-radius:4px; padding:2px 6px; margin-bottom:8px; text-transform:uppercase;
@@ -111,6 +115,8 @@
   .stat-row .val{width:26px; text-align:right; font-family:'JetBrains Mono', monospace; font-size:11px;}
   .passives{margin-top:8px; display:flex; flex-wrap:wrap; gap:6px;}
   .passives span{font-size:10px; color:var(--muted); border:1px solid var(--line); border-radius:4px; padding:2px 6px;}
+  .passives span.good{color:var(--accent); border-color:var(--accent-dim);}
+  .passives span.bad{color:#e57373; border-color:#5c3030;}
 
   .owner-row{margin-top:12px; padding-top:10px; border-top:1px solid var(--line); font-size:12px; color:var(--muted);}
   .owner-row b{color:var(--text); font-weight:600;}
@@ -167,7 +173,7 @@
 
   <section id="pals-section">
     <div class="section-head">
-      <h2>Meilleurs Pals</h2>
+      <h2>Top 10 Pals</h2>
       <p>Classés par score (niveau + rang + talents), propriétaire indiqué en bas de carte.</p>
     </div>
     <div class="pal-grid" id="pal-grid"></div>
@@ -249,23 +255,27 @@
     const talentSum = (t.hp||0)+(t.melee||0)+(t.shot||0)+(t.defense||0);
     return (p.level||0)*4 + (p.rank||0)*15 + talentSum + (p.is_alpha ? 50 : 0);
   }
-  const pals = (D.pals || []).slice().sort((a,b) => palScore(b) - palScore(a));
+  const TOP_PALS_COUNT = 10;
+  const pals = (D.pals || []).slice().sort((a,b) => palScore(b) - palScore(a)).slice(0, TOP_PALS_COUNT);
 
   const grid = document.getElementById('pal-grid');
   grid.innerHTML = pals.map(p => {
     const t = p.talents || {};
     const stars = '★'.repeat(p.rank || 0) + '☆'.repeat(4 - (p.rank || 0));
+    const speciesName = p.species_name || p.species;
+    const passives = (p.passives || []).map(x => (typeof x === 'string') ? {name: x, rank: 0} : x);
     return `
       <div class="pal-card">
         <div class="rank-star">${stars}</div>
+        ${p.icon ? `<img class="pal-icon" src="${p.icon}" alt="" loading="lazy" onerror="this.remove()">` : ''}
         ${p.is_alpha ? '<div class="alpha-tag">Alpha</div><br>' : ''}
-        <h3>${escapeHtml(p.nickname || p.species)}</h3>
-        <div class="species">${escapeHtml(p.species)} · niv. ${p.level ?? '—'}</div>
+        <h3>${escapeHtml(p.nickname || speciesName)}</h3>
+        <div class="species">${escapeHtml(speciesName)} · niv. ${p.level ?? '—'}</div>
         ${statRow('PV', t.hp)}
         ${statRow('MEL', t.melee)}
         ${statRow('TIR', t.shot)}
         ${statRow('DEF', t.defense)}
-        ${(p.passives && p.passives.length) ? `<div class="passives">${p.passives.map(x=>`<span>${escapeHtml(x)}</span>`).join('')}</div>` : ''}
+        ${passives.length ? `<div class="passives">${passives.map(x=>`<span class="${x.rank >= 2 ? 'good' : (x.rank < 0 ? 'bad' : '')}">${escapeHtml(x.name)}</span>`).join('')}</div>` : ''}
         <div class="owner-row">Appartient à <b>${escapeHtml(p.owner || 'inconnu')}</b></div>
       </div>
     `;
