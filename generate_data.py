@@ -242,6 +242,16 @@ def _normalize_uid(value):
     return str(value).replace("-", "").upper()
 
 
+def _as_int(value, default=0):
+    """
+    Certaines entrees renvoient une valeur imbriquee (dict) au lieu d'un
+    nombre pour des proprietes normalement scalaires comme Level -- meme
+    schema de surprise que pour PassiveSkillList. On ne fait pas confiance
+    au type et on retombe sur `default` si ce n'est pas un nombre.
+    """
+    return value if isinstance(value, (int, float)) else default
+
+
 def parse_characters(save_path, online_players):
     """
     Level.sav contient un CharacterSaveParameterMap qui liste TOUS les
@@ -288,7 +298,7 @@ def parse_characters(save_path, online_players):
             online_info = online_by_uid.get(uid)
             players_by_uid[uid] = {
                 "name": params.get("NickName", {}).get("value") or (online_info["name"] if online_info else "Joueur inconnu"),
-                "level": params.get("Level", {}).get("value", 1),
+                "level": _as_int(params.get("Level", {}).get("value"), 1),
                 "building_count": online_info["building_count"] if online_info else None,
                 "ping": online_info["ping"] if online_info else None,
                 "online": online_info is not None,
@@ -299,15 +309,15 @@ def parse_characters(save_path, online_players):
         owner_uid = _normalize_uid(params.get("OwnerPlayerUId", {}).get("value"))
 
         def talent(key):
-            return params.get(key, {}).get("value", 0)
+            return _as_int(params.get(key, {}).get("value"), 0)
 
         passives_raw = params.get("PassiveSkillList", {}).get("value", {}).get("values", [])
 
         pals_raw.append((owner_uid, {
             "nickname": params.get("NickName", {}).get("value") or params.get("CharacterID", {}).get("value", "???"),
             "species": params.get("CharacterID", {}).get("value", "???"),
-            "level": params.get("Level", {}).get("value", 1),
-            "rank": params.get("Rank", {}).get("value", 0),
+            "level": _as_int(params.get("Level", {}).get("value"), 1),
+            "rank": _as_int(params.get("Rank", {}).get("value"), 0),
             "is_alpha": params.get("IsRarePal", {}).get("value", False),
             "talents": {
                 "hp": talent("Talent_HP"),
@@ -333,7 +343,7 @@ def parse_characters(save_path, online_players):
         pal["owner"] = players_by_uid.get(owner_uid, {}).get("name", "inconnu")
         pals.append(pal)
 
-    players = sorted(players_by_uid.values(), key=lambda p: p["level"] or 0, reverse=True)
+    players = sorted(players_by_uid.values(), key=lambda p: _as_int(p["level"]), reverse=True)
     return players, pals
 
 
