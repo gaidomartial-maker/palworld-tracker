@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T19:21:00.246834+00:00",
+  "generated_at": "2026-07-23T19:31:09.831529+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 3,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 79,
       "building_count": null,
-      "ping": 61.0,
+      "ping": 60.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,8 +21,8 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 49.0,
-      "online": true,
+      "ping": null,
+      "online": false,
       "playerId": "67587A0F000000000000000000000000"
     },
     {
@@ -68993,9 +68993,9 @@ window.PALWORLD_DATA = {
         "defense": 85
       },
       "power_stats": {
-        "hp": 6769,
-        "atk": 1298,
-        "def": 1023
+        "hp": 6883,
+        "atk": 1306,
+        "def": 1038
       },
       "passives": [
         {
@@ -70850,6 +70850,35 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 55,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 57,
+        "melee": 0,
+        "shot": 2,
+        "defense": 98
+      },
+      "power_stats": {
+        "hp": 4639,
+        "atk": 579,
+        "def": 788
+      },
+      "passives": [
+        {
+          "id": "ElementResist_Fire_1_PAL",
+          "name": "Hyperpigmentation",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "BOSS_IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -70901,7 +70930,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 533
+        "pal_count": 534
       },
       {
         "owner": "takitome",
@@ -70923,11 +70952,11 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 2019498
+        "total_power": 2019635
       },
       {
         "owner": "Martial",
-        "total_power": 1579881
+        "total_power": 1585887
       },
       {
         "owner": "takitome",
