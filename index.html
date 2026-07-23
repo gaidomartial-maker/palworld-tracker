@@ -120,7 +120,11 @@
   .stat-row .val{width:26px; text-align:right; font-family:'JetBrains Mono', monospace; font-size:11px;}
   .passives{margin-top:8px; display:flex; flex-wrap:wrap; gap:6px;}
   .passives span{font-size:10px; color:var(--muted); border:1px solid var(--line); border-radius:4px; padding:2px 6px;}
-  .passives span.good{color:var(--accent); border-color:var(--accent-dim);}
+  /* Couleurs des passifs = celles du jeu, verifiees rang par rang (rank -> couleur) :
+     <=-1 malus (rouge), 1 normal (defaut), 2 rare (bleu), 3 epique (dore), >=4 legendaire (turquoise). */
+  .passives span.rare{color:#64b5f6; border-color:#2a4a6b;}
+  .passives span.epic{color:var(--amber); border-color:#5c4a1f;}
+  .passives span.legend{color:var(--accent); border-color:var(--accent-dim);}
   .passives span.bad{color:#e57373; border-color:#5c3030;}
 
   .owner-row{margin-top:12px; padding-top:10px; border-top:1px solid var(--line); font-size:12px; color:var(--muted);}
@@ -255,6 +259,15 @@
   });
   renderPlayers();
 
+  function passiveClass(rank){
+    rank = rank || 0;
+    if (rank <= -1) return 'bad';
+    if (rank >= 4) return 'legend';
+    if (rank === 3) return 'epic';
+    if (rank === 2) return 'rare';
+    return '';
+  }
+
   function palScore(p){
     const t = p.talents || {};
     const talentSum = (t.hp||0)+(t.melee||0)+(t.shot||0)+(t.defense||0);
@@ -282,7 +295,7 @@
         ${statRow('MEL', t.melee)}
         ${statRow('TIR', t.shot)}
         ${statRow('DEF', t.defense)}
-        ${passives.length ? `<div class="passives">${passives.map(x=>`<span class="${x.rank >= 2 ? 'good' : (x.rank < 0 ? 'bad' : '')}">${escapeHtml(x.name)}</span>`).join('')}</div>` : ''}
+        ${passives.length ? `<div class="passives">${passives.map(x=>`<span class="${passiveClass(x.rank)}">${escapeHtml(x.name)}</span>`).join('')}</div>` : ''}
         <div class="owner-row">Appartient à <b>${escapeHtml(p.owner || 'inconnu')}</b></div>
       </div>
     `;
