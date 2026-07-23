@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T10:52:29.777480+00:00",
+  "generated_at": "2026-07-23T11:14:48.334505+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -11,9 +11,9 @@ window.PALWORLD_DATA = {
   "players": [
     {
       "name": "LawzZ",
-      "level": 76,
+      "level": 77,
       "building_count": null,
-      "ping": 49.0,
+      "ping": 44.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     }
