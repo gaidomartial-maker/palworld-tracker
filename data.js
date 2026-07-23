@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T22:01:20.729782+00:00",
+  "generated_at": "2026-07-23T22:03:45.549875+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 60.0,
+      "ping": 63.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 56.0,
+      "ping": 54.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -71,6 +71,7 @@ window.PALWORLD_DATA = {
         "atk": 17,
         "def": 19
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -105,6 +106,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -139,6 +141,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -173,6 +176,7 @@ window.PALWORLD_DATA = {
         "atk": 46,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -212,6 +216,7 @@ window.PALWORLD_DATA = {
         "atk": 257,
         "def": 160
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -241,6 +246,7 @@ window.PALWORLD_DATA = {
         "atk": 276,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -270,6 +276,7 @@ window.PALWORLD_DATA = {
         "atk": 269,
         "def": 243
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -304,6 +311,7 @@ window.PALWORLD_DATA = {
         "atk": 225,
         "def": 182
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -338,6 +346,7 @@ window.PALWORLD_DATA = {
         "atk": 271,
         "def": 255
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -367,6 +376,7 @@ window.PALWORLD_DATA = {
         "atk": 252,
         "def": 213
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -396,6 +406,7 @@ window.PALWORLD_DATA = {
         "atk": 45,
         "def": 39
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -425,6 +436,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 45
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -459,6 +471,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -488,6 +501,7 @@ window.PALWORLD_DATA = {
         "atk": 58,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -527,6 +541,7 @@ window.PALWORLD_DATA = {
         "atk": 104,
         "def": 94
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -556,6 +571,7 @@ window.PALWORLD_DATA = {
         "atk": 22,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -585,6 +601,7 @@ window.PALWORLD_DATA = {
         "atk": 100,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -614,6 +631,7 @@ window.PALWORLD_DATA = {
         "atk": 5,
         "def": 5
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -643,6 +661,7 @@ window.PALWORLD_DATA = {
         "atk": 130,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -672,6 +691,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 4
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -701,6 +721,7 @@ window.PALWORLD_DATA = {
         "atk": 50,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -735,6 +756,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 263
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -764,6 +786,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -793,6 +816,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -822,6 +846,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 91
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -851,6 +876,7 @@ window.PALWORLD_DATA = {
         "atk": 99,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -880,6 +906,7 @@ window.PALWORLD_DATA = {
         "atk": 235,
         "def": 223
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -914,6 +941,7 @@ window.PALWORLD_DATA = {
         "atk": 18,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -948,6 +976,7 @@ window.PALWORLD_DATA = {
         "atk": 187,
         "def": 163
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -977,6 +1006,7 @@ window.PALWORLD_DATA = {
         "atk": 58,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -1011,6 +1041,7 @@ window.PALWORLD_DATA = {
         "atk": 130,
         "def": 103
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -1040,6 +1071,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 28
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -1069,6 +1101,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 54
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -1103,6 +1136,7 @@ window.PALWORLD_DATA = {
         "atk": 409,
         "def": 271
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -1137,6 +1171,7 @@ window.PALWORLD_DATA = {
         "atk": 27,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -1166,6 +1201,7 @@ window.PALWORLD_DATA = {
         "atk": 17,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -1195,6 +1231,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -1229,6 +1266,7 @@ window.PALWORLD_DATA = {
         "atk": 121,
         "def": 84
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -1258,6 +1296,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 235
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -1287,6 +1326,7 @@ window.PALWORLD_DATA = {
         "atk": 203,
         "def": 181
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -1316,6 +1356,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -1345,6 +1386,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -1374,6 +1416,7 @@ window.PALWORLD_DATA = {
         "atk": 239,
         "def": 189
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -1403,6 +1446,7 @@ window.PALWORLD_DATA = {
         "atk": 168,
         "def": 177
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -1432,6 +1476,7 @@ window.PALWORLD_DATA = {
         "atk": 235,
         "def": 150
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -1466,6 +1511,7 @@ window.PALWORLD_DATA = {
         "atk": 210,
         "def": 209
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -1495,6 +1541,7 @@ window.PALWORLD_DATA = {
         "atk": 527,
         "def": 637
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -1524,6 +1571,7 @@ window.PALWORLD_DATA = {
         "atk": 164,
         "def": 133
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -1547,6 +1595,7 @@ window.PALWORLD_DATA = {
         "atk": 48,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -1581,6 +1630,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -1615,6 +1665,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -1644,6 +1695,7 @@ window.PALWORLD_DATA = {
         "atk": 55,
         "def": 38
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -1673,6 +1725,7 @@ window.PALWORLD_DATA = {
         "atk": 491,
         "def": 440
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -1696,6 +1749,7 @@ window.PALWORLD_DATA = {
         "atk": 42,
         "def": 40
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -1719,6 +1773,7 @@ window.PALWORLD_DATA = {
         "atk": 34,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -1748,6 +1803,7 @@ window.PALWORLD_DATA = {
         "atk": 171,
         "def": 136
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -1777,6 +1833,7 @@ window.PALWORLD_DATA = {
         "atk": 44,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -1806,6 +1863,7 @@ window.PALWORLD_DATA = {
         "atk": 45,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -1835,6 +1893,7 @@ window.PALWORLD_DATA = {
         "atk": 27,
         "def": 17
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -1864,6 +1923,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -1893,6 +1953,7 @@ window.PALWORLD_DATA = {
         "atk": 161,
         "def": 158
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -1922,6 +1983,7 @@ window.PALWORLD_DATA = {
         "atk": 45,
         "def": 33
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -1951,6 +2013,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 48
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -1980,6 +2043,7 @@ window.PALWORLD_DATA = {
         "atk": 311,
         "def": 298
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -2009,6 +2073,7 @@ window.PALWORLD_DATA = {
         "atk": 50,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -2038,6 +2103,7 @@ window.PALWORLD_DATA = {
         "atk": 52,
         "def": 46
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -2067,6 +2133,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -2096,6 +2163,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 56
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -2119,6 +2187,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 11
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -2142,6 +2211,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -2171,6 +2241,7 @@ window.PALWORLD_DATA = {
         "atk": 61,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -2200,6 +2271,7 @@ window.PALWORLD_DATA = {
         "atk": 168,
         "def": 140
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -2229,6 +2301,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -2258,6 +2331,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 77
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -2287,6 +2361,7 @@ window.PALWORLD_DATA = {
         "atk": 213,
         "def": 192
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -2316,6 +2391,7 @@ window.PALWORLD_DATA = {
         "atk": 59,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -2345,6 +2421,7 @@ window.PALWORLD_DATA = {
         "atk": 69,
         "def": 58
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -2374,6 +2451,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -2403,6 +2481,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -2437,6 +2516,7 @@ window.PALWORLD_DATA = {
         "atk": 26,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -2466,6 +2546,7 @@ window.PALWORLD_DATA = {
         "atk": 59,
         "def": 48
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -2495,6 +2576,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -2524,6 +2606,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -2553,6 +2636,7 @@ window.PALWORLD_DATA = {
         "atk": 748,
         "def": 670
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -2582,6 +2666,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 57
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -2611,6 +2696,7 @@ window.PALWORLD_DATA = {
         "atk": 33,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -2650,6 +2736,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 4
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -2679,6 +2766,7 @@ window.PALWORLD_DATA = {
         "atk": 282,
         "def": 229
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -2708,6 +2796,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -2742,6 +2831,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -2771,6 +2861,7 @@ window.PALWORLD_DATA = {
         "atk": 61,
         "def": 39
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -2805,6 +2896,7 @@ window.PALWORLD_DATA = {
         "atk": 325,
         "def": 293
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -2834,6 +2926,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -2863,6 +2956,7 @@ window.PALWORLD_DATA = {
         "atk": 48,
         "def": 45
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -2886,6 +2980,7 @@ window.PALWORLD_DATA = {
         "atk": 137,
         "def": 138
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -2915,6 +3010,7 @@ window.PALWORLD_DATA = {
         "atk": 374,
         "def": 357
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -2954,6 +3050,7 @@ window.PALWORLD_DATA = {
         "atk": 108,
         "def": 93
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -2983,6 +3080,7 @@ window.PALWORLD_DATA = {
         "atk": 500,
         "def": 404
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -3012,6 +3110,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -3046,6 +3145,7 @@ window.PALWORLD_DATA = {
         "atk": 42,
         "def": 33
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -3075,6 +3175,7 @@ window.PALWORLD_DATA = {
         "atk": 22,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -3104,6 +3205,7 @@ window.PALWORLD_DATA = {
         "atk": 34,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -3133,6 +3235,7 @@ window.PALWORLD_DATA = {
         "atk": 260,
         "def": 158
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -3156,6 +3259,7 @@ window.PALWORLD_DATA = {
         "atk": 101,
         "def": 77
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -3185,6 +3289,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -3214,6 +3319,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -3243,6 +3349,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 33
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -3277,6 +3384,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -3306,6 +3414,7 @@ window.PALWORLD_DATA = {
         "atk": 112,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -3340,6 +3449,7 @@ window.PALWORLD_DATA = {
         "atk": 18,
         "def": 16
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -3379,6 +3489,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 33
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -3408,6 +3519,7 @@ window.PALWORLD_DATA = {
         "atk": 26,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -3447,6 +3559,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 5
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -3481,6 +3594,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -3510,6 +3624,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -3539,6 +3654,7 @@ window.PALWORLD_DATA = {
         "atk": 155,
         "def": 136
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -3568,6 +3684,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -3597,6 +3714,7 @@ window.PALWORLD_DATA = {
         "atk": 513,
         "def": 481
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -3626,6 +3744,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -3655,6 +3774,7 @@ window.PALWORLD_DATA = {
         "atk": 76,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -3684,6 +3804,7 @@ window.PALWORLD_DATA = {
         "atk": 166,
         "def": 177
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -3707,6 +3828,7 @@ window.PALWORLD_DATA = {
         "atk": 207,
         "def": 176
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -3730,6 +3852,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -3759,6 +3882,7 @@ window.PALWORLD_DATA = {
         "atk": 233,
         "def": 218
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -3788,6 +3912,7 @@ window.PALWORLD_DATA = {
         "atk": 61,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -3817,6 +3942,7 @@ window.PALWORLD_DATA = {
         "atk": 116,
         "def": 108
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -3846,6 +3972,7 @@ window.PALWORLD_DATA = {
         "atk": 80,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -3875,6 +4002,7 @@ window.PALWORLD_DATA = {
         "atk": 119,
         "def": 94
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -3909,6 +4037,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -3938,6 +4067,7 @@ window.PALWORLD_DATA = {
         "atk": 80,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -3967,6 +4097,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -3996,6 +4127,7 @@ window.PALWORLD_DATA = {
         "atk": 63,
         "def": 65
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -4030,6 +4162,7 @@ window.PALWORLD_DATA = {
         "atk": 177,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -4059,6 +4192,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -4088,6 +4222,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -4117,6 +4252,7 @@ window.PALWORLD_DATA = {
         "atk": 50,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -4146,6 +4282,7 @@ window.PALWORLD_DATA = {
         "atk": 55,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -4175,6 +4312,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 57
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -4204,6 +4342,7 @@ window.PALWORLD_DATA = {
         "atk": 277,
         "def": 265
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -4233,6 +4372,7 @@ window.PALWORLD_DATA = {
         "atk": 92,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -4262,6 +4402,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 21
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -4296,6 +4437,7 @@ window.PALWORLD_DATA = {
         "atk": 22,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -4325,6 +4467,7 @@ window.PALWORLD_DATA = {
         "atk": 319,
         "def": 226
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -4354,6 +4497,7 @@ window.PALWORLD_DATA = {
         "atk": 123,
         "def": 99
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -4383,6 +4527,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -4417,6 +4562,7 @@ window.PALWORLD_DATA = {
         "atk": 52,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -4451,6 +4597,7 @@ window.PALWORLD_DATA = {
         "atk": 19,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -4485,6 +4632,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -4524,6 +4672,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 12
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -4547,6 +4696,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -4576,6 +4726,7 @@ window.PALWORLD_DATA = {
         "atk": 132,
         "def": 136
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -4605,6 +4756,7 @@ window.PALWORLD_DATA = {
         "atk": 54,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -4634,6 +4786,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -4663,6 +4816,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 76
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -4692,6 +4846,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -4721,6 +4876,7 @@ window.PALWORLD_DATA = {
         "atk": 73,
         "def": 69
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -4750,6 +4906,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -4779,6 +4936,7 @@ window.PALWORLD_DATA = {
         "atk": 79,
         "def": 83
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -4808,6 +4966,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 19
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -4837,6 +4996,7 @@ window.PALWORLD_DATA = {
         "atk": 101,
         "def": 87
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -4866,6 +5026,7 @@ window.PALWORLD_DATA = {
         "atk": 54,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -4895,6 +5056,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -4924,6 +5086,7 @@ window.PALWORLD_DATA = {
         "atk": 26,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -4953,6 +5116,7 @@ window.PALWORLD_DATA = {
         "atk": 125,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -4982,6 +5146,7 @@ window.PALWORLD_DATA = {
         "atk": 44,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -5011,6 +5176,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 5
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -5040,6 +5206,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -5069,6 +5236,7 @@ window.PALWORLD_DATA = {
         "atk": 171,
         "def": 174
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -5098,6 +5266,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -5127,6 +5296,7 @@ window.PALWORLD_DATA = {
         "atk": 155,
         "def": 131
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -5161,6 +5331,7 @@ window.PALWORLD_DATA = {
         "atk": 144,
         "def": 144
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -5190,6 +5361,7 @@ window.PALWORLD_DATA = {
         "atk": 69,
         "def": 69
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -5219,6 +5391,7 @@ window.PALWORLD_DATA = {
         "atk": 141,
         "def": 174
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -5253,6 +5426,7 @@ window.PALWORLD_DATA = {
         "atk": 38,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -5282,6 +5456,7 @@ window.PALWORLD_DATA = {
         "atk": 126,
         "def": 116
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -5311,6 +5486,7 @@ window.PALWORLD_DATA = {
         "atk": 166,
         "def": 140
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -5340,6 +5516,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -5369,6 +5546,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 61
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -5398,6 +5576,7 @@ window.PALWORLD_DATA = {
         "atk": 94,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -5427,6 +5606,7 @@ window.PALWORLD_DATA = {
         "atk": 82,
         "def": 60
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -5456,6 +5636,7 @@ window.PALWORLD_DATA = {
         "atk": 82,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -5485,6 +5666,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 51
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -5508,6 +5690,7 @@ window.PALWORLD_DATA = {
         "atk": 25,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -5537,6 +5720,7 @@ window.PALWORLD_DATA = {
         "atk": 62,
         "def": 49
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -5571,6 +5755,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 36
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -5594,6 +5779,7 @@ window.PALWORLD_DATA = {
         "atk": 77,
         "def": 56
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -5623,6 +5809,7 @@ window.PALWORLD_DATA = {
         "atk": 59,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -5652,6 +5839,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -5681,6 +5869,7 @@ window.PALWORLD_DATA = {
         "atk": 44,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -5706,6 +5895,7 @@ window.PALWORLD_DATA = {
         "defense": 42
       },
       "power_stats": null,
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -5735,6 +5925,7 @@ window.PALWORLD_DATA = {
         "atk": 55,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -5764,6 +5955,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 52
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -5793,6 +5985,7 @@ window.PALWORLD_DATA = {
         "atk": 25,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -5822,6 +6015,7 @@ window.PALWORLD_DATA = {
         "atk": 52,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -5851,6 +6045,7 @@ window.PALWORLD_DATA = {
         "atk": 312,
         "def": 363
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -5880,6 +6075,7 @@ window.PALWORLD_DATA = {
         "atk": 160,
         "def": 118
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -5909,6 +6105,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 35
       },
+      "souls": 0,
       "passives": [],
       "owner": "inconnu"
     },
@@ -5932,6 +6129,7 @@ window.PALWORLD_DATA = {
         "atk": 58,
         "def": 39
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -5961,6 +6159,7 @@ window.PALWORLD_DATA = {
         "atk": 121,
         "def": 97
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -5990,6 +6189,7 @@ window.PALWORLD_DATA = {
         "atk": 50,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -6019,6 +6219,7 @@ window.PALWORLD_DATA = {
         "atk": 34,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -6048,6 +6249,7 @@ window.PALWORLD_DATA = {
         "atk": 139,
         "def": 97
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -6077,6 +6279,7 @@ window.PALWORLD_DATA = {
         "atk": 246,
         "def": 270
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -6111,6 +6314,7 @@ window.PALWORLD_DATA = {
         "atk": 138,
         "def": 135
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -6140,6 +6344,7 @@ window.PALWORLD_DATA = {
         "atk": 46,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -6169,6 +6374,7 @@ window.PALWORLD_DATA = {
         "atk": 112,
         "def": 76
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -6198,6 +6404,7 @@ window.PALWORLD_DATA = {
         "atk": 93,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -6227,6 +6434,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -6256,6 +6464,7 @@ window.PALWORLD_DATA = {
         "atk": 257,
         "def": 215
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -6285,6 +6494,7 @@ window.PALWORLD_DATA = {
         "atk": 27,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -6314,6 +6524,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -6343,6 +6554,7 @@ window.PALWORLD_DATA = {
         "atk": 22,
         "def": 21
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -6372,6 +6584,7 @@ window.PALWORLD_DATA = {
         "atk": 81,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -6401,6 +6614,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 21
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -6435,6 +6649,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -6464,6 +6679,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 102
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -6493,6 +6709,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -6522,6 +6739,7 @@ window.PALWORLD_DATA = {
         "atk": 60,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -6551,6 +6769,7 @@ window.PALWORLD_DATA = {
         "atk": 107,
         "def": 71
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -6580,6 +6799,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 48
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -6609,6 +6829,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -6638,6 +6859,7 @@ window.PALWORLD_DATA = {
         "atk": 42,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -6667,6 +6889,7 @@ window.PALWORLD_DATA = {
         "atk": 32,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -6696,6 +6919,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 91
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -6725,6 +6949,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -6759,6 +6984,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -6788,6 +7014,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -6817,6 +7044,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -6846,6 +7074,7 @@ window.PALWORLD_DATA = {
         "atk": 131,
         "def": 99
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -6875,6 +7104,7 @@ window.PALWORLD_DATA = {
         "atk": 145,
         "def": 129
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -6904,6 +7134,7 @@ window.PALWORLD_DATA = {
         "atk": 83,
         "def": 96
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -6938,6 +7169,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -6967,6 +7199,7 @@ window.PALWORLD_DATA = {
         "atk": 117,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -7006,6 +7239,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -7035,6 +7269,7 @@ window.PALWORLD_DATA = {
         "atk": 84,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -7064,6 +7299,7 @@ window.PALWORLD_DATA = {
         "atk": 124,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -7093,6 +7329,7 @@ window.PALWORLD_DATA = {
         "atk": 55,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -7122,6 +7359,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -7151,6 +7389,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 61
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -7180,6 +7419,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -7209,6 +7449,7 @@ window.PALWORLD_DATA = {
         "atk": 28,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -7238,6 +7479,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -7267,6 +7509,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -7296,6 +7539,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 4
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -7325,6 +7569,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 30
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -7348,6 +7593,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -7377,6 +7623,7 @@ window.PALWORLD_DATA = {
         "atk": 153,
         "def": 134
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -7406,6 +7653,7 @@ window.PALWORLD_DATA = {
         "atk": 52,
         "def": 54
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -7435,6 +7683,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -7464,6 +7713,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -7493,6 +7743,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 56
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -7522,6 +7773,7 @@ window.PALWORLD_DATA = {
         "atk": 142,
         "def": 161
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -7551,6 +7803,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 35
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -7574,6 +7827,7 @@ window.PALWORLD_DATA = {
         "atk": 164,
         "def": 151
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -7597,6 +7851,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -7626,6 +7881,7 @@ window.PALWORLD_DATA = {
         "atk": 76,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -7665,6 +7921,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -7694,6 +7951,7 @@ window.PALWORLD_DATA = {
         "atk": 144,
         "def": 133
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -7723,6 +7981,7 @@ window.PALWORLD_DATA = {
         "atk": 283,
         "def": 209
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -7752,6 +8011,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -7786,6 +8046,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -7815,6 +8076,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -7844,6 +8106,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -7878,6 +8141,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -7907,6 +8171,7 @@ window.PALWORLD_DATA = {
         "atk": 32,
         "def": 28
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -7936,6 +8201,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -7961,6 +8227,7 @@ window.PALWORLD_DATA = {
         "defense": 83
       },
       "power_stats": null,
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -7990,6 +8257,7 @@ window.PALWORLD_DATA = {
         "atk": 38,
         "def": 33
       },
+      "souls": 0,
       "passives": [],
       "owner": "Prismiti"
     },
@@ -8013,6 +8281,7 @@ window.PALWORLD_DATA = {
         "atk": 188,
         "def": 161
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -8042,6 +8311,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -8071,6 +8341,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -8100,6 +8371,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 74
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -8123,6 +8395,7 @@ window.PALWORLD_DATA = {
         "atk": 17,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -8152,6 +8425,7 @@ window.PALWORLD_DATA = {
         "atk": 73,
         "def": 58
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -8181,6 +8455,7 @@ window.PALWORLD_DATA = {
         "atk": 19,
         "def": 19
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -8210,6 +8485,7 @@ window.PALWORLD_DATA = {
         "atk": 114,
         "def": 107
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -8239,6 +8515,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -8268,6 +8545,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 66
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -8291,6 +8569,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 69
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -8330,6 +8609,7 @@ window.PALWORLD_DATA = {
         "atk": 132,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -8359,6 +8639,7 @@ window.PALWORLD_DATA = {
         "atk": 133,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -8388,6 +8669,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -8417,6 +8699,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -8446,6 +8729,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 133
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -8475,6 +8759,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -8504,6 +8789,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -8533,6 +8819,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 243
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -8567,6 +8854,7 @@ window.PALWORLD_DATA = {
         "atk": 73,
         "def": 61
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -8596,6 +8884,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -8625,6 +8914,7 @@ window.PALWORLD_DATA = {
         "atk": 56,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -8654,6 +8944,7 @@ window.PALWORLD_DATA = {
         "atk": 398,
         "def": 277
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -8693,6 +8984,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -8727,6 +9019,7 @@ window.PALWORLD_DATA = {
         "atk": 155,
         "def": 130
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -8756,6 +9049,7 @@ window.PALWORLD_DATA = {
         "atk": 191,
         "def": 160
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -8785,6 +9079,7 @@ window.PALWORLD_DATA = {
         "atk": 173,
         "def": 149
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -8819,6 +9114,7 @@ window.PALWORLD_DATA = {
         "atk": 90,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -8853,6 +9149,7 @@ window.PALWORLD_DATA = {
         "atk": 93,
         "def": 94
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -8882,6 +9179,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -8911,6 +9209,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -8940,6 +9239,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -8969,6 +9269,7 @@ window.PALWORLD_DATA = {
         "atk": 608,
         "def": 603
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -8998,6 +9299,7 @@ window.PALWORLD_DATA = {
         "atk": 203,
         "def": 208
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -9037,6 +9339,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -9071,6 +9374,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 262
       },
+      "souls": 0,
       "passives": [],
       "owner": "inconnu"
     },
@@ -9094,6 +9398,7 @@ window.PALWORLD_DATA = {
         "atk": 148,
         "def": 96
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -9123,6 +9428,7 @@ window.PALWORLD_DATA = {
         "atk": 134,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -9152,6 +9458,7 @@ window.PALWORLD_DATA = {
         "atk": 17,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -9181,6 +9488,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -9215,6 +9523,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 49
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -9244,6 +9553,7 @@ window.PALWORLD_DATA = {
         "atk": 218,
         "def": 211
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -9273,6 +9583,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 54
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -9302,6 +9613,7 @@ window.PALWORLD_DATA = {
         "atk": 136,
         "def": 130
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -9331,6 +9643,7 @@ window.PALWORLD_DATA = {
         "atk": 73,
         "def": 52
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -9354,6 +9667,7 @@ window.PALWORLD_DATA = {
         "atk": 85,
         "def": 84
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -9388,6 +9702,7 @@ window.PALWORLD_DATA = {
         "atk": 865,
         "def": 826
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -9417,6 +9732,7 @@ window.PALWORLD_DATA = {
         "atk": 62,
         "def": 57
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -9446,6 +9762,7 @@ window.PALWORLD_DATA = {
         "atk": 48,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -9475,6 +9792,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 46
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -9504,6 +9822,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -9533,6 +9852,7 @@ window.PALWORLD_DATA = {
         "atk": 181,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -9562,6 +9882,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 45
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -9591,6 +9912,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 65
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -9620,6 +9942,7 @@ window.PALWORLD_DATA = {
         "atk": 93,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -9649,6 +9972,7 @@ window.PALWORLD_DATA = {
         "atk": 100,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -9683,6 +10007,7 @@ window.PALWORLD_DATA = {
         "atk": 98,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -9712,6 +10037,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -9741,6 +10067,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -9770,6 +10097,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 71
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -9799,6 +10127,7 @@ window.PALWORLD_DATA = {
         "atk": 25,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -9828,6 +10157,7 @@ window.PALWORLD_DATA = {
         "atk": 120,
         "def": 120
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -9857,6 +10187,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -9891,6 +10222,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 38
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -9914,6 +10246,7 @@ window.PALWORLD_DATA = {
         "atk": 113,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -9953,6 +10286,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -9982,6 +10316,7 @@ window.PALWORLD_DATA = {
         "atk": 81,
         "def": 77
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -10011,6 +10346,7 @@ window.PALWORLD_DATA = {
         "atk": 100,
         "def": 79
       },
+      "souls": 0,
       "passives": [],
       "owner": "inconnu"
     },
@@ -10034,6 +10370,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -10073,6 +10410,7 @@ window.PALWORLD_DATA = {
         "atk": 103,
         "def": 111
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -10102,6 +10440,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -10131,6 +10470,7 @@ window.PALWORLD_DATA = {
         "atk": 396,
         "def": 317
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -10160,6 +10500,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -10189,6 +10530,7 @@ window.PALWORLD_DATA = {
         "atk": 110,
         "def": 96
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -10212,6 +10554,7 @@ window.PALWORLD_DATA = {
         "atk": 150,
         "def": 156
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -10246,6 +10589,7 @@ window.PALWORLD_DATA = {
         "atk": 211,
         "def": 187
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -10269,6 +10613,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 71
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -10298,6 +10643,7 @@ window.PALWORLD_DATA = {
         "atk": 228,
         "def": 239
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -10327,6 +10673,7 @@ window.PALWORLD_DATA = {
         "atk": 80,
         "def": 60
       },
+      "souls": 0,
       "passives": [],
       "owner": "Prismiti"
     },
@@ -10350,6 +10697,7 @@ window.PALWORLD_DATA = {
         "atk": 93,
         "def": 63
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -10379,6 +10727,7 @@ window.PALWORLD_DATA = {
         "atk": 201,
         "def": 101
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -10408,6 +10757,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -10437,6 +10787,7 @@ window.PALWORLD_DATA = {
         "atk": 163,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -10466,6 +10817,7 @@ window.PALWORLD_DATA = {
         "atk": 312,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -10495,6 +10847,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 5
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -10529,6 +10882,7 @@ window.PALWORLD_DATA = {
         "atk": 459,
         "def": 473
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -10563,6 +10917,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -10592,6 +10947,7 @@ window.PALWORLD_DATA = {
         "atk": 420,
         "def": 336
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -10621,6 +10977,7 @@ window.PALWORLD_DATA = {
         "atk": 33,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -10650,6 +11007,7 @@ window.PALWORLD_DATA = {
         "atk": 132,
         "def": 131
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -10694,6 +11052,7 @@ window.PALWORLD_DATA = {
         "atk": 100,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -10723,6 +11082,7 @@ window.PALWORLD_DATA = {
         "atk": 107,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -10752,6 +11112,7 @@ window.PALWORLD_DATA = {
         "atk": 5,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -10781,6 +11142,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -10810,6 +11172,7 @@ window.PALWORLD_DATA = {
         "atk": 689,
         "def": 596
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -10839,6 +11202,7 @@ window.PALWORLD_DATA = {
         "atk": 55,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -10868,6 +11232,7 @@ window.PALWORLD_DATA = {
         "atk": 85,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -10897,6 +11262,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -10926,6 +11292,7 @@ window.PALWORLD_DATA = {
         "atk": 46,
         "def": 44
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -10949,6 +11316,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 66
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -10978,6 +11346,7 @@ window.PALWORLD_DATA = {
         "atk": 131,
         "def": 105
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_3",
@@ -11007,6 +11376,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -11041,6 +11411,7 @@ window.PALWORLD_DATA = {
         "atk": 116,
         "def": 101
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -11070,6 +11441,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 71
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -11114,6 +11486,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -11143,6 +11516,7 @@ window.PALWORLD_DATA = {
         "atk": 107,
         "def": 142
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -11177,6 +11551,7 @@ window.PALWORLD_DATA = {
         "atk": 21,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -11206,6 +11581,7 @@ window.PALWORLD_DATA = {
         "atk": 288,
         "def": 350
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -11235,6 +11611,7 @@ window.PALWORLD_DATA = {
         "atk": 97,
         "def": 91
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -11269,6 +11646,7 @@ window.PALWORLD_DATA = {
         "atk": 275,
         "def": 216
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -11298,6 +11676,7 @@ window.PALWORLD_DATA = {
         "atk": 130,
         "def": 94
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -11321,6 +11700,7 @@ window.PALWORLD_DATA = {
         "atk": 243,
         "def": 234
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -11355,6 +11735,7 @@ window.PALWORLD_DATA = {
         "atk": 135,
         "def": 163
       },
+      "souls": 0,
       "passives": [],
       "owner": "Prismiti"
     },
@@ -11378,6 +11759,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -11407,6 +11789,7 @@ window.PALWORLD_DATA = {
         "atk": 98,
         "def": 108
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -11430,6 +11813,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -11459,6 +11843,7 @@ window.PALWORLD_DATA = {
         "atk": 38,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -11488,6 +11873,7 @@ window.PALWORLD_DATA = {
         "atk": 69,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -11517,6 +11903,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -11546,6 +11933,7 @@ window.PALWORLD_DATA = {
         "atk": 138,
         "def": 100
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -11580,6 +11968,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 71
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -11609,6 +11998,7 @@ window.PALWORLD_DATA = {
         "atk": 69,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -11638,6 +12028,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -11667,6 +12058,7 @@ window.PALWORLD_DATA = {
         "atk": 34,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -11696,6 +12088,7 @@ window.PALWORLD_DATA = {
         "atk": 189,
         "def": 237
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -11730,6 +12123,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 17
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -11759,6 +12153,7 @@ window.PALWORLD_DATA = {
         "atk": 99,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -11793,6 +12188,7 @@ window.PALWORLD_DATA = {
         "atk": 26,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Vampire",
@@ -11822,6 +12218,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 27
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -11851,6 +12248,7 @@ window.PALWORLD_DATA = {
         "atk": 165,
         "def": 133
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -11880,6 +12278,7 @@ window.PALWORLD_DATA = {
         "atk": 81,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -11909,6 +12308,7 @@ window.PALWORLD_DATA = {
         "atk": 116,
         "def": 164
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -11938,6 +12338,7 @@ window.PALWORLD_DATA = {
         "atk": 92,
         "def": 87
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -11961,6 +12362,7 @@ window.PALWORLD_DATA = {
         "atk": 65,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -11990,6 +12392,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -12019,6 +12422,7 @@ window.PALWORLD_DATA = {
         "atk": 143,
         "def": 97
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -12048,6 +12452,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -12077,6 +12482,7 @@ window.PALWORLD_DATA = {
         "atk": 30,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -12106,6 +12512,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -12135,6 +12542,7 @@ window.PALWORLD_DATA = {
         "atk": 155,
         "def": 122
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -12164,6 +12572,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -12189,10 +12598,11 @@ window.PALWORLD_DATA = {
         "defense": 14
       },
       "power_stats": {
-        "hp": 4519,
-        "atk": 727,
-        "def": 491
+        "hp": 4692,
+        "atk": 739,
+        "def": 508
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -12222,6 +12632,7 @@ window.PALWORLD_DATA = {
         "atk": 44,
         "def": 39
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -12251,6 +12662,7 @@ window.PALWORLD_DATA = {
         "atk": 150,
         "def": 158
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -12290,6 +12702,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -12324,6 +12737,7 @@ window.PALWORLD_DATA = {
         "atk": 120,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -12353,6 +12767,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -12387,6 +12802,7 @@ window.PALWORLD_DATA = {
         "atk": 109,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -12416,6 +12832,7 @@ window.PALWORLD_DATA = {
         "atk": 263,
         "def": 357
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -12450,6 +12867,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -12479,6 +12897,7 @@ window.PALWORLD_DATA = {
         "atk": 55,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -12508,6 +12927,7 @@ window.PALWORLD_DATA = {
         "atk": 209,
         "def": 246
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -12542,6 +12962,7 @@ window.PALWORLD_DATA = {
         "atk": 69,
         "def": 53
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -12571,6 +12992,7 @@ window.PALWORLD_DATA = {
         "atk": 478,
         "def": 429
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -12600,6 +13022,7 @@ window.PALWORLD_DATA = {
         "atk": 147,
         "def": 144
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -12629,6 +13052,7 @@ window.PALWORLD_DATA = {
         "atk": 28,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -12663,6 +13087,7 @@ window.PALWORLD_DATA = {
         "atk": 27,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -12692,6 +13117,7 @@ window.PALWORLD_DATA = {
         "atk": 46,
         "def": 43
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -12721,6 +13147,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 46
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -12750,6 +13177,7 @@ window.PALWORLD_DATA = {
         "atk": 146,
         "def": 165
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -12779,6 +13207,7 @@ window.PALWORLD_DATA = {
         "atk": 284,
         "def": 280
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -12808,6 +13237,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 63
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -12837,6 +13267,7 @@ window.PALWORLD_DATA = {
         "atk": 213,
         "def": 216
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -12866,6 +13297,7 @@ window.PALWORLD_DATA = {
         "atk": 30,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -12900,6 +13332,7 @@ window.PALWORLD_DATA = {
         "atk": 64,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -12914,7 +13347,7 @@ window.PALWORLD_DATA = {
       "species": "Plesiosaur",
       "species_name": "Braloha",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Plesiosaur_icon_normal.webp",
-      "level": 33,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -12925,10 +13358,11 @@ window.PALWORLD_DATA = {
         "defense": 28
       },
       "power_stats": {
-        "hp": 2867,
-        "atk": 320,
-        "def": 414
+        "hp": 2939,
+        "atk": 330,
+        "def": 427
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -12963,6 +13397,7 @@ window.PALWORLD_DATA = {
         "atk": 58,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -12992,6 +13427,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -13021,6 +13457,7 @@ window.PALWORLD_DATA = {
         "atk": 60,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -13050,6 +13487,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 76
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -13079,6 +13517,7 @@ window.PALWORLD_DATA = {
         "atk": 315,
         "def": 253
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -13102,6 +13541,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 5
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -13131,6 +13571,7 @@ window.PALWORLD_DATA = {
         "atk": 21,
         "def": 22
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -13160,6 +13601,7 @@ window.PALWORLD_DATA = {
         "atk": 131,
         "def": 97
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -13189,6 +13631,7 @@ window.PALWORLD_DATA = {
         "atk": 273,
         "def": 190
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -13218,6 +13661,7 @@ window.PALWORLD_DATA = {
         "atk": 112,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -13247,6 +13691,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -13276,6 +13721,7 @@ window.PALWORLD_DATA = {
         "atk": 56,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -13305,6 +13751,7 @@ window.PALWORLD_DATA = {
         "atk": 113,
         "def": 101
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -13334,6 +13781,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 49
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -13363,6 +13811,7 @@ window.PALWORLD_DATA = {
         "atk": 65,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -13397,6 +13846,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 76
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -13431,6 +13881,7 @@ window.PALWORLD_DATA = {
         "atk": 32,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -13460,6 +13911,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 88
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -13483,6 +13935,7 @@ window.PALWORLD_DATA = {
         "atk": 255,
         "def": 221
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -13517,6 +13970,7 @@ window.PALWORLD_DATA = {
         "atk": 161,
         "def": 141
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -13546,6 +14000,7 @@ window.PALWORLD_DATA = {
         "atk": 45,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -13575,6 +14030,7 @@ window.PALWORLD_DATA = {
         "atk": 145,
         "def": 96
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -13614,6 +14070,7 @@ window.PALWORLD_DATA = {
         "atk": 94,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -13643,6 +14100,7 @@ window.PALWORLD_DATA = {
         "atk": 123,
         "def": 102
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -13677,6 +14135,7 @@ window.PALWORLD_DATA = {
         "atk": 69,
         "def": 60
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -13706,6 +14165,7 @@ window.PALWORLD_DATA = {
         "atk": 81,
         "def": 108
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -13735,6 +14195,7 @@ window.PALWORLD_DATA = {
         "atk": 167,
         "def": 120
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -13764,6 +14225,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 63
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -13793,6 +14255,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -13822,6 +14285,7 @@ window.PALWORLD_DATA = {
         "atk": 180,
         "def": 161
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -13851,6 +14315,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 56
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -13880,6 +14345,7 @@ window.PALWORLD_DATA = {
         "atk": 63,
         "def": 65
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -13909,6 +14375,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 64
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -13932,6 +14399,7 @@ window.PALWORLD_DATA = {
         "atk": 113,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -13971,6 +14439,7 @@ window.PALWORLD_DATA = {
         "atk": 147,
         "def": 142
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -14005,6 +14474,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 46
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -14034,6 +14504,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 33
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -14063,6 +14534,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 68
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -14086,6 +14558,7 @@ window.PALWORLD_DATA = {
         "atk": 98,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -14115,6 +14588,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -14144,6 +14618,7 @@ window.PALWORLD_DATA = {
         "atk": 243,
         "def": 210
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -14173,6 +14648,7 @@ window.PALWORLD_DATA = {
         "atk": 65,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -14212,6 +14688,7 @@ window.PALWORLD_DATA = {
         "atk": 84,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -14241,6 +14718,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -14270,6 +14748,7 @@ window.PALWORLD_DATA = {
         "atk": 140,
         "def": 121
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -14299,6 +14778,7 @@ window.PALWORLD_DATA = {
         "atk": 445,
         "def": 482
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -14328,6 +14808,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 73
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -14351,6 +14832,7 @@ window.PALWORLD_DATA = {
         "atk": 121,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -14385,6 +14867,7 @@ window.PALWORLD_DATA = {
         "atk": 160,
         "def": 180
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -14414,6 +14897,7 @@ window.PALWORLD_DATA = {
         "atk": 119,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -14443,6 +14927,7 @@ window.PALWORLD_DATA = {
         "atk": 125,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -14472,6 +14957,7 @@ window.PALWORLD_DATA = {
         "atk": 326,
         "def": 280
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -14511,6 +14997,7 @@ window.PALWORLD_DATA = {
         "atk": 111,
         "def": 84
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -14545,6 +15032,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 39
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -14574,6 +15062,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 79
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -14603,6 +15092,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -14632,6 +15122,7 @@ window.PALWORLD_DATA = {
         "atk": 32,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -14666,6 +15157,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 287
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -14680,7 +15172,7 @@ window.PALWORLD_DATA = {
       "species": "WingGolem",
       "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
-      "level": 33,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -14691,10 +15183,11 @@ window.PALWORLD_DATA = {
         "defense": 20
       },
       "power_stats": {
-        "hp": 2860,
-        "atk": 366,
-        "def": 453
+        "hp": 2931,
+        "atk": 378,
+        "def": 466
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -14729,6 +15222,7 @@ window.PALWORLD_DATA = {
         "atk": 244,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -14758,6 +15252,7 @@ window.PALWORLD_DATA = {
         "atk": 345,
         "def": 438
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -14792,6 +15287,7 @@ window.PALWORLD_DATA = {
         "atk": 152,
         "def": 161
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -14815,6 +15311,7 @@ window.PALWORLD_DATA = {
         "atk": 176,
         "def": 142
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -14844,6 +15341,7 @@ window.PALWORLD_DATA = {
         "atk": 182,
         "def": 191
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -14867,6 +15365,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 46
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -14896,6 +15395,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -14925,6 +15425,7 @@ window.PALWORLD_DATA = {
         "atk": 121,
         "def": 154
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -14954,6 +15455,7 @@ window.PALWORLD_DATA = {
         "atk": 83,
         "def": 68
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -14993,6 +15495,7 @@ window.PALWORLD_DATA = {
         "atk": 255,
         "def": 404
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -15027,6 +15530,7 @@ window.PALWORLD_DATA = {
         "atk": 92,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -15056,6 +15560,7 @@ window.PALWORLD_DATA = {
         "atk": 108,
         "def": 104
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -15085,6 +15590,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -15114,6 +15620,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -15143,6 +15650,7 @@ window.PALWORLD_DATA = {
         "atk": 389,
         "def": 285
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -15172,6 +15680,7 @@ window.PALWORLD_DATA = {
         "atk": 212,
         "def": 186
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -15206,6 +15715,7 @@ window.PALWORLD_DATA = {
         "atk": 85,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -15235,6 +15745,7 @@ window.PALWORLD_DATA = {
         "atk": 107,
         "def": 87
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -15264,6 +15775,7 @@ window.PALWORLD_DATA = {
         "atk": 78,
         "def": 68
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -15293,6 +15805,7 @@ window.PALWORLD_DATA = {
         "atk": 124,
         "def": 127
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -15327,6 +15840,7 @@ window.PALWORLD_DATA = {
         "atk": 176,
         "def": 207
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -15361,6 +15875,7 @@ window.PALWORLD_DATA = {
         "atk": 225,
         "def": 165
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -15390,6 +15905,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -15419,6 +15935,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -15448,6 +15965,7 @@ window.PALWORLD_DATA = {
         "atk": 278,
         "def": 258
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -15477,6 +15995,7 @@ window.PALWORLD_DATA = {
         "atk": 128,
         "def": 97
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -15506,6 +16025,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 59
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -15535,6 +16055,7 @@ window.PALWORLD_DATA = {
         "atk": 147,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -15564,6 +16085,7 @@ window.PALWORLD_DATA = {
         "atk": 100,
         "def": 105
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -15593,6 +16115,7 @@ window.PALWORLD_DATA = {
         "atk": 167,
         "def": 174
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -15622,6 +16145,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 59
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -15651,6 +16175,7 @@ window.PALWORLD_DATA = {
         "atk": 182,
         "def": 222
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -15680,6 +16205,7 @@ window.PALWORLD_DATA = {
         "atk": 24,
         "def": 27
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -15709,6 +16235,7 @@ window.PALWORLD_DATA = {
         "atk": 81,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -15743,6 +16270,7 @@ window.PALWORLD_DATA = {
         "atk": 337,
         "def": 286
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -15777,6 +16305,7 @@ window.PALWORLD_DATA = {
         "atk": 191,
         "def": 155
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -15806,6 +16335,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -15835,6 +16365,7 @@ window.PALWORLD_DATA = {
         "atk": 492,
         "def": 391
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -15864,6 +16395,7 @@ window.PALWORLD_DATA = {
         "atk": 188,
         "def": 232
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -15893,6 +16425,7 @@ window.PALWORLD_DATA = {
         "atk": 153,
         "def": 127
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -15922,6 +16455,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 21
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -15951,6 +16485,7 @@ window.PALWORLD_DATA = {
         "atk": 276,
         "def": 297
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -15985,6 +16520,7 @@ window.PALWORLD_DATA = {
         "atk": 725,
         "def": 587
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -16014,6 +16550,7 @@ window.PALWORLD_DATA = {
         "atk": 294,
         "def": 233
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -16037,6 +16574,7 @@ window.PALWORLD_DATA = {
         "atk": 60,
         "def": 70
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -16060,6 +16598,7 @@ window.PALWORLD_DATA = {
         "atk": 271,
         "def": 308
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -16089,6 +16628,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -16118,6 +16658,7 @@ window.PALWORLD_DATA = {
         "atk": 94,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -16147,6 +16688,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 65
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -16176,6 +16718,7 @@ window.PALWORLD_DATA = {
         "atk": 169,
         "def": 156
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -16205,6 +16748,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 45
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -16234,6 +16778,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 65
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -16263,6 +16808,7 @@ window.PALWORLD_DATA = {
         "atk": 58,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -16292,6 +16838,7 @@ window.PALWORLD_DATA = {
         "atk": 319,
         "def": 261
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -16321,6 +16868,7 @@ window.PALWORLD_DATA = {
         "atk": 101,
         "def": 65
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -16355,6 +16903,7 @@ window.PALWORLD_DATA = {
         "atk": 94,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -16389,6 +16938,7 @@ window.PALWORLD_DATA = {
         "atk": 85,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -16423,6 +16973,7 @@ window.PALWORLD_DATA = {
         "atk": 62,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -16452,6 +17003,7 @@ window.PALWORLD_DATA = {
         "atk": 154,
         "def": 115
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -16475,6 +17027,7 @@ window.PALWORLD_DATA = {
         "atk": 272,
         "def": 222
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -16509,6 +17062,7 @@ window.PALWORLD_DATA = {
         "atk": 183,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -16538,6 +17092,7 @@ window.PALWORLD_DATA = {
         "atk": 173,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -16572,6 +17127,7 @@ window.PALWORLD_DATA = {
         "atk": 90,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -16601,6 +17157,7 @@ window.PALWORLD_DATA = {
         "atk": 331,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -16630,6 +17187,7 @@ window.PALWORLD_DATA = {
         "atk": 79,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -16674,6 +17232,7 @@ window.PALWORLD_DATA = {
         "atk": 247,
         "def": 151
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -16703,6 +17262,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -16742,6 +17302,7 @@ window.PALWORLD_DATA = {
         "atk": 160,
         "def": 172
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -16771,6 +17332,7 @@ window.PALWORLD_DATA = {
         "atk": 246,
         "def": 187
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -16800,6 +17362,7 @@ window.PALWORLD_DATA = {
         "atk": 148,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -16834,6 +17397,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -16863,6 +17427,7 @@ window.PALWORLD_DATA = {
         "atk": 150,
         "def": 95
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -16892,6 +17457,7 @@ window.PALWORLD_DATA = {
         "atk": 133,
         "def": 142
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -16921,6 +17487,7 @@ window.PALWORLD_DATA = {
         "atk": 143,
         "def": 106
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -16955,6 +17522,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -16984,6 +17552,7 @@ window.PALWORLD_DATA = {
         "atk": 133,
         "def": 134
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -17018,6 +17587,7 @@ window.PALWORLD_DATA = {
         "atk": 107,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -17047,6 +17617,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 52
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -17076,6 +17647,7 @@ window.PALWORLD_DATA = {
         "atk": 336,
         "def": 382
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -17115,6 +17687,7 @@ window.PALWORLD_DATA = {
         "atk": 584,
         "def": 535
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_3",
@@ -17144,6 +17717,7 @@ window.PALWORLD_DATA = {
         "atk": 123,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -17183,6 +17757,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -17212,6 +17787,7 @@ window.PALWORLD_DATA = {
         "atk": 366,
         "def": 273
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17235,6 +17811,7 @@ window.PALWORLD_DATA = {
         "atk": 462,
         "def": 422
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -17264,6 +17841,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -17293,6 +17871,7 @@ window.PALWORLD_DATA = {
         "atk": 284,
         "def": 217
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -17322,6 +17901,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 23
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17345,6 +17925,7 @@ window.PALWORLD_DATA = {
         "atk": 183,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -17374,6 +17955,7 @@ window.PALWORLD_DATA = {
         "atk": 178,
         "def": 124
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -17408,6 +17990,7 @@ window.PALWORLD_DATA = {
         "atk": 61,
         "def": 76
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -17442,6 +18025,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -17471,6 +18055,7 @@ window.PALWORLD_DATA = {
         "atk": 137,
         "def": 170
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -17494,6 +18079,7 @@ window.PALWORLD_DATA = {
         "atk": 104,
         "def": 98
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -17523,6 +18109,7 @@ window.PALWORLD_DATA = {
         "atk": 576,
         "def": 488
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -17552,6 +18139,7 @@ window.PALWORLD_DATA = {
         "atk": 104,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -17581,6 +18169,7 @@ window.PALWORLD_DATA = {
         "atk": 90,
         "def": 83
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -17610,6 +18199,7 @@ window.PALWORLD_DATA = {
         "atk": 336,
         "def": 220
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -17633,6 +18223,7 @@ window.PALWORLD_DATA = {
         "atk": 242,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -17667,6 +18258,7 @@ window.PALWORLD_DATA = {
         "atk": 79,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -17696,6 +18288,7 @@ window.PALWORLD_DATA = {
         "atk": 90,
         "def": 53
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -17719,6 +18312,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -17748,6 +18342,7 @@ window.PALWORLD_DATA = {
         "atk": 312,
         "def": 332
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -17777,6 +18372,7 @@ window.PALWORLD_DATA = {
         "atk": 532,
         "def": 431
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -17806,6 +18402,7 @@ window.PALWORLD_DATA = {
         "atk": 141,
         "def": 115
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -17835,6 +18432,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 69
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -17864,6 +18462,7 @@ window.PALWORLD_DATA = {
         "atk": 167,
         "def": 179
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -17893,6 +18492,7 @@ window.PALWORLD_DATA = {
         "atk": 97,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -17922,6 +18522,7 @@ window.PALWORLD_DATA = {
         "atk": 901,
         "def": 829
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -17951,6 +18552,7 @@ window.PALWORLD_DATA = {
         "atk": 85,
         "def": 52
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -17980,6 +18582,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -18009,6 +18612,7 @@ window.PALWORLD_DATA = {
         "atk": 599,
         "def": 723
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -18038,6 +18642,7 @@ window.PALWORLD_DATA = {
         "atk": 181,
         "def": 144
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -18067,6 +18672,7 @@ window.PALWORLD_DATA = {
         "atk": 375,
         "def": 606
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -18096,6 +18702,7 @@ window.PALWORLD_DATA = {
         "atk": 82,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -18125,6 +18732,7 @@ window.PALWORLD_DATA = {
         "atk": 65,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -18159,6 +18767,7 @@ window.PALWORLD_DATA = {
         "atk": 267,
         "def": 244
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -18188,6 +18797,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 58
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -18217,6 +18827,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 189
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -18251,6 +18862,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -18280,6 +18892,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -18309,6 +18922,7 @@ window.PALWORLD_DATA = {
         "atk": 58,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -18338,6 +18952,7 @@ window.PALWORLD_DATA = {
         "atk": 311,
         "def": 226
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -18367,6 +18982,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 79
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -18401,6 +19017,7 @@ window.PALWORLD_DATA = {
         "atk": 88,
         "def": 79
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -18430,6 +19047,7 @@ window.PALWORLD_DATA = {
         "atk": 366,
         "def": 251
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -18459,6 +19077,7 @@ window.PALWORLD_DATA = {
         "atk": 286,
         "def": 308
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -18503,6 +19122,7 @@ window.PALWORLD_DATA = {
         "atk": 348,
         "def": 275
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -18529,9 +19149,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4252,
-        "atk": 910,
+        "atk": 812,
         "def": 590
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -18566,6 +19187,7 @@ window.PALWORLD_DATA = {
         "atk": 111,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -18600,6 +19222,7 @@ window.PALWORLD_DATA = {
         "atk": 443,
         "def": 333
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -18629,6 +19252,7 @@ window.PALWORLD_DATA = {
         "atk": 83,
         "def": 66
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -18658,6 +19282,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 299
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -18697,6 +19322,7 @@ window.PALWORLD_DATA = {
         "atk": 61,
         "def": 49
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -18726,6 +19352,7 @@ window.PALWORLD_DATA = {
         "atk": 19,
         "def": 22
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -18749,6 +19376,7 @@ window.PALWORLD_DATA = {
         "atk": 100,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -18778,6 +19406,7 @@ window.PALWORLD_DATA = {
         "atk": 71,
         "def": 52
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -18801,6 +19430,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -18830,6 +19460,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -18869,6 +19500,7 @@ window.PALWORLD_DATA = {
         "atk": 97,
         "def": 89
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -18892,6 +19524,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 63
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -18921,6 +19554,7 @@ window.PALWORLD_DATA = {
         "atk": 185,
         "def": 175
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -18950,6 +19584,7 @@ window.PALWORLD_DATA = {
         "atk": 160,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -18979,6 +19614,7 @@ window.PALWORLD_DATA = {
         "atk": 80,
         "def": 68
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -19008,6 +19644,7 @@ window.PALWORLD_DATA = {
         "atk": 168,
         "def": 188
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -19037,6 +19674,7 @@ window.PALWORLD_DATA = {
         "atk": 164,
         "def": 105
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -19066,6 +19704,7 @@ window.PALWORLD_DATA = {
         "atk": 254,
         "def": 148
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -19095,6 +19734,7 @@ window.PALWORLD_DATA = {
         "atk": 112,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -19124,6 +19764,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -19158,6 +19799,7 @@ window.PALWORLD_DATA = {
         "atk": 94,
         "def": 117
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -19187,6 +19829,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 45
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -19216,6 +19859,7 @@ window.PALWORLD_DATA = {
         "atk": 507,
         "def": 457
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -19250,6 +19894,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -19279,6 +19924,7 @@ window.PALWORLD_DATA = {
         "atk": 63,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -19313,6 +19959,7 @@ window.PALWORLD_DATA = {
         "atk": 64,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -19347,6 +19994,7 @@ window.PALWORLD_DATA = {
         "atk": 246,
         "def": 254
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -19376,6 +20024,7 @@ window.PALWORLD_DATA = {
         "atk": 149,
         "def": 99
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -19410,6 +20059,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 60
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -19444,6 +20094,7 @@ window.PALWORLD_DATA = {
         "atk": 251,
         "def": 190
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -19473,6 +20124,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -19512,6 +20164,7 @@ window.PALWORLD_DATA = {
         "atk": 471,
         "def": 356
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -19541,6 +20194,7 @@ window.PALWORLD_DATA = {
         "atk": 108,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -19580,6 +20234,7 @@ window.PALWORLD_DATA = {
         "atk": 77,
         "def": 93
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -19609,6 +20264,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -19638,6 +20294,7 @@ window.PALWORLD_DATA = {
         "atk": 227,
         "def": 104
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -19667,6 +20324,7 @@ window.PALWORLD_DATA = {
         "atk": 73,
         "def": 61
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -19696,6 +20354,7 @@ window.PALWORLD_DATA = {
         "atk": 526,
         "def": 448
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -19725,6 +20384,7 @@ window.PALWORLD_DATA = {
         "atk": 231,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -19754,6 +20414,7 @@ window.PALWORLD_DATA = {
         "atk": 313,
         "def": 264
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -19783,6 +20444,7 @@ window.PALWORLD_DATA = {
         "atk": 463,
         "def": 664
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -19809,9 +20471,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5882,
-        "atk": 1211,
+        "atk": 1081,
         "def": 804
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -19846,6 +20509,7 @@ window.PALWORLD_DATA = {
         "atk": 420,
         "def": 418
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -19885,6 +20549,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -19914,6 +20579,7 @@ window.PALWORLD_DATA = {
         "atk": 171,
         "def": 108
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -19943,6 +20609,7 @@ window.PALWORLD_DATA = {
         "atk": 21,
         "def": 18
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -19972,6 +20639,7 @@ window.PALWORLD_DATA = {
         "atk": 708,
         "def": 506
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -20001,6 +20669,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -20030,6 +20699,7 @@ window.PALWORLD_DATA = {
         "atk": 427,
         "def": 459
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -20059,6 +20729,7 @@ window.PALWORLD_DATA = {
         "atk": 399,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -20093,6 +20764,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 5
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -20122,6 +20794,7 @@ window.PALWORLD_DATA = {
         "atk": 475,
         "def": 556
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -20151,6 +20824,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -20180,6 +20854,7 @@ window.PALWORLD_DATA = {
         "atk": 83,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -20209,6 +20884,7 @@ window.PALWORLD_DATA = {
         "atk": 229,
         "def": 197
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -20238,6 +20914,7 @@ window.PALWORLD_DATA = {
         "atk": 45,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -20267,6 +20944,7 @@ window.PALWORLD_DATA = {
         "atk": 323,
         "def": 290
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -20296,6 +20974,7 @@ window.PALWORLD_DATA = {
         "atk": 215,
         "def": 218
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -20325,6 +21004,7 @@ window.PALWORLD_DATA = {
         "atk": 146,
         "def": 100
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -20354,6 +21034,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 17
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -20383,6 +21064,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -20422,6 +21104,7 @@ window.PALWORLD_DATA = {
         "atk": 107,
         "def": 87
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -20451,6 +21134,7 @@ window.PALWORLD_DATA = {
         "atk": 30,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -20480,6 +21164,7 @@ window.PALWORLD_DATA = {
         "atk": 231,
         "def": 232
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -20509,6 +21194,7 @@ window.PALWORLD_DATA = {
         "atk": 56,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -20538,6 +21224,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -20572,6 +21259,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -20601,6 +21289,7 @@ window.PALWORLD_DATA = {
         "atk": 172,
         "def": 129
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -20630,6 +21319,7 @@ window.PALWORLD_DATA = {
         "atk": 377,
         "def": 434
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -20674,6 +21364,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -20703,6 +21394,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -20732,6 +21424,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 76
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -20755,6 +21448,7 @@ window.PALWORLD_DATA = {
         "atk": 59,
         "def": 57
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -20784,6 +21478,7 @@ window.PALWORLD_DATA = {
         "atk": 220,
         "def": 215
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -20813,6 +21508,7 @@ window.PALWORLD_DATA = {
         "atk": 360,
         "def": 301
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -20842,6 +21538,7 @@ window.PALWORLD_DATA = {
         "atk": 33,
         "def": 35
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -20865,6 +21562,7 @@ window.PALWORLD_DATA = {
         "atk": 413,
         "def": 309
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -20888,6 +21586,7 @@ window.PALWORLD_DATA = {
         "atk": 379,
         "def": 335
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -20917,6 +21616,7 @@ window.PALWORLD_DATA = {
         "atk": 84,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -20946,6 +21646,7 @@ window.PALWORLD_DATA = {
         "atk": 72,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -20975,6 +21676,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 271
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -21004,6 +21706,7 @@ window.PALWORLD_DATA = {
         "atk": 705,
         "def": 595
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -21033,6 +21736,7 @@ window.PALWORLD_DATA = {
         "atk": 92,
         "def": 68
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Vampire",
@@ -21062,6 +21766,7 @@ window.PALWORLD_DATA = {
         "atk": 20,
         "def": 20
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -21091,6 +21796,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -21125,6 +21831,7 @@ window.PALWORLD_DATA = {
         "atk": 205,
         "def": 134
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -21148,6 +21855,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -21182,6 +21890,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -21211,6 +21920,7 @@ window.PALWORLD_DATA = {
         "atk": 535,
         "def": 459
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -21245,6 +21955,7 @@ window.PALWORLD_DATA = {
         "atk": 340,
         "def": 239
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -21274,6 +21985,7 @@ window.PALWORLD_DATA = {
         "atk": 591,
         "def": 470
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -21308,6 +22020,7 @@ window.PALWORLD_DATA = {
         "atk": 26,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -21337,6 +22050,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -21366,6 +22080,7 @@ window.PALWORLD_DATA = {
         "atk": 358,
         "def": 280
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -21395,6 +22110,7 @@ window.PALWORLD_DATA = {
         "atk": 348,
         "def": 393
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -21429,6 +22145,7 @@ window.PALWORLD_DATA = {
         "atk": 228,
         "def": 146
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -21458,6 +22175,7 @@ window.PALWORLD_DATA = {
         "atk": 22,
         "def": 17
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -21487,6 +22205,7 @@ window.PALWORLD_DATA = {
         "atk": 213,
         "def": 249
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -21516,6 +22235,7 @@ window.PALWORLD_DATA = {
         "atk": 461,
         "def": 356
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -21545,6 +22265,7 @@ window.PALWORLD_DATA = {
         "atk": 172,
         "def": 156
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -21574,6 +22295,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -21603,6 +22325,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 23
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -21626,6 +22349,7 @@ window.PALWORLD_DATA = {
         "atk": 122,
         "def": 130
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -21660,6 +22384,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -21689,6 +22414,7 @@ window.PALWORLD_DATA = {
         "atk": 332,
         "def": 287
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -21723,6 +22449,7 @@ window.PALWORLD_DATA = {
         "atk": 460,
         "def": 421
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -21752,6 +22479,7 @@ window.PALWORLD_DATA = {
         "atk": 206,
         "def": 235
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -21781,6 +22509,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -21810,6 +22539,7 @@ window.PALWORLD_DATA = {
         "atk": 151,
         "def": 115
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -21839,6 +22569,7 @@ window.PALWORLD_DATA = {
         "atk": 141,
         "def": 94
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -21868,6 +22599,7 @@ window.PALWORLD_DATA = {
         "atk": 265,
         "def": 190
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -21897,6 +22629,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -21926,6 +22659,7 @@ window.PALWORLD_DATA = {
         "atk": 154,
         "def": 104
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -21965,6 +22699,7 @@ window.PALWORLD_DATA = {
         "atk": 191,
         "def": 207
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -21994,6 +22729,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -22028,6 +22764,7 @@ window.PALWORLD_DATA = {
         "atk": 605,
         "def": 561
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -22051,6 +22788,7 @@ window.PALWORLD_DATA = {
         "atk": 261,
         "def": 166
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -22080,6 +22818,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 8
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -22103,6 +22842,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 268
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -22132,6 +22872,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -22161,6 +22902,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -22190,6 +22932,7 @@ window.PALWORLD_DATA = {
         "atk": 341,
         "def": 248
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -22219,6 +22962,7 @@ window.PALWORLD_DATA = {
         "atk": 229,
         "def": 245
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -22253,6 +22997,7 @@ window.PALWORLD_DATA = {
         "atk": 22,
         "def": 22
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -22282,6 +23027,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 150
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -22308,9 +23054,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6832,
-        "atk": 1351,
+        "atk": 1225,
         "def": 838
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -22345,6 +23092,7 @@ window.PALWORLD_DATA = {
         "atk": 41,
         "def": 38
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -22374,6 +23122,7 @@ window.PALWORLD_DATA = {
         "atk": 127,
         "def": 101
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -22403,6 +23152,7 @@ window.PALWORLD_DATA = {
         "atk": 157,
         "def": 139
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -22432,6 +23182,7 @@ window.PALWORLD_DATA = {
         "atk": 136,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -22461,6 +23212,7 @@ window.PALWORLD_DATA = {
         "atk": 101,
         "def": 79
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -22490,6 +23242,7 @@ window.PALWORLD_DATA = {
         "atk": 326,
         "def": 430
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -22519,6 +23272,7 @@ window.PALWORLD_DATA = {
         "atk": 324,
         "def": 294
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -22548,6 +23302,7 @@ window.PALWORLD_DATA = {
         "atk": 303,
         "def": 257
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -22577,6 +23332,7 @@ window.PALWORLD_DATA = {
         "atk": 136,
         "def": 99
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -22600,6 +23356,7 @@ window.PALWORLD_DATA = {
         "atk": 85,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -22629,6 +23386,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -22663,6 +23421,7 @@ window.PALWORLD_DATA = {
         "atk": 242,
         "def": 212
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -22686,6 +23445,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -22715,6 +23475,7 @@ window.PALWORLD_DATA = {
         "atk": 179,
         "def": 111
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -22749,6 +23510,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -22778,6 +23540,7 @@ window.PALWORLD_DATA = {
         "atk": 212,
         "def": 302
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -22812,6 +23575,7 @@ window.PALWORLD_DATA = {
         "atk": 135,
         "def": 123
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -22841,6 +23605,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 245
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -22870,6 +23635,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -22904,6 +23670,7 @@ window.PALWORLD_DATA = {
         "atk": 96,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -22933,6 +23700,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -22962,6 +23730,7 @@ window.PALWORLD_DATA = {
         "atk": 41,
         "def": 38
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -22991,6 +23760,7 @@ window.PALWORLD_DATA = {
         "atk": 284,
         "def": 262
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -23020,6 +23790,7 @@ window.PALWORLD_DATA = {
         "atk": 96,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -23049,6 +23820,7 @@ window.PALWORLD_DATA = {
         "atk": 197,
         "def": 173
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -23083,6 +23855,7 @@ window.PALWORLD_DATA = {
         "atk": 529,
         "def": 393
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -23117,6 +23890,7 @@ window.PALWORLD_DATA = {
         "atk": 98,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -23146,6 +23920,7 @@ window.PALWORLD_DATA = {
         "atk": 152,
         "def": 96
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -23175,6 +23950,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 7
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -23198,6 +23974,7 @@ window.PALWORLD_DATA = {
         "atk": 145,
         "def": 106
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -23227,6 +24004,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -23261,6 +24039,7 @@ window.PALWORLD_DATA = {
         "atk": 39,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -23290,6 +24069,7 @@ window.PALWORLD_DATA = {
         "atk": 97,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -23324,6 +24104,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 243
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -23353,6 +24134,7 @@ window.PALWORLD_DATA = {
         "atk": 127,
         "def": 101
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -23382,6 +24164,7 @@ window.PALWORLD_DATA = {
         "atk": 21,
         "def": 22
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -23405,6 +24188,7 @@ window.PALWORLD_DATA = {
         "atk": 134,
         "def": 94
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -23428,6 +24212,7 @@ window.PALWORLD_DATA = {
         "atk": 56,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -23457,6 +24242,7 @@ window.PALWORLD_DATA = {
         "atk": 56,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -23486,6 +24272,7 @@ window.PALWORLD_DATA = {
         "atk": 262,
         "def": 322
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -23525,6 +24312,7 @@ window.PALWORLD_DATA = {
         "atk": 185,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -23554,6 +24342,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 288
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -23583,6 +24372,7 @@ window.PALWORLD_DATA = {
         "atk": 162,
         "def": 124
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -23606,6 +24396,7 @@ window.PALWORLD_DATA = {
         "atk": 257,
         "def": 162
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -23640,6 +24431,7 @@ window.PALWORLD_DATA = {
         "atk": 162,
         "def": 108
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -23679,6 +24471,7 @@ window.PALWORLD_DATA = {
         "atk": 108,
         "def": 146
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -23708,6 +24501,7 @@ window.PALWORLD_DATA = {
         "atk": 99,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -23737,6 +24531,7 @@ window.PALWORLD_DATA = {
         "atk": 186,
         "def": 180
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -23766,6 +24561,7 @@ window.PALWORLD_DATA = {
         "atk": 412,
         "def": 321
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -23795,6 +24591,7 @@ window.PALWORLD_DATA = {
         "atk": 109,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -23824,6 +24621,7 @@ window.PALWORLD_DATA = {
         "atk": 421,
         "def": 511
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -23853,6 +24651,7 @@ window.PALWORLD_DATA = {
         "atk": 225,
         "def": 197
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -23882,6 +24681,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -23916,6 +24716,7 @@ window.PALWORLD_DATA = {
         "atk": 76,
         "def": 79
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -23939,6 +24740,7 @@ window.PALWORLD_DATA = {
         "atk": 257,
         "def": 160
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -23962,6 +24764,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -23991,6 +24794,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 4
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -24030,6 +24834,7 @@ window.PALWORLD_DATA = {
         "atk": 331,
         "def": 456
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -24074,6 +24879,7 @@ window.PALWORLD_DATA = {
         "atk": 5,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -24103,6 +24909,7 @@ window.PALWORLD_DATA = {
         "atk": 18,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -24132,6 +24939,7 @@ window.PALWORLD_DATA = {
         "atk": 232,
         "def": 195
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -24161,6 +24969,7 @@ window.PALWORLD_DATA = {
         "atk": 499,
         "def": 438
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -24184,6 +24993,7 @@ window.PALWORLD_DATA = {
         "atk": 253,
         "def": 162
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -24207,6 +25017,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 69
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -24246,6 +25057,7 @@ window.PALWORLD_DATA = {
         "atk": 114,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -24275,6 +25087,7 @@ window.PALWORLD_DATA = {
         "atk": 353,
         "def": 307
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -24304,6 +25117,7 @@ window.PALWORLD_DATA = {
         "atk": 292,
         "def": 327
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -24338,6 +25152,7 @@ window.PALWORLD_DATA = {
         "atk": 438,
         "def": 288
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -24372,6 +25187,7 @@ window.PALWORLD_DATA = {
         "atk": 137,
         "def": 92
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -24401,6 +25217,7 @@ window.PALWORLD_DATA = {
         "atk": 216,
         "def": 208
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -24430,6 +25247,7 @@ window.PALWORLD_DATA = {
         "atk": 259,
         "def": 240
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -24459,6 +25277,7 @@ window.PALWORLD_DATA = {
         "atk": 90,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -24493,6 +25312,7 @@ window.PALWORLD_DATA = {
         "atk": 81,
         "def": 89
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -24522,6 +25342,7 @@ window.PALWORLD_DATA = {
         "atk": 174,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -24551,6 +25372,7 @@ window.PALWORLD_DATA = {
         "atk": 476,
         "def": 353
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -24585,6 +25407,7 @@ window.PALWORLD_DATA = {
         "atk": 93,
         "def": 86
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -24614,6 +25437,7 @@ window.PALWORLD_DATA = {
         "atk": 204,
         "def": 250
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -24648,6 +25472,7 @@ window.PALWORLD_DATA = {
         "atk": 295,
         "def": 250
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -24677,6 +25502,7 @@ window.PALWORLD_DATA = {
         "atk": 548,
         "def": 716
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -24721,6 +25547,7 @@ window.PALWORLD_DATA = {
         "atk": 130,
         "def": 100
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -24750,6 +25577,7 @@ window.PALWORLD_DATA = {
         "atk": 50,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -24779,6 +25607,7 @@ window.PALWORLD_DATA = {
         "atk": 501,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -24813,6 +25642,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 398
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -24847,6 +25677,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 408
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -24876,6 +25707,7 @@ window.PALWORLD_DATA = {
         "atk": 306,
         "def": 474
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -24905,6 +25737,7 @@ window.PALWORLD_DATA = {
         "atk": 404,
         "def": 319
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -24939,6 +25772,7 @@ window.PALWORLD_DATA = {
         "atk": 152,
         "def": 170
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -24973,6 +25807,7 @@ window.PALWORLD_DATA = {
         "atk": 95,
         "def": 101
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -25002,6 +25837,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -25031,6 +25867,7 @@ window.PALWORLD_DATA = {
         "atk": 298,
         "def": 317
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -25060,6 +25897,7 @@ window.PALWORLD_DATA = {
         "atk": 249,
         "def": 203
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -25094,6 +25932,7 @@ window.PALWORLD_DATA = {
         "atk": 338,
         "def": 266
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -25133,6 +25972,7 @@ window.PALWORLD_DATA = {
         "atk": 166,
         "def": 175
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -25162,6 +26002,7 @@ window.PALWORLD_DATA = {
         "atk": 342,
         "def": 241
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -25191,6 +26032,7 @@ window.PALWORLD_DATA = {
         "atk": 474,
         "def": 350
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -25225,6 +26067,7 @@ window.PALWORLD_DATA = {
         "atk": 262,
         "def": 250
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -25254,6 +26097,7 @@ window.PALWORLD_DATA = {
         "atk": 172,
         "def": 124
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -25283,6 +26127,7 @@ window.PALWORLD_DATA = {
         "atk": 116,
         "def": 98
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -25306,6 +26151,7 @@ window.PALWORLD_DATA = {
         "atk": 324,
         "def": 286
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -25340,6 +26186,7 @@ window.PALWORLD_DATA = {
         "atk": 296,
         "def": 289
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -25369,6 +26216,7 @@ window.PALWORLD_DATA = {
         "atk": 202,
         "def": 98
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -25398,6 +26246,7 @@ window.PALWORLD_DATA = {
         "atk": 175,
         "def": 163
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -25427,6 +26276,7 @@ window.PALWORLD_DATA = {
         "atk": 386,
         "def": 493
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -25461,6 +26311,7 @@ window.PALWORLD_DATA = {
         "atk": 54,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -25490,6 +26341,7 @@ window.PALWORLD_DATA = {
         "atk": 762,
         "def": 730
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -25519,6 +26371,7 @@ window.PALWORLD_DATA = {
         "atk": 318,
         "def": 303
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -25548,6 +26401,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -25577,6 +26431,7 @@ window.PALWORLD_DATA = {
         "atk": 194,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -25606,6 +26461,7 @@ window.PALWORLD_DATA = {
         "atk": 320,
         "def": 261
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -25635,6 +26491,7 @@ window.PALWORLD_DATA = {
         "atk": 43,
         "def": 38
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -25664,6 +26521,7 @@ window.PALWORLD_DATA = {
         "atk": 340,
         "def": 302
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -25693,6 +26551,7 @@ window.PALWORLD_DATA = {
         "atk": 156,
         "def": 135
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -25722,6 +26581,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -25751,6 +26611,7 @@ window.PALWORLD_DATA = {
         "atk": 232,
         "def": 196
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -25780,6 +26641,7 @@ window.PALWORLD_DATA = {
         "atk": 184,
         "def": 183
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -25809,6 +26671,7 @@ window.PALWORLD_DATA = {
         "atk": 221,
         "def": 188
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -25838,6 +26701,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 223
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -25867,6 +26731,7 @@ window.PALWORLD_DATA = {
         "atk": 194,
         "def": 169
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -25901,6 +26766,7 @@ window.PALWORLD_DATA = {
         "atk": 103,
         "def": 62
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -25930,6 +26796,7 @@ window.PALWORLD_DATA = {
         "atk": 205,
         "def": 220
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -25959,6 +26826,7 @@ window.PALWORLD_DATA = {
         "atk": 310,
         "def": 340
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -25988,6 +26856,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 30
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -26017,6 +26886,7 @@ window.PALWORLD_DATA = {
         "atk": 28,
         "def": 35
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -26061,6 +26931,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -26090,6 +26961,7 @@ window.PALWORLD_DATA = {
         "atk": 46,
         "def": 40
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -26124,6 +26996,7 @@ window.PALWORLD_DATA = {
         "atk": 87,
         "def": 84
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -26147,6 +27020,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 15
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -26176,6 +27050,7 @@ window.PALWORLD_DATA = {
         "atk": 458,
         "def": 249
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -26207,9 +27082,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 9803,
-        "atk": 1816,
+        "atk": 1620,
         "def": 1186
       },
+      "souls": 27,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -26239,6 +27115,7 @@ window.PALWORLD_DATA = {
         "atk": 364,
         "def": 342
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -26268,6 +27145,7 @@ window.PALWORLD_DATA = {
         "atk": 89,
         "def": 75
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -26297,6 +27175,7 @@ window.PALWORLD_DATA = {
         "atk": 205,
         "def": 180
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -26320,6 +27199,7 @@ window.PALWORLD_DATA = {
         "atk": 247,
         "def": 154
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -26343,6 +27223,7 @@ window.PALWORLD_DATA = {
         "atk": 564,
         "def": 590
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -26377,6 +27258,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -26406,6 +27288,7 @@ window.PALWORLD_DATA = {
         "atk": 233,
         "def": 194
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -26429,6 +27312,7 @@ window.PALWORLD_DATA = {
         "atk": 278,
         "def": 310
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -26458,6 +27342,7 @@ window.PALWORLD_DATA = {
         "atk": 141,
         "def": 143
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -26481,6 +27366,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -26510,6 +27396,7 @@ window.PALWORLD_DATA = {
         "atk": 6,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -26539,6 +27426,7 @@ window.PALWORLD_DATA = {
         "atk": 212,
         "def": 185
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -26568,6 +27456,7 @@ window.PALWORLD_DATA = {
         "atk": 226,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -26607,6 +27496,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 73
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -26646,6 +27536,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -26675,6 +27566,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -26704,6 +27596,7 @@ window.PALWORLD_DATA = {
         "atk": 321,
         "def": 445
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -26743,6 +27636,7 @@ window.PALWORLD_DATA = {
         "atk": 298,
         "def": 236
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -26772,6 +27666,7 @@ window.PALWORLD_DATA = {
         "atk": 269,
         "def": 294
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -26801,6 +27696,7 @@ window.PALWORLD_DATA = {
         "atk": 201,
         "def": 181
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -26830,6 +27726,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 129
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -26859,6 +27756,7 @@ window.PALWORLD_DATA = {
         "atk": 153,
         "def": 123
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -26888,6 +27786,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -26917,6 +27816,7 @@ window.PALWORLD_DATA = {
         "atk": 27,
         "def": 27
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -26946,6 +27846,7 @@ window.PALWORLD_DATA = {
         "atk": 5,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -26975,6 +27876,7 @@ window.PALWORLD_DATA = {
         "atk": 335,
         "def": 316
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -27004,6 +27906,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 137
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -27033,6 +27936,7 @@ window.PALWORLD_DATA = {
         "atk": 42,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -27062,6 +27966,7 @@ window.PALWORLD_DATA = {
         "atk": 321,
         "def": 243
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -27091,6 +27996,7 @@ window.PALWORLD_DATA = {
         "atk": 145,
         "def": 131
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -27135,6 +28041,7 @@ window.PALWORLD_DATA = {
         "atk": 255,
         "def": 198
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -27158,6 +28065,7 @@ window.PALWORLD_DATA = {
         "atk": 323,
         "def": 254
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -27187,6 +28095,7 @@ window.PALWORLD_DATA = {
         "atk": 377,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -27216,6 +28125,7 @@ window.PALWORLD_DATA = {
         "atk": 51,
         "def": 48
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -27255,6 +28165,7 @@ window.PALWORLD_DATA = {
         "atk": 295,
         "def": 302
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -27284,6 +28195,7 @@ window.PALWORLD_DATA = {
         "atk": 45,
         "def": 48
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -27313,6 +28225,7 @@ window.PALWORLD_DATA = {
         "atk": 127,
         "def": 136
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -27342,6 +28255,7 @@ window.PALWORLD_DATA = {
         "atk": 398,
         "def": 266
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -27381,6 +28295,7 @@ window.PALWORLD_DATA = {
         "atk": 109,
         "def": 94
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -27415,6 +28330,7 @@ window.PALWORLD_DATA = {
         "atk": 236,
         "def": 261
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -27444,6 +28360,7 @@ window.PALWORLD_DATA = {
         "atk": 259,
         "def": 281
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -27473,6 +28390,7 @@ window.PALWORLD_DATA = {
         "atk": 29,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -27502,6 +28420,7 @@ window.PALWORLD_DATA = {
         "atk": 263,
         "def": 372
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -27536,6 +28455,7 @@ window.PALWORLD_DATA = {
         "atk": 263,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -27565,6 +28485,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -27594,6 +28515,7 @@ window.PALWORLD_DATA = {
         "atk": 49,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -27623,6 +28545,7 @@ window.PALWORLD_DATA = {
         "atk": 321,
         "def": 335
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -27652,6 +28575,7 @@ window.PALWORLD_DATA = {
         "atk": 240,
         "def": 170
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -27681,6 +28605,7 @@ window.PALWORLD_DATA = {
         "atk": 485,
         "def": 368
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -27710,6 +28635,7 @@ window.PALWORLD_DATA = {
         "atk": 158,
         "def": 96
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -27739,6 +28665,7 @@ window.PALWORLD_DATA = {
         "atk": 298,
         "def": 258
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -27768,6 +28695,7 @@ window.PALWORLD_DATA = {
         "atk": 616,
         "def": 328
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -27807,6 +28735,7 @@ window.PALWORLD_DATA = {
         "atk": 307,
         "def": 301
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -27836,6 +28765,7 @@ window.PALWORLD_DATA = {
         "atk": 39,
         "def": 51
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -27865,6 +28795,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 39
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -27894,6 +28825,7 @@ window.PALWORLD_DATA = {
         "atk": 44,
         "def": 44
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -27917,6 +28849,7 @@ window.PALWORLD_DATA = {
         "atk": 290,
         "def": 225
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -27951,6 +28884,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -27985,6 +28919,7 @@ window.PALWORLD_DATA = {
         "atk": 402,
         "def": 302
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -28014,6 +28949,7 @@ window.PALWORLD_DATA = {
         "atk": 244,
         "def": 216
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -28037,6 +28973,7 @@ window.PALWORLD_DATA = {
         "atk": 225,
         "def": 286
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -28071,6 +29008,7 @@ window.PALWORLD_DATA = {
         "atk": 145,
         "def": 129
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -28100,6 +29038,7 @@ window.PALWORLD_DATA = {
         "atk": 252,
         "def": 161
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -28129,6 +29068,7 @@ window.PALWORLD_DATA = {
         "atk": 274,
         "def": 167
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -28163,6 +29103,7 @@ window.PALWORLD_DATA = {
         "atk": 149,
         "def": 135
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -28192,6 +29133,7 @@ window.PALWORLD_DATA = {
         "atk": 180,
         "def": 267
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -28221,6 +29163,7 @@ window.PALWORLD_DATA = {
         "atk": 479,
         "def": 565
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -28250,6 +29193,7 @@ window.PALWORLD_DATA = {
         "atk": 173,
         "def": 236
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -28294,6 +29238,7 @@ window.PALWORLD_DATA = {
         "atk": 172,
         "def": 156
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -28328,6 +29273,7 @@ window.PALWORLD_DATA = {
         "atk": 139,
         "def": 120
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -28357,6 +29303,7 @@ window.PALWORLD_DATA = {
         "atk": 150,
         "def": 151
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -28386,6 +29333,7 @@ window.PALWORLD_DATA = {
         "atk": 320,
         "def": 240
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -28415,6 +29363,7 @@ window.PALWORLD_DATA = {
         "atk": 331,
         "def": 200
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -28454,6 +29403,7 @@ window.PALWORLD_DATA = {
         "atk": 343,
         "def": 221
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -28483,6 +29433,7 @@ window.PALWORLD_DATA = {
         "atk": 137,
         "def": 125
       },
+      "souls": 0,
       "passives": [],
       "owner": "Prismiti"
     },
@@ -28506,6 +29457,7 @@ window.PALWORLD_DATA = {
         "atk": 304,
         "def": 513
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -28535,6 +29487,7 @@ window.PALWORLD_DATA = {
         "atk": 354,
         "def": 264
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -28564,6 +29517,7 @@ window.PALWORLD_DATA = {
         "atk": 164,
         "def": 123
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -28587,6 +29541,7 @@ window.PALWORLD_DATA = {
         "atk": 356,
         "def": 495
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -28616,6 +29571,7 @@ window.PALWORLD_DATA = {
         "atk": 419,
         "def": 487
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -28645,6 +29601,7 @@ window.PALWORLD_DATA = {
         "atk": 305,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -28674,6 +29631,7 @@ window.PALWORLD_DATA = {
         "atk": 466,
         "def": 387
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -28703,6 +29661,7 @@ window.PALWORLD_DATA = {
         "atk": 389,
         "def": 281
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -28732,6 +29691,7 @@ window.PALWORLD_DATA = {
         "atk": 166,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -28766,6 +29726,7 @@ window.PALWORLD_DATA = {
         "atk": 219,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -28795,6 +29756,7 @@ window.PALWORLD_DATA = {
         "atk": 290,
         "def": 273
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -28824,6 +29786,7 @@ window.PALWORLD_DATA = {
         "atk": 104,
         "def": 81
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -28853,6 +29816,7 @@ window.PALWORLD_DATA = {
         "atk": 443,
         "def": 280
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -28887,6 +29851,7 @@ window.PALWORLD_DATA = {
         "atk": 306,
         "def": 272
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -28916,6 +29881,7 @@ window.PALWORLD_DATA = {
         "atk": 424,
         "def": 336
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -28939,6 +29905,7 @@ window.PALWORLD_DATA = {
         "atk": 169,
         "def": 144
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -28968,6 +29935,7 @@ window.PALWORLD_DATA = {
         "atk": 296,
         "def": 322
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -28997,6 +29965,7 @@ window.PALWORLD_DATA = {
         "atk": 56,
         "def": 52
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -29026,6 +29995,7 @@ window.PALWORLD_DATA = {
         "atk": 141,
         "def": 138
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -29055,6 +30025,7 @@ window.PALWORLD_DATA = {
         "atk": 146,
         "def": 152
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -29084,6 +30055,7 @@ window.PALWORLD_DATA = {
         "atk": 246,
         "def": 254
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -29113,6 +30085,7 @@ window.PALWORLD_DATA = {
         "atk": 314,
         "def": 269
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -29142,6 +30115,7 @@ window.PALWORLD_DATA = {
         "atk": 139,
         "def": 127
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -29176,6 +30150,7 @@ window.PALWORLD_DATA = {
         "atk": 147,
         "def": 125
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -29205,6 +30180,7 @@ window.PALWORLD_DATA = {
         "atk": 202,
         "def": 220
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -29234,6 +30210,7 @@ window.PALWORLD_DATA = {
         "atk": 165,
         "def": 77
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -29263,6 +30240,7 @@ window.PALWORLD_DATA = {
         "atk": 67,
         "def": 57
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -29292,6 +30270,7 @@ window.PALWORLD_DATA = {
         "atk": 218,
         "def": 225
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -29326,6 +30305,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -29355,6 +30335,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -29384,6 +30365,7 @@ window.PALWORLD_DATA = {
         "atk": 242,
         "def": 278
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -29413,6 +30395,7 @@ window.PALWORLD_DATA = {
         "atk": 236,
         "def": 189
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -29436,6 +30419,7 @@ window.PALWORLD_DATA = {
         "atk": 161,
         "def": 190
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -29480,6 +30464,7 @@ window.PALWORLD_DATA = {
         "atk": 126,
         "def": 133
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -29509,6 +30494,7 @@ window.PALWORLD_DATA = {
         "atk": 317,
         "def": 231
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -29538,6 +30524,7 @@ window.PALWORLD_DATA = {
         "atk": 233,
         "def": 236
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -29561,6 +30548,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 226
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -29590,6 +30578,7 @@ window.PALWORLD_DATA = {
         "atk": 149,
         "def": 139
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -29619,6 +30608,7 @@ window.PALWORLD_DATA = {
         "atk": 401,
         "def": 240
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up3",
@@ -29648,6 +30638,7 @@ window.PALWORLD_DATA = {
         "atk": 321,
         "def": 175
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -29682,6 +30673,7 @@ window.PALWORLD_DATA = {
         "atk": 279,
         "def": 241
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -29711,6 +30703,7 @@ window.PALWORLD_DATA = {
         "atk": 149,
         "def": 119
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -29740,6 +30733,7 @@ window.PALWORLD_DATA = {
         "atk": 127,
         "def": 126
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -29763,6 +30757,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 570
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -29797,6 +30792,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -29831,6 +30827,7 @@ window.PALWORLD_DATA = {
         "atk": 253,
         "def": 231
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -29860,6 +30857,7 @@ window.PALWORLD_DATA = {
         "atk": 407,
         "def": 306
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -29889,6 +30887,7 @@ window.PALWORLD_DATA = {
         "atk": 184,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -29918,6 +30917,7 @@ window.PALWORLD_DATA = {
         "atk": 189,
         "def": 230
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -29952,6 +30952,7 @@ window.PALWORLD_DATA = {
         "atk": 164,
         "def": 130
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -29981,6 +30982,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 206
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -30010,6 +31012,7 @@ window.PALWORLD_DATA = {
         "atk": 171,
         "def": 198
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -30044,6 +31047,7 @@ window.PALWORLD_DATA = {
         "atk": 187,
         "def": 210
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -30067,6 +31071,7 @@ window.PALWORLD_DATA = {
         "atk": 179,
         "def": 146
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -30101,6 +31106,7 @@ window.PALWORLD_DATA = {
         "atk": 117,
         "def": 99
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -30130,6 +31136,7 @@ window.PALWORLD_DATA = {
         "atk": 137,
         "def": 137
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -30159,6 +31166,7 @@ window.PALWORLD_DATA = {
         "atk": 82,
         "def": 80
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -30188,6 +31196,7 @@ window.PALWORLD_DATA = {
         "atk": 143,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -30217,6 +31226,7 @@ window.PALWORLD_DATA = {
         "atk": 308,
         "def": 265
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -30261,6 +31271,7 @@ window.PALWORLD_DATA = {
         "atk": 266,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -30290,6 +31301,7 @@ window.PALWORLD_DATA = {
         "atk": 187,
         "def": 204
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -30319,6 +31331,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -30348,6 +31361,7 @@ window.PALWORLD_DATA = {
         "atk": 154,
         "def": 186
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -30377,6 +31391,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -30411,6 +31426,7 @@ window.PALWORLD_DATA = {
         "atk": 437,
         "def": 433
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -30440,6 +31456,7 @@ window.PALWORLD_DATA = {
         "atk": 659,
         "def": 860
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -30474,6 +31491,7 @@ window.PALWORLD_DATA = {
         "atk": 406,
         "def": 612
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -30508,6 +31526,7 @@ window.PALWORLD_DATA = {
         "atk": 604,
         "def": 578
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -30537,6 +31556,7 @@ window.PALWORLD_DATA = {
         "atk": 315,
         "def": 307
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -30571,6 +31591,7 @@ window.PALWORLD_DATA = {
         "atk": 139,
         "def": 129
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -30600,6 +31621,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 46
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -30629,6 +31651,7 @@ window.PALWORLD_DATA = {
         "atk": 152,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -30673,6 +31696,7 @@ window.PALWORLD_DATA = {
         "atk": 351,
         "def": 197
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -30702,6 +31726,7 @@ window.PALWORLD_DATA = {
         "atk": 30,
         "def": 28
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -30731,6 +31756,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 34
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -30760,6 +31786,7 @@ window.PALWORLD_DATA = {
         "atk": 199,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -30789,6 +31816,7 @@ window.PALWORLD_DATA = {
         "atk": 411,
         "def": 237
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -30812,6 +31840,7 @@ window.PALWORLD_DATA = {
         "atk": 215,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -30841,6 +31870,7 @@ window.PALWORLD_DATA = {
         "atk": 429,
         "def": 274
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -30875,6 +31905,7 @@ window.PALWORLD_DATA = {
         "atk": 260,
         "def": 211
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -30909,6 +31940,7 @@ window.PALWORLD_DATA = {
         "atk": 366,
         "def": 360
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -30938,6 +31970,7 @@ window.PALWORLD_DATA = {
         "atk": 278,
         "def": 347
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -30967,6 +32000,7 @@ window.PALWORLD_DATA = {
         "atk": 335,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -30996,6 +32030,7 @@ window.PALWORLD_DATA = {
         "atk": 390,
         "def": 327
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -31019,6 +32054,7 @@ window.PALWORLD_DATA = {
         "atk": 580,
         "def": 565
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -31058,6 +32094,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -31087,6 +32124,7 @@ window.PALWORLD_DATA = {
         "atk": 165,
         "def": 203
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -31116,6 +32154,7 @@ window.PALWORLD_DATA = {
         "atk": 238,
         "def": 216
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -31150,6 +32189,7 @@ window.PALWORLD_DATA = {
         "atk": 228,
         "def": 203
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -31179,6 +32219,7 @@ window.PALWORLD_DATA = {
         "atk": 192,
         "def": 189
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -31208,6 +32249,7 @@ window.PALWORLD_DATA = {
         "atk": 68,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -31237,6 +32279,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 225
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -31266,6 +32309,7 @@ window.PALWORLD_DATA = {
         "atk": 458,
         "def": 569
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -31295,6 +32339,7 @@ window.PALWORLD_DATA = {
         "atk": 370,
         "def": 397
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -31326,9 +32371,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6328,
-        "atk": 1099,
+        "atk": 981,
         "def": 718
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -31363,6 +32409,7 @@ window.PALWORLD_DATA = {
         "atk": 272,
         "def": 310
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Vampire",
@@ -31397,6 +32444,7 @@ window.PALWORLD_DATA = {
         "atk": 158,
         "def": 162
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -31426,6 +32474,7 @@ window.PALWORLD_DATA = {
         "atk": 70,
         "def": 72
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -31455,6 +32504,7 @@ window.PALWORLD_DATA = {
         "atk": 127,
         "def": 70
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -31484,6 +32534,7 @@ window.PALWORLD_DATA = {
         "atk": 113,
         "def": 93
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -31513,6 +32564,7 @@ window.PALWORLD_DATA = {
         "atk": 532,
         "def": 450
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -31542,6 +32594,7 @@ window.PALWORLD_DATA = {
         "atk": 229,
         "def": 211
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -31571,6 +32624,7 @@ window.PALWORLD_DATA = {
         "atk": 304,
         "def": 214
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -31600,6 +32654,7 @@ window.PALWORLD_DATA = {
         "atk": 260,
         "def": 267
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -31629,6 +32684,7 @@ window.PALWORLD_DATA = {
         "atk": 50,
         "def": 54
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -31658,6 +32714,7 @@ window.PALWORLD_DATA = {
         "atk": 454,
         "def": 411
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -31687,6 +32744,7 @@ window.PALWORLD_DATA = {
         "atk": 357,
         "def": 287
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -31716,6 +32774,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 277
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -31755,6 +32814,7 @@ window.PALWORLD_DATA = {
         "atk": 326,
         "def": 286
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -31784,6 +32844,7 @@ window.PALWORLD_DATA = {
         "atk": 106,
         "def": 94
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -31813,6 +32874,7 @@ window.PALWORLD_DATA = {
         "atk": 352,
         "def": 268
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -31842,6 +32904,7 @@ window.PALWORLD_DATA = {
         "atk": 379,
         "def": 409
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -31878,9 +32941,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3505,
-        "atk": 828,
+        "atk": 738,
         "def": 528
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -31910,6 +32974,7 @@ window.PALWORLD_DATA = {
         "atk": 116,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -31939,6 +33004,7 @@ window.PALWORLD_DATA = {
         "atk": 117,
         "def": 79
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -31965,9 +33031,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6494,
-        "atk": 1223,
+        "atk": 1105,
         "def": 677
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -32002,6 +33069,7 @@ window.PALWORLD_DATA = {
         "atk": 89,
         "def": 64
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -32036,6 +33104,7 @@ window.PALWORLD_DATA = {
         "atk": 245,
         "def": 298
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -32065,6 +33134,7 @@ window.PALWORLD_DATA = {
         "atk": 320,
         "def": 445
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -32094,6 +33164,7 @@ window.PALWORLD_DATA = {
         "atk": 192,
         "def": 275
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up3",
@@ -32123,6 +33194,7 @@ window.PALWORLD_DATA = {
         "atk": 339,
         "def": 255
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -32146,6 +33218,7 @@ window.PALWORLD_DATA = {
         "atk": 187,
         "def": 176
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -32169,6 +33242,7 @@ window.PALWORLD_DATA = {
         "atk": 462,
         "def": 390
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -32198,6 +33272,7 @@ window.PALWORLD_DATA = {
         "atk": 362,
         "def": 264
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -32227,6 +33302,7 @@ window.PALWORLD_DATA = {
         "atk": 316,
         "def": 293
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -32256,6 +33332,7 @@ window.PALWORLD_DATA = {
         "atk": 280,
         "def": 223
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -32285,6 +33362,7 @@ window.PALWORLD_DATA = {
         "atk": 79,
         "def": 67
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -32314,6 +33392,7 @@ window.PALWORLD_DATA = {
         "atk": 21,
         "def": 22
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -32343,6 +33422,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 163
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -32372,6 +33452,7 @@ window.PALWORLD_DATA = {
         "atk": 937,
         "def": 1051
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -32401,6 +33482,7 @@ window.PALWORLD_DATA = {
         "atk": 27,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -32430,6 +33512,7 @@ window.PALWORLD_DATA = {
         "atk": 61,
         "def": 50
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -32459,6 +33542,7 @@ window.PALWORLD_DATA = {
         "atk": 322,
         "def": 315
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -32488,6 +33572,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 283
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -32517,6 +33602,7 @@ window.PALWORLD_DATA = {
         "atk": 60,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -32546,6 +33632,7 @@ window.PALWORLD_DATA = {
         "atk": 491,
         "def": 477
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -32575,6 +33662,7 @@ window.PALWORLD_DATA = {
         "atk": 290,
         "def": 163
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -32604,6 +33692,7 @@ window.PALWORLD_DATA = {
         "atk": 243,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -32633,6 +33722,7 @@ window.PALWORLD_DATA = {
         "atk": 306,
         "def": 243
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -32662,6 +33752,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -32691,6 +33782,7 @@ window.PALWORLD_DATA = {
         "atk": 332,
         "def": 237
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -32725,6 +33817,7 @@ window.PALWORLD_DATA = {
         "atk": 206,
         "def": 160
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -32754,6 +33847,7 @@ window.PALWORLD_DATA = {
         "atk": 148,
         "def": 135
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -32783,6 +33877,7 @@ window.PALWORLD_DATA = {
         "atk": 245,
         "def": 186
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -32812,6 +33907,7 @@ window.PALWORLD_DATA = {
         "atk": 309,
         "def": 449
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -32846,6 +33942,7 @@ window.PALWORLD_DATA = {
         "atk": 286,
         "def": 213
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -32880,6 +33977,7 @@ window.PALWORLD_DATA = {
         "atk": 207,
         "def": 158
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -32909,6 +34007,7 @@ window.PALWORLD_DATA = {
         "atk": 111,
         "def": 83
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -32938,6 +34037,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 299
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -32961,6 +34061,7 @@ window.PALWORLD_DATA = {
         "atk": 79,
         "def": 74
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -32990,6 +34091,7 @@ window.PALWORLD_DATA = {
         "atk": 784,
         "def": 862
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -33019,6 +34121,7 @@ window.PALWORLD_DATA = {
         "atk": 325,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -33053,6 +34156,7 @@ window.PALWORLD_DATA = {
         "atk": 216,
         "def": 171
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -33082,6 +34186,7 @@ window.PALWORLD_DATA = {
         "atk": 210,
         "def": 238
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -33111,6 +34216,7 @@ window.PALWORLD_DATA = {
         "atk": 415,
         "def": 230
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -33140,6 +34246,7 @@ window.PALWORLD_DATA = {
         "atk": 104,
         "def": 119
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -33169,6 +34276,7 @@ window.PALWORLD_DATA = {
         "atk": 287,
         "def": 253
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -33198,6 +34306,7 @@ window.PALWORLD_DATA = {
         "atk": 221,
         "def": 195
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -33227,6 +34336,7 @@ window.PALWORLD_DATA = {
         "atk": 356,
         "def": 240
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -33256,6 +34366,7 @@ window.PALWORLD_DATA = {
         "atk": 346,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -33290,6 +34401,7 @@ window.PALWORLD_DATA = {
         "atk": 419,
         "def": 342
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -33324,6 +34436,7 @@ window.PALWORLD_DATA = {
         "atk": 220,
         "def": 139
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -33353,6 +34466,7 @@ window.PALWORLD_DATA = {
         "atk": 95,
         "def": 87
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -33382,6 +34496,7 @@ window.PALWORLD_DATA = {
         "atk": 306,
         "def": 335
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -33411,6 +34526,7 @@ window.PALWORLD_DATA = {
         "atk": 110,
         "def": 128
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -33440,6 +34556,7 @@ window.PALWORLD_DATA = {
         "atk": 198,
         "def": 115
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -33469,6 +34586,7 @@ window.PALWORLD_DATA = {
         "atk": 380,
         "def": 287
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -33498,6 +34616,7 @@ window.PALWORLD_DATA = {
         "atk": 361,
         "def": 251
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -33527,6 +34646,7 @@ window.PALWORLD_DATA = {
         "atk": 135,
         "def": 137
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -33556,6 +34676,7 @@ window.PALWORLD_DATA = {
         "atk": 526,
         "def": 411
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -33600,6 +34721,7 @@ window.PALWORLD_DATA = {
         "atk": 454,
         "def": 405
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_3",
@@ -33629,6 +34751,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 455
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -33658,6 +34781,7 @@ window.PALWORLD_DATA = {
         "atk": 301,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -33684,9 +34808,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8403,
-        "atk": 1446,
+        "atk": 1291,
         "def": 908
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -33721,6 +34846,7 @@ window.PALWORLD_DATA = {
         "atk": 291,
         "def": 392
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -33744,6 +34870,7 @@ window.PALWORLD_DATA = {
         "atk": 790,
         "def": 1092
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -33788,6 +34915,7 @@ window.PALWORLD_DATA = {
         "atk": 211,
         "def": 198
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -33817,6 +34945,7 @@ window.PALWORLD_DATA = {
         "atk": 236,
         "def": 192
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -33846,6 +34975,7 @@ window.PALWORLD_DATA = {
         "atk": 369,
         "def": 348
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -33869,6 +34999,7 @@ window.PALWORLD_DATA = {
         "atk": 647,
         "def": 688
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -33898,6 +35029,7 @@ window.PALWORLD_DATA = {
         "atk": 339,
         "def": 431
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -33932,6 +35064,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -33961,6 +35094,7 @@ window.PALWORLD_DATA = {
         "atk": 442,
         "def": 436
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -33990,6 +35124,7 @@ window.PALWORLD_DATA = {
         "atk": 339,
         "def": 310
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -34019,6 +35154,7 @@ window.PALWORLD_DATA = {
         "atk": 488,
         "def": 393
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -34048,6 +35184,7 @@ window.PALWORLD_DATA = {
         "atk": 489,
         "def": 426
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -34077,6 +35214,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 234
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -34106,6 +35244,7 @@ window.PALWORLD_DATA = {
         "atk": 354,
         "def": 475
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -34135,6 +35274,7 @@ window.PALWORLD_DATA = {
         "atk": 614,
         "def": 446
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -34164,6 +35304,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 253
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -34193,6 +35334,7 @@ window.PALWORLD_DATA = {
         "atk": 364,
         "def": 443
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -34227,6 +35369,7 @@ window.PALWORLD_DATA = {
         "atk": 399,
         "def": 489
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -34256,6 +35399,7 @@ window.PALWORLD_DATA = {
         "atk": 149,
         "def": 131
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -34290,6 +35434,7 @@ window.PALWORLD_DATA = {
         "atk": 130,
         "def": 141
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -34319,6 +35464,7 @@ window.PALWORLD_DATA = {
         "atk": 141,
         "def": 176
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -34348,6 +35494,7 @@ window.PALWORLD_DATA = {
         "atk": 493,
         "def": 393
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -34377,6 +35524,7 @@ window.PALWORLD_DATA = {
         "atk": 497,
         "def": 388
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_2",
@@ -34406,6 +35554,7 @@ window.PALWORLD_DATA = {
         "atk": 647,
         "def": 462
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -34435,6 +35584,7 @@ window.PALWORLD_DATA = {
         "atk": 149,
         "def": 134
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -34464,6 +35614,7 @@ window.PALWORLD_DATA = {
         "atk": 150,
         "def": 114
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -34493,6 +35644,7 @@ window.PALWORLD_DATA = {
         "atk": 266,
         "def": 272
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -34516,6 +35668,7 @@ window.PALWORLD_DATA = {
         "atk": 135,
         "def": 135
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -34555,6 +35708,7 @@ window.PALWORLD_DATA = {
         "atk": 329,
         "def": 447
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -34589,6 +35743,7 @@ window.PALWORLD_DATA = {
         "atk": 263,
         "def": 216
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -34618,6 +35773,7 @@ window.PALWORLD_DATA = {
         "atk": 277,
         "def": 425
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -34652,6 +35808,7 @@ window.PALWORLD_DATA = {
         "atk": 155,
         "def": 114
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -34681,6 +35838,7 @@ window.PALWORLD_DATA = {
         "atk": 294,
         "def": 240
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -34710,6 +35868,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 158
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -34739,6 +35898,7 @@ window.PALWORLD_DATA = {
         "atk": 327,
         "def": 187
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -34768,6 +35928,7 @@ window.PALWORLD_DATA = {
         "atk": 92,
         "def": 104
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -34797,6 +35958,7 @@ window.PALWORLD_DATA = {
         "atk": 164,
         "def": 200
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -34826,6 +35988,7 @@ window.PALWORLD_DATA = {
         "atk": 231,
         "def": 131
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -34855,6 +36018,7 @@ window.PALWORLD_DATA = {
         "atk": 236,
         "def": 213
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -34884,6 +36048,7 @@ window.PALWORLD_DATA = {
         "atk": 512,
         "def": 418
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -34913,6 +36078,7 @@ window.PALWORLD_DATA = {
         "atk": 311,
         "def": 431
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -34942,6 +36108,7 @@ window.PALWORLD_DATA = {
         "atk": 518,
         "def": 606
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -34971,6 +36138,7 @@ window.PALWORLD_DATA = {
         "atk": 387,
         "def": 296
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -35000,6 +36168,7 @@ window.PALWORLD_DATA = {
         "atk": 306,
         "def": 448
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -35034,6 +36203,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -35063,6 +36233,7 @@ window.PALWORLD_DATA = {
         "atk": 575,
         "def": 494
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -35092,6 +36263,7 @@ window.PALWORLD_DATA = {
         "atk": 454,
         "def": 384
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -35121,6 +36293,7 @@ window.PALWORLD_DATA = {
         "atk": 635,
         "def": 730
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -35150,6 +36323,7 @@ window.PALWORLD_DATA = {
         "atk": 572,
         "def": 517
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Alien",
@@ -35184,6 +36358,7 @@ window.PALWORLD_DATA = {
         "atk": 118,
         "def": 186
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -35213,6 +36388,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 263
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -35257,6 +36433,7 @@ window.PALWORLD_DATA = {
         "atk": 444,
         "def": 373
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -35291,6 +36468,7 @@ window.PALWORLD_DATA = {
         "atk": 252,
         "def": 216
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -35320,6 +36498,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -35349,6 +36528,7 @@ window.PALWORLD_DATA = {
         "atk": 142,
         "def": 176
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -35372,6 +36552,7 @@ window.PALWORLD_DATA = {
         "atk": 366,
         "def": 260
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -35392,9 +36573,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5797,
-        "atk": 1025,
+        "atk": 915,
         "def": 541
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -35429,6 +36611,7 @@ window.PALWORLD_DATA = {
         "atk": 715,
         "def": 806
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -35463,6 +36646,7 @@ window.PALWORLD_DATA = {
         "atk": 314,
         "def": 246
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -35492,6 +36676,7 @@ window.PALWORLD_DATA = {
         "atk": 93,
         "def": 63
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -35521,6 +36706,7 @@ window.PALWORLD_DATA = {
         "atk": 302,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -35550,6 +36736,7 @@ window.PALWORLD_DATA = {
         "atk": 559,
         "def": 528
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -35579,6 +36766,7 @@ window.PALWORLD_DATA = {
         "atk": 418,
         "def": 354
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -35608,6 +36796,7 @@ window.PALWORLD_DATA = {
         "atk": 550,
         "def": 648
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -35637,6 +36826,7 @@ window.PALWORLD_DATA = {
         "atk": 410,
         "def": 372
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -35666,6 +36856,7 @@ window.PALWORLD_DATA = {
         "atk": 677,
         "def": 489
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -35695,6 +36886,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 428
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -35718,6 +36910,7 @@ window.PALWORLD_DATA = {
         "atk": 342,
         "def": 378
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -35747,6 +36940,7 @@ window.PALWORLD_DATA = {
         "atk": 475,
         "def": 472
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -35776,6 +36970,7 @@ window.PALWORLD_DATA = {
         "atk": 75,
         "def": 44
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -35805,6 +37000,7 @@ window.PALWORLD_DATA = {
         "atk": 551,
         "def": 585
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -35834,6 +37030,7 @@ window.PALWORLD_DATA = {
         "atk": 191,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -35868,6 +37065,7 @@ window.PALWORLD_DATA = {
         "atk": 406,
         "def": 347
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -35897,6 +37095,7 @@ window.PALWORLD_DATA = {
         "atk": 187,
         "def": 187
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -35926,6 +37125,7 @@ window.PALWORLD_DATA = {
         "atk": 349,
         "def": 221
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -35949,6 +37149,7 @@ window.PALWORLD_DATA = {
         "atk": 313,
         "def": 244
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -35978,6 +37179,7 @@ window.PALWORLD_DATA = {
         "atk": 393,
         "def": 618
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -36007,6 +37209,7 @@ window.PALWORLD_DATA = {
         "atk": 305,
         "def": 235
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -36041,6 +37244,7 @@ window.PALWORLD_DATA = {
         "atk": 260,
         "def": 223
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -36070,6 +37274,7 @@ window.PALWORLD_DATA = {
         "atk": 373,
         "def": 362
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -36099,6 +37304,7 @@ window.PALWORLD_DATA = {
         "atk": 313,
         "def": 410
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -36128,6 +37334,7 @@ window.PALWORLD_DATA = {
         "atk": 533,
         "def": 629
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -36162,6 +37369,7 @@ window.PALWORLD_DATA = {
         "atk": 419,
         "def": 303
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -36191,6 +37399,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 390
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -36220,6 +37429,7 @@ window.PALWORLD_DATA = {
         "atk": 282,
         "def": 215
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -36243,6 +37453,7 @@ window.PALWORLD_DATA = {
         "atk": 440,
         "def": 436
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -36287,6 +37498,7 @@ window.PALWORLD_DATA = {
         "atk": 404,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -36321,6 +37533,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 220
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -36344,6 +37557,7 @@ window.PALWORLD_DATA = {
         "atk": 265,
         "def": 364
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36378,6 +37592,7 @@ window.PALWORLD_DATA = {
         "atk": 628,
         "def": 643
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -36417,6 +37632,7 @@ window.PALWORLD_DATA = {
         "atk": 923,
         "def": 908
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -36446,6 +37662,7 @@ window.PALWORLD_DATA = {
         "atk": 342,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -36475,6 +37692,7 @@ window.PALWORLD_DATA = {
         "atk": 544,
         "def": 571
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -36498,6 +37716,7 @@ window.PALWORLD_DATA = {
         "atk": 382,
         "def": 513
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36532,6 +37751,7 @@ window.PALWORLD_DATA = {
         "atk": 667,
         "def": 612
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -36555,6 +37775,7 @@ window.PALWORLD_DATA = {
         "atk": 332,
         "def": 378
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36584,6 +37805,7 @@ window.PALWORLD_DATA = {
         "atk": 397,
         "def": 396
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -36613,6 +37835,7 @@ window.PALWORLD_DATA = {
         "atk": 74,
         "def": 49
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -36642,6 +37865,7 @@ window.PALWORLD_DATA = {
         "atk": 840,
         "def": 442
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -36676,6 +37900,7 @@ window.PALWORLD_DATA = {
         "atk": 590,
         "def": 907
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36710,6 +37935,7 @@ window.PALWORLD_DATA = {
         "atk": 563,
         "def": 552
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -36739,6 +37965,7 @@ window.PALWORLD_DATA = {
         "atk": 308,
         "def": 394
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36773,6 +38000,7 @@ window.PALWORLD_DATA = {
         "atk": 362,
         "def": 389
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -36802,6 +38030,7 @@ window.PALWORLD_DATA = {
         "atk": 451,
         "def": 255
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -36831,6 +38060,7 @@ window.PALWORLD_DATA = {
         "atk": 200,
         "def": 199
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -36860,6 +38090,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -36889,6 +38120,7 @@ window.PALWORLD_DATA = {
         "atk": 332,
         "def": 330
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -36912,6 +38144,7 @@ window.PALWORLD_DATA = {
         "atk": 401,
         "def": 298
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -36941,6 +38174,7 @@ window.PALWORLD_DATA = {
         "atk": 530,
         "def": 631
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -36975,6 +38209,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 198
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -37001,9 +38236,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3786,
-        "atk": 837,
+        "atk": 753,
         "def": 475
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -37035,9 +38271,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4630,
-        "atk": 1023,
+        "atk": 912,
         "def": 658
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -37072,6 +38309,7 @@ window.PALWORLD_DATA = {
         "atk": 507,
         "def": 486
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -37101,6 +38339,7 @@ window.PALWORLD_DATA = {
         "atk": 355,
         "def": 341
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -37130,6 +38369,7 @@ window.PALWORLD_DATA = {
         "atk": 364,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -37159,6 +38399,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -37193,6 +38434,7 @@ window.PALWORLD_DATA = {
         "atk": 516,
         "def": 418
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -37232,6 +38474,7 @@ window.PALWORLD_DATA = {
         "atk": 272,
         "def": 198
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -37261,6 +38504,7 @@ window.PALWORLD_DATA = {
         "atk": 636,
         "def": 353
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -37290,6 +38534,7 @@ window.PALWORLD_DATA = {
         "atk": 248,
         "def": 236
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -37319,6 +38564,7 @@ window.PALWORLD_DATA = {
         "atk": 426,
         "def": 382
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -37344,6 +38590,7 @@ window.PALWORLD_DATA = {
         "defense": 74
       },
       "power_stats": null,
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -37373,6 +38620,7 @@ window.PALWORLD_DATA = {
         "atk": 537,
         "def": 455
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -37402,6 +38650,7 @@ window.PALWORLD_DATA = {
         "atk": 476,
         "def": 379
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -37431,6 +38680,7 @@ window.PALWORLD_DATA = {
         "atk": 417,
         "def": 527
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -37465,6 +38715,7 @@ window.PALWORLD_DATA = {
         "atk": 60,
         "def": 56
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -37490,6 +38741,7 @@ window.PALWORLD_DATA = {
         "defense": 77
       },
       "power_stats": null,
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -37524,6 +38776,7 @@ window.PALWORLD_DATA = {
         "atk": 498,
         "def": 412
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_3",
@@ -37558,6 +38811,7 @@ window.PALWORLD_DATA = {
         "atk": 511,
         "def": 518
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -37597,6 +38851,7 @@ window.PALWORLD_DATA = {
         "atk": 688,
         "def": 682
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_3",
@@ -37626,6 +38881,7 @@ window.PALWORLD_DATA = {
         "atk": 361,
         "def": 493
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -37665,6 +38921,7 @@ window.PALWORLD_DATA = {
         "atk": 358,
         "def": 469
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -37694,6 +38951,7 @@ window.PALWORLD_DATA = {
         "atk": 434,
         "def": 495
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -37728,6 +38986,7 @@ window.PALWORLD_DATA = {
         "atk": 342,
         "def": 274
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -37757,6 +39016,7 @@ window.PALWORLD_DATA = {
         "atk": 407,
         "def": 250
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -37786,6 +39046,7 @@ window.PALWORLD_DATA = {
         "atk": 211,
         "def": 203
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -37815,6 +39076,7 @@ window.PALWORLD_DATA = {
         "atk": 541,
         "def": 548
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -37844,6 +39106,7 @@ window.PALWORLD_DATA = {
         "atk": 399,
         "def": 527
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -37878,6 +39141,7 @@ window.PALWORLD_DATA = {
         "atk": 263,
         "def": 238
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -37907,6 +39171,7 @@ window.PALWORLD_DATA = {
         "atk": 206,
         "def": 287
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -37936,6 +39201,7 @@ window.PALWORLD_DATA = {
         "atk": 332,
         "def": 217
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -37965,6 +39231,7 @@ window.PALWORLD_DATA = {
         "atk": 152,
         "def": 153
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -37988,6 +39255,7 @@ window.PALWORLD_DATA = {
         "atk": 574,
         "def": 531
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -38017,6 +39285,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_3",
@@ -38046,6 +39315,7 @@ window.PALWORLD_DATA = {
         "atk": 342,
         "def": 361
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -38075,6 +39345,7 @@ window.PALWORLD_DATA = {
         "atk": 392,
         "def": 295
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -38104,6 +39375,7 @@ window.PALWORLD_DATA = {
         "atk": 301,
         "def": 439
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -38138,6 +39410,7 @@ window.PALWORLD_DATA = {
         "atk": 222,
         "def": 246
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -38167,6 +39440,7 @@ window.PALWORLD_DATA = {
         "atk": 363,
         "def": 321
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up3",
@@ -38196,6 +39470,7 @@ window.PALWORLD_DATA = {
         "atk": 160,
         "def": 145
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -38230,6 +39505,7 @@ window.PALWORLD_DATA = {
         "atk": 427,
         "def": 429
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -38259,6 +39535,7 @@ window.PALWORLD_DATA = {
         "atk": 65,
         "def": 49
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -38288,6 +39565,7 @@ window.PALWORLD_DATA = {
         "atk": 194,
         "def": 207
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -38311,6 +39589,7 @@ window.PALWORLD_DATA = {
         "atk": 153,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -38345,6 +39624,7 @@ window.PALWORLD_DATA = {
         "atk": 121,
         "def": 132
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -38374,6 +39654,7 @@ window.PALWORLD_DATA = {
         "atk": 219,
         "def": 262
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -38408,6 +39689,7 @@ window.PALWORLD_DATA = {
         "atk": 331,
         "def": 413
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -38434,9 +39716,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7632,
-        "atk": 1378,
+        "atk": 1249,
         "def": 1197
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -38481,6 +39764,7 @@ window.PALWORLD_DATA = {
         "atk": 651,
         "def": 509
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -38507,9 +39791,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6138,
-        "atk": 932,
+        "atk": 831,
         "def": 771
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_2_PAL",
@@ -38544,6 +39829,7 @@ window.PALWORLD_DATA = {
         "atk": 439,
         "def": 451
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -38573,6 +39859,7 @@ window.PALWORLD_DATA = {
         "atk": 743,
         "def": 615
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -38607,6 +39894,7 @@ window.PALWORLD_DATA = {
         "atk": 134,
         "def": 97
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -38636,6 +39924,7 @@ window.PALWORLD_DATA = {
         "atk": 262,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -38665,6 +39954,7 @@ window.PALWORLD_DATA = {
         "atk": 278,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -38694,6 +39984,7 @@ window.PALWORLD_DATA = {
         "atk": 183,
         "def": 190
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -38717,6 +40008,7 @@ window.PALWORLD_DATA = {
         "atk": 247,
         "def": 288
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -38746,6 +40038,7 @@ window.PALWORLD_DATA = {
         "atk": 40,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -38775,6 +40068,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 27
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -38809,6 +40103,7 @@ window.PALWORLD_DATA = {
         "atk": 35,
         "def": 32
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -38832,6 +40127,7 @@ window.PALWORLD_DATA = {
         "atk": 370,
         "def": 332
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -38861,6 +40157,7 @@ window.PALWORLD_DATA = {
         "atk": 462,
         "def": 383
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -38884,6 +40181,7 @@ window.PALWORLD_DATA = {
         "atk": 41,
         "def": 40
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -38913,6 +40211,7 @@ window.PALWORLD_DATA = {
         "atk": 352,
         "def": 477
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -38942,6 +40241,7 @@ window.PALWORLD_DATA = {
         "atk": 236,
         "def": 213
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -38971,6 +40271,7 @@ window.PALWORLD_DATA = {
         "atk": 412,
         "def": 413
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -38997,9 +40298,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8165,
-        "atk": 1512,
+        "atk": 1370,
         "def": 1068
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -39034,6 +40336,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -39068,6 +40371,7 @@ window.PALWORLD_DATA = {
         "atk": 37,
         "def": 36
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -39097,6 +40401,7 @@ window.PALWORLD_DATA = {
         "atk": 559,
         "def": 539
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -39126,6 +40431,7 @@ window.PALWORLD_DATA = {
         "atk": 48,
         "def": 46
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -39149,6 +40455,7 @@ window.PALWORLD_DATA = {
         "atk": 171,
         "def": 126
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -39178,6 +40485,7 @@ window.PALWORLD_DATA = {
         "atk": 23,
         "def": 37
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -39207,6 +40515,7 @@ window.PALWORLD_DATA = {
         "atk": 52,
         "def": 40
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -39241,6 +40550,7 @@ window.PALWORLD_DATA = {
         "atk": 32,
         "def": 25
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -39270,6 +40580,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -39304,6 +40615,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 26
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -39333,6 +40645,7 @@ window.PALWORLD_DATA = {
         "atk": 180,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -39362,6 +40675,7 @@ window.PALWORLD_DATA = {
         "atk": 554,
         "def": 432
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -39391,6 +40705,7 @@ window.PALWORLD_DATA = {
         "atk": 246,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -39420,6 +40735,7 @@ window.PALWORLD_DATA = {
         "atk": 315,
         "def": 298
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -39449,6 +40765,7 @@ window.PALWORLD_DATA = {
         "atk": 592,
         "def": 459
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -39478,6 +40795,7 @@ window.PALWORLD_DATA = {
         "atk": 217,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -39507,6 +40825,7 @@ window.PALWORLD_DATA = {
         "atk": 216,
         "def": 245
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -39536,6 +40855,7 @@ window.PALWORLD_DATA = {
         "atk": 537,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -39575,6 +40895,7 @@ window.PALWORLD_DATA = {
         "atk": 34,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -39604,6 +40925,7 @@ window.PALWORLD_DATA = {
         "atk": 223,
         "def": 191
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -39627,6 +40949,7 @@ window.PALWORLD_DATA = {
         "atk": 329,
         "def": 245
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -39661,6 +40984,7 @@ window.PALWORLD_DATA = {
         "atk": 25,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -39690,6 +41014,7 @@ window.PALWORLD_DATA = {
         "atk": 170,
         "def": 217
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -39719,6 +41044,7 @@ window.PALWORLD_DATA = {
         "atk": 193,
         "def": 162
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -39753,6 +41079,7 @@ window.PALWORLD_DATA = {
         "atk": 185,
         "def": 174
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -39782,6 +41109,7 @@ window.PALWORLD_DATA = {
         "atk": 303,
         "def": 180
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -39811,6 +41139,7 @@ window.PALWORLD_DATA = {
         "atk": 181,
         "def": 170
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -39845,6 +41174,7 @@ window.PALWORLD_DATA = {
         "atk": 39,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -39874,6 +41204,7 @@ window.PALWORLD_DATA = {
         "atk": 554,
         "def": 404
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -39903,6 +41234,7 @@ window.PALWORLD_DATA = {
         "atk": 309,
         "def": 236
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -39932,6 +41264,7 @@ window.PALWORLD_DATA = {
         "atk": 294,
         "def": 241
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -39971,6 +41304,7 @@ window.PALWORLD_DATA = {
         "atk": 110,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -40000,6 +41334,7 @@ window.PALWORLD_DATA = {
         "atk": 66,
         "def": 68
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -40029,6 +41364,7 @@ window.PALWORLD_DATA = {
         "atk": 112,
         "def": 100
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -40058,6 +41394,7 @@ window.PALWORLD_DATA = {
         "atk": 140,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -40087,6 +41424,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -40126,6 +41464,7 @@ window.PALWORLD_DATA = {
         "atk": 54,
         "def": 47
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -40155,6 +41494,7 @@ window.PALWORLD_DATA = {
         "atk": 53,
         "def": 42
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -40184,6 +41524,7 @@ window.PALWORLD_DATA = {
         "atk": 47,
         "def": 41
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -40213,6 +41554,7 @@ window.PALWORLD_DATA = {
         "atk": 258,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -40242,6 +41584,7 @@ window.PALWORLD_DATA = {
         "atk": 372,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -40271,6 +41614,7 @@ window.PALWORLD_DATA = {
         "atk": 387,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -40300,6 +41644,7 @@ window.PALWORLD_DATA = {
         "atk": 271,
         "def": 228
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -40329,6 +41674,7 @@ window.PALWORLD_DATA = {
         "atk": 91,
         "def": 98
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -40358,6 +41704,7 @@ window.PALWORLD_DATA = {
         "atk": 307,
         "def": 280
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -40387,6 +41734,7 @@ window.PALWORLD_DATA = {
         "atk": 322,
         "def": 340
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -40410,6 +41758,7 @@ window.PALWORLD_DATA = {
         "atk": 372,
         "def": 407
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -40439,6 +41788,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 255
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -40468,6 +41818,7 @@ window.PALWORLD_DATA = {
         "atk": 261,
         "def": 280
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -40497,6 +41848,7 @@ window.PALWORLD_DATA = {
         "atk": 362,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -40526,6 +41878,7 @@ window.PALWORLD_DATA = {
         "atk": 288,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -40555,6 +41908,7 @@ window.PALWORLD_DATA = {
         "atk": 636,
         "def": 513
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -40594,6 +41948,7 @@ window.PALWORLD_DATA = {
         "atk": 394,
         "def": 376
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -40623,6 +41978,7 @@ window.PALWORLD_DATA = {
         "atk": 463,
         "def": 394
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -40646,6 +42002,7 @@ window.PALWORLD_DATA = {
         "atk": 396,
         "def": 355
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -40675,6 +42032,7 @@ window.PALWORLD_DATA = {
         "atk": 312,
         "def": 276
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -40704,6 +42062,7 @@ window.PALWORLD_DATA = {
         "atk": 264,
         "def": 271
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -40733,6 +42092,7 @@ window.PALWORLD_DATA = {
         "atk": 296,
         "def": 249
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -40762,6 +42122,7 @@ window.PALWORLD_DATA = {
         "atk": 249,
         "def": 268
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -40791,6 +42152,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 305
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -40820,6 +42182,7 @@ window.PALWORLD_DATA = {
         "atk": 378,
         "def": 301
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -40854,6 +42217,7 @@ window.PALWORLD_DATA = {
         "atk": 318,
         "def": 333
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -40883,6 +42247,7 @@ window.PALWORLD_DATA = {
         "atk": 577,
         "def": 482
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -40912,6 +42277,7 @@ window.PALWORLD_DATA = {
         "atk": 284,
         "def": 306
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -40941,6 +42307,7 @@ window.PALWORLD_DATA = {
         "atk": 362,
         "def": 316
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -40970,6 +42337,7 @@ window.PALWORLD_DATA = {
         "atk": 193,
         "def": 241
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -40999,6 +42367,7 @@ window.PALWORLD_DATA = {
         "atk": 378,
         "def": 209
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -41033,6 +42402,7 @@ window.PALWORLD_DATA = {
         "atk": 339,
         "def": 268
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -41056,6 +42426,7 @@ window.PALWORLD_DATA = {
         "atk": 335,
         "def": 300
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -41085,6 +42456,7 @@ window.PALWORLD_DATA = {
         "atk": 368,
         "def": 263
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -41114,6 +42486,7 @@ window.PALWORLD_DATA = {
         "atk": 185,
         "def": 126
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -41148,6 +42521,7 @@ window.PALWORLD_DATA = {
         "atk": 644,
         "def": 469
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -41171,6 +42545,7 @@ window.PALWORLD_DATA = {
         "atk": 291,
         "def": 301
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -41205,6 +42580,7 @@ window.PALWORLD_DATA = {
         "atk": 323,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -41234,6 +42610,7 @@ window.PALWORLD_DATA = {
         "atk": 553,
         "def": 328
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -41263,6 +42640,7 @@ window.PALWORLD_DATA = {
         "atk": 288,
         "def": 284
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -41292,6 +42670,7 @@ window.PALWORLD_DATA = {
         "atk": 438,
         "def": 370
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -41321,6 +42700,7 @@ window.PALWORLD_DATA = {
         "atk": 481,
         "def": 341
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -41350,6 +42730,7 @@ window.PALWORLD_DATA = {
         "atk": 525,
         "def": 325
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -41379,6 +42760,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -41413,6 +42795,7 @@ window.PALWORLD_DATA = {
         "atk": 406,
         "def": 405
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -41442,6 +42825,7 @@ window.PALWORLD_DATA = {
         "atk": 442,
         "def": 461
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -41471,6 +42855,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 370
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -41500,6 +42885,7 @@ window.PALWORLD_DATA = {
         "atk": 585,
         "def": 445
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -41529,6 +42915,7 @@ window.PALWORLD_DATA = {
         "atk": 473,
         "def": 520
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -41568,6 +42955,7 @@ window.PALWORLD_DATA = {
         "atk": 425,
         "def": 630
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -41597,6 +42985,7 @@ window.PALWORLD_DATA = {
         "atk": 491,
         "def": 390
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -41626,6 +43015,7 @@ window.PALWORLD_DATA = {
         "atk": 261,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -41655,6 +43045,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -41684,6 +43075,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -41723,6 +43115,7 @@ window.PALWORLD_DATA = {
         "atk": 351,
         "def": 418
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -41749,9 +43142,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8646,
-        "atk": 1701,
+        "atk": 1542,
         "def": 1087
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -41791,6 +43185,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -41830,6 +43225,7 @@ window.PALWORLD_DATA = {
         "atk": 379,
         "def": 347
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -41859,6 +43255,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 428
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -41888,6 +43285,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -41917,6 +43315,7 @@ window.PALWORLD_DATA = {
         "atk": 382,
         "def": 448
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -41946,6 +43345,7 @@ window.PALWORLD_DATA = {
         "atk": 446,
         "def": 351
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -41975,6 +43375,7 @@ window.PALWORLD_DATA = {
         "atk": 441,
         "def": 487
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -42004,6 +43405,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -42033,6 +43435,7 @@ window.PALWORLD_DATA = {
         "atk": 63,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -42062,6 +43465,7 @@ window.PALWORLD_DATA = {
         "atk": 319,
         "def": 256
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -42091,6 +43495,7 @@ window.PALWORLD_DATA = {
         "atk": 315,
         "def": 438
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -42125,6 +43530,7 @@ window.PALWORLD_DATA = {
         "atk": 357,
         "def": 621
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -42169,6 +43575,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -42208,6 +43615,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -42237,6 +43645,7 @@ window.PALWORLD_DATA = {
         "atk": 490,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -42276,6 +43685,7 @@ window.PALWORLD_DATA = {
         "atk": 322,
         "def": 396
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -42305,6 +43715,7 @@ window.PALWORLD_DATA = {
         "atk": 653,
         "def": 559
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -42334,6 +43745,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -42363,6 +43775,7 @@ window.PALWORLD_DATA = {
         "atk": 97,
         "def": 82
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -42407,6 +43820,7 @@ window.PALWORLD_DATA = {
         "atk": 435,
         "def": 520
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -42436,6 +43850,7 @@ window.PALWORLD_DATA = {
         "atk": 399,
         "def": 429
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -42465,6 +43880,7 @@ window.PALWORLD_DATA = {
         "atk": 544,
         "def": 359
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -42494,6 +43910,7 @@ window.PALWORLD_DATA = {
         "atk": 488,
         "def": 386
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -42523,6 +43940,7 @@ window.PALWORLD_DATA = {
         "atk": 552,
         "def": 505
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -42546,6 +43964,7 @@ window.PALWORLD_DATA = {
         "atk": 505,
         "def": 373
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -42580,6 +43999,7 @@ window.PALWORLD_DATA = {
         "atk": 1027,
         "def": 1001
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -42609,6 +44029,7 @@ window.PALWORLD_DATA = {
         "atk": 665,
         "def": 371
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -42638,6 +44059,7 @@ window.PALWORLD_DATA = {
         "atk": 529,
         "def": 459
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -42667,6 +44089,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -42696,6 +44119,7 @@ window.PALWORLD_DATA = {
         "atk": 259,
         "def": 505
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -42735,6 +44159,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -42764,6 +44189,7 @@ window.PALWORLD_DATA = {
         "atk": 536,
         "def": 478
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -42787,6 +44213,7 @@ window.PALWORLD_DATA = {
         "atk": 713,
         "def": 784
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -42821,6 +44248,7 @@ window.PALWORLD_DATA = {
         "atk": 432,
         "def": 337
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -42850,6 +44278,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -42894,6 +44323,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -42923,6 +44353,7 @@ window.PALWORLD_DATA = {
         "atk": 441,
         "def": 512
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -42952,6 +44383,7 @@ window.PALWORLD_DATA = {
         "atk": 505,
         "def": 456
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -42981,6 +44413,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 15
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -43025,6 +44458,7 @@ window.PALWORLD_DATA = {
         "atk": 127,
         "def": 118
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -43069,6 +44503,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -43098,6 +44533,7 @@ window.PALWORLD_DATA = {
         "atk": 633,
         "def": 653
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -43127,6 +44563,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -43161,6 +44598,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -43205,6 +44643,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -43239,6 +44678,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -43278,6 +44718,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -43307,6 +44748,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 353
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -43336,6 +44778,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -43365,6 +44808,7 @@ window.PALWORLD_DATA = {
         "atk": 273,
         "def": 289
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -43394,6 +44838,7 @@ window.PALWORLD_DATA = {
         "atk": 418,
         "def": 610
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -43428,6 +44873,7 @@ window.PALWORLD_DATA = {
         "atk": 558,
         "def": 481
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -43457,6 +44903,7 @@ window.PALWORLD_DATA = {
         "atk": 565,
         "def": 414
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -43491,6 +44938,7 @@ window.PALWORLD_DATA = {
         "atk": 353,
         "def": 475
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -43525,6 +44973,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -43554,6 +45003,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -43583,6 +45033,7 @@ window.PALWORLD_DATA = {
         "atk": 616,
         "def": 532
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -43612,6 +45063,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -43651,6 +45103,7 @@ window.PALWORLD_DATA = {
         "atk": 512,
         "def": 418
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -43685,6 +45138,7 @@ window.PALWORLD_DATA = {
         "atk": 1239,
         "def": 1007
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -43719,6 +45173,7 @@ window.PALWORLD_DATA = {
         "atk": 314,
         "def": 222
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -43748,6 +45203,7 @@ window.PALWORLD_DATA = {
         "atk": 644,
         "def": 542
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -43771,6 +45227,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 182
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -43800,6 +45257,7 @@ window.PALWORLD_DATA = {
         "atk": 222,
         "def": 235
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -43829,6 +45287,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 222
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -43858,6 +45317,7 @@ window.PALWORLD_DATA = {
         "atk": 348,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -43892,6 +45352,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -43936,6 +45397,7 @@ window.PALWORLD_DATA = {
         "atk": 421,
         "def": 279
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -43965,6 +45427,7 @@ window.PALWORLD_DATA = {
         "atk": 524,
         "def": 587
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -43994,6 +45457,7 @@ window.PALWORLD_DATA = {
         "atk": 790,
         "def": 635
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -44023,6 +45487,7 @@ window.PALWORLD_DATA = {
         "atk": 486,
         "def": 748
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44057,6 +45522,7 @@ window.PALWORLD_DATA = {
         "atk": 447,
         "def": 532
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44091,6 +45557,7 @@ window.PALWORLD_DATA = {
         "atk": 674,
         "def": 745
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -44125,6 +45592,7 @@ window.PALWORLD_DATA = {
         "atk": 485,
         "def": 305
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -44154,6 +45622,7 @@ window.PALWORLD_DATA = {
         "atk": 424,
         "def": 372
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -44183,6 +45652,7 @@ window.PALWORLD_DATA = {
         "atk": 515,
         "def": 554
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -44212,6 +45682,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -44241,6 +45712,7 @@ window.PALWORLD_DATA = {
         "atk": 352,
         "def": 470
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44280,6 +45752,7 @@ window.PALWORLD_DATA = {
         "atk": 461,
         "def": 419
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -44309,6 +45782,7 @@ window.PALWORLD_DATA = {
         "atk": 532,
         "def": 415
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -44338,6 +45812,7 @@ window.PALWORLD_DATA = {
         "atk": 370,
         "def": 403
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -44367,6 +45842,7 @@ window.PALWORLD_DATA = {
         "atk": 254,
         "def": 235
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -44396,6 +45872,7 @@ window.PALWORLD_DATA = {
         "atk": 340,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -44430,6 +45907,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 263
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -44453,6 +45931,7 @@ window.PALWORLD_DATA = {
         "atk": 696,
         "def": 794
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44492,6 +45971,7 @@ window.PALWORLD_DATA = {
         "atk": 410,
         "def": 365
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -44521,6 +46001,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 273
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -44550,6 +46031,7 @@ window.PALWORLD_DATA = {
         "atk": 495,
         "def": 463
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -44579,6 +46061,7 @@ window.PALWORLD_DATA = {
         "atk": 481,
         "def": 453
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -44608,6 +46091,7 @@ window.PALWORLD_DATA = {
         "atk": 345,
         "def": 305
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -44637,6 +46121,7 @@ window.PALWORLD_DATA = {
         "atk": 368,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -44666,6 +46151,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -44695,6 +46181,7 @@ window.PALWORLD_DATA = {
         "atk": 343,
         "def": 266
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -44724,6 +46211,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 378
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -44747,6 +46235,7 @@ window.PALWORLD_DATA = {
         "atk": 349,
         "def": 409
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -44781,6 +46270,7 @@ window.PALWORLD_DATA = {
         "atk": 273,
         "def": 316
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -44810,6 +46300,7 @@ window.PALWORLD_DATA = {
         "atk": 324,
         "def": 319
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -44839,6 +46330,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -44883,6 +46375,7 @@ window.PALWORLD_DATA = {
         "atk": 386,
         "def": 331
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -44912,6 +46405,7 @@ window.PALWORLD_DATA = {
         "atk": 309,
         "def": 371
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -44941,6 +46435,7 @@ window.PALWORLD_DATA = {
         "atk": 360,
         "def": 399
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -44970,6 +46465,7 @@ window.PALWORLD_DATA = {
         "atk": 327,
         "def": 332
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -44999,6 +46495,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 322
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -45019,9 +46516,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4593,
-        "atk": 877,
+        "atk": 783,
         "def": 609
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -45056,6 +46554,7 @@ window.PALWORLD_DATA = {
         "atk": 265,
         "def": 279
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -45095,6 +46594,7 @@ window.PALWORLD_DATA = {
         "atk": 388,
         "def": 376
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -45139,6 +46639,7 @@ window.PALWORLD_DATA = {
         "atk": 373,
         "def": 270
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -45173,6 +46674,7 @@ window.PALWORLD_DATA = {
         "atk": 451,
         "def": 363
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -45202,6 +46704,7 @@ window.PALWORLD_DATA = {
         "atk": 353,
         "def": 530
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -45236,6 +46739,7 @@ window.PALWORLD_DATA = {
         "atk": 392,
         "def": 403
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -45270,6 +46774,7 @@ window.PALWORLD_DATA = {
         "atk": 415,
         "def": 295
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -45299,6 +46804,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 333
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -45328,6 +46834,7 @@ window.PALWORLD_DATA = {
         "atk": 271,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -45357,6 +46864,7 @@ window.PALWORLD_DATA = {
         "atk": 398,
         "def": 497
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -45391,6 +46899,7 @@ window.PALWORLD_DATA = {
         "atk": 377,
         "def": 464
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -45420,6 +46929,7 @@ window.PALWORLD_DATA = {
         "atk": 405,
         "def": 310
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -45449,6 +46959,7 @@ window.PALWORLD_DATA = {
         "atk": 277,
         "def": 246
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -45478,6 +46989,7 @@ window.PALWORLD_DATA = {
         "atk": 438,
         "def": 391
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -45507,6 +47019,7 @@ window.PALWORLD_DATA = {
         "atk": 821,
         "def": 688
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -45536,6 +47049,7 @@ window.PALWORLD_DATA = {
         "atk": 332,
         "def": 297
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -45565,6 +47079,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 288
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -45594,6 +47109,7 @@ window.PALWORLD_DATA = {
         "atk": 655,
         "def": 670
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -45623,6 +47139,7 @@ window.PALWORLD_DATA = {
         "atk": 353,
         "def": 266
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -45652,6 +47169,7 @@ window.PALWORLD_DATA = {
         "atk": 246,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -45681,6 +47199,7 @@ window.PALWORLD_DATA = {
         "atk": 348,
         "def": 351
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -45704,6 +47223,7 @@ window.PALWORLD_DATA = {
         "atk": 234,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -45733,6 +47253,7 @@ window.PALWORLD_DATA = {
         "atk": 320,
         "def": 220
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -45767,6 +47288,7 @@ window.PALWORLD_DATA = {
         "atk": 313,
         "def": 172
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -45787,9 +47309,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2725,
-        "atk": 490,
+        "atk": 437,
         "def": 383
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -45819,6 +47342,7 @@ window.PALWORLD_DATA = {
         "atk": 196,
         "def": 200
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -45863,6 +47387,7 @@ window.PALWORLD_DATA = {
         "atk": 271,
         "def": 272
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -45892,6 +47417,7 @@ window.PALWORLD_DATA = {
         "atk": 227,
         "def": 281
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -45921,6 +47447,7 @@ window.PALWORLD_DATA = {
         "atk": 256,
         "def": 271
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -45944,6 +47471,7 @@ window.PALWORLD_DATA = {
         "atk": 294,
         "def": 219
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -45967,6 +47495,7 @@ window.PALWORLD_DATA = {
         "atk": 305,
         "def": 339
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -45996,6 +47525,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 422
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -46030,6 +47560,7 @@ window.PALWORLD_DATA = {
         "atk": 325,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -46059,6 +47590,7 @@ window.PALWORLD_DATA = {
         "atk": 358,
         "def": 282
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -46088,6 +47620,7 @@ window.PALWORLD_DATA = {
         "atk": 212,
         "def": 214
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -46127,6 +47660,7 @@ window.PALWORLD_DATA = {
         "atk": 1014,
         "def": 978
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -46156,6 +47690,7 @@ window.PALWORLD_DATA = {
         "atk": 283,
         "def": 221
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -46185,6 +47720,7 @@ window.PALWORLD_DATA = {
         "atk": 364,
         "def": 266
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -46214,6 +47750,7 @@ window.PALWORLD_DATA = {
         "atk": 428,
         "def": 372
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -46253,6 +47790,7 @@ window.PALWORLD_DATA = {
         "atk": 701,
         "def": 441
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -46287,6 +47825,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 248
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -46310,6 +47849,7 @@ window.PALWORLD_DATA = {
         "atk": 247,
         "def": 225
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -46333,6 +47873,7 @@ window.PALWORLD_DATA = {
         "atk": 912,
         "def": 649
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -46362,6 +47903,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 298
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -46391,6 +47933,7 @@ window.PALWORLD_DATA = {
         "atk": 226,
         "def": 180
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -46425,6 +47968,7 @@ window.PALWORLD_DATA = {
         "atk": 190,
         "def": 127
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -46448,6 +47992,7 @@ window.PALWORLD_DATA = {
         "atk": 309,
         "def": 242
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -46477,6 +48022,7 @@ window.PALWORLD_DATA = {
         "atk": 281,
         "def": 210
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -46506,6 +48052,7 @@ window.PALWORLD_DATA = {
         "atk": 713,
         "def": 650
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -46540,6 +48087,7 @@ window.PALWORLD_DATA = {
         "atk": 288,
         "def": 271
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -46569,6 +48117,7 @@ window.PALWORLD_DATA = {
         "atk": 402,
         "def": 268
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -46598,6 +48147,7 @@ window.PALWORLD_DATA = {
         "atk": 419,
         "def": 308
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -46627,6 +48177,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -46661,6 +48212,7 @@ window.PALWORLD_DATA = {
         "atk": 664,
         "def": 545
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -46690,6 +48242,7 @@ window.PALWORLD_DATA = {
         "atk": 425,
         "def": 328
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -46719,6 +48272,7 @@ window.PALWORLD_DATA = {
         "atk": 325,
         "def": 225
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -46748,6 +48302,7 @@ window.PALWORLD_DATA = {
         "atk": 437,
         "def": 279
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -46782,6 +48337,7 @@ window.PALWORLD_DATA = {
         "atk": 586,
         "def": 459
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -46816,6 +48372,7 @@ window.PALWORLD_DATA = {
         "atk": 204,
         "def": 185
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -46850,6 +48407,7 @@ window.PALWORLD_DATA = {
         "atk": 122,
         "def": 122
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -46879,6 +48437,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -46908,6 +48467,7 @@ window.PALWORLD_DATA = {
         "atk": 390,
         "def": 339
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -46937,6 +48497,7 @@ window.PALWORLD_DATA = {
         "atk": 560,
         "def": 294
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -46966,6 +48527,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -46995,6 +48557,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 276
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -47018,6 +48581,7 @@ window.PALWORLD_DATA = {
         "atk": 361,
         "def": 303
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -47047,6 +48611,7 @@ window.PALWORLD_DATA = {
         "atk": 549,
         "def": 432
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -47076,6 +48641,7 @@ window.PALWORLD_DATA = {
         "atk": 304,
         "def": 261
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -47105,6 +48671,7 @@ window.PALWORLD_DATA = {
         "atk": 417,
         "def": 437
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -47139,6 +48706,7 @@ window.PALWORLD_DATA = {
         "atk": 600,
         "def": 524
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -47168,6 +48736,7 @@ window.PALWORLD_DATA = {
         "atk": 208,
         "def": 233
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -47202,6 +48771,7 @@ window.PALWORLD_DATA = {
         "atk": 453,
         "def": 355
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -47236,6 +48806,7 @@ window.PALWORLD_DATA = {
         "atk": 577,
         "def": 618
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -47265,6 +48836,7 @@ window.PALWORLD_DATA = {
         "atk": 745,
         "def": 661
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -47304,6 +48876,7 @@ window.PALWORLD_DATA = {
         "atk": 606,
         "def": 384
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -47333,6 +48906,7 @@ window.PALWORLD_DATA = {
         "atk": 560,
         "def": 741
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -47362,6 +48936,7 @@ window.PALWORLD_DATA = {
         "atk": 95,
         "def": 88
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -47388,9 +48963,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 2681,
-        "atk": 496,
+        "atk": 443,
         "def": 402
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -47430,6 +49006,7 @@ window.PALWORLD_DATA = {
         "atk": 639,
         "def": 540
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -47459,6 +49036,7 @@ window.PALWORLD_DATA = {
         "atk": 440,
         "def": 258
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -47493,6 +49071,7 @@ window.PALWORLD_DATA = {
         "atk": 770,
         "def": 656
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -47522,6 +49101,7 @@ window.PALWORLD_DATA = {
         "atk": 354,
         "def": 282
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -47545,6 +49125,7 @@ window.PALWORLD_DATA = {
         "atk": 528,
         "def": 375
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -47574,6 +49155,7 @@ window.PALWORLD_DATA = {
         "atk": 482,
         "def": 555
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -47603,6 +49185,7 @@ window.PALWORLD_DATA = {
         "atk": 319,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -47632,6 +49215,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 349
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -47655,6 +49239,7 @@ window.PALWORLD_DATA = {
         "atk": 354,
         "def": 380
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -47678,6 +49263,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 218
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -47707,6 +49293,7 @@ window.PALWORLD_DATA = {
         "atk": 852,
         "def": 607
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -47736,6 +49323,7 @@ window.PALWORLD_DATA = {
         "atk": 83,
         "def": 70
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -47759,6 +49347,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -47803,6 +49392,7 @@ window.PALWORLD_DATA = {
         "atk": 433,
         "def": 305
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -47826,6 +49416,7 @@ window.PALWORLD_DATA = {
         "atk": 318,
         "def": 190
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -47855,6 +49446,7 @@ window.PALWORLD_DATA = {
         "atk": 398,
         "def": 350
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -47884,6 +49476,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -47923,6 +49516,7 @@ window.PALWORLD_DATA = {
         "atk": 365,
         "def": 353
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -47949,9 +49543,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8134,
-        "atk": 1788,
+        "atk": 1632,
         "def": 1188
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -47991,6 +49586,7 @@ window.PALWORLD_DATA = {
         "atk": 301,
         "def": 237
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -48014,6 +49610,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -48053,6 +49650,7 @@ window.PALWORLD_DATA = {
         "atk": 335,
         "def": 327
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -48082,6 +49680,7 @@ window.PALWORLD_DATA = {
         "atk": 423,
         "def": 457
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -48126,6 +49725,7 @@ window.PALWORLD_DATA = {
         "atk": 254,
         "def": 220
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -48155,6 +49755,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 394
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -48184,6 +49785,7 @@ window.PALWORLD_DATA = {
         "atk": 302,
         "def": 444
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -48218,6 +49820,7 @@ window.PALWORLD_DATA = {
         "atk": 327,
         "def": 307
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -48247,6 +49850,7 @@ window.PALWORLD_DATA = {
         "atk": 373,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -48291,6 +49895,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 421
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -48320,6 +49925,7 @@ window.PALWORLD_DATA = {
         "atk": 352,
         "def": 265
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -48349,6 +49955,7 @@ window.PALWORLD_DATA = {
         "atk": 347,
         "def": 260
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -48378,6 +49985,7 @@ window.PALWORLD_DATA = {
         "atk": 556,
         "def": 502
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -48401,6 +50009,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -48445,6 +50054,7 @@ window.PALWORLD_DATA = {
         "atk": 475,
         "def": 393
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -48479,6 +50089,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -48508,6 +50119,7 @@ window.PALWORLD_DATA = {
         "atk": 435,
         "def": 431
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -48537,6 +50149,7 @@ window.PALWORLD_DATA = {
         "atk": 655,
         "def": 573
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -48566,6 +50179,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 599
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -48595,6 +50209,7 @@ window.PALWORLD_DATA = {
         "atk": 328,
         "def": 380
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -48624,6 +50239,7 @@ window.PALWORLD_DATA = {
         "atk": 643,
         "def": 742
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -48663,6 +50279,7 @@ window.PALWORLD_DATA = {
         "atk": 562,
         "def": 329
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -48692,6 +50309,7 @@ window.PALWORLD_DATA = {
         "atk": 596,
         "def": 565
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -48721,6 +50339,7 @@ window.PALWORLD_DATA = {
         "atk": 21,
         "def": 28
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -48744,6 +50363,7 @@ window.PALWORLD_DATA = {
         "atk": 515,
         "def": 498
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -48767,6 +50387,7 @@ window.PALWORLD_DATA = {
         "atk": 345,
         "def": 397
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -48801,6 +50422,7 @@ window.PALWORLD_DATA = {
         "atk": 361,
         "def": 337
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -48835,6 +50457,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -48864,6 +50487,7 @@ window.PALWORLD_DATA = {
         "atk": 347,
         "def": 271
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -48893,6 +50517,7 @@ window.PALWORLD_DATA = {
         "atk": 381,
         "def": 313
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -48922,6 +50547,7 @@ window.PALWORLD_DATA = {
         "atk": 401,
         "def": 238
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -48951,6 +50577,7 @@ window.PALWORLD_DATA = {
         "atk": 279,
         "def": 183
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -48980,6 +50607,7 @@ window.PALWORLD_DATA = {
         "atk": 290,
         "def": 291
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -49009,6 +50637,7 @@ window.PALWORLD_DATA = {
         "atk": 321,
         "def": 229
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -49038,6 +50667,7 @@ window.PALWORLD_DATA = {
         "atk": 767,
         "def": 634
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -49067,6 +50697,7 @@ window.PALWORLD_DATA = {
         "atk": 747,
         "def": 675
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -49096,6 +50727,7 @@ window.PALWORLD_DATA = {
         "atk": 576,
         "def": 439
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -49125,6 +50757,7 @@ window.PALWORLD_DATA = {
         "atk": 552,
         "def": 551
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -49154,6 +50787,7 @@ window.PALWORLD_DATA = {
         "atk": 700,
         "def": 679
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -49193,6 +50827,7 @@ window.PALWORLD_DATA = {
         "atk": 221,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -49222,6 +50857,7 @@ window.PALWORLD_DATA = {
         "atk": 530,
         "def": 477
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -49245,6 +50881,7 @@ window.PALWORLD_DATA = {
         "atk": 526,
         "def": 346
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -49279,6 +50916,7 @@ window.PALWORLD_DATA = {
         "atk": 897,
         "def": 596
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -49308,6 +50946,7 @@ window.PALWORLD_DATA = {
         "atk": 105,
         "def": 82
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -49331,6 +50970,7 @@ window.PALWORLD_DATA = {
         "atk": 628,
         "def": 480
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -49365,6 +51005,7 @@ window.PALWORLD_DATA = {
         "atk": 652,
         "def": 475
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -49388,6 +51029,7 @@ window.PALWORLD_DATA = {
         "atk": 79,
         "def": 78
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -49417,6 +51059,7 @@ window.PALWORLD_DATA = {
         "atk": 469,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -49446,6 +51089,7 @@ window.PALWORLD_DATA = {
         "atk": 353,
         "def": 240
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -49469,6 +51113,7 @@ window.PALWORLD_DATA = {
         "atk": 374,
         "def": 233
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -49498,6 +51143,7 @@ window.PALWORLD_DATA = {
         "atk": 290,
         "def": 283
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -49532,6 +51178,7 @@ window.PALWORLD_DATA = {
         "atk": 794,
         "def": 434
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -49566,6 +51213,7 @@ window.PALWORLD_DATA = {
         "atk": 1063,
         "def": 726
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -49595,6 +51243,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -49629,6 +51278,7 @@ window.PALWORLD_DATA = {
         "atk": 844,
         "def": 845
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -49663,6 +51313,7 @@ window.PALWORLD_DATA = {
         "atk": 696,
         "def": 527
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -49692,6 +51343,7 @@ window.PALWORLD_DATA = {
         "atk": 728,
         "def": 523
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -49721,6 +51373,7 @@ window.PALWORLD_DATA = {
         "atk": 543,
         "def": 457
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -49750,6 +51403,7 @@ window.PALWORLD_DATA = {
         "atk": 323,
         "def": 262
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -49779,6 +51433,7 @@ window.PALWORLD_DATA = {
         "atk": 707,
         "def": 491
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -49805,9 +51460,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7053,
-        "atk": 1540,
+        "atk": 1396,
         "def": 1011
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -49847,6 +51503,7 @@ window.PALWORLD_DATA = {
         "atk": 477,
         "def": 478
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -49881,6 +51538,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 514
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -49910,6 +51568,7 @@ window.PALWORLD_DATA = {
         "atk": 722,
         "def": 723
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -49944,6 +51603,7 @@ window.PALWORLD_DATA = {
         "atk": 345,
         "def": 346
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -49973,6 +51633,7 @@ window.PALWORLD_DATA = {
         "atk": 890,
         "def": 491
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -50012,6 +51673,7 @@ window.PALWORLD_DATA = {
         "atk": 668,
         "def": 556
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -50041,6 +51703,7 @@ window.PALWORLD_DATA = {
         "atk": 720,
         "def": 471
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -50064,6 +51727,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -50103,6 +51767,7 @@ window.PALWORLD_DATA = {
         "atk": 769,
         "def": 759
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -50132,6 +51797,7 @@ window.PALWORLD_DATA = {
         "atk": 654,
         "def": 435
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -50161,6 +51827,7 @@ window.PALWORLD_DATA = {
         "atk": 549,
         "def": 514
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -50195,6 +51862,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -50224,6 +51892,7 @@ window.PALWORLD_DATA = {
         "atk": 86,
         "def": 66
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -50253,6 +51922,7 @@ window.PALWORLD_DATA = {
         "atk": 675,
         "def": 582
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -50282,6 +51952,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -50316,6 +51987,7 @@ window.PALWORLD_DATA = {
         "atk": 101,
         "def": 60
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -50345,6 +52017,7 @@ window.PALWORLD_DATA = {
         "atk": 335,
         "def": 248
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -50368,6 +52041,7 @@ window.PALWORLD_DATA = {
         "atk": 691,
         "def": 478
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -50402,6 +52076,7 @@ window.PALWORLD_DATA = {
         "atk": 601,
         "def": 524
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -50431,6 +52106,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -50460,6 +52136,7 @@ window.PALWORLD_DATA = {
         "atk": 417,
         "def": 392
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -50489,6 +52166,7 @@ window.PALWORLD_DATA = {
         "atk": 152,
         "def": 106
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -50533,6 +52211,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 361
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -50559,9 +52238,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7373,
-        "atk": 1409,
+        "atk": 1286,
         "def": 1197
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -50603,9 +52283,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8895,
-        "atk": 1827,
+        "atk": 1656,
         "def": 1156
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -50645,6 +52326,7 @@ window.PALWORLD_DATA = {
         "atk": 135,
         "def": 87
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -50674,6 +52356,7 @@ window.PALWORLD_DATA = {
         "atk": 1401,
         "def": 1117
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -50713,6 +52396,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -50747,6 +52431,7 @@ window.PALWORLD_DATA = {
         "atk": 525,
         "def": 490
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -50781,6 +52466,7 @@ window.PALWORLD_DATA = {
         "atk": 842,
         "def": 677
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -50820,6 +52506,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -50849,6 +52536,7 @@ window.PALWORLD_DATA = {
         "atk": 537,
         "def": 451
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -50878,6 +52566,7 @@ window.PALWORLD_DATA = {
         "atk": 103,
         "def": 68
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -50907,6 +52596,7 @@ window.PALWORLD_DATA = {
         "atk": 739,
         "def": 523
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -50936,6 +52626,7 @@ window.PALWORLD_DATA = {
         "atk": 558,
         "def": 409
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_3",
@@ -50965,6 +52656,7 @@ window.PALWORLD_DATA = {
         "atk": 694,
         "def": 716
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -50994,6 +52686,7 @@ window.PALWORLD_DATA = {
         "atk": 677,
         "def": 700
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -51038,6 +52731,7 @@ window.PALWORLD_DATA = {
         "atk": 795,
         "def": 611
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -51067,6 +52761,7 @@ window.PALWORLD_DATA = {
         "atk": 239,
         "def": 154
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -51096,6 +52791,7 @@ window.PALWORLD_DATA = {
         "atk": 438,
         "def": 391
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -51125,6 +52821,7 @@ window.PALWORLD_DATA = {
         "atk": 632,
         "def": 697
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -51154,6 +52851,7 @@ window.PALWORLD_DATA = {
         "atk": 528,
         "def": 474
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -51188,6 +52886,7 @@ window.PALWORLD_DATA = {
         "atk": 173,
         "def": 114
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -51217,6 +52916,7 @@ window.PALWORLD_DATA = {
         "atk": 746,
         "def": 634
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -51240,6 +52940,7 @@ window.PALWORLD_DATA = {
         "atk": 90,
         "def": 84
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -51269,6 +52970,7 @@ window.PALWORLD_DATA = {
         "atk": 765,
         "def": 565
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -51298,6 +53000,7 @@ window.PALWORLD_DATA = {
         "atk": 697,
         "def": 585
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -51327,6 +53030,7 @@ window.PALWORLD_DATA = {
         "atk": 852,
         "def": 747
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -51361,6 +53065,7 @@ window.PALWORLD_DATA = {
         "atk": 669,
         "def": 642
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -51400,6 +53105,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -51444,6 +53150,7 @@ window.PALWORLD_DATA = {
         "atk": 609,
         "def": 574
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -51473,6 +53180,7 @@ window.PALWORLD_DATA = {
         "atk": 749,
         "def": 667
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -51502,6 +53210,7 @@ window.PALWORLD_DATA = {
         "atk": 449,
         "def": 494
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -51531,6 +53240,7 @@ window.PALWORLD_DATA = {
         "atk": 878,
         "def": 666
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -51565,6 +53275,7 @@ window.PALWORLD_DATA = {
         "atk": 131,
         "def": 95
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -51594,6 +53305,7 @@ window.PALWORLD_DATA = {
         "atk": 320,
         "def": 259
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -51623,6 +53335,7 @@ window.PALWORLD_DATA = {
         "atk": 635,
         "def": 581
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -51652,6 +53365,7 @@ window.PALWORLD_DATA = {
         "atk": 502,
         "def": 452
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -51681,6 +53395,7 @@ window.PALWORLD_DATA = {
         "atk": 571,
         "def": 462
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -51704,6 +53419,7 @@ window.PALWORLD_DATA = {
         "atk": 293,
         "def": 262
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -51738,6 +53454,7 @@ window.PALWORLD_DATA = {
         "atk": 827,
         "def": 626
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -51761,6 +53478,7 @@ window.PALWORLD_DATA = {
         "atk": 869,
         "def": 677
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -51790,6 +53508,7 @@ window.PALWORLD_DATA = {
         "atk": 750,
         "def": 695
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -51819,6 +53538,7 @@ window.PALWORLD_DATA = {
         "atk": 449,
         "def": 398
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -51848,6 +53568,7 @@ window.PALWORLD_DATA = {
         "atk": 783,
         "def": 677
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -51877,6 +53598,7 @@ window.PALWORLD_DATA = {
         "atk": 673,
         "def": 592
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -51906,6 +53628,7 @@ window.PALWORLD_DATA = {
         "atk": 609,
         "def": 656
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -51932,9 +53655,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8391,
-        "atk": 1786,
+        "atk": 1619,
         "def": 1173
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -51974,6 +53698,7 @@ window.PALWORLD_DATA = {
         "atk": 128,
         "def": 141
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -52003,6 +53728,7 @@ window.PALWORLD_DATA = {
         "atk": 767,
         "def": 665
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -52032,6 +53758,7 @@ window.PALWORLD_DATA = {
         "atk": 562,
         "def": 392
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -52061,6 +53788,7 @@ window.PALWORLD_DATA = {
         "atk": 586,
         "def": 486
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -52090,6 +53818,7 @@ window.PALWORLD_DATA = {
         "atk": 447,
         "def": 419
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -52119,6 +53848,7 @@ window.PALWORLD_DATA = {
         "atk": 525,
         "def": 517
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -52148,6 +53878,7 @@ window.PALWORLD_DATA = {
         "atk": 901,
         "def": 802
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -52177,6 +53908,7 @@ window.PALWORLD_DATA = {
         "atk": 631,
         "def": 560
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -52206,6 +53938,7 @@ window.PALWORLD_DATA = {
         "atk": 656,
         "def": 690
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -52235,6 +53968,7 @@ window.PALWORLD_DATA = {
         "atk": 513,
         "def": 495
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -52269,6 +54003,7 @@ window.PALWORLD_DATA = {
         "atk": 583,
         "def": 508
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -52298,6 +54033,7 @@ window.PALWORLD_DATA = {
         "atk": 571,
         "def": 473
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -52327,6 +54063,7 @@ window.PALWORLD_DATA = {
         "atk": 734,
         "def": 554
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -52356,6 +54093,7 @@ window.PALWORLD_DATA = {
         "atk": 683,
         "def": 504
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -52385,6 +54123,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 9
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -52408,6 +54147,7 @@ window.PALWORLD_DATA = {
         "atk": 525,
         "def": 550
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -52437,6 +54177,7 @@ window.PALWORLD_DATA = {
         "atk": 775,
         "def": 618
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -52481,6 +54222,7 @@ window.PALWORLD_DATA = {
         "atk": 695,
         "def": 599
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -52504,6 +54246,7 @@ window.PALWORLD_DATA = {
         "atk": 781,
         "def": 743
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -52533,6 +54276,7 @@ window.PALWORLD_DATA = {
         "atk": 688,
         "def": 723
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -52562,6 +54306,7 @@ window.PALWORLD_DATA = {
         "atk": 765,
         "def": 560
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -52596,6 +54341,7 @@ window.PALWORLD_DATA = {
         "atk": 773,
         "def": 585
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -52635,6 +54381,7 @@ window.PALWORLD_DATA = {
         "atk": 153,
         "def": 139
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -52669,6 +54416,7 @@ window.PALWORLD_DATA = {
         "atk": 486,
         "def": 375
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -52698,6 +54446,7 @@ window.PALWORLD_DATA = {
         "atk": 699,
         "def": 613
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -52727,6 +54476,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -52756,6 +54506,7 @@ window.PALWORLD_DATA = {
         "atk": 396,
         "def": 430
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -52790,6 +54541,7 @@ window.PALWORLD_DATA = {
         "atk": 590,
         "def": 484
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -52819,6 +54571,7 @@ window.PALWORLD_DATA = {
         "atk": 527,
         "def": 608
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up3",
@@ -52858,6 +54611,7 @@ window.PALWORLD_DATA = {
         "atk": 612,
         "def": 471
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -52887,6 +54641,7 @@ window.PALWORLD_DATA = {
         "atk": 549,
         "def": 383
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -52916,6 +54671,7 @@ window.PALWORLD_DATA = {
         "atk": 561,
         "def": 464
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -52939,6 +54695,7 @@ window.PALWORLD_DATA = {
         "atk": 519,
         "def": 526
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -52968,6 +54725,7 @@ window.PALWORLD_DATA = {
         "atk": 518,
         "def": 428
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -52997,6 +54755,7 @@ window.PALWORLD_DATA = {
         "atk": 623,
         "def": 489
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -53026,6 +54785,7 @@ window.PALWORLD_DATA = {
         "atk": 379,
         "def": 324
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -53055,6 +54815,7 @@ window.PALWORLD_DATA = {
         "atk": 517,
         "def": 582
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -53089,6 +54850,7 @@ window.PALWORLD_DATA = {
         "atk": 520,
         "def": 412
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -53123,6 +54885,7 @@ window.PALWORLD_DATA = {
         "atk": 422,
         "def": 327
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -53157,6 +54920,7 @@ window.PALWORLD_DATA = {
         "atk": 395,
         "def": 510
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -53186,6 +54950,7 @@ window.PALWORLD_DATA = {
         "atk": 921,
         "def": 896
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -53220,6 +54985,7 @@ window.PALWORLD_DATA = {
         "atk": 683,
         "def": 570
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -53254,6 +55020,7 @@ window.PALWORLD_DATA = {
         "atk": 524,
         "def": 531
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -53288,6 +55055,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 253
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Vampire",
@@ -53317,6 +55085,7 @@ window.PALWORLD_DATA = {
         "atk": 437,
         "def": 401
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -53346,6 +55115,7 @@ window.PALWORLD_DATA = {
         "atk": 279,
         "def": 339
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -53380,6 +55150,7 @@ window.PALWORLD_DATA = {
         "atk": 468,
         "def": 388
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -53403,6 +55174,7 @@ window.PALWORLD_DATA = {
         "atk": 530,
         "def": 664
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -53437,6 +55209,7 @@ window.PALWORLD_DATA = {
         "atk": 537,
         "def": 506
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -53466,6 +55239,7 @@ window.PALWORLD_DATA = {
         "atk": 422,
         "def": 503
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -53495,6 +55269,7 @@ window.PALWORLD_DATA = {
         "atk": 433,
         "def": 547
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -53529,6 +55304,7 @@ window.PALWORLD_DATA = {
         "atk": 565,
         "def": 740
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -53563,6 +55339,7 @@ window.PALWORLD_DATA = {
         "atk": 486,
         "def": 436
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -53592,6 +55369,7 @@ window.PALWORLD_DATA = {
         "atk": 469,
         "def": 580
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -53621,6 +55399,7 @@ window.PALWORLD_DATA = {
         "atk": 666,
         "def": 451
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -53650,6 +55429,7 @@ window.PALWORLD_DATA = {
         "atk": 509,
         "def": 607
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -53684,6 +55464,7 @@ window.PALWORLD_DATA = {
         "atk": 322,
         "def": 458
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -53718,6 +55499,7 @@ window.PALWORLD_DATA = {
         "atk": 493,
         "def": 411
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -53747,6 +55529,7 @@ window.PALWORLD_DATA = {
         "atk": 339,
         "def": 399
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -53776,6 +55559,7 @@ window.PALWORLD_DATA = {
         "atk": 616,
         "def": 432
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -53815,6 +55599,7 @@ window.PALWORLD_DATA = {
         "atk": 355,
         "def": 242
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -53844,6 +55629,7 @@ window.PALWORLD_DATA = {
         "atk": 351,
         "def": 241
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -53873,6 +55659,7 @@ window.PALWORLD_DATA = {
         "atk": 556,
         "def": 470
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -53907,6 +55694,7 @@ window.PALWORLD_DATA = {
         "atk": 490,
         "def": 380
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -53936,6 +55724,7 @@ window.PALWORLD_DATA = {
         "atk": 357,
         "def": 349
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -53965,6 +55754,7 @@ window.PALWORLD_DATA = {
         "atk": 422,
         "def": 469
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -53994,6 +55784,7 @@ window.PALWORLD_DATA = {
         "atk": 457,
         "def": 295
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -54023,6 +55814,7 @@ window.PALWORLD_DATA = {
         "atk": 317,
         "def": 383
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -54052,6 +55844,7 @@ window.PALWORLD_DATA = {
         "atk": 837,
         "def": 596
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -54081,6 +55874,7 @@ window.PALWORLD_DATA = {
         "atk": 578,
         "def": 504
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -54110,6 +55904,7 @@ window.PALWORLD_DATA = {
         "atk": 578,
         "def": 369
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -54154,6 +55949,7 @@ window.PALWORLD_DATA = {
         "atk": 635,
         "def": 445
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -54188,6 +55984,7 @@ window.PALWORLD_DATA = {
         "atk": 363,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -54217,6 +56014,7 @@ window.PALWORLD_DATA = {
         "atk": 443,
         "def": 401
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -54246,6 +56044,7 @@ window.PALWORLD_DATA = {
         "atk": 407,
         "def": 349
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -54275,6 +56074,7 @@ window.PALWORLD_DATA = {
         "atk": 491,
         "def": 324
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -54301,9 +56101,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3705,
-        "atk": 692,
+        "atk": 618,
         "def": 459
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -54338,6 +56139,7 @@ window.PALWORLD_DATA = {
         "atk": 514,
         "def": 540
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -54372,6 +56174,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 417
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -54406,6 +56209,7 @@ window.PALWORLD_DATA = {
         "atk": 615,
         "def": 401
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -54440,6 +56244,7 @@ window.PALWORLD_DATA = {
         "atk": 381,
         "def": 554
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -54469,6 +56274,7 @@ window.PALWORLD_DATA = {
         "atk": 348,
         "def": 404
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -54492,6 +56298,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 334
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -54521,6 +56328,7 @@ window.PALWORLD_DATA = {
         "atk": 412,
         "def": 690
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -54555,6 +56363,7 @@ window.PALWORLD_DATA = {
         "atk": 909,
         "def": 801
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -54578,6 +56387,7 @@ window.PALWORLD_DATA = {
         "atk": 494,
         "def": 413
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -54601,6 +56411,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 536
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -54635,6 +56446,7 @@ window.PALWORLD_DATA = {
         "atk": 249,
         "def": 329
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_3",
@@ -54669,6 +56481,7 @@ window.PALWORLD_DATA = {
         "atk": 561,
         "def": 387
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -54698,6 +56511,7 @@ window.PALWORLD_DATA = {
         "atk": 373,
         "def": 314
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -54727,6 +56541,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 370
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -54753,9 +56568,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3331,
-        "atk": 725,
+        "atk": 647,
         "def": 492
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -54790,6 +56606,7 @@ window.PALWORLD_DATA = {
         "atk": 325,
         "def": 413
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -54816,9 +56633,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6883,
-        "atk": 1233,
+        "atk": 1117,
         "def": 816
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -54854,6 +56672,7 @@ window.PALWORLD_DATA = {
         "defense": 92
       },
       "power_stats": null,
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -54877,6 +56696,7 @@ window.PALWORLD_DATA = {
         "atk": 582,
         "def": 646
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -54906,6 +56726,7 @@ window.PALWORLD_DATA = {
         "atk": 651,
         "def": 448
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -54935,6 +56756,7 @@ window.PALWORLD_DATA = {
         "atk": 337,
         "def": 475
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -54966,9 +56788,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7558,
-        "atk": 1437,
+        "atk": 1302,
         "def": 932
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -55008,6 +56831,7 @@ window.PALWORLD_DATA = {
         "atk": 421,
         "def": 296
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -55037,6 +56861,7 @@ window.PALWORLD_DATA = {
         "atk": 426,
         "def": 460
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -55066,6 +56891,7 @@ window.PALWORLD_DATA = {
         "atk": 248,
         "def": 204
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -55100,6 +56926,7 @@ window.PALWORLD_DATA = {
         "atk": 330,
         "def": 386
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -55123,6 +56950,7 @@ window.PALWORLD_DATA = {
         "atk": 603,
         "def": 612
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -55157,6 +56985,7 @@ window.PALWORLD_DATA = {
         "atk": 418,
         "def": 426
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -55196,6 +57025,7 @@ window.PALWORLD_DATA = {
         "atk": 482,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -55225,6 +57055,7 @@ window.PALWORLD_DATA = {
         "atk": 579,
         "def": 450
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -55254,6 +57085,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 220
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Alien",
@@ -55288,6 +57120,7 @@ window.PALWORLD_DATA = {
         "atk": 673,
         "def": 514
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -55317,6 +57150,7 @@ window.PALWORLD_DATA = {
         "atk": 964,
         "def": 989
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -55356,6 +57190,7 @@ window.PALWORLD_DATA = {
         "atk": 315,
         "def": 342
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -55390,6 +57225,7 @@ window.PALWORLD_DATA = {
         "atk": 307,
         "def": 285
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -55419,6 +57255,7 @@ window.PALWORLD_DATA = {
         "atk": 521,
         "def": 693
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -55448,6 +57285,7 @@ window.PALWORLD_DATA = {
         "atk": 280,
         "def": 212
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -55477,6 +57315,7 @@ window.PALWORLD_DATA = {
         "atk": 280,
         "def": 257
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -55506,6 +57345,7 @@ window.PALWORLD_DATA = {
         "atk": 741,
         "def": 684
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -55535,6 +57375,7 @@ window.PALWORLD_DATA = {
         "atk": 532,
         "def": 499
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -55564,6 +57405,7 @@ window.PALWORLD_DATA = {
         "atk": 685,
         "def": 975
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -55598,6 +57440,7 @@ window.PALWORLD_DATA = {
         "atk": 285,
         "def": 289
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -55627,6 +57470,7 @@ window.PALWORLD_DATA = {
         "atk": 575,
         "def": 423
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -55650,6 +57494,7 @@ window.PALWORLD_DATA = {
         "atk": 618,
         "def": 403
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -55679,6 +57524,7 @@ window.PALWORLD_DATA = {
         "atk": 442,
         "def": 367
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -55708,6 +57554,7 @@ window.PALWORLD_DATA = {
         "atk": 400,
         "def": 321
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -55742,6 +57589,7 @@ window.PALWORLD_DATA = {
         "atk": 352,
         "def": 263
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -55771,6 +57619,7 @@ window.PALWORLD_DATA = {
         "atk": 563,
         "def": 486
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -55800,6 +57649,7 @@ window.PALWORLD_DATA = {
         "atk": 568,
         "def": 338
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -55829,6 +57679,7 @@ window.PALWORLD_DATA = {
         "atk": 503,
         "def": 455
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -55858,6 +57709,7 @@ window.PALWORLD_DATA = {
         "atk": 165,
         "def": 190
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -55887,6 +57739,7 @@ window.PALWORLD_DATA = {
         "atk": 473,
         "def": 492
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -55916,6 +57769,7 @@ window.PALWORLD_DATA = {
         "atk": 340,
         "def": 372
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -55939,6 +57793,7 @@ window.PALWORLD_DATA = {
         "atk": 490,
         "def": 515
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -55968,6 +57823,7 @@ window.PALWORLD_DATA = {
         "atk": 491,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -55997,6 +57853,7 @@ window.PALWORLD_DATA = {
         "atk": 712,
         "def": 450
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -56026,6 +57883,7 @@ window.PALWORLD_DATA = {
         "atk": 177,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -56060,6 +57918,7 @@ window.PALWORLD_DATA = {
         "atk": 635,
         "def": 421
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -56089,6 +57948,7 @@ window.PALWORLD_DATA = {
         "atk": 377,
         "def": 311
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -56118,6 +57978,7 @@ window.PALWORLD_DATA = {
         "atk": 519,
         "def": 351
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -56147,6 +58008,7 @@ window.PALWORLD_DATA = {
         "atk": 395,
         "def": 463
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -56186,6 +58048,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -56220,6 +58083,7 @@ window.PALWORLD_DATA = {
         "atk": 362,
         "def": 468
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -56249,6 +58113,7 @@ window.PALWORLD_DATA = {
         "atk": 537,
         "def": 449
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -56283,6 +58148,7 @@ window.PALWORLD_DATA = {
         "atk": 437,
         "def": 391
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -56312,6 +58178,7 @@ window.PALWORLD_DATA = {
         "atk": 487,
         "def": 633
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -56341,6 +58208,7 @@ window.PALWORLD_DATA = {
         "atk": 535,
         "def": 437
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -56370,6 +58238,7 @@ window.PALWORLD_DATA = {
         "atk": 493,
         "def": 403
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -56393,6 +58262,7 @@ window.PALWORLD_DATA = {
         "atk": 517,
         "def": 458
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -56422,6 +58292,7 @@ window.PALWORLD_DATA = {
         "atk": 486,
         "def": 686
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -56451,6 +58322,7 @@ window.PALWORLD_DATA = {
         "atk": 451,
         "def": 537
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -56477,9 +58349,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6913,
-        "atk": 1233,
+        "atk": 1117,
         "def": 1070
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -56524,6 +58397,7 @@ window.PALWORLD_DATA = {
         "atk": 326,
         "def": 341
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -56553,6 +58427,7 @@ window.PALWORLD_DATA = {
         "atk": 378,
         "def": 240
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -56582,6 +58457,7 @@ window.PALWORLD_DATA = {
         "atk": 694,
         "def": 507
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -56621,6 +58497,7 @@ window.PALWORLD_DATA = {
         "atk": 536,
         "def": 374
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -56650,6 +58527,7 @@ window.PALWORLD_DATA = {
         "atk": 358,
         "def": 538
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -56679,6 +58557,7 @@ window.PALWORLD_DATA = {
         "atk": 468,
         "def": 393
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -56713,6 +58592,7 @@ window.PALWORLD_DATA = {
         "atk": 438,
         "def": 255
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -56742,6 +58622,7 @@ window.PALWORLD_DATA = {
         "atk": 343,
         "def": 415
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -56781,6 +58662,7 @@ window.PALWORLD_DATA = {
         "atk": 328,
         "def": 378
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -56810,6 +58692,7 @@ window.PALWORLD_DATA = {
         "atk": 582,
         "def": 356
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -56839,6 +58722,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 384
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -56862,6 +58746,7 @@ window.PALWORLD_DATA = {
         "atk": 519,
         "def": 474
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -56891,6 +58776,7 @@ window.PALWORLD_DATA = {
         "atk": 257,
         "def": 213
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -56920,6 +58806,7 @@ window.PALWORLD_DATA = {
         "atk": 473,
         "def": 502
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -56954,6 +58841,7 @@ window.PALWORLD_DATA = {
         "atk": 341,
         "def": 366
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -56983,6 +58871,7 @@ window.PALWORLD_DATA = {
         "atk": 432,
         "def": 375
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -57012,6 +58901,7 @@ window.PALWORLD_DATA = {
         "atk": 290,
         "def": 313
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -57035,6 +58925,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -57079,6 +58970,7 @@ window.PALWORLD_DATA = {
         "atk": 547,
         "def": 522
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -57113,6 +59005,7 @@ window.PALWORLD_DATA = {
         "atk": 489,
         "def": 345
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -57147,6 +59040,7 @@ window.PALWORLD_DATA = {
         "atk": 322,
         "def": 342
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -57176,6 +59070,7 @@ window.PALWORLD_DATA = {
         "atk": 476,
         "def": 385
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -57205,6 +59100,7 @@ window.PALWORLD_DATA = {
         "atk": 319,
         "def": 282
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -57234,6 +59130,7 @@ window.PALWORLD_DATA = {
         "atk": 654,
         "def": 444
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -57273,6 +59170,7 @@ window.PALWORLD_DATA = {
         "atk": 812,
         "def": 563
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -57312,6 +59210,7 @@ window.PALWORLD_DATA = {
         "atk": 194,
         "def": 175
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -57341,6 +59240,7 @@ window.PALWORLD_DATA = {
         "atk": 457,
         "def": 422
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -57370,6 +59270,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -57404,6 +59305,7 @@ window.PALWORLD_DATA = {
         "atk": 378,
         "def": 667
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -57433,6 +59335,7 @@ window.PALWORLD_DATA = {
         "atk": 371,
         "def": 284
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -57462,6 +59365,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 284
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -57491,6 +59395,7 @@ window.PALWORLD_DATA = {
         "atk": 507,
         "def": 392
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -57530,6 +59435,7 @@ window.PALWORLD_DATA = {
         "atk": 591,
         "def": 708
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -57559,6 +59465,7 @@ window.PALWORLD_DATA = {
         "atk": 386,
         "def": 493
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -57588,6 +59495,7 @@ window.PALWORLD_DATA = {
         "atk": 510,
         "def": 409
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -57617,6 +59525,7 @@ window.PALWORLD_DATA = {
         "atk": 455,
         "def": 538
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -57656,6 +59565,7 @@ window.PALWORLD_DATA = {
         "atk": 560,
         "def": 682
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -57687,9 +59597,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 3289,
-        "atk": 806,
+        "atk": 719,
         "def": 463
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -57719,6 +59630,7 @@ window.PALWORLD_DATA = {
         "atk": 652,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -57753,6 +59665,7 @@ window.PALWORLD_DATA = {
         "atk": 218,
         "def": 235
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -57782,6 +59695,7 @@ window.PALWORLD_DATA = {
         "atk": 623,
         "def": 552
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -57811,6 +59725,7 @@ window.PALWORLD_DATA = {
         "atk": 317,
         "def": 313
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -57845,6 +59760,7 @@ window.PALWORLD_DATA = {
         "atk": 489,
         "def": 354
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -57874,6 +59790,7 @@ window.PALWORLD_DATA = {
         "atk": 319,
         "def": 341
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -57913,6 +59830,7 @@ window.PALWORLD_DATA = {
         "atk": 479,
         "def": 535
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -57942,6 +59860,7 @@ window.PALWORLD_DATA = {
         "atk": 460,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -57971,6 +59890,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 388
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -58005,6 +59925,7 @@ window.PALWORLD_DATA = {
         "atk": 636,
         "def": 530
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -58039,6 +59960,7 @@ window.PALWORLD_DATA = {
         "atk": 213,
         "def": 147
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -58073,6 +59995,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 195
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -58102,6 +60025,7 @@ window.PALWORLD_DATA = {
         "atk": 224,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -58128,9 +60052,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7415,
-        "atk": 1371,
+        "atk": 1243,
         "def": 986
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -58170,6 +60095,7 @@ window.PALWORLD_DATA = {
         "atk": 206,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -58199,6 +60125,7 @@ window.PALWORLD_DATA = {
         "atk": 670,
         "def": 860
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -58225,9 +60152,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6935,
-        "atk": 1399,
+        "atk": 1268,
         "def": 778
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -58267,6 +60195,7 @@ window.PALWORLD_DATA = {
         "atk": 477,
         "def": 287
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -58301,6 +60230,7 @@ window.PALWORLD_DATA = {
         "atk": 483,
         "def": 348
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -58330,6 +60260,7 @@ window.PALWORLD_DATA = {
         "atk": 564,
         "def": 475
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -58359,6 +60290,7 @@ window.PALWORLD_DATA = {
         "atk": 248,
         "def": 211
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -58388,6 +60320,7 @@ window.PALWORLD_DATA = {
         "atk": 282,
         "def": 264
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -58411,6 +60344,7 @@ window.PALWORLD_DATA = {
         "atk": 302,
         "def": 273
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -58440,6 +60374,7 @@ window.PALWORLD_DATA = {
         "atk": 305,
         "def": 294
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -58469,6 +60404,7 @@ window.PALWORLD_DATA = {
         "atk": 266,
         "def": 370
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -58498,6 +60434,7 @@ window.PALWORLD_DATA = {
         "atk": 276,
         "def": 233
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -58527,6 +60464,7 @@ window.PALWORLD_DATA = {
         "atk": 480,
         "def": 549
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -58561,6 +60499,7 @@ window.PALWORLD_DATA = {
         "atk": 376,
         "def": 420
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -58590,6 +60529,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 281
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -58619,6 +60559,7 @@ window.PALWORLD_DATA = {
         "atk": 451,
         "def": 341
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -58653,6 +60594,7 @@ window.PALWORLD_DATA = {
         "atk": 458,
         "def": 281
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -58687,6 +60629,7 @@ window.PALWORLD_DATA = {
         "atk": 561,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -58716,6 +60659,7 @@ window.PALWORLD_DATA = {
         "atk": 388,
         "def": 385
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -58745,6 +60689,7 @@ window.PALWORLD_DATA = {
         "atk": 538,
         "def": 529
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -58774,6 +60719,7 @@ window.PALWORLD_DATA = {
         "atk": 536,
         "def": 715
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -58818,6 +60764,7 @@ window.PALWORLD_DATA = {
         "atk": 604,
         "def": 453
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -58852,6 +60799,7 @@ window.PALWORLD_DATA = {
         "atk": 554,
         "def": 427
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -58886,6 +60834,7 @@ window.PALWORLD_DATA = {
         "atk": 324,
         "def": 289
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -58915,6 +60864,7 @@ window.PALWORLD_DATA = {
         "atk": 423,
         "def": 272
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -58944,6 +60894,7 @@ window.PALWORLD_DATA = {
         "atk": 637,
         "def": 859
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -58978,6 +60929,7 @@ window.PALWORLD_DATA = {
         "atk": 393,
         "def": 349
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -59007,6 +60959,7 @@ window.PALWORLD_DATA = {
         "atk": 309,
         "def": 456
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -59036,6 +60989,7 @@ window.PALWORLD_DATA = {
         "atk": 707,
         "def": 768
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -59065,6 +61019,7 @@ window.PALWORLD_DATA = {
         "atk": 428,
         "def": 316
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -59109,6 +61064,7 @@ window.PALWORLD_DATA = {
         "atk": 491,
         "def": 311
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -59143,6 +61099,7 @@ window.PALWORLD_DATA = {
         "atk": 408,
         "def": 377
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -59177,6 +61134,7 @@ window.PALWORLD_DATA = {
         "atk": 423,
         "def": 361
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -59206,6 +61164,7 @@ window.PALWORLD_DATA = {
         "atk": 412,
         "def": 322
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -59229,6 +61188,7 @@ window.PALWORLD_DATA = {
         "atk": 446,
         "def": 315
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -59258,6 +61218,7 @@ window.PALWORLD_DATA = {
         "atk": 396,
         "def": 368
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -59287,6 +61248,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -59316,6 +61278,7 @@ window.PALWORLD_DATA = {
         "atk": 362,
         "def": 379
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -59345,6 +61308,7 @@ window.PALWORLD_DATA = {
         "atk": 355,
         "def": 331
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -59368,6 +61332,7 @@ window.PALWORLD_DATA = {
         "atk": 322,
         "def": 278
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -59397,6 +61362,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 268
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -59426,6 +61392,7 @@ window.PALWORLD_DATA = {
         "atk": 473,
         "def": 390
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -59455,6 +61422,7 @@ window.PALWORLD_DATA = {
         "atk": 392,
         "def": 455
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -59478,6 +61446,7 @@ window.PALWORLD_DATA = {
         "atk": 696,
         "def": 525
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -59507,6 +61476,7 @@ window.PALWORLD_DATA = {
         "atk": 487,
         "def": 392
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -59536,6 +61506,7 @@ window.PALWORLD_DATA = {
         "atk": 212,
         "def": 246
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -59565,6 +61536,7 @@ window.PALWORLD_DATA = {
         "atk": 824,
         "def": 571
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -59594,6 +61566,7 @@ window.PALWORLD_DATA = {
         "atk": 363,
         "def": 379
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -59623,6 +61596,7 @@ window.PALWORLD_DATA = {
         "atk": 502,
         "def": 555
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -59649,9 +61623,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4731,
-        "atk": 910,
+        "atk": 812,
         "def": 602
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -59686,6 +61661,7 @@ window.PALWORLD_DATA = {
         "atk": 536,
         "def": 522
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -59715,6 +61691,7 @@ window.PALWORLD_DATA = {
         "atk": 247,
         "def": 233
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -59744,6 +61721,7 @@ window.PALWORLD_DATA = {
         "atk": 367,
         "def": 273
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -59767,6 +61745,7 @@ window.PALWORLD_DATA = {
         "atk": 465,
         "def": 550
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -59796,6 +61775,7 @@ window.PALWORLD_DATA = {
         "atk": 735,
         "def": 632
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -59830,6 +61810,7 @@ window.PALWORLD_DATA = {
         "atk": 615,
         "def": 537
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -59859,6 +61840,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -59888,6 +61870,7 @@ window.PALWORLD_DATA = {
         "atk": 637,
         "def": 850
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -59917,6 +61900,7 @@ window.PALWORLD_DATA = {
         "atk": 663,
         "def": 840
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -59946,6 +61930,7 @@ window.PALWORLD_DATA = {
         "atk": 481,
         "def": 445
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -59985,6 +61970,7 @@ window.PALWORLD_DATA = {
         "atk": 772,
         "def": 689
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -60019,6 +62005,7 @@ window.PALWORLD_DATA = {
         "atk": 422,
         "def": 458
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -60053,6 +62040,7 @@ window.PALWORLD_DATA = {
         "atk": 1015,
         "def": 1531
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -60082,6 +62070,7 @@ window.PALWORLD_DATA = {
         "atk": 640,
         "def": 615
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -60121,6 +62110,7 @@ window.PALWORLD_DATA = {
         "atk": 775,
         "def": 505
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -60147,9 +62137,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6715,
-        "atk": 1153,
+        "atk": 1045,
         "def": 981
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -60189,6 +62180,7 @@ window.PALWORLD_DATA = {
         "atk": 499,
         "def": 387
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -60215,9 +62207,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6143,
-        "atk": 925,
+        "atk": 825,
         "def": 650
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_2_PAL",
@@ -60252,6 +62245,7 @@ window.PALWORLD_DATA = {
         "atk": 1279,
         "def": 1080
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -60296,6 +62290,7 @@ window.PALWORLD_DATA = {
         "atk": 695,
         "def": 894
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -60325,6 +62320,7 @@ window.PALWORLD_DATA = {
         "atk": 83,
         "def": 69
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -60354,6 +62350,7 @@ window.PALWORLD_DATA = {
         "atk": 718,
         "def": 592
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -60398,6 +62395,7 @@ window.PALWORLD_DATA = {
         "atk": 589,
         "def": 799
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -60432,6 +62430,7 @@ window.PALWORLD_DATA = {
         "atk": 387,
         "def": 510
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -60466,6 +62465,7 @@ window.PALWORLD_DATA = {
         "atk": 57,
         "def": 56
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -60495,6 +62495,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -60524,6 +62525,7 @@ window.PALWORLD_DATA = {
         "atk": 263,
         "def": 221
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -60553,6 +62555,7 @@ window.PALWORLD_DATA = {
         "atk": 591,
         "def": 509
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -60582,6 +62585,7 @@ window.PALWORLD_DATA = {
         "atk": 379,
         "def": 342
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -60611,6 +62615,7 @@ window.PALWORLD_DATA = {
         "atk": 435,
         "def": 438
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -60645,6 +62650,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -60679,6 +62685,7 @@ window.PALWORLD_DATA = {
         "atk": 574,
         "def": 408
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -60708,6 +62715,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -60734,9 +62742,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7384,
-        "atk": 1359,
+        "atk": 1232,
         "def": 1090
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -60776,6 +62785,7 @@ window.PALWORLD_DATA = {
         "atk": 195,
         "def": 202
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -60805,6 +62815,7 @@ window.PALWORLD_DATA = {
         "atk": 392,
         "def": 547
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -60828,6 +62839,7 @@ window.PALWORLD_DATA = {
         "atk": 437,
         "def": 406
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -60851,6 +62863,7 @@ window.PALWORLD_DATA = {
         "atk": 576,
         "def": 606
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -60877,9 +62890,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1593,
-        "atk": 291,
+        "atk": 259,
         "def": 219
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -60914,6 +62928,7 @@ window.PALWORLD_DATA = {
         "atk": 221,
         "def": 194
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -60948,6 +62963,7 @@ window.PALWORLD_DATA = {
         "atk": 405,
         "def": 324
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -60977,6 +62993,7 @@ window.PALWORLD_DATA = {
         "atk": 648,
         "def": 511
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -61011,6 +63028,7 @@ window.PALWORLD_DATA = {
         "atk": 556,
         "def": 533
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -61034,6 +63052,7 @@ window.PALWORLD_DATA = {
         "atk": 460,
         "def": 438
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -61063,6 +63082,7 @@ window.PALWORLD_DATA = {
         "atk": 666,
         "def": 555
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_1_PAL",
@@ -61092,6 +63112,7 @@ window.PALWORLD_DATA = {
         "atk": 922,
         "def": 476
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -61126,6 +63147,7 @@ window.PALWORLD_DATA = {
         "atk": 328,
         "def": 233
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Down_1",
@@ -61155,6 +63177,7 @@ window.PALWORLD_DATA = {
         "atk": 506,
         "def": 343
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -61184,6 +63207,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -61228,6 +63252,7 @@ window.PALWORLD_DATA = {
         "atk": 646,
         "def": 578
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_3",
@@ -61257,6 +63282,7 @@ window.PALWORLD_DATA = {
         "atk": 337,
         "def": 302
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -61286,6 +63312,7 @@ window.PALWORLD_DATA = {
         "atk": 580,
         "def": 426
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -61309,6 +63336,7 @@ window.PALWORLD_DATA = {
         "atk": 358,
         "def": 483
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -61353,6 +63381,7 @@ window.PALWORLD_DATA = {
         "atk": 353,
         "def": 338
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -61382,6 +63411,7 @@ window.PALWORLD_DATA = {
         "atk": 640,
         "def": 933
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -61421,6 +63451,7 @@ window.PALWORLD_DATA = {
         "atk": 461,
         "def": 359
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -61450,6 +63481,7 @@ window.PALWORLD_DATA = {
         "atk": 544,
         "def": 521
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -61484,6 +63516,7 @@ window.PALWORLD_DATA = {
         "atk": 232,
         "def": 198
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -61513,6 +63546,7 @@ window.PALWORLD_DATA = {
         "atk": 583,
         "def": 697
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -61542,6 +63576,7 @@ window.PALWORLD_DATA = {
         "atk": 456,
         "def": 407
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -61581,6 +63616,7 @@ window.PALWORLD_DATA = {
         "atk": 896,
         "def": 718
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -61610,6 +63646,7 @@ window.PALWORLD_DATA = {
         "atk": 532,
         "def": 532
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -61639,6 +63676,7 @@ window.PALWORLD_DATA = {
         "atk": 440,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -61668,6 +63706,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_2",
@@ -61697,6 +63736,7 @@ window.PALWORLD_DATA = {
         "atk": 423,
         "def": 363
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -61726,6 +63766,7 @@ window.PALWORLD_DATA = {
         "atk": 428,
         "def": 314
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -61755,6 +63796,7 @@ window.PALWORLD_DATA = {
         "atk": 338,
         "def": 331
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -61784,6 +63826,7 @@ window.PALWORLD_DATA = {
         "atk": 370,
         "def": 309
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up2",
@@ -61813,6 +63856,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 299
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -61842,6 +63886,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 509
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -61881,6 +63926,7 @@ window.PALWORLD_DATA = {
         "atk": 333,
         "def": 321
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -61910,6 +63956,7 @@ window.PALWORLD_DATA = {
         "atk": 357,
         "def": 329
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -61939,6 +63986,7 @@ window.PALWORLD_DATA = {
         "atk": 331,
         "def": 304
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -61978,6 +64026,7 @@ window.PALWORLD_DATA = {
         "atk": 337,
         "def": 318
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -62007,6 +64056,7 @@ window.PALWORLD_DATA = {
         "atk": 343,
         "def": 262
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -62036,6 +64086,7 @@ window.PALWORLD_DATA = {
         "atk": 516,
         "def": 381
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -62070,6 +64121,7 @@ window.PALWORLD_DATA = {
         "atk": 436,
         "def": 412
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -62104,6 +64156,7 @@ window.PALWORLD_DATA = {
         "atk": 522,
         "def": 478
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -62138,6 +64191,7 @@ window.PALWORLD_DATA = {
         "atk": 527,
         "def": 479
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -62161,6 +64215,7 @@ window.PALWORLD_DATA = {
         "atk": 404,
         "def": 388
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -62192,9 +64247,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 595,
-        "atk": 16,
+        "atk": 15,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -62239,6 +64295,7 @@ window.PALWORLD_DATA = {
         "atk": 186,
         "def": 364
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -62283,6 +64340,7 @@ window.PALWORLD_DATA = {
         "atk": 582,
         "def": 579
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -62309,9 +64367,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6364,
-        "atk": 1371,
+        "atk": 1243,
         "def": 888
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -62351,6 +64410,7 @@ window.PALWORLD_DATA = {
         "atk": 587,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -62380,6 +64440,7 @@ window.PALWORLD_DATA = {
         "atk": 437,
         "def": 384
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -62409,6 +64470,7 @@ window.PALWORLD_DATA = {
         "atk": 705,
         "def": 572
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -62438,6 +64500,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -62472,6 +64535,7 @@ window.PALWORLD_DATA = {
         "atk": 372,
         "def": 318
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -62498,9 +64562,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6336,
-        "atk": 1389,
+        "atk": 1259,
         "def": 921
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -62540,6 +64605,7 @@ window.PALWORLD_DATA = {
         "atk": 488,
         "def": 486
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -62569,6 +64635,7 @@ window.PALWORLD_DATA = {
         "atk": 747,
         "def": 624
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -62598,6 +64665,7 @@ window.PALWORLD_DATA = {
         "atk": 423,
         "def": 454
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -62632,6 +64700,7 @@ window.PALWORLD_DATA = {
         "atk": 939,
         "def": 655
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -62661,6 +64730,7 @@ window.PALWORLD_DATA = {
         "atk": 289,
         "def": 297
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -62684,6 +64754,7 @@ window.PALWORLD_DATA = {
         "atk": 237,
         "def": 255
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -62713,6 +64784,7 @@ window.PALWORLD_DATA = {
         "atk": 481,
         "def": 491
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -62752,6 +64824,7 @@ window.PALWORLD_DATA = {
         "atk": 356,
         "def": 388
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -62786,6 +64859,7 @@ window.PALWORLD_DATA = {
         "atk": 747,
         "def": 710
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -62815,6 +64889,7 @@ window.PALWORLD_DATA = {
         "atk": 474,
         "def": 388
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -62844,6 +64919,7 @@ window.PALWORLD_DATA = {
         "atk": 384,
         "def": 351
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -62867,6 +64943,7 @@ window.PALWORLD_DATA = {
         "atk": 410,
         "def": 513
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -62896,6 +64973,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -62925,6 +65003,7 @@ window.PALWORLD_DATA = {
         "atk": 397,
         "def": 621
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2",
@@ -62954,6 +65033,7 @@ window.PALWORLD_DATA = {
         "atk": 712,
         "def": 663
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -62988,6 +65068,7 @@ window.PALWORLD_DATA = {
         "atk": 177,
         "def": 159
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -63017,6 +65098,7 @@ window.PALWORLD_DATA = {
         "atk": 575,
         "def": 546
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -63046,6 +65128,7 @@ window.PALWORLD_DATA = {
         "atk": 440,
         "def": 330
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -63075,6 +65158,7 @@ window.PALWORLD_DATA = {
         "atk": 487,
         "def": 690
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -63109,6 +65193,7 @@ window.PALWORLD_DATA = {
         "atk": 644,
         "def": 556
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -63143,6 +65228,7 @@ window.PALWORLD_DATA = {
         "atk": 450,
         "def": 420
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -63172,6 +65258,7 @@ window.PALWORLD_DATA = {
         "atk": 1621,
         "def": 1234
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -63211,6 +65298,7 @@ window.PALWORLD_DATA = {
         "atk": 396,
         "def": 283
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -63234,6 +65322,7 @@ window.PALWORLD_DATA = {
         "atk": 603,
         "def": 512
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -63260,9 +65349,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6928,
-        "atk": 1266,
+        "atk": 1147,
         "def": 844
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -63302,6 +65392,7 @@ window.PALWORLD_DATA = {
         "atk": 481,
         "def": 622
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -63336,6 +65427,7 @@ window.PALWORLD_DATA = {
         "atk": 520,
         "def": 399
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -63365,6 +65457,7 @@ window.PALWORLD_DATA = {
         "atk": 826,
         "def": 473
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -63399,6 +65492,7 @@ window.PALWORLD_DATA = {
         "atk": 411,
         "def": 320
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -63428,6 +65522,7 @@ window.PALWORLD_DATA = {
         "atk": 9,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -63457,6 +65552,7 @@ window.PALWORLD_DATA = {
         "atk": 457,
         "def": 358
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -63486,6 +65582,7 @@ window.PALWORLD_DATA = {
         "atk": 712,
         "def": 660
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NonKilling",
@@ -63522,9 +65619,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6715,
-        "atk": 1345,
+        "atk": 1219,
         "def": 844
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -63564,6 +65662,7 @@ window.PALWORLD_DATA = {
         "atk": 380,
         "def": 382
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -63593,6 +65692,7 @@ window.PALWORLD_DATA = {
         "atk": 622,
         "def": 514
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -63627,6 +65727,7 @@ window.PALWORLD_DATA = {
         "atk": 659,
         "def": 395
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -63661,6 +65762,7 @@ window.PALWORLD_DATA = {
         "atk": 178,
         "def": 127
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -63690,6 +65792,7 @@ window.PALWORLD_DATA = {
         "atk": 299,
         "def": 182
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -63719,6 +65822,7 @@ window.PALWORLD_DATA = {
         "atk": 414,
         "def": 445
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -63748,6 +65852,7 @@ window.PALWORLD_DATA = {
         "atk": 538,
         "def": 547
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -63771,6 +65876,7 @@ window.PALWORLD_DATA = {
         "atk": 781,
         "def": 452
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -63800,6 +65906,7 @@ window.PALWORLD_DATA = {
         "atk": 510,
         "def": 466
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -63829,6 +65936,7 @@ window.PALWORLD_DATA = {
         "atk": 540,
         "def": 579
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -63858,6 +65966,7 @@ window.PALWORLD_DATA = {
         "atk": 566,
         "def": 509
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Ice_1_PAL",
@@ -63887,6 +65996,7 @@ window.PALWORLD_DATA = {
         "atk": 506,
         "def": 491
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerLogging_up1",
@@ -63916,6 +66026,7 @@ window.PALWORLD_DATA = {
         "atk": 360,
         "def": 326
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -63945,6 +66056,7 @@ window.PALWORLD_DATA = {
         "atk": 580,
         "def": 488
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -63974,6 +66086,7 @@ window.PALWORLD_DATA = {
         "atk": 418,
         "def": 610
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -64008,6 +66121,7 @@ window.PALWORLD_DATA = {
         "atk": 445,
         "def": 392
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -64037,6 +66151,7 @@ window.PALWORLD_DATA = {
         "atk": 523,
         "def": 503
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -64060,6 +66175,7 @@ window.PALWORLD_DATA = {
         "atk": 370,
         "def": 391
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -64099,6 +66215,7 @@ window.PALWORLD_DATA = {
         "atk": 516,
         "def": 346
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -64128,6 +66245,7 @@ window.PALWORLD_DATA = {
         "atk": 518,
         "def": 398
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -64157,6 +66275,7 @@ window.PALWORLD_DATA = {
         "atk": 783,
         "def": 754
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -64196,6 +66315,7 @@ window.PALWORLD_DATA = {
         "atk": 580,
         "def": 508
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -64225,6 +66345,7 @@ window.PALWORLD_DATA = {
         "atk": 412,
         "def": 299
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -64254,6 +66375,7 @@ window.PALWORLD_DATA = {
         "atk": 524,
         "def": 433
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -64288,6 +66410,7 @@ window.PALWORLD_DATA = {
         "atk": 352,
         "def": 308
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -64317,6 +66440,7 @@ window.PALWORLD_DATA = {
         "atk": 694,
         "def": 471
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -64361,6 +66485,7 @@ window.PALWORLD_DATA = {
         "atk": 407,
         "def": 320
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -64395,6 +66520,7 @@ window.PALWORLD_DATA = {
         "atk": 222,
         "def": 242
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -64424,6 +66550,7 @@ window.PALWORLD_DATA = {
         "atk": 470,
         "def": 328
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -64458,6 +66585,7 @@ window.PALWORLD_DATA = {
         "atk": 283,
         "def": 298
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -64487,6 +66615,7 @@ window.PALWORLD_DATA = {
         "atk": 337,
         "def": 309
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -64510,6 +66639,7 @@ window.PALWORLD_DATA = {
         "atk": 650,
         "def": 407
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -64549,6 +66679,7 @@ window.PALWORLD_DATA = {
         "atk": 691,
         "def": 720
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -64583,6 +66714,7 @@ window.PALWORLD_DATA = {
         "atk": 274,
         "def": 187
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -64627,6 +66759,7 @@ window.PALWORLD_DATA = {
         "atk": 614,
         "def": 453
       },
+      "souls": 0,
       "passives": [
         {
           "id": "NightOwl",
@@ -64656,6 +66789,7 @@ window.PALWORLD_DATA = {
         "atk": 419,
         "def": 432
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -64685,6 +66819,7 @@ window.PALWORLD_DATA = {
         "atk": 585,
         "def": 564
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -64714,6 +66849,7 @@ window.PALWORLD_DATA = {
         "atk": 570,
         "def": 465
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_1",
@@ -64743,6 +66879,7 @@ window.PALWORLD_DATA = {
         "atk": 521,
         "def": 382
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -64777,6 +66914,7 @@ window.PALWORLD_DATA = {
         "atk": 480,
         "def": 479
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -64811,6 +66949,7 @@ window.PALWORLD_DATA = {
         "atk": 410,
         "def": 427
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -64840,6 +66979,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -64869,6 +67009,7 @@ window.PALWORLD_DATA = {
         "atk": 440,
         "def": 295
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -64898,6 +67039,7 @@ window.PALWORLD_DATA = {
         "atk": 324,
         "def": 559
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -64937,6 +67079,7 @@ window.PALWORLD_DATA = {
         "atk": 234,
         "def": 252
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -64966,6 +67109,7 @@ window.PALWORLD_DATA = {
         "atk": 672,
         "def": 592
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -64995,6 +67139,7 @@ window.PALWORLD_DATA = {
         "atk": 470,
         "def": 333
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -65024,6 +67169,7 @@ window.PALWORLD_DATA = {
         "atk": 429,
         "def": 370
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -65053,6 +67199,7 @@ window.PALWORLD_DATA = {
         "atk": 690,
         "def": 628
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -65087,6 +67234,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -65121,6 +67269,7 @@ window.PALWORLD_DATA = {
         "atk": 599,
         "def": 490
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -65150,6 +67299,7 @@ window.PALWORLD_DATA = {
         "atk": 582,
         "def": 590
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -65179,6 +67329,7 @@ window.PALWORLD_DATA = {
         "atk": 411,
         "def": 389
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -65208,6 +67359,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 276
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -65242,6 +67394,7 @@ window.PALWORLD_DATA = {
         "atk": 507,
         "def": 262
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up2",
@@ -65272,6 +67425,7 @@ window.PALWORLD_DATA = {
         "defense": 88
       },
       "power_stats": null,
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -65301,6 +67455,7 @@ window.PALWORLD_DATA = {
         "atk": 286,
         "def": 275
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -65330,6 +67485,7 @@ window.PALWORLD_DATA = {
         "atk": 614,
         "def": 756
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -65361,9 +67517,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6701,
-        "atk": 1470,
+        "atk": 1345,
         "def": 876
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -65400,9 +67557,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4720,
-        "atk": 858,
+        "atk": 765,
         "def": 599
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -65437,6 +67595,7 @@ window.PALWORLD_DATA = {
         "atk": 630,
         "def": 319
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -65460,6 +67619,7 @@ window.PALWORLD_DATA = {
         "atk": 236,
         "def": 169
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -65489,6 +67649,7 @@ window.PALWORLD_DATA = {
         "atk": 254,
         "def": 235
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -65509,9 +67670,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6197,
-        "atk": 846,
+        "atk": 755,
         "def": 471
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_2_PAL",
@@ -65551,6 +67713,7 @@ window.PALWORLD_DATA = {
         "atk": 584,
         "def": 432
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -65580,6 +67743,7 @@ window.PALWORLD_DATA = {
         "atk": 698,
         "def": 408
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -65609,6 +67773,7 @@ window.PALWORLD_DATA = {
         "atk": 657,
         "def": 621
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -65640,9 +67805,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5400,
-        "atk": 907,
+        "atk": 809,
         "def": 571
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -65677,6 +67843,7 @@ window.PALWORLD_DATA = {
         "atk": 586,
         "def": 412
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -65711,6 +67878,7 @@ window.PALWORLD_DATA = {
         "atk": 544,
         "def": 362
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -65740,6 +67908,7 @@ window.PALWORLD_DATA = {
         "atk": 30,
         "def": 29
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -65769,6 +67938,7 @@ window.PALWORLD_DATA = {
         "atk": 522,
         "def": 383
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -65803,6 +67973,7 @@ window.PALWORLD_DATA = {
         "atk": 683,
         "def": 767
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_1_PAL",
@@ -65832,6 +68003,7 @@ window.PALWORLD_DATA = {
         "atk": 320,
         "def": 318
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -65861,6 +68033,7 @@ window.PALWORLD_DATA = {
         "atk": 782,
         "def": 1016
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -65895,6 +68068,7 @@ window.PALWORLD_DATA = {
         "atk": 789,
         "def": 921
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -65929,6 +68103,7 @@ window.PALWORLD_DATA = {
         "atk": 572,
         "def": 524
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nocturnal",
@@ -65958,6 +68133,7 @@ window.PALWORLD_DATA = {
         "atk": 1201,
         "def": 982
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -65992,6 +68168,7 @@ window.PALWORLD_DATA = {
         "atk": 478,
         "def": 322
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -66026,6 +68203,7 @@ window.PALWORLD_DATA = {
         "atk": 177,
         "def": 159
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -66055,6 +68233,7 @@ window.PALWORLD_DATA = {
         "atk": 594,
         "def": 563
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -66084,6 +68263,7 @@ window.PALWORLD_DATA = {
         "atk": 388,
         "def": 316
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_1",
@@ -66113,6 +68293,7 @@ window.PALWORLD_DATA = {
         "atk": 390,
         "def": 409
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -66142,6 +68323,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 294
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -66171,6 +68353,7 @@ window.PALWORLD_DATA = {
         "atk": 228,
         "def": 210
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -66200,6 +68383,7 @@ window.PALWORLD_DATA = {
         "atk": 272,
         "def": 184
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -66223,6 +68407,7 @@ window.PALWORLD_DATA = {
         "atk": 854,
         "def": 741
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -66252,6 +68437,7 @@ window.PALWORLD_DATA = {
         "atk": 268,
         "def": 327
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -66281,6 +68467,7 @@ window.PALWORLD_DATA = {
         "atk": 235,
         "def": 252
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -66304,6 +68491,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -66333,6 +68521,7 @@ window.PALWORLD_DATA = {
         "atk": 252,
         "def": 212
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -66362,6 +68551,7 @@ window.PALWORLD_DATA = {
         "atk": 614,
         "def": 449
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -66391,6 +68581,7 @@ window.PALWORLD_DATA = {
         "atk": 34,
         "def": 31
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_1_PAL",
@@ -66420,6 +68611,7 @@ window.PALWORLD_DATA = {
         "atk": 25,
         "def": 27
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_CorporateSlave",
@@ -66449,6 +68641,7 @@ window.PALWORLD_DATA = {
         "atk": 33,
         "def": 24
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -66478,6 +68671,7 @@ window.PALWORLD_DATA = {
         "atk": 24,
         "def": 33
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -66507,6 +68701,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -66543,9 +68738,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6725,
-        "atk": 1153,
+        "atk": 1028,
         "def": 856
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_2_PAL",
@@ -66585,6 +68781,7 @@ window.PALWORLD_DATA = {
         "atk": 385,
         "def": 315
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down1",
@@ -66614,6 +68811,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -66648,6 +68846,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -66687,6 +68886,7 @@ window.PALWORLD_DATA = {
         "atk": 597,
         "def": 400
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -66716,6 +68916,7 @@ window.PALWORLD_DATA = {
         "atk": 540,
         "def": 450
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -66745,6 +68946,7 @@ window.PALWORLD_DATA = {
         "atk": 540,
         "def": 414
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -66774,6 +68976,7 @@ window.PALWORLD_DATA = {
         "atk": 631,
         "def": 519
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -66797,6 +69000,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 258
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -66826,6 +69030,7 @@ window.PALWORLD_DATA = {
         "atk": 285,
         "def": 299
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -66855,6 +69060,7 @@ window.PALWORLD_DATA = {
         "atk": 278,
         "def": 224
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_sadist",
@@ -66884,6 +69090,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 318
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -66913,6 +69120,7 @@ window.PALWORLD_DATA = {
         "atk": 335,
         "def": 378
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -66947,6 +69155,7 @@ window.PALWORLD_DATA = {
         "atk": 388,
         "def": 251
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -66976,6 +69185,7 @@ window.PALWORLD_DATA = {
         "atk": 349,
         "def": 232
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -67005,6 +69215,7 @@ window.PALWORLD_DATA = {
         "atk": 676,
         "def": 549
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -67034,6 +69245,7 @@ window.PALWORLD_DATA = {
         "atk": 327,
         "def": 196
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -67063,6 +69275,7 @@ window.PALWORLD_DATA = {
         "atk": 241,
         "def": 247
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -67092,6 +69305,7 @@ window.PALWORLD_DATA = {
         "atk": 78,
         "def": 79
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -67136,6 +69350,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 278
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -67165,6 +69380,7 @@ window.PALWORLD_DATA = {
         "atk": 359,
         "def": 466
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -67199,6 +69415,7 @@ window.PALWORLD_DATA = {
         "atk": 368,
         "def": 405
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_2",
@@ -67228,6 +69445,7 @@ window.PALWORLD_DATA = {
         "atk": 634,
         "def": 594
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -67257,6 +69475,7 @@ window.PALWORLD_DATA = {
         "atk": 580,
         "def": 567
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -67286,6 +69505,7 @@ window.PALWORLD_DATA = {
         "atk": 279,
         "def": 293
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -67315,6 +69535,7 @@ window.PALWORLD_DATA = {
         "atk": 958,
         "def": 809
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -67349,6 +69570,7 @@ window.PALWORLD_DATA = {
         "atk": 755,
         "def": 403
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Alien",
@@ -67378,6 +69600,7 @@ window.PALWORLD_DATA = {
         "atk": 718,
         "def": 565
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -67417,6 +69640,7 @@ window.PALWORLD_DATA = {
         "atk": 445,
         "def": 372
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -67446,6 +69670,7 @@ window.PALWORLD_DATA = {
         "atk": 671,
         "def": 609
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -67475,6 +69700,7 @@ window.PALWORLD_DATA = {
         "atk": 323,
         "def": 328
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -67519,6 +69745,7 @@ window.PALWORLD_DATA = {
         "atk": 244,
         "def": 176
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Aqua_1_PAL",
@@ -67545,9 +69772,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7921,
-        "atk": 1596,
+        "atk": 1447,
         "def": 1110
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -67587,6 +69815,7 @@ window.PALWORLD_DATA = {
         "atk": 329,
         "def": 309
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -67610,6 +69839,7 @@ window.PALWORLD_DATA = {
         "atk": 1052,
         "def": 756
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -67633,6 +69863,7 @@ window.PALWORLD_DATA = {
         "atk": 181,
         "def": 156
       },
+      "souls": 0,
       "passives": [],
       "owner": "Martial"
     },
@@ -67656,6 +69887,7 @@ window.PALWORLD_DATA = {
         "atk": 349,
         "def": 292
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -67685,6 +69917,7 @@ window.PALWORLD_DATA = {
         "atk": 588,
         "def": 798
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -67714,6 +69947,7 @@ window.PALWORLD_DATA = {
         "atk": 426,
         "def": 536
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -67743,6 +69977,7 @@ window.PALWORLD_DATA = {
         "atk": 581,
         "def": 467
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -67772,6 +70007,7 @@ window.PALWORLD_DATA = {
         "atk": 815,
         "def": 437
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up3",
@@ -67806,6 +70042,7 @@ window.PALWORLD_DATA = {
         "atk": 448,
         "def": 308
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -67835,6 +70072,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down2",
@@ -67864,6 +70102,7 @@ window.PALWORLD_DATA = {
         "atk": 177,
         "def": 167
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -67898,6 +70137,7 @@ window.PALWORLD_DATA = {
         "atk": 773,
         "def": 597
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -67927,6 +70167,7 @@ window.PALWORLD_DATA = {
         "atk": 799,
         "def": 822
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -67961,6 +70202,7 @@ window.PALWORLD_DATA = {
         "atk": 42,
         "def": 53
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -67990,6 +70232,7 @@ window.PALWORLD_DATA = {
         "atk": 620,
         "def": 650
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -68024,6 +70267,7 @@ window.PALWORLD_DATA = {
         "atk": 425,
         "def": 306
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -68058,6 +70302,7 @@ window.PALWORLD_DATA = {
         "atk": 576,
         "def": 512
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -68094,9 +70339,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7882,
-        "atk": 1470,
+        "atk": 1332,
         "def": 938
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -68133,9 +70379,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6322,
-        "atk": 1348,
+        "atk": 1222,
         "def": 824
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -68175,6 +70422,7 @@ window.PALWORLD_DATA = {
         "atk": 8,
         "def": 6
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dark_1_PAL",
@@ -68209,6 +70457,7 @@ window.PALWORLD_DATA = {
         "atk": 508,
         "def": 442
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -68238,6 +70487,7 @@ window.PALWORLD_DATA = {
         "atk": 733,
         "def": 612
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -68267,6 +70517,7 @@ window.PALWORLD_DATA = {
         "atk": 210,
         "def": 222
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -68296,6 +70547,7 @@ window.PALWORLD_DATA = {
         "atk": 540,
         "def": 685
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerDEF_UP_1",
@@ -68325,6 +70577,7 @@ window.PALWORLD_DATA = {
         "atk": 769,
         "def": 981
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -68356,9 +70609,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6434,
-        "atk": 1087,
+        "atk": 985,
         "def": 1042
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -68398,6 +70652,7 @@ window.PALWORLD_DATA = {
         "atk": 174,
         "def": 168
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_1_PAL",
@@ -68424,9 +70679,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 4441,
-        "atk": 854,
+        "atk": 762,
         "def": 645
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Fire_2_PAL",
@@ -68461,6 +70717,7 @@ window.PALWORLD_DATA = {
         "atk": 385,
         "def": 321
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerMining_up1",
@@ -68490,6 +70747,7 @@ window.PALWORLD_DATA = {
         "atk": 811,
         "def": 866
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -68519,6 +70777,7 @@ window.PALWORLD_DATA = {
         "atk": 428,
         "def": 583
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -68558,6 +70817,7 @@ window.PALWORLD_DATA = {
         "atk": 158,
         "def": 148
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -68597,6 +70857,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -68626,6 +70887,7 @@ window.PALWORLD_DATA = {
         "atk": 723,
         "def": 659
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -68655,6 +70917,7 @@ window.PALWORLD_DATA = {
         "atk": 767,
         "def": 703
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -68689,6 +70952,7 @@ window.PALWORLD_DATA = {
         "atk": 262,
         "def": 266
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -68718,6 +70982,7 @@ window.PALWORLD_DATA = {
         "atk": 254,
         "def": 239
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Thunder_1_PAL",
@@ -68747,6 +71012,7 @@ window.PALWORLD_DATA = {
         "atk": 180,
         "def": 312
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -68781,6 +71047,7 @@ window.PALWORLD_DATA = {
         "atk": 233,
         "def": 219
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -68810,6 +71077,7 @@ window.PALWORLD_DATA = {
         "atk": 258,
         "def": 225
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -68836,9 +71104,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 8000,
-        "atk": 1530,
+        "atk": 1387,
         "def": 1159
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -68878,6 +71147,7 @@ window.PALWORLD_DATA = {
         "atk": 15,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -68922,6 +71192,7 @@ window.PALWORLD_DATA = {
         "atk": 866,
         "def": 746
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -68951,6 +71222,7 @@ window.PALWORLD_DATA = {
         "atk": 31,
         "def": 27
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -68980,6 +71252,7 @@ window.PALWORLD_DATA = {
         "atk": 171,
         "def": 210
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -69009,6 +71282,7 @@ window.PALWORLD_DATA = {
         "atk": 576,
         "def": 591
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -69038,6 +71312,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 7
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -69072,6 +71347,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 290
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -69101,6 +71377,7 @@ window.PALWORLD_DATA = {
         "atk": 759,
         "def": 512
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -69130,6 +71407,7 @@ window.PALWORLD_DATA = {
         "atk": 728,
         "def": 760
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -69159,6 +71437,7 @@ window.PALWORLD_DATA = {
         "atk": 312,
         "def": 257
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -69198,6 +71477,7 @@ window.PALWORLD_DATA = {
         "atk": 250,
         "def": 274
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -69237,6 +71517,7 @@ window.PALWORLD_DATA = {
         "atk": 259,
         "def": 327
       },
+      "souls": 0,
       "passives": [],
       "owner": "takitome"
     },
@@ -69260,6 +71541,7 @@ window.PALWORLD_DATA = {
         "atk": 348,
         "def": 286
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -69289,6 +71571,7 @@ window.PALWORLD_DATA = {
         "atk": 442,
         "def": 320
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -69323,6 +71606,7 @@ window.PALWORLD_DATA = {
         "atk": 370,
         "def": 486
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -69352,6 +71636,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -69391,6 +71676,7 @@ window.PALWORLD_DATA = {
         "atk": 439,
         "def": 385
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ReloadSpeedUp_Passive",
@@ -69430,6 +71716,7 @@ window.PALWORLD_DATA = {
         "atk": 784,
         "def": 678
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -69453,6 +71740,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -69482,6 +71770,7 @@ window.PALWORLD_DATA = {
         "atk": 329,
         "def": 373
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Down_1",
@@ -69511,6 +71800,7 @@ window.PALWORLD_DATA = {
         "atk": 364,
         "def": 367
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -69534,6 +71824,7 @@ window.PALWORLD_DATA = {
         "atk": 349,
         "def": 325
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -69563,6 +71854,7 @@ window.PALWORLD_DATA = {
         "atk": 309,
         "def": 316
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -69592,6 +71884,7 @@ window.PALWORLD_DATA = {
         "atk": 283,
         "def": 279
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Aqua_1_PAL",
@@ -69621,6 +71914,7 @@ window.PALWORLD_DATA = {
         "atk": 642,
         "def": 696
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Normal_1_PAL",
@@ -69650,6 +71944,7 @@ window.PALWORLD_DATA = {
         "atk": 243,
         "def": 295
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_1",
@@ -69679,6 +71974,7 @@ window.PALWORLD_DATA = {
         "atk": 656,
         "def": 718
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -69702,6 +71998,7 @@ window.PALWORLD_DATA = {
         "atk": 260,
         "def": 305
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_masochist",
@@ -69731,6 +72028,7 @@ window.PALWORLD_DATA = {
         "atk": 525,
         "def": 400
       },
+      "souls": 0,
       "passives": [
         {
           "id": "RideJumpCount_Increase1",
@@ -69757,9 +72055,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7925,
-        "atk": 1633,
+        "atk": 1481,
         "def": 1038
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -69794,6 +72093,7 @@ window.PALWORLD_DATA = {
         "atk": 176,
         "def": 179
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Test_PalEgg_HatchingSpeed_Up",
@@ -69820,9 +72120,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6617,
-        "atk": 1139,
+        "atk": 1039,
         "def": 1020
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -69862,6 +72163,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 444
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MiniNushi",
@@ -69896,6 +72198,7 @@ window.PALWORLD_DATA = {
         "atk": 878,
         "def": 757
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Ice_1_PAL",
@@ -69925,6 +72228,7 @@ window.PALWORLD_DATA = {
         "atk": 1071,
         "def": 937
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -69959,6 +72263,7 @@ window.PALWORLD_DATA = {
         "atk": 144,
         "def": 143
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -69993,6 +72298,7 @@ window.PALWORLD_DATA = {
         "atk": 214,
         "def": 297
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -70027,6 +72333,7 @@ window.PALWORLD_DATA = {
         "atk": 951,
         "def": 856
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -70056,6 +72363,7 @@ window.PALWORLD_DATA = {
         "atk": 839,
         "def": 648
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -70085,6 +72393,7 @@ window.PALWORLD_DATA = {
         "atk": 611,
         "def": 588
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Down_1",
@@ -70111,9 +72420,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 580,
-        "atk": 18,
+        "atk": 16,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -70148,6 +72458,7 @@ window.PALWORLD_DATA = {
         "atk": 831,
         "def": 687
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_3",
@@ -70177,6 +72488,7 @@ window.PALWORLD_DATA = {
         "atk": 889,
         "def": 855
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -70221,6 +72533,7 @@ window.PALWORLD_DATA = {
         "atk": 1270,
         "def": 1150
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Rare",
@@ -70255,6 +72568,7 @@ window.PALWORLD_DATA = {
         "atk": 304,
         "def": 270
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -70284,6 +72598,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 324
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SelfDeathAddItemDrop_up_2",
@@ -70313,6 +72628,7 @@ window.PALWORLD_DATA = {
         "atk": 787,
         "def": 678
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -70347,6 +72663,7 @@ window.PALWORLD_DATA = {
         "atk": 480,
         "def": 491
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -70373,9 +72690,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 5649,
-        "atk": 975,
+        "atk": 869,
         "def": 515
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Earth_2_PAL",
@@ -70410,6 +72728,7 @@ window.PALWORLD_DATA = {
         "atk": 986,
         "def": 694
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -70439,6 +72758,7 @@ window.PALWORLD_DATA = {
         "atk": 861,
         "def": 691
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_1",
@@ -70468,6 +72788,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -70507,6 +72828,7 @@ window.PALWORLD_DATA = {
         "atk": 1432,
         "def": 1117
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -70546,6 +72868,7 @@ window.PALWORLD_DATA = {
         "atk": 678,
         "def": 903
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -70585,6 +72908,7 @@ window.PALWORLD_DATA = {
         "atk": 252,
         "def": 282
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down2",
@@ -70614,6 +72938,7 @@ window.PALWORLD_DATA = {
         "atk": 259,
         "def": 239
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Dragon_1_PAL",
@@ -70643,6 +72968,7 @@ window.PALWORLD_DATA = {
         "atk": 297,
         "def": 268
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -70666,6 +72992,7 @@ window.PALWORLD_DATA = {
         "atk": 561,
         "def": 572
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -70695,6 +73022,7 @@ window.PALWORLD_DATA = {
         "atk": 874,
         "def": 854
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_2",
@@ -70724,6 +73052,7 @@ window.PALWORLD_DATA = {
         "atk": 833,
         "def": 846
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -70758,6 +73087,7 @@ window.PALWORLD_DATA = {
         "atk": 752,
         "def": 506
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Up_1",
@@ -70787,6 +73117,7 @@ window.PALWORLD_DATA = {
         "atk": 520,
         "def": 655
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -70821,6 +73152,7 @@ window.PALWORLD_DATA = {
         "atk": 401,
         "def": 303
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -70855,6 +73187,7 @@ window.PALWORLD_DATA = {
         "atk": 884,
         "def": 723
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -70884,6 +73217,7 @@ window.PALWORLD_DATA = {
         "atk": 627,
         "def": 544
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Normal_1_PAL",
@@ -70913,6 +73247,7 @@ window.PALWORLD_DATA = {
         "atk": 262,
         "def": 238
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Leaf_1_PAL",
@@ -70942,6 +73277,7 @@ window.PALWORLD_DATA = {
         "atk": 191,
         "def": 195
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -70965,6 +73301,7 @@ window.PALWORLD_DATA = {
         "atk": 145,
         "def": 139
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -70994,6 +73331,7 @@ window.PALWORLD_DATA = {
         "atk": 210,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_1",
@@ -71023,6 +73361,7 @@ window.PALWORLD_DATA = {
         "atk": 693,
         "def": 639
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Nushi",
@@ -71057,6 +73396,7 @@ window.PALWORLD_DATA = {
         "atk": 199,
         "def": 221
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -71086,6 +73426,7 @@ window.PALWORLD_DATA = {
         "atk": 358,
         "def": 378
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up2_2",
@@ -71115,6 +73456,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -71154,6 +73496,7 @@ window.PALWORLD_DATA = {
         "atk": 431,
         "def": 384
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_2",
@@ -71183,6 +73526,7 @@ window.PALWORLD_DATA = {
         "atk": 546,
         "def": 585
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -71206,6 +73550,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -71235,6 +73580,7 @@ window.PALWORLD_DATA = {
         "atk": 654,
         "def": 626
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_down1",
@@ -71264,6 +73610,7 @@ window.PALWORLD_DATA = {
         "atk": 826,
         "def": 914
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -71293,6 +73640,7 @@ window.PALWORLD_DATA = {
         "atk": 1002,
         "def": 1508
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -71322,6 +73670,7 @@ window.PALWORLD_DATA = {
         "atk": 1038,
         "def": 1508
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -71351,6 +73700,7 @@ window.PALWORLD_DATA = {
         "atk": 861,
         "def": 633
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -71377,9 +73727,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6775,
-        "atk": 1173,
+        "atk": 1047,
         "def": 766
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Thunder_2_PAL",
@@ -71414,6 +73765,7 @@ window.PALWORLD_DATA = {
         "atk": 781,
         "def": 628
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_rude",
@@ -71448,6 +73800,7 @@ window.PALWORLD_DATA = {
         "atk": 670,
         "def": 782
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -71477,6 +73830,7 @@ window.PALWORLD_DATA = {
         "atk": 561,
         "def": 711
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -71506,6 +73860,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -71550,6 +73905,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -71589,6 +73945,7 @@ window.PALWORLD_DATA = {
         "atk": 555,
         "def": 581
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Deffence_up1",
@@ -71618,6 +73975,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorldTree_MoveSpeed",
@@ -71657,6 +74015,7 @@ window.PALWORLD_DATA = {
         "atk": 17,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -71696,6 +74055,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -71740,6 +74100,7 @@ window.PALWORLD_DATA = {
         "atk": 270,
         "def": 294
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -71769,6 +74130,7 @@ window.PALWORLD_DATA = {
         "atk": 730,
         "def": 671
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Stamina_Up_2",
@@ -71798,6 +74160,7 @@ window.PALWORLD_DATA = {
         "atk": 644,
         "def": 670
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PlayerSP_DecreaseRate_Passive",
@@ -71827,6 +74190,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -71856,6 +74220,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -71900,6 +74265,7 @@ window.PALWORLD_DATA = {
         "atk": 623,
         "def": 422
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_oraora",
@@ -71931,9 +74297,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 15,
+        "atk": 13,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -71970,9 +74337,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 585,
-        "atk": 21,
+        "atk": 19,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -72017,6 +74385,7 @@ window.PALWORLD_DATA = {
         "atk": 628,
         "def": 506
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -72046,6 +74415,7 @@ window.PALWORLD_DATA = {
         "atk": 547,
         "def": 689
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -72080,6 +74450,7 @@ window.PALWORLD_DATA = {
         "atk": 1173,
         "def": 888
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_up1",
@@ -72114,6 +74485,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -72158,6 +74530,7 @@ window.PALWORLD_DATA = {
         "atk": 577,
         "def": 710
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -72187,6 +74560,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -72216,6 +74590,7 @@ window.PALWORLD_DATA = {
         "atk": 990,
         "def": 924
       },
+      "souls": 0,
       "passives": [
         {
           "id": "AutoHPRegeneRate_Passive",
@@ -72245,6 +74620,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -72274,6 +74650,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -72303,6 +74680,7 @@ window.PALWORLD_DATA = {
         "atk": 347,
         "def": 284
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -72337,6 +74715,7 @@ window.PALWORLD_DATA = {
         "atk": 507,
         "def": 476
       },
+      "souls": 0,
       "passives": [
         {
           "id": "MoveSpeed_up_2",
@@ -72366,6 +74745,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -72395,6 +74775,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -72434,6 +74815,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -72463,6 +74845,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -72502,6 +74885,7 @@ window.PALWORLD_DATA = {
         "atk": 294,
         "def": 295
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -72541,6 +74925,7 @@ window.PALWORLD_DATA = {
         "atk": 773,
         "def": 891
       },
+      "souls": 0,
       "passives": [],
       "owner": "LawzZ"
     },
@@ -72564,6 +74949,7 @@ window.PALWORLD_DATA = {
         "atk": 693,
         "def": 697
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_Sanity_Down_2",
@@ -72590,9 +74976,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 595,
-        "atk": 15,
+        "atk": 13,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -72637,6 +75024,7 @@ window.PALWORLD_DATA = {
         "atk": 529,
         "def": 729
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_ALLAttack_down1",
@@ -72666,6 +75054,7 @@ window.PALWORLD_DATA = {
         "atk": 654,
         "def": 432
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SalePrice_Up_1",
@@ -72700,6 +75089,7 @@ window.PALWORLD_DATA = {
         "atk": 466,
         "def": 302
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerATK_UP_1",
@@ -72729,6 +75119,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -72763,6 +75154,7 @@ window.PALWORLD_DATA = {
         "atk": 901,
         "def": 617
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_up1",
@@ -72792,6 +75184,7 @@ window.PALWORLD_DATA = {
         "atk": 178,
         "def": 193
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -72826,6 +75219,7 @@ window.PALWORLD_DATA = {
         "atk": 440,
         "def": 412
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -72855,6 +75249,7 @@ window.PALWORLD_DATA = {
         "atk": 26,
         "def": 28
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -72894,6 +75289,7 @@ window.PALWORLD_DATA = {
         "atk": 721,
         "def": 406
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Noukin",
@@ -72923,6 +75319,7 @@ window.PALWORLD_DATA = {
         "atk": 702,
         "def": 661
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -72952,6 +75349,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -72991,6 +75389,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -73022,9 +75421,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 577,
-        "atk": 21,
+        "atk": 19,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -73066,9 +75466,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7013,
-        "atk": 1587,
+        "atk": 1438,
         "def": 985
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -73105,9 +75506,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1070,
-        "atk": 135,
+        "atk": 122,
         "def": 90
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -73152,6 +75554,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -73186,6 +75589,7 @@ window.PALWORLD_DATA = {
         "atk": 78,
         "def": 85
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -73227,9 +75631,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 595,
-        "atk": 19,
+        "atk": 17,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -73269,6 +75674,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 8
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -73308,6 +75714,7 @@ window.PALWORLD_DATA = {
         "atk": 36,
         "def": 32
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -73337,6 +75744,7 @@ window.PALWORLD_DATA = {
         "atk": 683,
         "def": 658
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -73373,9 +75781,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 579,
-        "atk": 21,
+        "atk": 19,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -73420,6 +75829,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "SwimSpeed_up_2",
@@ -73459,6 +75869,7 @@ window.PALWORLD_DATA = {
         "atk": 579,
         "def": 788
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Fire_1_PAL",
@@ -73488,6 +75899,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -73519,9 +75931,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 18,
+        "atk": 16,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -73566,6 +75979,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Up_1",
@@ -73607,9 +76021,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 7775,
-        "atk": 1473,
+        "atk": 1335,
         "def": 1074
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -73649,6 +76064,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -73690,9 +76106,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 576,
-        "atk": 24,
+        "atk": 22,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -73734,9 +76151,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 18,
+        "atk": 16,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -73771,6 +76189,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -73815,6 +76234,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -73844,6 +76264,7 @@ window.PALWORLD_DATA = {
         "atk": 7,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -73880,9 +76301,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 6785,
-        "atk": 1068,
+        "atk": 968,
         "def": 1127
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -73927,6 +76349,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -73956,6 +76379,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -73985,6 +76409,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -74019,6 +76444,7 @@ window.PALWORLD_DATA = {
         "atk": 557,
         "def": 448
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementResist_Leaf_1_PAL",
@@ -74048,6 +76474,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -74082,6 +76509,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -74121,6 +76549,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -74150,6 +76579,7 @@ window.PALWORLD_DATA = {
         "atk": 571,
         "def": 517
       },
+      "souls": 0,
       "passives": [],
       "owner": "Theo"
     },
@@ -74170,9 +76600,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 18,
+        "atk": 16,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -74212,6 +76643,7 @@ window.PALWORLD_DATA = {
         "atk": 65,
         "def": 71
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -74248,9 +76680,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 18,
+        "atk": 16,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -74290,6 +76723,7 @@ window.PALWORLD_DATA = {
         "atk": 244,
         "def": 330
       },
+      "souls": 0,
       "passives": [
         {
           "id": "TrainerWorkSpeed_UP_1",
@@ -74324,6 +76758,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -74353,6 +76788,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -74397,6 +76833,7 @@ window.PALWORLD_DATA = {
         "atk": 16,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -74431,6 +76868,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 15
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -74470,6 +76908,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -74514,6 +76953,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -74545,9 +76985,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 585,
-        "atk": 18,
+        "atk": 16,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -74589,9 +77030,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 594,
-        "atk": 18,
+        "atk": 16,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -74636,6 +77078,7 @@ window.PALWORLD_DATA = {
         "atk": 11,
         "def": 11
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -74677,9 +77120,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 1070,
-        "atk": 135,
+        "atk": 122,
         "def": 98
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -74716,9 +77160,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 579,
-        "atk": 16,
+        "atk": 15,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_FullStomach_Down_1",
@@ -74760,9 +77205,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 595,
-        "atk": 21,
+        "atk": 19,
         "def": 14
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -74807,6 +77253,7 @@ window.PALWORLD_DATA = {
         "atk": 13,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -74846,6 +77293,7 @@ window.PALWORLD_DATA = {
         "atk": 14,
         "def": 15
       },
+      "souls": 0,
       "passives": [
         {
           "id": "Legend",
@@ -74885,6 +77333,7 @@ window.PALWORLD_DATA = {
         "atk": 10,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dragon_1_PAL",
@@ -74916,9 +77365,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 586,
-        "atk": 18,
+        "atk": 16,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CraftSpeed_down2",
@@ -74963,6 +77413,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 10
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -75007,6 +77458,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "CoolTimeReduction_Up_2",
@@ -75051,6 +77503,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 9
       },
+      "souls": 0,
       "passives": [
         {
           "id": "PAL_conceited",
@@ -75085,6 +77538,7 @@ window.PALWORLD_DATA = {
         "atk": 12,
         "def": 13
       },
+      "souls": 0,
       "passives": [
         {
           "id": "WorkSuitabilityAddRank_MonsterFarm_1",
@@ -75116,9 +77570,10 @@ window.PALWORLD_DATA = {
       },
       "power_stats": {
         "hp": 595,
-        "atk": 22,
+        "atk": 20,
         "def": 12
       },
+      "souls": 0,
       "passives": [
         {
           "id": "ElementBoost_Dark_2_PAL",
@@ -75164,23 +77619,23 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2522735
+        "total_power": 2520817
       },
       {
         "owner": "LawzZ",
-        "total_power": 2085476
+        "total_power": 2083295
       },
       {
         "owner": "Martial",
-        "total_power": 1718965
+        "total_power": 1718111
       },
       {
         "owner": "takitome",
-        "total_power": 528295
+        "total_power": 527476
       },
       {
         "owner": "inconnu",
-        "total_power": 250478
+        "total_power": 249767
       },
       {
         "owner": "Prismiti",
