@@ -45,12 +45,17 @@ PASSIVE_NAMES = _load_paldata("passive_names.json")
 
 
 def _lookup_pal(char_id):
-    entry = PAL_NAMES.get(str(char_id).lower())
+    # Les variantes "Boss_"/"BOSS_" ont souvent un nom a rallonge dans les
+    # donnees (ex: "Gardien du soleil tenebreux Anubis" pour BOSS_Anubis,
+    # "(Boss)" en anglais) -- on prefere toujours le nom de la version de
+    # base ("Anubis") quand elle existe, sinon on retombe sur l'entree
+    # Boss_ telle quelle.
+    key = str(char_id).lower()
+    base_key = key[5:] if key.startswith("boss_") else key
+    entry = PAL_NAMES.get(base_key) or PAL_NAMES.get(key)
     if not entry:
-        return {"name": char_id, "icon": None}
-    # name_fr n'existe que pour les Pals presents dans le jeu au lancement
-    # (source datant de janvier 2024) -- on retombe sur le nom anglais pour
-    # tout ce qui a ete ajoute depuis (la plupart des Pals BOSS_* recents).
+        clean_id = char_id[5:] if key.startswith("boss_") else char_id
+        return {"name": clean_id, "icon": None}
     name = entry.get("name_fr") or entry["name"]
     icon = f"{PAL_ICON_BASE_URL}{entry['icon']}" if entry.get("icon") else None
     return {"name": name, "icon": icon}
