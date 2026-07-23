@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T16:29:32.602580+00:00",
+  "generated_at": "2026-07-23T16:40:50.078264+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 3,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 77,
       "building_count": null,
-      "ping": 72,
+      "ping": 68.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 44,
+      "ping": 47.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,8 +29,8 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 69.0,
-      "online": true,
+      "ping": null,
+      "online": false,
       "playerId": "75567350000000000000000000000000"
     },
     {
@@ -9373,7 +9373,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 71,
+      "level": 72,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -9384,9 +9384,9 @@ window.PALWORLD_DATA = {
         "defense": 22
       },
       "power_stats": {
-        "hp": 6284,
-        "atk": 829,
-        "def": 793
+        "hp": 6365,
+        "atk": 842,
+        "def": 805
       },
       "passives": [
         {
@@ -12189,9 +12189,9 @@ window.PALWORLD_DATA = {
         "defense": 14
       },
       "power_stats": {
-        "hp": 3053,
-        "atk": 488,
-        "def": 318
+        "hp": 3173,
+        "atk": 496,
+        "def": 329
       },
       "passives": [
         {
@@ -41748,9 +41748,9 @@ window.PALWORLD_DATA = {
         "defense": 52
       },
       "power_stats": {
-        "hp": 7668,
-        "atk": 1334,
-        "def": 1064
+        "hp": 7764,
+        "atk": 1342,
+        "def": 1073
       },
       "passives": [
         {
@@ -65432,7 +65432,7 @@ window.PALWORLD_DATA = {
       "species": "YakushimaMonster001",
       "species_name": "Green Slime",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_YakushimaMonster001_icon_normal.webp",
-      "level": 36,
+      "level": 55,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -65443,9 +65443,9 @@ window.PALWORLD_DATA = {
         "defense": 39
       },
       "power_stats": {
-        "hp": 2067,
-        "atk": 256,
-        "def": 268
+        "hp": 2894,
+        "atk": 390,
+        "def": 409
       },
       "passives": [
         {
@@ -66986,6 +66986,45 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Necromus",
+      "species": "BOSS_BlackCentaur",
+      "species_name": "Necromus",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
+      "level": 60,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 60,
+        "melee": 0,
+        "shot": 80,
+        "defense": 63
+      },
+      "power_stats": {
+        "hp": 5402,
+        "atk": 1078,
+        "def": 824
+      },
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Fire_1_PAL",
+          "name": "Pyromane",
+          "rank": 1
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Gloopie",
       "species": "BOSS_OctopusGirl",
       "species_name": "Gloopie",
@@ -67139,6 +67178,45 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "inconnu"
+    },
+    {
+      "nickname": "Paladius",
+      "species": "BOSS_SaintCentaur",
+      "species_name": "Paladius",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SaintCentaur_icon_normal.webp",
+      "level": 60,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 68,
+        "melee": 0,
+        "shot": 59,
+        "defense": 88
+      },
+      "power_stats": {
+        "hp": 5495,
+        "atk": 870,
+        "def": 1042
+      },
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ElementBoost_Normal_2_PAL",
+          "name": "Dieu saint",
+          "rank": 3
+        },
+        {
+          "id": "ElementResist_Aqua_1_PAL",
+          "name": "Imperméabilité",
+          "rank": 1
+        }
+      ],
+      "owner": "Theo"
     },
     {
       "nickname": "Flopie",
@@ -68914,5 +68992,58 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     }
   ],
-  "records": null
+  "records": {
+    "most_pals": [
+      {
+        "owner": "Theo",
+        "pal_count": 788
+      },
+      {
+        "owner": "LawzZ",
+        "pal_count": 615
+      },
+      {
+        "owner": "Martial",
+        "pal_count": 517
+      },
+      {
+        "owner": "takitome",
+        "pal_count": 233
+      },
+      {
+        "owner": "Prismiti",
+        "pal_count": 70
+      },
+      {
+        "owner": "inconnu",
+        "pal_count": 54
+      }
+    ],
+    "strongest_team": [
+      {
+        "owner": "Theo",
+        "total_power": 2276572
+      },
+      {
+        "owner": "LawzZ",
+        "total_power": 1844149
+      },
+      {
+        "owner": "Martial",
+        "total_power": 1479233
+      },
+      {
+        "owner": "takitome",
+        "total_power": 505685
+      },
+      {
+        "owner": "inconnu",
+        "total_power": 219866
+      },
+      {
+        "owner": "Prismiti",
+        "total_power": 78211
+      }
+    ]
+  }
 };
