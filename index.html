@@ -297,9 +297,9 @@
         ${(p.is_alpha || p.is_awakened) ? '<br>' : ''}
         <h3>${escapeHtml(p.nickname || speciesName)}</h3>
         <div class="species">${escapeHtml(speciesName)} · niv. ${p.level ?? '—'}</div>
-        ${statRow('PV', t.hp, p.power_stats && p.power_stats.hp)}
-        ${statRow('ATQ', t.shot, p.power_stats && p.power_stats.atk)}
-        ${statRow('DEF', t.defense, p.power_stats && p.power_stats.def)}
+        ${statRow('PV', t.hp)}
+        ${statRow('ATQ', t.shot)}
+        ${statRow('DEF', t.defense)}
         ${passives.length ? `<div class="passives">${passives.map(x=>`<span class="${passiveClass(x.rank)}">${escapeHtml(x.name)}</span>`).join('')}</div>` : ''}
         <div class="owner-row">Appartient à <b>${escapeHtml(p.owner || 'inconnu')}</b></div>
       </div>

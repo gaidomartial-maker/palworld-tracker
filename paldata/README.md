@@ -15,11 +15,17 @@ par `_compute_pal_power_stats()` dans generate_data.py, qui porte en Python
 la formule de calcul de stats verifiee en jeu documentee dans
 `.opencode/skills/pst-stat-formula/SKILL.md` et `src/palworld_aio/utils.py`
 de ce meme depot (fonctions `_hp_breakdown`/`_atk_breakdown`/`_def_breakdown`).
-Simplification assumee : le bonus multiplicatif des passifs n'est pas
-applique (passive_bonus=0) faute d'avoir mappe les ~1905 passifs a leur
-effet exact sur PV/ATQ/DEF -- les stats calculees sont donc une
-approximation par defaut, legerement sous-estimee pour les Pals dont les
-passifs boostent une des trois stats.
+
+Le bonus des passifs qui boostent directement PV/ATQ/DEF (ex: Legend =
++20% ATQ/+20% DEF) est extrait dans `passive_names.json` (cle `effects`,
+ajoutee via `efftype1-4`/`effect1-4` de skills.json, en ne gardant que
+MaxHP -> hp, ShotAttack/MeleeAttack -> atk, Defense -> def) et applique
+par `_passive_stat_bonus()` + `_compute_pal_power_stats()`. Le classement
+de puissance des Pals (palScore cote index.html) prend donc en compte :
+niveau, %IV, rang/etoiles, confiance, eveil, et ces bonus de passifs --
+tout est deja mecaniquement inclus dans PV/ATQ/DEF final, donc sommer ces
+trois valeurs suffit sans compter separement le rang ou l'eveil (qui
+biaiserait le score en les comptant deux fois).
 
 - Cle : l'ID interne (`CharacterID` / nom de passif) en minuscules.
 - Valeur pour les Pals : `{"name": "...", "name_fr": "..." (optionnel), "icon": "..."}`.

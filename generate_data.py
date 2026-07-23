@@ -74,6 +74,24 @@ def _lookup_passive(passive_id):
     return {"id": passive_id, "name": name, "rank": entry.get("rank", 0)}
 
 
+def _passive_stat_bonus(passive_ids):
+    """
+    Somme, sur tous les passifs d'un Pal, les bonus en % qui boostent
+    directement PV/ATQ/DEF (ex: Legend = +20% ATQ, +20% DEF). Necessaire
+    pour que le classement de puissance soit complet -- sans ca, un Pal
+    avec Legend etait sous-estime par rapport a un Pal sans passifs.
+    """
+    bonus = {"hp": 0.0, "atk": 0.0, "def": 0.0}
+    for pid in passive_ids:
+        entry = PASSIVE_NAMES.get(str(pid).lower())
+        effects = entry.get("effects") if entry else None
+        if not effects:
+            continue
+        for stat in bonus:
+            bonus[stat] += effects.get(stat, 0)
+    return {k: v / 100 for k, v in bonus.items()}
+
+
 def _friendship_rank(trust_points):
     for r in range(len(FRIENDSHIP_THRESHOLDS) - 1, 0, -1):
         if trust_points >= FRIENDSHIP_THRESHOLDS[r]:
@@ -82,17 +100,18 @@ def _friendship_rank(trust_points):
 
 
 def _compute_pal_power_stats(char_id, level, talents, rank_hp, rank_attack, rank_defense,
-                              condenser_rank, friendship_points, is_awake):
+                              condenser_rank, friendship_points, is_awake, passive_bonus=None):
     """
     Porte en Python la formule de calcul des vraies stats (PV/ATQ/DEF)
     verifiee en jeu par deafdudecomputers/PalworldSaveTools
-    (.opencode/skills/pst-stat-formula/SKILL.md, src/palworld_aio/utils.py).
-    Simplification : le bonus des passifs n'est pas applique (voir
-    paldata/README.md) -- les valeurs sont donc une legere sous-estimation
-    pour les Pals dont un passif boost une de ces trois stats.
+    (.opencode/skills/pst-stat-formula/SKILL.md, src/palworld_aio/utils.py) :
+    niveau, %IV, rang (etoiles/condenser), confiance, eveil ET bonus des
+    passifs qui boostent directement une stat (ex: Legend) sont tous pris
+    en compte -- c'est la base du classement de puissance des Pals.
 
     Retourne None si l'espece n'est pas dans paldata/pal_stats.json.
     """
+    passive_bonus = passive_bonus or {"hp": 0, "atk": 0, "def": 0}
     import math
 
     key = str(char_id).lower()
@@ -114,7 +133,7 @@ def _compute_pal_power_stats(char_id, level, talents, rank_hp, rank_attack, rank
     trust_hp = int(level * friendship_rank * sd["friendship_hp"] * 0.65 * (1 + condenser_bonus) + 0.5)
     awake_hp = math.floor(hp_scaling * level * 0.065 * (1 + condenser_bonus)) if awake else 0
     subtotal_hp = base_wc_hp + trust_hp + awake_hp
-    hp = math.floor(subtotal_hp * (1 + rank_hp * 0.03))
+    hp = math.floor(subtotal_hp * (1 + rank_hp * 0.03) * (1 + passive_bonus["hp"]))
 
     # -- ATQ (Shot Attack, seule stat d'attaque depuis la fusion Melee/Shot) --
     shot_scaling = sd["shot_attack"]
@@ -125,7 +144,7 @@ def _compute_pal_power_stats(char_id, level, talents, rank_hp, rank_attack, rank
     trust_atk = math.floor(base_trust_atk) + math.floor(base_trust_atk * condenser_bonus)
     awake_atk = math.floor(shot_scaling * level * (1 + atk_iv) * 0.009) if awake else 0
     subtotal_atk = base_atk + trust_atk + awake_atk
-    atk = math.floor(subtotal_atk * (1 + rank_attack * 0.03))
+    atk = math.floor(subtotal_atk * (1 + rank_attack * 0.03) * (1 + passive_bonus["atk"]))
 
     # -- DEF --
     def_scaling = sd["def_scaling"]
@@ -135,7 +154,7 @@ def _compute_pal_power_stats(char_id, level, talents, rank_hp, rank_attack, rank
     trust_def = math.floor(level * friendship_rank * sd["friendship_defense"] / 10.2 * (1 + condenser_bonus))
     awake_def = math.floor(def_scaling * level * (1 + def_iv) * 0.009) if awake else 0
     subtotal_def = base_def + trust_def + awake_def
-    defense = math.floor(subtotal_def * (1 + rank_defense * 0.03))
+    defense = math.floor(subtotal_def * (1 + rank_defense * 0.03) * (1 + passive_bonus["def"]))
 
     return {"hp": hp, "atk": atk, "def": defense}
 
@@ -457,6 +476,7 @@ def parse_characters(save_path, online_players):
             condenser_rank=raw_rank,
             friendship_points=_byte_prop_value(params.get("FriendshipPoint"), 0),
             is_awake=is_awakened,
+            passive_bonus=_passive_stat_bonus(passive_ids),
         )
 
         pals_raw.append((owner_uid, {
