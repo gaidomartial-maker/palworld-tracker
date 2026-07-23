@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T18:50:58.369490+00:00",
+  "generated_at": "2026-07-23T19:01:25.288771+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 3,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 79,
       "building_count": null,
-      "ping": 66,
+      "ping": 64.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,15 +21,15 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 53.0,
-      "online": true,
+      "ping": null,
+      "online": false,
       "playerId": "67587A0F000000000000000000000000"
     },
     {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 51.0,
+      "ping": 48.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -12178,7 +12178,7 @@ window.PALWORLD_DATA = {
       "species": "ScorpionMan",
       "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ScorpionMan_icon_normal.webp",
-      "level": 56,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -12189,9 +12189,9 @@ window.PALWORLD_DATA = {
         "defense": 14
       },
       "power_stats": {
-        "hp": 4315,
-        "atk": 690,
-        "def": 466
+        "hp": 4383,
+        "atk": 702,
+        "def": 474
       },
       "passives": [
         {
@@ -19732,7 +19732,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "Hangyu Cryst",
@@ -37050,7 +37050,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Icelyn",
@@ -37443,7 +37443,7 @@ window.PALWORLD_DATA = {
           "rank": -3
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "Mau",
@@ -60244,9 +60244,9 @@ window.PALWORLD_DATA = {
         "defense": 68
       },
       "power_stats": {
-        "hp": 4545,
-        "atk": 1057,
-        "def": 1026
+        "hp": 4696,
+        "atk": 1063,
+        "def": 1037
       },
       "passives": [
         {
@@ -63013,9 +63013,9 @@ window.PALWORLD_DATA = {
         "defense": 50
       },
       "power_stats": {
-        "hp": 5678,
-        "atk": 1352,
-        "def": 1188
+        "hp": 5853,
+        "atk": 1360,
+        "def": 1202
       },
       "passives": [
         {
@@ -65070,7 +65070,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Blazamut",
@@ -66895,7 +66895,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "Illuminant Slime",
@@ -68688,7 +68688,7 @@ window.PALWORLD_DATA = {
       "species": "MushroomDragon",
       "species_name": "Shroomer",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MushroomDragon_icon_normal.webp",
-      "level": 41,
+      "level": 42,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -68699,9 +68699,9 @@ window.PALWORLD_DATA = {
         "defense": 13
       },
       "power_stats": {
-        "hp": 3271,
-        "atk": 340,
-        "def": 317
+        "hp": 3338,
+        "atk": 349,
+        "def": 325
       },
       "passives": [
         {
@@ -69494,7 +69494,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Azurobe Cryst",
@@ -70420,6 +70420,35 @@ window.PALWORLD_DATA = {
       "owner": "inconnu"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 51,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 78,
+        "melee": 0,
+        "shot": 31,
+        "defense": 85
+      },
+      "power_stats": {
+        "hp": 4531,
+        "atk": 577,
+        "def": 710
+      },
+      "passives": [
+        {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Moldron Cryst",
       "species": "BOSS_VolcanoDragon_Ice",
       "species_name": "Moldron Cryst",
@@ -70444,6 +70473,35 @@ window.PALWORLD_DATA = {
           "id": "AutoHPRegeneRate_Passive",
           "name": "Healing Coach",
           "rank": 3
+        }
+      ],
+      "owner": "LawzZ"
+    },
+    {
+      "nickname": "Eidrolon Ignis",
+      "species": "GhostDragon_Fire",
+      "species_name": "Eidrolon Ignis",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostDragon_Fire_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 91,
+        "melee": 0,
+        "shot": 26,
+        "defense": 14
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 11,
+        "def": 9
+      },
+      "passives": [
+        {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
         }
       ],
       "owner": "LawzZ"
@@ -70554,6 +70612,35 @@ window.PALWORLD_DATA = {
           "id": "Noukin",
           "name": "Impulsif",
           "rank": 2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 54,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 13,
+        "melee": 0,
+        "shot": 93,
+        "defense": 32
+      },
+      "power_stats": {
+        "hp": 4136,
+        "atk": 702,
+        "def": 661
+      },
+      "passives": [
+        {
+          "id": "TrainerWorkSpeed_UP_1",
+          "name": "Motivateur",
+          "rank": 3
         }
       ],
       "owner": "Martial"
@@ -70684,11 +70771,11 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "pal_count": 643
+        "pal_count": 644
       },
       {
         "owner": "Martial",
-        "pal_count": 527
+        "pal_count": 529
       },
       {
         "owner": "takitome",
@@ -70706,15 +70793,15 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2382107
+        "total_power": 2382304
       },
       {
         "owner": "LawzZ",
-        "total_power": 2027067
+        "total_power": 2019391
       },
       {
         "owner": "Martial",
-        "total_power": 1541710
+        "total_power": 1553283
       },
       {
         "owner": "takitome",
@@ -70722,7 +70809,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 227754
+        "total_power": 236112
       },
       {
         "owner": "Prismiti",
@@ -70754,7 +70841,7 @@ window.PALWORLD_DATA = {
     "total_captures": [
       {
         "owner": "LawzZ",
-        "total_captures": 232
+        "total_captures": 233
       },
       {
         "owner": "Theo",
