@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T19:01:25.288771+00:00",
+  "generated_at": "2026-07-23T19:11:03.113735+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 2,
+    "current_players": 3,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -21,15 +21,15 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 49.0,
+      "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
     {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": 48.0,
+      "ping": 50.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -65473,6 +65473,35 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 55,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 49,
+        "melee": 0,
+        "shot": 72,
+        "defense": 86
+      },
+      "power_stats": {
+        "hp": 4560,
+        "atk": 683,
+        "def": 767
+      },
+      "passives": [
+        {
+          "id": "ElementBoost_Earth_1_PAL",
+          "name": "Force tellurique",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Herbil",
       "species": "LeafMomonga",
       "species_name": "Herbil",
@@ -68771,6 +68800,35 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 52,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 26,
+        "melee": 0,
+        "shot": 69,
+        "defense": 68
+      },
+      "power_stats": {
+        "hp": 4123,
+        "atk": 642,
+        "def": 696
+      },
+      "passives": [
+        {
+          "id": "ElementResist_Normal_1_PAL",
+          "name": "Anormal",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Dumud",
       "species": "LazyCatfish",
       "species_name": "Dumud",
@@ -70559,6 +70617,35 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 55,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 76,
+        "melee": 0,
+        "shot": 8,
+        "defense": 64
+      },
+      "power_stats": {
+        "hp": 4827,
+        "atk": 529,
+        "def": 729
+      },
+      "passives": [
+        {
+          "id": "PAL_ALLAttack_down1",
+          "name": "Frileux",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Beakon Cryst",
       "species": "ThunderBird_Ice",
       "species_name": "Beakon Cryst",
@@ -70775,7 +70862,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "pal_count": 529
+        "pal_count": 532
       },
       {
         "owner": "takitome",
@@ -70801,7 +70888,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1553283
+        "total_power": 1570839
       },
       {
         "owner": "takitome",
