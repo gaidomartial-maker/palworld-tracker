@@ -241,9 +241,14 @@ def fetch_player_records(uids):
     le jeu lui-meme). Par contre, les fichiers individuels Players/<uid>.sav
     contiennent un vrai historique (SaveData.RecordData) : notamment
     PalCaptureBonusCount (compteur de captures A VIE par espece, plafonne a
-    5 -- exactement le bonus "5x la meme espece") et TribeCaptureCount
-    (total de captures a vie, toutes especes). On les recupere ici, un
-    fichier par joueur connu.
+    5 -- exactement le bonus "5x la meme espece"). TribeCaptureCount, lui,
+    NE represente PAS le total de toutes les captures (verifie : un
+    joueur avec 8 especes au bonus x5 avait un TribeCaptureCount plus
+    petit que 8*5=40, donc les deux ne peuvent pas mesurer la meme chose)
+    -- "Tribu" fait plutot reference a une mecanique specifique de
+    rencontres de groupes de Pals, pas aux captures classiques. On le
+    remonte quand meme (utile en soi) mais sans pretendre que c'est un
+    total general.
 
     Retourne {uid: {"species_bonus_count": N, "total_captures": N}}, en
     ignorant silencieusement les joueurs dont le fichier est illisible.
