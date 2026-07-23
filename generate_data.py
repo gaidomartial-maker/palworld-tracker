@@ -226,55 +226,61 @@ def download_save_file(local_path="Level.sav"):
     return local_path
 
 
-def diagnose_player_save_structure():
-    """
-    Diagnostic temporaire : le temps de jeu et le nombre de morts par joueur
-    ne sont pas dans Level.sav (verifie -- pas de champ de ce genre dans les
-    cles SaveParameter des Pals/joueurs qu'on lit deja). Ces infos sont
-    probablement dans les fichiers individuels Players/<uid>.sav, qu'on ne
-    telecharge pas actuellement. On liste ce dossier et on inspecte un
-    fichier pour voir sa vraie structure avant d'ecrire le code definitif.
-    """
+def _players_folder():
     idx = SFTP_SAVE_PATH.rfind("/")
     if idx == -1:
-        print("[diag] impossible de deduire le dossier Players/ depuis SFTP_SAVE_PATH")
-        return
-    folder = SFTP_SAVE_PATH[:idx] + "/Players"
+        return None
+    return SFTP_SAVE_PATH[:idx] + "/Players"
 
+
+def fetch_player_records(uids):
+    """
+    Level.sav (CharacterSaveParameterMap) n'a ni temps de jeu ni nombre de
+    morts -- verifie a fond, ces infos n'existent nulle part dans la
+    sauvegarde (le temps de jeu est probablement suivi cote Steam, pas par
+    le jeu lui-meme). Par contre, les fichiers individuels Players/<uid>.sav
+    contiennent un vrai historique (SaveData.RecordData) : notamment
+    PalCaptureBonusCount (compteur de captures A VIE par espece, plafonne a
+    5 -- exactement le bonus "5x la meme espece") et TribeCaptureCount
+    (total de captures a vie, toutes especes). On les recupere ici, un
+    fichier par joueur connu.
+
+    Retourne {uid: {"species_bonus_count": N, "total_captures": N}}, en
+    ignorant silencieusement les joueurs dont le fichier est illisible.
+    """
+    folder = _players_folder()
+    if not folder:
+        return {}
+
+    from palsav_lite.gvas import GvasFile
+    from palsav_lite.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
+
+    results = {}
     try:
         transport = paramiko.Transport((SFTP_HOST, SFTP_PORT))
         transport.connect(username=SFTP_USER, password=SFTP_PASSWORD)
         sftp = paramiko.SFTPClient.from_transport(transport)
-        files = sftp.listdir(folder)
-        print(f"[diag] dossier {folder} : {files}")
+        for uid in uids:
+            local_path = f"player_{uid}.sav"
+            try:
+                sftp.get(f"{folder}/{uid}.sav", local_path)
+                with open(local_path, "rb") as f:
+                    raw = decompress_sav(f.read())
+                gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
+                record_data = gvas.properties.get("SaveData", {}).get("value", {}).get("RecordData", {}).get("value", {})
 
-        sav_files = sorted(f for f in files if f.lower().endswith(".sav"))
-        if not sav_files:
-            sftp.close()
-            transport.close()
-            return
+                bonus_map = record_data.get("PalCaptureBonusCount", {}).get("value", [])
+                species_bonus_count = sum(1 for e in bonus_map if _as_int(e.get("value"), 0) >= 5)
+                total_captures = _as_int(record_data.get("TribeCaptureCount", {}).get("value"), 0)
 
-        sample_name = sav_files[0]
-        local_path = "player_sample.sav"
-        sftp.get(f"{folder}/{sample_name}", local_path)
+                results[uid] = {"species_bonus_count": species_bonus_count, "total_captures": total_captures}
+            except Exception as e:
+                print(f"[player_records] echec pour {uid} : {e}")
         sftp.close()
         transport.close()
-
-        with open(local_path, "rb") as f:
-            raw = decompress_sav(f.read())
-
-        from palsav_lite.gvas import GvasFile
-        from palsav_lite.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
-
-        gvas = GvasFile.read(raw, PALWORLD_TYPE_HINTS, PALWORLD_CUSTOM_PROPERTIES)
-        record_data = gvas.properties.get("SaveData", {}).get("value", {}).get("RecordData", {}).get("value", {})
-        print(f"[diag] {sample_name} -- cles de RecordData : {sorted(record_data.keys())}")
-        for key in sorted(record_data.keys()):
-            if key in ("TowerBossDefeatFlag", "TowerBossDefeatCount", "NormalBossDefeatFlag", "PalCaptureCount"):
-                continue  # deja vus, on evite de re-spammer les logs
-            print(f"[diag] {sample_name} -- RecordData.{key} = {record_data[key]!r}"[:1000])
     except Exception as e:
-        print(f"[diag] echec exploration Players/ : {e}")
+        print(f"[player_records] echec connexion SFTP : {e}")
+    return results
 
 
 _oodle_lib = None
@@ -569,14 +575,16 @@ def parse_characters(save_path, online_players):
     return players, pals
 
 
-def build_records(pals):
+def build_records(players, pals, player_records):
     """
-    Le jeu ne garde pas de compteur de kills/morts/degats dans la
-    sauvegarde (aucune trace trouvee malgre plusieurs recherches) -- ces
-    "records" sont donc calcules a partir de ce qu'on a reellement :
-    la composition actuelle des equipes de Pals. Pas des totaux depuis
-    toujours (un Pal libere/mort disparaitrait du compte), juste un
-    instantane a l'heure de generation.
+    Le jeu ne garde pas de temps de jeu ni de compteur de morts/degats dans
+    la sauvegarde (verifie a fond : ni dans Level.sav, ni dans les fichiers
+    individuels Players/<uid>.sav -- probablement suivi cote Steam pour le
+    temps de jeu, pas du tout pour les morts). "most_pals"/"strongest_team"
+    restent donc des instantanes de l'equipe actuelle (pas un historique :
+    un Pal libere/mort n'y apparait plus). "species_bonus"/"total_captures"
+    par contre viennent de player_records (RecordData) et sont de vrais
+    totaux a vie, independants de ce qui est possede aujourd'hui.
     """
     by_owner = {}
     for pal in pals:
@@ -587,32 +595,22 @@ def build_records(pals):
         if ps:
             entry["total_power"] += ps["hp"] + ps["atk"] + ps["def"]
 
-    # Bonus de capture (5x la meme espece) : on compte, par joueur, le nombre
-    # d'especes dont il possede actuellement au moins 5 exemplaires. Meme
-    # limite que ci-dessus : ca reflete la possession actuelle, pas
-    # l'historique complet si des Pals ont ete relaches/sont morts depuis.
-    species_count_by_owner = {}
-    for pal in pals:
-        owner = pal.get("owner", "inconnu")
-        species = pal.get("species", "???")
-        key = (owner, species)
-        species_count_by_owner[key] = species_count_by_owner.get(key, 0) + 1
-
-    species_bonus_by_owner = {}
-    for (owner, species), count in species_count_by_owner.items():
-        if count >= 5:
-            species_bonus_by_owner[owner] = species_bonus_by_owner.get(owner, 0) + 1
-
     most_pals = sorted(by_owner.values(), key=lambda e: e["pal_count"], reverse=True)
     strongest_team = sorted(by_owner.values(), key=lambda e: e["total_power"], reverse=True)
-    species_bonus = sorted(
-        ({"owner": owner, "species_bonus_count": n} for owner, n in species_bonus_by_owner.items()),
-        key=lambda e: e["species_bonus_count"], reverse=True,
-    )
+
+    captures = []
+    for p in players:
+        rec = player_records.get(p["playerId"])
+        if rec:
+            captures.append({"owner": p["name"], **rec})
+    species_bonus = sorted(captures, key=lambda e: e["species_bonus_count"], reverse=True)
+    total_captures = sorted(captures, key=lambda e: e["total_captures"], reverse=True)
+
     return {
         "most_pals": [{"owner": e["owner"], "pal_count": e["pal_count"]} for e in most_pals],
         "strongest_team": [{"owner": e["owner"], "total_power": e["total_power"]} for e in strongest_team],
-        "species_bonus": species_bonus,
+        "species_bonus": [{"owner": e["owner"], "species_bonus_count": e["species_bonus_count"]} for e in species_bonus],
+        "total_captures": [{"owner": e["owner"], "total_captures": e["total_captures"]} for e in total_captures],
     }
 
 
@@ -633,17 +631,19 @@ def main():
         print("AVERTISSEMENT -- lecture de Level.sav impossible pour l'instant :")
         traceback.print_exc()
 
-    try:
-        diagnose_player_save_structure()
-    except Exception as e:
-        print(f"[diag] erreur inattendue : {e}")
+    player_records = {}
+    if players:
+        try:
+            player_records = fetch_player_records([p["playerId"] for p in players])
+        except Exception as e:
+            print(f"[player_records] erreur inattendue : {e}")
 
     data = {
         "generated_at": datetime.datetime.now().astimezone().isoformat(),
         "server": server,
         "players": players,
         "pals": pals,
-        "records": build_records(pals) if pals else None,
+        "records": build_records(players, pals, player_records) if pals else None,
     }
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:

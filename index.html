@@ -207,7 +207,7 @@
   <section id="records-section">
     <div class="section-head">
       <h2>Records</h2>
-      <p>Le jeu ne garde pas de compteur de kills/morts/dégâts dans la sauvegarde — voici ce qu'on peut calculer à partir des équipes actuelles.</p>
+      <p>Le jeu ne garde pas de temps de jeu ni de compteur de morts/dégâts — voici les stats réelles disponibles (les deux premiers cartons sont un instantané de l'équipe actuelle, les deux derniers sont des totaux à vie).</p>
     </div>
     <div class="records-grid">
       <div class="record-card">
@@ -221,8 +221,13 @@
       </div>
       <div class="record-card">
         <h3>Bonus de capture (x5)</h3>
-        <p class="record-sub">Nombre d'espèces possédées en 5 exemplaires ou plus</p>
+        <p class="record-sub">Nombre d'espèces capturées 5 fois ou plus (total à vie)</p>
         <ol id="record-species-bonus"></ol>
+      </div>
+      <div class="record-card">
+        <h3>Captures totales</h3>
+        <p class="record-sub">Total de Pals capturés à vie, toutes espèces confondues</p>
+        <ol id="record-total-captures"></ol>
       </div>
     </div>
   </section>
@@ -354,6 +359,7 @@
     renderRecordList('record-most-pals', D.records.most_pals, 'pal_count', v => `${v} Pals`);
     renderRecordList('record-strongest-team', D.records.strongest_team, 'total_power', v => v.toLocaleString('fr-FR'));
     renderRecordList('record-species-bonus', D.records.species_bonus, 'species_bonus_count', v => `${v} espèces`);
+    renderRecordList('record-total-captures', D.records.total_captures, 'total_captures', v => `${v} Pals`);
   }
 })();
 </script>
