@@ -242,34 +242,6 @@ def _normalize_uid(value):
     return str(value).replace("-", "").upper()
 
 
-def _patch_character_decoder():
-    """
-    palworld-save-tools (fige sur PyPI depuis fin 2024) leve une exception
-    des qu'un Pal/joueur contient, en fin de structure RawData, des octets
-    qu'il ne reconnait pas -- ce qui arrive systematiquement depuis que le
-    jeu a ajoute des champs plus recents. On adopte ici le comportement du
-    fork activement maintenu deafdudecomputers/PalworldSaveTools : les
-    octets superflus sont conserves tels quels plutot que de faire planter
-    tout le parsing (l'API FArchiveReader/Writer sous-jacente est identique
-    entre les deux projets).
-    """
-    from palworld_save_tools.rawdata import character
-
-    def decode_bytes(parent_reader, char_bytes):
-        reader = parent_reader.internal_copy(bytes(char_bytes), debug=False)
-        char_data = {
-            "object": reader.properties_until_end(),
-            "unknown_bytes": reader.byte_list(4),
-            "group_id": reader.guid(),
-        }
-        char_data["trailing_bytes"] = reader.byte_list(4)
-        if not reader.eof():
-            char_data["trailing_unknown_bytes"] = reader.read_to_end()
-        return char_data
-
-    character.decode_bytes = decode_bytes
-
-
 def parse_characters(save_path, online_players):
     """
     Level.sav contient un CharacterSaveParameterMap qui liste TOUS les
@@ -277,11 +249,18 @@ def parse_characters(save_path, online_players):
     un joueur est deconnecte. On s'en sert donc aussi pour construire le
     classement complet des joueurs (pas seulement ceux renvoyes par
     l'API REST, qui ne liste que les joueurs actuellement connectes).
-    """
-    from palworld_save_tools.gvas import GvasFile
-    from palworld_save_tools.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
 
-    _patch_character_decoder()
+    Le parsing GVAS passe par palsav_lite/ (vendore dans ce repo depuis
+    deafdudecomputers/PalworldSaveTools, projet activement maintenu),
+    pas par le paquet pip "palworld-save-tools" -- celui-ci est fige sur
+    PyPI depuis fin 2024 et ses decodeurs RawData (character, map_object,
+    etc.) plantent des qu'ils rencontrent des octets ajoutes par une mise
+    a jour plus recente du jeu. palsav_lite ne reprend que les modules de
+    parsing purs Python (archive/gvas/paltypes/rawdata) -- pas la partie
+    compression, deja geree par _oodle_decompress() ci-dessus.
+    """
+    from palsav_lite.gvas import GvasFile
+    from palsav_lite.paltypes import PALWORLD_CUSTOM_PROPERTIES, PALWORLD_TYPE_HINTS
 
     with open(save_path, "rb") as f:
         raw = decompress_sav(f.read())
