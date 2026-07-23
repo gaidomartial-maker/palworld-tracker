@@ -114,10 +114,17 @@ def _compute_pal_power_stats(char_id, level, talents, rank_hp, rank_attack, rank
     passive_bonus = passive_bonus or {"hp": 0, "atk": 0, "def": 0}
     import math
 
+    # Contrairement a _lookup_pal() (qui affiche le nom "propre" sans le
+    # prefixe Boss_), ici il ne faut PAS l'enlever avant de chercher : les
+    # variantes Boss ont leurs propres stats de base, souvent nettement
+    # superieures (ex: BOSS_BlackCentaur hp_scaling=156 vs 130 pour la
+    # version normale). On cherche donc la cle exacte en priorite, et on
+    # ne retombe sur la version de base que si la variante Boss n'a pas
+    # sa propre entree.
     key = str(char_id).lower()
-    if key.startswith("boss_"):
-        key = key[5:]
     sd = PAL_STATS.get(key)
+    if not sd and key.startswith("boss_"):
+        sd = PAL_STATS.get(key[5:])
     if not sd:
         return None
 
