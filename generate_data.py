@@ -46,6 +46,11 @@ SFTP_PORT = int(env("SFTP_PORT", default="22"))
 SFTP_USER = env("SFTP_USER")
 SFTP_PASSWORD = env("SFTP_PASSWORD")
 SFTP_SAVE_PATH = env("SFTP_SAVE_PATH")
+# Chemin SFTP vers la vraie bibliotheque Oodle du serveur dedie (celle que le
+# jeu utilise lui-meme pour ecrire ses saves), ex: .../Pal/Binaries/Linux/liboo2corelinux64.so.9
+# Optionnel : si absent, on retombe sur le decompresseur Kraken open source
+# (moins fiable, cf. decompress_sav()).
+SFTP_OODLE_LIB_PATH = env("SFTP_OODLE_LIB_PATH", required=False)
 
 OUTPUT_PATH = "data.js"
 
@@ -91,47 +96,115 @@ def download_save_file(local_path="Level.sav"):
     return local_path
 
 
+_oodle_lib = None
+_oodle_lib_attempted = False
+
+
+def _get_oodle_lib():
+    """
+    Charge la vraie bibliotheque Oodle (celle qui accompagne le serveur
+    dedie Palworld) via SFTP + ctypes. La reimplementation open source
+    utilisee par kraken-decompressor est incomplete et echoue sur certains
+    flux Kraken reels (verifie : le decodeur natif renvoie -1 sur des
+    donnees dont l'entete est pourtant parfaitement valide) -- la vraie
+    lib Oodle, elle, est le decodeur d'origine, garanti compatible avec
+    ce que le jeu produit.
+
+    Retourne None si SFTP_OODLE_LIB_PATH n'est pas configure ou si le
+    telechargement/chargement echoue : on retombe alors sur kraken-decompressor.
+    """
+    global _oodle_lib, _oodle_lib_attempted
+    if _oodle_lib_attempted:
+        return _oodle_lib
+    _oodle_lib_attempted = True
+
+    if not SFTP_OODLE_LIB_PATH:
+        return None
+
+    import ctypes
+
+    local_path = os.path.abspath("liboodle.so")
+    try:
+        transport = paramiko.Transport((SFTP_HOST, SFTP_PORT))
+        transport.connect(username=SFTP_USER, password=SFTP_PASSWORD)
+        sftp = paramiko.SFTPClient.from_transport(transport)
+        sftp.get(SFTP_OODLE_LIB_PATH, local_path)
+        sftp.close()
+        transport.close()
+
+        lib = ctypes.CDLL(local_path)
+        # Signature verifiee aupres de plusieurs outils reels (dont quickbms) :
+        # OodleLZ_Decompress(in, insz, out, outsz, fuzzSafe, checkCRC, verbosity,
+        #                     decBufBase, decBufSize, callback, callbackData,
+        #                     decoderMemory, decoderMemorySize, threadPhase)
+        lib.OodleLZ_Decompress.restype = ctypes.c_int64
+        lib.OodleLZ_Decompress.argtypes = [
+            ctypes.c_char_p, ctypes.c_int64,
+            ctypes.c_char_p, ctypes.c_int64,
+            ctypes.c_int, ctypes.c_int, ctypes.c_int,
+            ctypes.c_void_p, ctypes.c_int64,
+            ctypes.c_void_p, ctypes.c_void_p,
+            ctypes.c_void_p, ctypes.c_int64,
+            ctypes.c_int,
+        ]
+        _oodle_lib = lib
+        print(f"[oodle] bibliotheque Oodle chargee depuis {SFTP_OODLE_LIB_PATH}")
+    except Exception as e:
+        print(f"[oodle] impossible de charger la vraie lib Oodle ({e}) -- repli sur kraken-decompressor")
+        _oodle_lib = None
+    return _oodle_lib
+
+
+def _oodle_decompress(body, uncompressed_len):
+    import ctypes
+
+    lib = _get_oodle_lib()
+    if lib is not None:
+        out_buf = ctypes.create_string_buffer(uncompressed_len)
+        written = lib.OodleLZ_Decompress(
+            body, len(body), out_buf, uncompressed_len,
+            0, 0, 0, None, 0, None, None, None, 0, 3,
+        )
+        if written == uncompressed_len:
+            return out_buf.raw
+        print(
+            f"[oodle] OodleLZ_Decompress a renvoye {written} octets au lieu de "
+            f"{uncompressed_len} -- repli sur kraken-decompressor"
+        )
+
+    from kraken_decompressor import decompress as kraken_decompress
+    return kraken_decompress(body, uncompressed_len)
+
+
 def decompress_sav(data):
     """
     Gere les deux formats de sauvegarde Palworld :
       - PlZ (zlib) : ancien format, gere par palworld-save-tools
-      - PlM (Oodle) : nouveau format depuis la mise a jour ete 2026,
-        gere ici via la librairie kraken-decompressor
+      - PlM (Oodle) : nouveau format depuis la mise a jour ete 2026, gere
+        par la vraie lib Oodle du serveur si SFTP_OODLE_LIB_PATH est
+        configure, sinon par la librairie kraken-decompressor (repli)
 
     Header (12 octets) : uncompressed_len (u32), compressed_len (u32),
     magic (3 octets), save_type (1 octet). Pour le format PlM, save_type
     vaut toujours 0x31 et le corps est decompresse en une seule passe
-    Oodle/Kraken -- il n'y a pas de zlib par-dessus, contrairement a ce
-    qu'on pensait avant (d'ou le bug : on tentait un zlib.decompress en
-    plus qui n'aurait de toute facon jamais du se declencher, alors que
-    le vrai souci etait l'absence de verification de la taille obtenue).
+    Oodle/Kraken -- il n'y a pas de zlib par-dessus.
     """
     import struct
 
     uncompressed_len, compressed_len = struct.unpack("<II", data[0:8])
     magic = data[8:11]
-    save_type = data[11]
     body = data[12:12 + compressed_len]
-
-    print(
-        f"[decompress_sav] taille fichier={len(data)} uncompressed_len={uncompressed_len} "
-        f"compressed_len={compressed_len} magic={magic!r} save_type=0x{save_type:02X} "
-        f"body_len={len(body)} (attendu {compressed_len}) "
-        f"header+body={12 + compressed_len} (fichier={len(data)}) "
-        f"premiers_octets_body={body[:16].hex()}"
-    )
 
     if magic == b"PlZ":
         from palworld_save_tools.palsav import decompress_sav_to_gvas
         raw, _ = decompress_sav_to_gvas(data)
         return raw
     elif magic == b"PlM":
-        from kraken_decompressor import decompress as kraken_decompress
         try:
-            raw = kraken_decompress(body, uncompressed_len)
+            raw = _oodle_decompress(body, uncompressed_len)
         except Exception as e:
             raise Exception(
-                f"Echec kraken_decompress (body_len={len(body)}, "
+                f"Echec decompression Oodle (body_len={len(body)}, "
                 f"uncompressed_len={uncompressed_len}) : {e}"
             ) from e
         if len(raw) != uncompressed_len:
