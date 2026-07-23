@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T16:40:50.078264+00:00",
+  "generated_at": "2026-07-23T16:50:58.790481+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 2,
+    "current_players": 3,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 77,
       "building_count": null,
-      "ping": 68.0,
+      "ping": 62.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 77,
       "building_count": null,
-      "ping": 47.0,
+      "ping": 45.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,8 +29,8 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 71,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 49.0,
+      "online": true,
       "playerId": "75567350000000000000000000000000"
     },
     {
@@ -62954,9 +62954,9 @@ window.PALWORLD_DATA = {
         "defense": 50
       },
       "power_stats": {
-        "hp": 5433,
-        "atk": 1326,
-        "def": 1156
+        "hp": 5606,
+        "atk": 1334,
+        "def": 1170
       },
       "passives": [
         {
@@ -69022,7 +69022,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2276572
+        "total_power": 2276767
       },
       {
         "owner": "LawzZ",
@@ -69043,6 +69043,28 @@ window.PALWORLD_DATA = {
       {
         "owner": "Prismiti",
         "total_power": 78211
+      }
+    ],
+    "species_bonus": [
+      {
+        "owner": "Theo",
+        "species_bonus_count": 85
+      },
+      {
+        "owner": "Martial",
+        "species_bonus_count": 51
+      },
+      {
+        "owner": "LawzZ",
+        "species_bonus_count": 45
+      },
+      {
+        "owner": "takitome",
+        "species_bonus_count": 17
+      },
+      {
+        "owner": "Prismiti",
+        "species_bonus_count": 8
       }
     ]
   }
