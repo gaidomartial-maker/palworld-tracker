@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-23T20:51:00.472498+00:00",
+  "generated_at": "2026-07-23T20:57:27.616918+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 61.0,
+      "ping": 73.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,15 +29,15 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 72,
       "building_count": null,
-      "ping": 65.0,
+      "ping": 52.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
     {
       "name": "takitome",
-      "level": 53,
+      "level": 54,
       "building_count": null,
-      "ping": 73.0,
+      "ping": 80.0,
       "online": true,
       "playerId": "266A5F29000000000000000000000000"
     },
@@ -4189,7 +4189,7 @@ window.PALWORLD_DATA = {
       "species": "Deer",
       "species_name": "Eikthyrdeer",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Deer_icon_normal.webp",
-      "level": 32,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -4200,9 +4200,9 @@ window.PALWORLD_DATA = {
         "defense": 20
       },
       "power_stats": {
-        "hp": 2449,
-        "atk": 261,
-        "def": 249
+        "hp": 2509,
+        "atk": 268,
+        "def": 256
       },
       "passives": [
         {
@@ -12914,7 +12914,7 @@ window.PALWORLD_DATA = {
       "species": "Plesiosaur",
       "species_name": "Braloha",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Plesiosaur_icon_normal.webp",
-      "level": 32,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -12925,9 +12925,9 @@ window.PALWORLD_DATA = {
         "defense": 28
       },
       "power_stats": {
-        "hp": 2796,
-        "atk": 310,
-        "def": 403
+        "hp": 2867,
+        "atk": 320,
+        "def": 414
       },
       "passives": [
         {
@@ -14680,7 +14680,7 @@ window.PALWORLD_DATA = {
       "species": "WingGolem",
       "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
-      "level": 32,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -14691,9 +14691,9 @@ window.PALWORLD_DATA = {
         "defense": 20
       },
       "power_stats": {
-        "hp": 2788,
-        "atk": 356,
-        "def": 440
+        "hp": 2860,
+        "atk": 366,
+        "def": 453
       },
       "passives": [
         {
@@ -16045,7 +16045,7 @@ window.PALWORLD_DATA = {
       "species": "FairyDragon_Water",
       "species_name": "Elphidran Aqua",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FairyDragon_Water_icon_normal.webp",
-      "level": 32,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -16056,9 +16056,9 @@ window.PALWORLD_DATA = {
         "defense": 70
       },
       "power_stats": {
-        "hp": 2626,
-        "atk": 240,
-        "def": 299
+        "hp": 2693,
+        "atk": 247,
+        "def": 308
       },
       "passives": [
         {
@@ -64321,7 +64321,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 22,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -64332,9 +64332,9 @@ window.PALWORLD_DATA = {
         "defense": 45
       },
       "power_stats": {
-        "hp": 2040,
-        "atk": 399,
-        "def": 278
+        "hp": 2251,
+        "atk": 452,
+        "def": 315
       },
       "passives": [
         {
@@ -67299,7 +67299,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 22,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -67310,9 +67310,9 @@ window.PALWORLD_DATA = {
         "defense": 45
       },
       "power_stats": {
-        "hp": 2056,
-        "atk": 273,
-        "def": 278
+        "hp": 2269,
+        "atk": 310,
+        "def": 315
       },
       "passives": [
         {
@@ -71635,7 +71635,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 22,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -71646,9 +71646,9 @@ window.PALWORLD_DATA = {
         "defense": 45
       },
       "power_stats": {
-        "hp": 2025,
-        "atk": 248,
-        "def": 250
+        "hp": 2233,
+        "atk": 282,
+        "def": 283
       },
       "passives": [
         {
@@ -72381,7 +72381,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 1650425
+        "total_power": 1651288
       },
       {
         "owner": "takitome",
@@ -72389,7 +72389,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 247969
+        "total_power": 248313
       },
       {
         "owner": "Prismiti",
