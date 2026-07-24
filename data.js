@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T01:50:59.559732+00:00",
+  "generated_at": "2026-07-24T02:01:17.073945+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 61.0,
+      "ping": 59.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 74,
       "building_count": null,
-      "ping": 56.0,
+      "ping": 50,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -37,7 +37,7 @@ window.PALWORLD_DATA = {
       "name": "takitome",
       "level": 55,
       "building_count": null,
-      "ping": 71.0,
+      "ping": 76.0,
       "online": true,
       "playerId": "266A5F29000000000000000000000000"
     },
@@ -32572,7 +32572,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Tocotoco",
@@ -32722,7 +32722,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Beakon",
@@ -33250,7 +33250,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Rayhound",
@@ -36561,7 +36561,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_Anubis",
       "species_name": "Anubis",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Anubis_icon_normal.webp",
-      "level": 56,
+      "level": 57,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -36572,9 +36572,9 @@ window.PALWORLD_DATA = {
         "defense": 53
       },
       "power_stats": {
-        "hp": 5862,
-        "atk": 923,
-        "def": 555
+        "hp": 5957,
+        "atk": 938,
+        "def": 564
       },
       "souls": 0,
       "passives": [
@@ -38287,7 +38287,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Icelyn",
@@ -47297,7 +47297,7 @@ window.PALWORLD_DATA = {
       "species": "KingBahamut",
       "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
-      "level": 33,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -47308,9 +47308,9 @@ window.PALWORLD_DATA = {
         "defense": 70
       },
       "power_stats": {
-        "hp": 2725,
-        "atk": 437,
-        "def": 383
+        "hp": 2793,
+        "atk": 451,
+        "def": 395
       },
       "souls": 0,
       "passives": [
@@ -47320,7 +47320,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Shadowbeak",
@@ -47803,7 +47803,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Dazzi",
@@ -48951,7 +48951,7 @@ window.PALWORLD_DATA = {
       "species": "KingBahamut",
       "species_name": "Blazamut",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_KingBahamut_icon_normal.webp",
-      "level": 33,
+      "level": 34,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -48962,9 +48962,9 @@ window.PALWORLD_DATA = {
         "defense": 92
       },
       "power_stats": {
-        "hp": 2681,
-        "atk": 443,
-        "def": 402
+        "hp": 2747,
+        "atk": 457,
+        "def": 415
       },
       "souls": 0,
       "passives": [
@@ -48984,7 +48984,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Polapup",
@@ -49301,7 +49301,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Sparkit",
@@ -57574,7 +57574,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_ElecPanda",
       "species_name": "Grizzbolt",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ElecPanda_icon_normal.webp",
-      "level": 30,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -57585,9 +57585,9 @@ window.PALWORLD_DATA = {
         "defense": 50
       },
       "power_stats": {
-        "hp": 3172,
-        "atk": 352,
-        "def": 263
+        "hp": 3261,
+        "atk": 363,
+        "def": 272
       },
       "souls": 0,
       "passives": [
@@ -57597,7 +57597,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Azurobe Cryst",
@@ -61669,7 +61669,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Petallia",
@@ -63489,7 +63489,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Nitemary Botan",
@@ -64164,7 +64164,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Martial"
     },
     {
       "nickname": "Slowatt",
@@ -64738,7 +64738,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Blue Slime",
@@ -67568,7 +67568,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Blazamut",
@@ -74215,7 +74215,7 @@ window.PALWORLD_DATA = {
       "species": "SnakeGirl",
       "species_name": "Venusa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SnakeGirl_icon_normal.webp",
-      "level": 21,
+      "level": 25,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -74226,9 +74226,9 @@ window.PALWORLD_DATA = {
         "defense": 37
       },
       "power_stats": {
-        "hp": 1540,
-        "atk": 174,
-        "def": 206
+        "hp": 1739,
+        "atk": 207,
+        "def": 246
       },
       "souls": 0,
       "passives": [
@@ -79418,7 +79418,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 17,
+      "level": 18,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -79429,9 +79429,9 @@ window.PALWORLD_DATA = {
         "defense": 100
       },
       "power_stats": {
-        "hp": 1911,
-        "atk": 245,
-        "def": 219
+        "hp": 1994,
+        "atk": 260,
+        "def": 232
       },
       "souls": 0,
       "passives": [
@@ -79446,7 +79446,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Martial"
+      "owner": "inconnu"
     },
     {
       "nickname": "Sibelyx",
@@ -83782,6 +83782,36 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Relaxaurus Lux",
+      "species": "LazyDragon_Electric",
+      "species_name": "Relaxaurus Lux",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LazyDragon_Electric_icon_normal.webp",
+      "level": 53,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 52,
+        "melee": 0,
+        "shot": 36,
+        "defense": 30
+      },
+      "power_stats": {
+        "hp": 4441,
+        "atk": 607,
+        "def": 515
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Test_PalEgg_HatchingSpeed_Up",
+          "name": "Philanthropist",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -84426,6 +84456,51 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Relaxaurus Lux",
+      "species": "LazyDragon_Electric",
+      "species_name": "Relaxaurus Lux",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LazyDragon_Electric_icon_normal.webp",
+      "level": 48,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 74,
+        "melee": 0,
+        "shot": 91,
+        "defense": 49
+      },
+      "power_stats": {
+        "hp": 4259,
+        "atk": 621,
+        "def": 490
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "TrainerWorkSpeed_UP_1",
+          "name": "Motivateur",
+          "rank": 3
+        },
+        {
+          "id": "SwimSpeed_up_1",
+          "name": "Sleek Stroke",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Earth_1_PAL",
+          "name": "Force tellurique",
+          "rank": 1
+        },
+        {
+          "id": "Stamina_Down_1",
+          "name": "Sickly",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -84484,6 +84559,46 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
+    },
+    {
+      "nickname": "en_text",
+      "species": "BlueberryFairy",
+      "species_name": "en_text",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueberryFairy_icon_normal.webp",
+      "level": 53,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 92,
+        "melee": 0,
+        "shot": 34,
+        "defense": 4
+      },
+      "power_stats": {
+        "hp": 4315,
+        "atk": 495,
+        "def": 441
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementResist_Normal_1_PAL",
+          "name": "Anormal",
+          "rank": 1
+        },
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "TrainerLogging_up1",
+          "name": "Chef d'abattage",
+          "rank": 3
+        }
+      ],
+      "owner": "takitome"
     },
     {
       "nickname": "Relaxaurus Lux",
@@ -84800,6 +84915,116 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Broncherry",
+      "species": "SakuraSaurus",
+      "species_name": "Broncherry",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_icon_normal.webp",
+      "level": 52,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 5,
+        "melee": 0,
+        "shot": 26,
+        "defense": 11
+      },
+      "power_stats": {
+        "hp": 3926,
+        "atk": 456,
+        "def": 529
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        },
+        {
+          "id": "ElementBoost_Dark_1_PAL",
+          "name": "Grimoire",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Broncherry Aqua",
+      "species": "SakuraSaurus_Water",
+      "species_name": "Broncherry Aqua",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_Water_icon_normal.webp",
+      "level": 54,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 86,
+        "melee": 0,
+        "shot": 85,
+        "defense": 72
+      },
+      "power_stats": {
+        "hp": 4845,
+        "atk": 478,
+        "def": 718
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        },
+        {
+          "id": "PAL_masochist",
+          "name": "Masochiste",
+          "rank": 1
+        },
+        {
+          "id": "SwimSpeed_up_1",
+          "name": "Sleek Stroke",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Broncherry Aqua",
+      "species": "SakuraSaurus_Water",
+      "species_name": "Broncherry Aqua",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_Water_icon_normal.webp",
+      "level": 51,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 68,
+        "melee": 0,
+        "shot": 86,
+        "defense": 17
+      },
+      "power_stats": {
+        "hp": 4439,
+        "atk": 533,
+        "def": 528
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        },
+        {
+          "id": "CoolTimeReduction_Down_1",
+          "name": "Easygoing",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Shadowbeak",
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
@@ -84970,6 +85195,51 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Starryon",
+      "species": "NightBlueHorse",
+      "species_name": "Starryon",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_NightBlueHorse_icon_normal.webp",
+      "level": 54,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 43,
+        "melee": 0,
+        "shot": 16,
+        "defense": 16
+      },
+      "power_stats": {
+        "hp": 4123,
+        "atk": 580,
+        "def": 394
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CraftSpeed_up1",
+          "name": "Sérieux",
+          "rank": 1
+        },
+        {
+          "id": "PAL_Sanity_Down_2",
+          "name": "Acharné",
+          "rank": 3
+        },
+        {
+          "id": "Stamina_Down_1",
+          "name": "Sickly",
+          "rank": -1
+        },
+        {
+          "id": "PAL_sadist",
+          "name": "Sadique",
+          "rank": 1
+        }
+      ],
+      "owner": "takitome"
+    },
+    {
       "nickname": "Menasting",
       "species": "DarkScorpion",
       "species_name": "Menasting",
@@ -85093,7 +85363,7 @@ window.PALWORLD_DATA = {
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
-      "level": 1,
+      "level": 7,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -85104,9 +85374,9 @@ window.PALWORLD_DATA = {
         "defense": 41
       },
       "power_stats": {
-        "hp": 583,
-        "atk": 17,
-        "def": 9
+        "hp": 1081,
+        "atk": 130,
+        "def": 73
       },
       "souls": 0,
       "passives": [
@@ -85422,17 +85692,82 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
+    },
+    {
+      "nickname": "Snugloo",
+      "species": "SmallYeti",
+      "species_name": "Snugloo",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SmallYeti_icon_normal.webp",
+      "level": 34,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 98,
+        "melee": 0,
+        "shot": 100,
+        "defense": 6
+      },
+      "power_stats": {
+        "hp": 2429,
+        "atk": 299,
+        "def": 245
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "MoveSpeed_up_2",
+          "name": "Coursier",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Broncherry",
+      "species": "SakuraSaurus",
+      "species_name": "Broncherry",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_icon_normal.webp",
+      "level": 52,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 44,
+        "melee": 0,
+        "shot": 27,
+        "defense": 4
+      },
+      "power_stats": {
+        "hp": 4291,
+        "atk": 457,
+        "def": 519
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        },
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     }
   ],
   "records": {
     "most_pals": [
       {
         "owner": "Martial",
-        "pal_count": 836
+        "pal_count": 843
       },
       {
         "owner": "Theo",
-        "pal_count": 808
+        "pal_count": 807
       },
       {
         "owner": "LawzZ",
@@ -85440,11 +85775,11 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "takitome",
-        "pal_count": 251
+        "pal_count": 253
       },
       {
         "owner": "inconnu",
-        "pal_count": 73
+        "pal_count": 74
       },
       {
         "owner": "Prismiti",
@@ -85454,11 +85789,11 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2453291
+        "total_power": 2436331
       },
       {
         "owner": "Martial",
-        "total_power": 2109848
+        "total_power": 2147421
       },
       {
         "owner": "LawzZ",
@@ -85466,11 +85801,11 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "takitome",
-        "total_power": 585271
+        "total_power": 595619
       },
       {
         "owner": "inconnu",
-        "total_power": 328153
+        "total_power": 344638
       },
       {
         "owner": "Prismiti",
@@ -85484,7 +85819,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "species_bonus_count": 81
+        "species_bonus_count": 82
       },
       {
         "owner": "LawzZ",
@@ -85510,11 +85845,11 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "paldeck_count": 173
+        "paldeck_count": 174
       },
       {
         "owner": "takitome",
-        "paldeck_count": 102
+        "paldeck_count": 103
       },
       {
         "owner": "Prismiti",
