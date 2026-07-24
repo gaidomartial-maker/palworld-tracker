@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T06:11:00.348860+00:00",
+  "generated_at": "2026-07-24T06:21:02.739872+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 60.0,
+      "ping": 65.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -11661,7 +11661,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 39,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -11672,9 +11672,9 @@ window.PALWORLD_DATA = {
         "defense": 54
       },
       "power_stats": {
-        "hp": 2756,
-        "atk": 316,
-        "def": 296
+        "hp": 2987,
+        "atk": 348,
+        "def": 327
       },
       "souls": 0,
       "passives": [
@@ -16968,7 +16968,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Tanzee Ignis",
@@ -17113,7 +17113,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Ragnahawk",
@@ -17860,7 +17860,7 @@ window.PALWORLD_DATA = {
       },
       "souls": 0,
       "passives": [],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Sweepa",
@@ -20051,7 +20051,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Clovee",
@@ -28558,7 +28558,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Surfent Terra",
@@ -29543,7 +29543,7 @@ window.PALWORLD_DATA = {
           "rank": -3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Moldron",
@@ -30741,7 +30741,7 @@ window.PALWORLD_DATA = {
       "species": "GrassGolem",
       "species_name": "Dualith",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassGolem_icon_normal.webp",
-      "level": 32,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -30752,9 +30752,9 @@ window.PALWORLD_DATA = {
         "defense": 22
       },
       "power_stats": {
-        "hp": 2789,
-        "atk": 336,
-        "def": 411
+        "hp": 2861,
+        "atk": 346,
+        "def": 423
       },
       "souls": 0,
       "passives": [
@@ -44272,7 +44272,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Smokie",
@@ -44338,6 +44338,36 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
+    },
+    {
+      "nickname": "Smokie",
+      "species": "BlackPuppy",
+      "species_name": "Smokie",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackPuppy_icon_normal.webp",
+      "level": 59,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 67,
+        "melee": 0,
+        "shot": 65,
+        "defense": 27
+      },
+      "power_stats": {
+        "hp": 3806,
+        "atk": 563,
+        "def": 495
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "TrainerDEF_UP_1",
+          "name": "Stratège de forteresse",
+          "rank": 3
+        }
+      ],
+      "owner": "Theo"
     },
     {
       "nickname": "Shadowbeak",
@@ -45176,7 +45206,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Astegon",
@@ -55768,7 +55798,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Lullu",
@@ -56235,7 +56265,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Reindrix",
@@ -56555,7 +56585,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Foxcicle",
@@ -56819,7 +56849,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Sekhmet",
@@ -58026,7 +58056,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Foxcicle",
@@ -59259,7 +59289,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Tocotoco",
@@ -62070,7 +62100,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Dualith",
@@ -62703,7 +62733,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Petallia",
@@ -64160,7 +64190,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Omascul",
@@ -64355,7 +64385,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Kelpsea Ignis",
@@ -64579,7 +64609,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Dazzi Noct",
@@ -64693,7 +64723,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Menasting",
@@ -66684,7 +66714,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Helzephyr",
@@ -69974,7 +70004,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Melpaca",
@@ -70424,7 +70454,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Flopie",
@@ -71647,7 +71677,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Shroomer",
@@ -72131,7 +72161,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Ophydia",
@@ -72895,7 +72925,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Eidrolon",
@@ -74428,7 +74458,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Menasting Terra",
@@ -74865,7 +74895,7 @@ window.PALWORLD_DATA = {
       "species": "WhiteDeer_Dark",
       "species_name": "Celesdir Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
-      "level": 31,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -74876,9 +74906,9 @@ window.PALWORLD_DATA = {
         "defense": 36
       },
       "power_stats": {
-        "hp": 2637,
-        "atk": 332,
-        "def": 280
+        "hp": 2775,
+        "atk": 354,
+        "def": 298
       },
       "souls": 0,
       "passives": [
@@ -75132,7 +75162,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "inconnu"
+      "owner": "Theo"
     },
     {
       "nickname": "Blazehowl Noct",
@@ -76627,7 +76657,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Quivern",
@@ -89465,7 +89495,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_GhostDragon",
       "species_name": "Eidrolon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostDragon_icon_normal.webp",
-      "level": 27,
+      "level": 28,
       "rank": 2,
       "is_alpha": false,
       "is_awakened": false,
@@ -89476,9 +89506,9 @@ window.PALWORLD_DATA = {
         "defense": 96
       },
       "power_stats": {
-        "hp": 3318,
-        "atk": 432,
-        "def": 364
+        "hp": 3422,
+        "atk": 448,
+        "def": 378
       },
       "souls": 0,
       "passives": [
@@ -91190,7 +91220,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_WhiteAlienDragon",
       "species_name": "Xenogard",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteAlienDragon_icon_normal.webp",
-      "level": 50,
+      "level": 52,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -91201,9 +91231,9 @@ window.PALWORLD_DATA = {
         "defense": 68
       },
       "power_stats": {
-        "hp": 5030,
-        "atk": 563,
-        "def": 716
+        "hp": 5211,
+        "atk": 586,
+        "def": 746
       },
       "souls": 0,
       "passives": [
@@ -92138,6 +92168,36 @@ window.PALWORLD_DATA = {
       "species": "BlackPuppy",
       "species_name": "Smokie",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackPuppy_icon_normal.webp",
+      "level": 59,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 82,
+        "melee": 0,
+        "shot": 86,
+        "defense": 74
+      },
+      "power_stats": {
+        "hp": 3919,
+        "atk": 588,
+        "def": 503
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SwimSpeed_up_2",
+          "name": "Ace Swimmer",
+          "rank": 3
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
+      "nickname": "Smokie",
+      "species": "BlackPuppy",
+      "species_name": "Smokie",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackPuppy_icon_normal.webp",
       "level": 55,
       "rank": 0,
       "is_alpha": false,
@@ -92446,7 +92506,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Theo",
-        "pal_count": 860
+        "pal_count": 867
       },
       {
         "owner": "LawzZ",
@@ -92457,18 +92517,18 @@ window.PALWORLD_DATA = {
         "pal_count": 324
       },
       {
-        "owner": "inconnu",
-        "pal_count": 72
-      },
-      {
         "owner": "Prismiti",
         "pal_count": 70
+      },
+      {
+        "owner": "inconnu",
+        "pal_count": 67
       }
     ],
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2670751
+        "total_power": 2704884
       },
       {
         "owner": "Martial",
@@ -92484,7 +92544,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 396237
+        "total_power": 372912
       },
       {
         "owner": "Prismiti",
