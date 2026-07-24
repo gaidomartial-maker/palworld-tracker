@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T00:01:27.675170+00:00",
+  "generated_at": "2026-07-24T00:10:59.937331+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 56.0,
+      "ping": 67.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -27,9 +27,9 @@ window.PALWORLD_DATA = {
     },
     {
       "name": "Martial",
-      "level": 73,
+      "level": 74,
       "building_count": null,
-      "ping": 54.0,
+      "ping": 62.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -36589,7 +36589,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "en_text",
@@ -56876,7 +56876,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_SheepBall",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
-      "level": 28,
+      "level": 29,
       "rank": 1,
       "is_alpha": true,
       "is_awakened": false,
@@ -56887,9 +56887,9 @@ window.PALWORLD_DATA = {
         "defense": 78
       },
       "power_stats": {
-        "hp": 2217,
-        "atk": 266,
-        "def": 221
+        "hp": 2277,
+        "atk": 276,
+        "def": 228
       },
       "souls": 0,
       "passives": [
@@ -81425,7 +81425,7 @@ window.PALWORLD_DATA = {
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 6,
+      "level": 8,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -81436,9 +81436,9 @@ window.PALWORLD_DATA = {
         "defense": 100
       },
       "power_stats": {
-        "hp": 1072,
-        "atk": 94,
-        "def": 94
+        "hp": 1262,
+        "atk": 127,
+        "def": 127
       },
       "souls": 0,
       "passives": [
@@ -81641,6 +81641,36 @@ window.PALWORLD_DATA = {
           "id": "ElementBoost_Dragon_1_PAL",
           "name": "Sang de dragon",
           "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Vanwyrm Cryst",
+      "species": "BirdDragon_Ice",
+      "species_name": "Vanwyrm Cryst",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BirdDragon_Ice_icon_normal.webp",
+      "level": 30,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 17,
+        "melee": 0,
+        "shot": 100,
+        "defense": 43
+      },
+      "power_stats": {
+        "hp": 2068,
+        "atk": 396,
+        "def": 263
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Stamina_Down_1",
+          "name": "Sickly",
+          "rank": -1
         }
       ],
       "owner": "Martial"
@@ -82335,6 +82365,36 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Foxcicle",
+      "species": "IceFox",
+      "species_name": "Foxcicle",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
+      "level": 33,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 52,
+        "melee": 0,
+        "shot": 24,
+        "defense": 80
+      },
+      "power_stats": {
+        "hp": 2381,
+        "atk": 301,
+        "def": 346
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Fire_1_PAL",
+          "name": "Pyromane",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Vanwyrm Cryst",
       "species": "BirdDragon_Ice",
       "species_name": "Vanwyrm Cryst",
@@ -82363,17 +82423,77 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
+    },
+    {
+      "nickname": "Foxcicle",
+      "species": "IceFox",
+      "species_name": "Foxcicle",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
+      "level": 32,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 85,
+        "melee": 0,
+        "shot": 56,
+        "defense": 64
+      },
+      "power_stats": {
+        "hp": 2467,
+        "atk": 314,
+        "def": 324
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Down_1",
+          "name": "Easygoing",
+          "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Foxcicle",
+      "species": "IceFox",
+      "species_name": "Foxcicle",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceFox_icon_normal.webp",
+      "level": 33,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 59,
+        "melee": 0,
+        "shot": 20,
+        "defense": 25
+      },
+      "power_stats": {
+        "hp": 2412,
+        "atk": 298,
+        "def": 303
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "TrainerLogging_up1",
+          "name": "Chef d'abattage",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
     }
   ],
   "records": {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 833
+        "pal_count": 832
       },
       {
         "owner": "Martial",
-        "pal_count": 766
+        "pal_count": 770
       },
       {
         "owner": "LawzZ",
@@ -82389,13 +82509,13 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "pal_count": 47
+        "pal_count": 48
       }
     ],
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2591373
+        "total_power": 2584120
       },
       {
         "owner": "LawzZ",
@@ -82403,7 +82523,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 2035380
+        "total_power": 2047253
       },
       {
         "owner": "takitome",
@@ -82411,7 +82531,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 182748
+        "total_power": 190334
       },
       {
         "owner": "Prismiti",
@@ -82425,7 +82545,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "species_bonus_count": 76
+        "species_bonus_count": 78
       },
       {
         "owner": "LawzZ",
