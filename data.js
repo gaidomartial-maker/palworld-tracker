@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T06:41:04.401204+00:00",
+  "generated_at": "2026-07-24T06:51:02.991623+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 59.0,
+      "ping": 60.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 44.0,
+      "ping": 46.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -906,7 +906,7 @@ window.PALWORLD_DATA = {
       "species": "ChickenPal",
       "species_name": "Chikipi",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ChickenPal_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -917,9 +917,9 @@ window.PALWORLD_DATA = {
         "defense": 31
       },
       "power_stats": {
-        "hp": 1809,
-        "atk": 220,
-        "def": 192
+        "hp": 1847,
+        "atk": 226,
+        "def": 198
       },
       "souls": 0,
       "passives": [
@@ -1001,7 +1001,7 @@ window.PALWORLD_DATA = {
       "species": "JetDragon",
       "species_name": "Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
-      "level": 25,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -1012,9 +1012,9 @@ window.PALWORLD_DATA = {
         "defense": 75
       },
       "power_stats": {
-        "hp": 2476,
-        "atk": 414,
-        "def": 351
+        "hp": 3504,
+        "atk": 631,
+        "def": 535
       },
       "souls": 0,
       "passives": [
@@ -2063,7 +2063,7 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 27,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -2074,9 +2074,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 2900,
-        "atk": 500,
-        "def": 373
+        "hp": 3256,
+        "atk": 574,
+        "def": 428
       },
       "souls": 0,
       "passives": [
@@ -11713,7 +11713,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 45,
+      "level": 46,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -11724,9 +11724,9 @@ window.PALWORLD_DATA = {
         "defense": 54
       },
       "power_stats": {
-        "hp": 3103,
-        "atk": 364,
-        "def": 342
+        "hp": 3310,
+        "atk": 389,
+        "def": 365
       },
       "souls": 0,
       "passives": [
@@ -17830,7 +17830,7 @@ window.PALWORLD_DATA = {
       "species": "SweetsSheep",
       "species_name": "Woolipop",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SweetsSheep_icon_normal.webp",
-      "level": 9,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -17841,9 +17841,9 @@ window.PALWORLD_DATA = {
         "defense": 53
       },
       "power_stats": {
-        "hp": 861,
-        "atk": 61,
-        "def": 76
+        "hp": 942,
+        "atk": 75,
+        "def": 94
       },
       "souls": 0,
       "passives": [
@@ -17858,7 +17858,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Blazehowl",
@@ -18828,7 +18828,7 @@ window.PALWORLD_DATA = {
       "species": "SweetsSheep",
       "species_name": "Woolipop",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SweetsSheep_icon_normal.webp",
-      "level": 9,
+      "level": 11,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -18839,9 +18839,9 @@ window.PALWORLD_DATA = {
         "defense": 68
       },
       "power_stats": {
-        "hp": 936,
-        "atk": 68,
-        "def": 79
+        "hp": 1033,
+        "atk": 84,
+        "def": 97
       },
       "souls": 0,
       "passives": [
@@ -18856,7 +18856,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "LawzZ"
+      "owner": "inconnu"
     },
     {
       "nickname": "Sparkit",
@@ -24133,7 +24133,7 @@ window.PALWORLD_DATA = {
       "species": "SakuraSaurus_Water",
       "species_name": "Broncherry Aqua",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SakuraSaurus_Water_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -24144,9 +24144,9 @@ window.PALWORLD_DATA = {
         "defense": 48
       },
       "power_stats": {
-        "hp": 2814,
-        "atk": 307,
-        "def": 379
+        "hp": 2882,
+        "atk": 316,
+        "def": 391
       },
       "souls": 0,
       "passives": [
@@ -30793,7 +30793,7 @@ window.PALWORLD_DATA = {
       "species": "GrassGolem",
       "species_name": "Dualith",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassGolem_icon_normal.webp",
-      "level": 35,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -30804,9 +30804,9 @@ window.PALWORLD_DATA = {
         "defense": 22
       },
       "power_stats": {
-        "hp": 3004,
-        "atk": 368,
-        "def": 450
+        "hp": 3075,
+        "atk": 379,
+        "def": 463
       },
       "souls": 0,
       "passives": [
@@ -37443,7 +37443,7 @@ window.PALWORLD_DATA = {
       "species": "Yeti_Grass",
       "species_name": "Wumpo Botan",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Yeti_Grass_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -37454,9 +37454,9 @@ window.PALWORLD_DATA = {
         "defense": 62
       },
       "power_stats": {
-        "hp": 3735,
-        "atk": 311,
-        "def": 428
+        "hp": 3830,
+        "atk": 319,
+        "def": 441
       },
       "souls": 0,
       "passives": [
@@ -37846,7 +37846,7 @@ window.PALWORLD_DATA = {
       "species": "Plesiosaur",
       "species_name": "Braloha",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Plesiosaur_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -37857,9 +37857,9 @@ window.PALWORLD_DATA = {
         "defense": 61
       },
       "power_stats": {
-        "hp": 3251,
-        "atk": 362,
-        "def": 463
+        "hp": 3332,
+        "atk": 372,
+        "def": 477
       },
       "souls": 0,
       "passives": [
@@ -41553,7 +41553,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_BlueDragon",
       "species_name": "Azurobe",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlueDragon_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -41564,9 +41564,9 @@ window.PALWORLD_DATA = {
         "defense": 65
       },
       "power_stats": {
-        "hp": 3479,
-        "atk": 361,
-        "def": 329
+        "hp": 3567,
+        "atk": 371,
+        "def": 339
       },
       "souls": 0,
       "passives": [
@@ -44267,7 +44267,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_FoxExorcist",
       "species_name": "Flaracle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FoxExorcist_icon_normal.webp",
-      "level": 16,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -44278,9 +44278,9 @@ window.PALWORLD_DATA = {
         "defense": 92
       },
       "power_stats": {
-        "hp": 1822,
-        "atk": 217,
-        "def": 172
+        "hp": 2070,
+        "atk": 257,
+        "def": 204
       },
       "souls": 0,
       "passives": [
@@ -57886,7 +57886,7 @@ window.PALWORLD_DATA = {
       "species": "MoonQueen",
       "species_name": "Selyne",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_MoonQueen_icon_normal.webp",
-      "level": 50,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -57897,9 +57897,9 @@ window.PALWORLD_DATA = {
         "defense": 7
       },
       "power_stats": {
-        "hp": 4165,
-        "atk": 517,
-        "def": 458
+        "hp": 4239,
+        "atk": 527,
+        "def": 467
       },
       "souls": 0,
       "passives": [
@@ -64658,7 +64658,7 @@ window.PALWORLD_DATA = {
       "species": "GrassRabbitMan",
       "species_name": "Verdash",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassRabbitMan_icon_normal.webp",
-      "level": 16,
+      "level": 19,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -64669,9 +64669,9 @@ window.PALWORLD_DATA = {
         "defense": 73
       },
       "power_stats": {
-        "hp": 1451,
-        "atk": 178,
-        "def": 143
+        "hp": 1629,
+        "atk": 212,
+        "def": 170
       },
       "souls": 0,
       "passives": [
@@ -71635,7 +71635,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "inconnu"
+      "owner": "LawzZ"
     },
     {
       "nickname": "Shroomer",
@@ -71862,9 +71862,9 @@ window.PALWORLD_DATA = {
         "defense": 85
       },
       "power_stats": {
-        "hp": 7925,
-        "atk": 1481,
-        "def": 1038
+        "hp": 7980,
+        "atk": 1490,
+        "def": 1052
       },
       "souls": 0,
       "passives": [
@@ -83929,7 +83929,7 @@ window.PALWORLD_DATA = {
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 38,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -83940,9 +83940,9 @@ window.PALWORLD_DATA = {
         "defense": 100
       },
       "power_stats": {
-        "hp": 4197,
-        "atk": 693,
-        "def": 638
+        "hp": 4684,
+        "atk": 784,
+        "def": 721
       },
       "souls": 0,
       "passives": [
@@ -84834,7 +84834,7 @@ window.PALWORLD_DATA = {
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 38,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -84845,9 +84845,9 @@ window.PALWORLD_DATA = {
         "defense": 100
       },
       "power_stats": {
-        "hp": 4197,
-        "atk": 693,
-        "def": 744
+        "hp": 4684,
+        "atk": 784,
+        "def": 841
       },
       "souls": 0,
       "passives": [
@@ -89438,7 +89438,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_GhostDragon",
       "species_name": "Eidrolon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GhostDragon_icon_normal.webp",
-      "level": 28,
+      "level": 29,
       "rank": 2,
       "is_alpha": false,
       "is_awakened": false,
@@ -89449,9 +89449,9 @@ window.PALWORLD_DATA = {
         "defense": 96
       },
       "power_stats": {
-        "hp": 3422,
-        "atk": 448,
-        "def": 378
+        "hp": 3524,
+        "atk": 464,
+        "def": 390
       },
       "souls": 0,
       "passives": [
@@ -92490,7 +92490,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "pal_count": 647
+        "pal_count": 646
       },
       {
         "owner": "takitome",
@@ -92502,13 +92502,13 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "pal_count": 67
+        "pal_count": 68
       }
     ],
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2612270
+        "total_power": 2613010
       },
       {
         "owner": "Martial",
@@ -92516,7 +92516,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 2075150
+        "total_power": 2080007
       },
       {
         "owner": "takitome",
@@ -92524,7 +92524,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 376272
+        "total_power": 375847
       },
       {
         "owner": "Prismiti",
