@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T00:21:01.706802+00:00",
+  "generated_at": "2026-07-24T00:22:34.395040+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -198,7 +198,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 33,
@@ -228,7 +228,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 34,
@@ -258,7 +258,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 38,
@@ -293,7 +293,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 28,
@@ -328,7 +328,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 34,
@@ -358,7 +358,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 33,
@@ -523,7 +523,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 14,
@@ -738,7 +738,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 39,
@@ -828,7 +828,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 14,
@@ -858,7 +858,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 14,
@@ -888,7 +888,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 28,
@@ -1398,7 +1398,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 27,
@@ -2343,7 +2343,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 27,
@@ -4654,7 +4654,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 2,
@@ -4948,7 +4948,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 3,
@@ -5218,7 +5218,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 24,
@@ -5343,7 +5343,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 10,
@@ -6566,7 +6566,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 11,
@@ -7833,7 +7833,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 8,
@@ -7863,7 +7863,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 8,
@@ -8263,7 +8263,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 23,
@@ -9031,7 +9031,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 24,
@@ -9281,7 +9281,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 28,
@@ -10268,7 +10268,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 2,
@@ -10422,7 +10422,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 5,
@@ -12010,7 +12010,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Lamball",
-      "species": "SheepBall",
+      "species": "Sheepball",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
       "level": 1,
