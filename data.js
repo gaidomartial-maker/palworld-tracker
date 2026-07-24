@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T07:59:58.099096+00:00",
+  "generated_at": "2026-07-24T08:01:22.964955+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 1,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 59.0,
+      "ping": 60.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,8 +21,8 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 47.0,
+      "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
     {
@@ -2173,7 +2173,7 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 42,
+      "level": 43,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -2184,9 +2184,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 4302,
-        "atk": 783,
-        "def": 588
+        "hp": 4393,
+        "atk": 801,
+        "def": 602
       },
       "souls": 0,
       "passives": [
@@ -11874,9 +11874,9 @@ window.PALWORLD_DATA = {
         "defense": 54
       },
       "power_stats": {
-        "hp": 3555,
-        "atk": 423,
-        "def": 397
+        "hp": 3718,
+        "atk": 440,
+        "def": 414
       },
       "souls": 0,
       "passives": [
@@ -56949,7 +56949,7 @@ window.PALWORLD_DATA = {
       "species": "BOSS_SheepBall",
       "species_name": "Lamball",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SheepBall_icon_normal.webp",
-      "level": 33,
+      "level": 34,
       "rank": 1,
       "is_alpha": true,
       "is_awakened": false,
@@ -56960,9 +56960,9 @@ window.PALWORLD_DATA = {
         "defense": 78
       },
       "power_stats": {
-        "hp": 2520,
-        "atk": 315,
-        "def": 260
+        "hp": 2579,
+        "atk": 324,
+        "def": 268
       },
       "souls": 0,
       "passives": [
@@ -75272,7 +75272,7 @@ window.PALWORLD_DATA = {
       "species": "WhiteDeer_Dark",
       "species_name": "Celesdir Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
-      "level": 37,
+      "level": 38,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -75283,9 +75283,9 @@ window.PALWORLD_DATA = {
         "defense": 36
       },
       "power_stats": {
-        "hp": 3051,
-        "atk": 397,
-        "def": 334
+        "hp": 3120,
+        "atk": 408,
+        "def": 343
       },
       "souls": 0,
       "passives": [
@@ -84363,7 +84363,7 @@ window.PALWORLD_DATA = {
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 52,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -84374,9 +84374,9 @@ window.PALWORLD_DATA = {
         "defense": 100
       },
       "power_stats": {
-        "hp": 5560,
-        "atk": 950,
-        "def": 873
+        "hp": 5657,
+        "atk": 968,
+        "def": 889
       },
       "souls": 0,
       "passives": [
@@ -85313,7 +85313,7 @@ window.PALWORLD_DATA = {
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
-      "level": 52,
+      "level": 53,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -85324,9 +85324,9 @@ window.PALWORLD_DATA = {
         "defense": 100
       },
       "power_stats": {
-        "hp": 5560,
-        "atk": 950,
-        "def": 1019
+        "hp": 5657,
+        "atk": 968,
+        "def": 1037
       },
       "souls": 0,
       "passives": [
@@ -93732,7 +93732,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2628440
+        "total_power": 2628760
       },
       {
         "owner": "Martial",
@@ -93740,7 +93740,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 2095935
+        "total_power": 2096199
       },
       {
         "owner": "takitome",
@@ -93748,7 +93748,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 387464
+        "total_power": 387629
       },
       {
         "owner": "Prismiti",
