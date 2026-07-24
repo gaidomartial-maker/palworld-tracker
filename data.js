@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T07:21:00.416256+00:00",
+  "generated_at": "2026-07-24T07:31:11.290349+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 97.0,
+      "ping": 59.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 67.0,
+      "ping": 41.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -436,37 +436,32 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 92,
+        "hp": 97,
         "melee": 0,
-        "shot": 2,
+        "shot": 85,
         "defense": 81
       },
       "power_stats": {
-        "hp": 587,
+        "hp": 588,
         "atk": 12,
         "def": 11
       },
       "souls": 0,
       "passives": [
         {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
           "id": "SelfDeathAddItemDrop_up_2",
           "name": "Service-Minded",
           "rank": 3
         },
         {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
+          "id": "SalePrice_Up_2",
+          "name": "Fine Furs",
           "rank": 1
         },
         {
-          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
-          "name": "Farmhand",
-          "rank": 3
+          "id": "PAL_ALLAttack_down1",
+          "name": "Frileux",
+          "rank": -1
         }
       ],
       "owner": "Theo"
@@ -767,46 +762,6 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 95,
-        "defense": 81
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 16,
-        "def": 11
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Lamball",
       "species": "Sheepball",
       "species_name": "Lamball",
@@ -911,23 +866,18 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 97,
+        "hp": 35,
         "melee": 0,
         "shot": 95,
-        "defense": 1
+        "defense": 35
       },
       "power_stats": {
-        "hp": 588,
-        "atk": 16,
-        "def": 10
+        "hp": 576,
+        "atk": 19,
+        "def": 12
       },
       "souls": 0,
       "passives": [
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
         {
           "id": "Legend",
           "name": "Légende",
@@ -936,6 +886,16 @@ window.PALWORLD_DATA = {
         {
           "id": "SelfDeathAddItemDrop_up_2",
           "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
           "rank": 3
         }
       ],
@@ -1041,7 +1001,7 @@ window.PALWORLD_DATA = {
       "species": "JetDragon",
       "species_name": "Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
-      "level": 50,
+      "level": 51,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -1052,9 +1012,9 @@ window.PALWORLD_DATA = {
         "defense": 75
       },
       "power_stats": {
-        "hp": 4453,
-        "atk": 830,
-        "def": 705
+        "hp": 4641,
+        "atk": 852,
+        "def": 729
       },
       "souls": 0,
       "passives": [
@@ -2103,7 +2063,7 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 38,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -2114,9 +2074,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 3878,
-        "atk": 705,
-        "def": 524
+        "hp": 4030,
+        "atk": 727,
+        "def": 546
       },
       "souls": 0,
       "passives": [
@@ -3311,7 +3271,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Necromus",
-      "species": "BOSS_BlackCentaur",
+      "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 1,
@@ -3319,31 +3279,26 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 92,
+        "hp": 56,
         "melee": 0,
-        "shot": 25,
-        "defense": 31
+        "shot": 85,
+        "defense": 23
       },
       "power_stats": {
-        "hp": 604,
-        "atk": 13,
+        "hp": 580,
+        "atk": 16,
         "def": 9
       },
       "souls": 0,
       "passives": [
         {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
+        },
+        {
           "id": "ElementBoost_Dark_2_PAL",
           "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "TrainerLogging_up1",
-          "name": "Chef d'abattage",
-          "rank": 3
-        },
-        {
-          "id": "WorkSuitabilityAddRank_MonsterFarm_1",
-          "name": "Farmhand",
           "rank": 3
         }
       ],
@@ -3571,28 +3526,33 @@ window.PALWORLD_DATA = {
       "talents": {
         "hp": 92,
         "melee": 0,
-        "shot": 89,
-        "defense": 66
+        "shot": 95,
+        "defense": 81
       },
       "power_stats": {
         "hp": 587,
         "atk": 16,
-        "def": 10
+        "def": 11
       },
       "souls": 0,
       "passives": [
         {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
           "rank": 3
         },
         {
-          "id": "PAL_sadist",
-          "name": "Sadique",
-          "rank": 1
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Mau",
@@ -11793,7 +11753,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 48,
+      "level": 49,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -11804,9 +11764,9 @@ window.PALWORLD_DATA = {
         "defense": 54
       },
       "power_stats": {
-        "hp": 3432,
-        "atk": 405,
-        "def": 381
+        "hp": 3494,
+        "atk": 413,
+        "def": 389
       },
       "souls": 0,
       "passives": [
@@ -15309,51 +15269,6 @@ window.PALWORLD_DATA = {
       "souls": 0,
       "passives": [],
       "owner": "takitome"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 95,
-        "defense": 66
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 19,
-        "def": 14
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
     },
     {
       "nickname": "Hoocrates",
@@ -33394,51 +33309,6 @@ window.PALWORLD_DATA = {
       "owner": "Prismiti"
     },
     {
-      "nickname": "Necromus",
-      "species": "BOSS_BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 36,
-        "melee": 0,
-        "shot": 16,
-        "defense": 66
-      },
-      "power_stats": {
-        "hp": 591,
-        "atk": 14,
-        "def": 12
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        },
-        {
-          "id": "ElementResist_Leaf_1_PAL",
-          "name": "Anti-irritations",
-          "rank": 1
-        },
-        {
-          "id": "MoveSpeed_up_1",
-          "name": "Vif",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Fuddler",
       "species": "CuteMole",
       "species_name": "Fuddler",
@@ -36805,28 +36675,33 @@ window.PALWORLD_DATA = {
         "hp": 97,
         "melee": 0,
         "shot": 95,
-        "defense": 66
+        "defense": 77
       },
       "power_stats": {
         "hp": 588,
-        "atk": 19,
-        "def": 12
+        "atk": 18,
+        "def": 13
       },
       "souls": 0,
       "passives": [
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
         {
           "id": "ElementBoost_Dark_2_PAL",
           "name": "Hadès",
           "rank": 3
         },
         {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
+          "id": "CraftSpeed_up1",
+          "name": "Sérieux",
+          "rank": 1
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        },
+        {
+          "id": "PAL_rude",
+          "name": "Grossier",
           "rank": 1
         }
       ],
@@ -41554,46 +41429,6 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 47,
-        "defense": 16
-      },
-      "power_stats": {
-        "hp": 588,
-        "atk": 17,
-        "def": 10
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "SwimSpeed_up_1",
-          "name": "Sleek Stroke",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Fuack",
       "species": "BluePlatypus",
       "species_name": "Fuack",
@@ -41872,41 +41707,6 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 66,
-        "melee": 0,
-        "shot": 95,
-        "defense": 48
-      },
-      "power_stats": {
-        "hp": 582,
-        "atk": 16,
-        "def": 10
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
     },
     {
       "nickname": "Jetragon",
@@ -43166,51 +42966,6 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 95,
-        "defense": 54
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 16,
-        "def": 11
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "Deffence_down2",
-          "name": "Os fragiles",
-          "rank": -3
-        },
-        {
-          "id": "TrainerDEF_UP_1",
-          "name": "Stratège de forteresse",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Kikit",
       "species": "SmallArmadillo",
       "species_name": "Kikit",
@@ -44208,15 +43963,15 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 80,
+        "hp": 92,
         "melee": 0,
-        "shot": 29,
-        "defense": 81
+        "shot": 6,
+        "defense": 66
       },
       "power_stats": {
-        "hp": 585,
-        "atk": 14,
-        "def": 15
+        "hp": 587,
+        "atk": 12,
+        "def": 14
       },
       "souls": 0,
       "passives": [
@@ -44226,19 +43981,19 @@ window.PALWORLD_DATA = {
           "rank": 3
         },
         {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        },
-        {
           "id": "Legend",
           "name": "Légende",
           "rank": 4
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "PAL_CorporateSlave",
+          "name": "Soumis",
+          "rank": 1
         }
       ],
       "owner": "Theo"
@@ -44493,49 +44248,28 @@ window.PALWORLD_DATA = {
       "owner": "inconnu"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
+      "nickname": "Starryon Primo",
+      "species": "NightBlueHorse_Neutral",
+      "species_name": "Starryon Primo",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_NightBlueHorse_Neutral_icon_normal.webp",
+      "level": 74,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 92,
+        "hp": 85,
         "melee": 0,
-        "shot": 95,
-        "defense": 66
+        "shot": 5,
+        "defense": 98
       },
       "power_stats": {
-        "hp": 587,
-        "atk": 14,
-        "def": 14
+        "hp": 5977,
+        "atk": 702,
+        "def": 773
       },
       "souls": 0,
-      "passives": [
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "PAL_CorporateSlave",
-          "name": "Soumis",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
+      "passives": [],
+      "owner": "LawzZ"
     },
     {
       "nickname": "Shadowbeak",
@@ -48686,41 +48420,6 @@ window.PALWORLD_DATA = {
           "id": "NonKilling",
           "name": "Mercy Hit",
           "rank": -1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 95,
-        "defense": 28
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 16,
-        "def": 9
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
         }
       ],
       "owner": "Theo"
@@ -74149,6 +73848,51 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Necromus",
+      "species": "BlackCentaur",
+      "species_name": "Necromus",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 54,
+        "melee": 0,
+        "shot": 85,
+        "defense": 30
+      },
+      "power_stats": {
+        "hp": 580,
+        "atk": 21,
+        "def": 12
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -74317,41 +74061,6 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 85,
-        "defense": 66
-      },
-      "power_stats": {
-        "hp": 588,
-        "atk": 14,
-        "def": 10
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
     },
     {
       "nickname": "Frostplume",
@@ -75108,7 +74817,7 @@ window.PALWORLD_DATA = {
       "species": "WhiteDeer_Dark",
       "species_name": "Celesdir Noct",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WhiteDeer_Dark_icon_normal.webp",
-      "level": 36,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -75119,9 +74828,9 @@ window.PALWORLD_DATA = {
         "defense": 36
       },
       "power_stats": {
-        "hp": 2982,
-        "atk": 386,
-        "def": 326
+        "hp": 3051,
+        "atk": 397,
+        "def": 334
       },
       "souls": 0,
       "passives": [
@@ -75236,46 +74945,6 @@ window.PALWORLD_DATA = {
       "souls": 0,
       "passives": [],
       "owner": "inconnu"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 24,
-        "melee": 0,
-        "shot": 84,
-        "defense": 81
-      },
-      "power_stats": {
-        "hp": 574,
-        "atk": 16,
-        "def": 11
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
     },
     {
       "nickname": "Frostallion Noct",
@@ -84240,41 +83909,6 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 47,
-        "defense": 85
-      },
-      "power_stats": {
-        "hp": 588,
-        "atk": 17,
-        "def": 13
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -86565,41 +86199,6 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 63,
-        "defense": 92
-      },
-      "power_stats": {
-        "hp": 588,
-        "atk": 15,
-        "def": 13
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "NonKilling",
-          "name": "Mercy Hit",
-          "rank": -1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Needoll",
       "species": "CactusDoll",
       "species_name": "Needoll",
@@ -88425,6 +88024,46 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Necromus",
+      "species": "BlackCentaur",
+      "species_name": "Necromus",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 85,
+        "defense": 66
+      },
+      "power_stats": {
+        "hp": 588,
+        "atk": 19,
+        "def": 12
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Shadowbeak",
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
@@ -89954,46 +89593,6 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 41,
-        "melee": 0,
-        "shot": 12,
-        "defense": 66
-      },
-      "power_stats": {
-        "hp": 577,
-        "atk": 14,
-        "def": 10
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "ElementBoost_Dragon_1_PAL",
-          "name": "Sang de dragon",
-          "rank": 1
-        },
-        {
-          "id": "PAL_ALLAttack_up2",
-          "name": "Féroce",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Broncherry",
       "species": "SakuraSaurus",
       "species_name": "Broncherry",
@@ -90092,51 +89691,6 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 95,
-        "defense": 77
-      },
-      "power_stats": {
-        "hp": 588,
-        "atk": 18,
-        "def": 13
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "CraftSpeed_up1",
-          "name": "Sérieux",
-          "rank": 1
-        },
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "PAL_rude",
-          "name": "Grossier",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
     },
     {
       "nickname": "Fuack",
@@ -91002,15 +90556,15 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 92,
+        "hp": 97,
         "melee": 0,
-        "shot": 76,
-        "defense": 93
+        "shot": 23,
+        "defense": 12
       },
       "power_stats": {
-        "hp": 587,
-        "atk": 16,
-        "def": 14
+        "hp": 588,
+        "atk": 12,
+        "def": 10
       },
       "souls": 0,
       "passives": [
@@ -91020,54 +90574,14 @@ window.PALWORLD_DATA = {
           "rank": 3
         },
         {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "SwimSpeed_up_3",
-          "name": "King of the Waves",
-          "rank": 4
-        },
-        {
-          "id": "Deffence_up1",
-          "name": "Peau dure",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 3,
-        "defense": 6
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 13,
-        "def": 10
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "MoveSpeed_up_2",
-          "name": "Coursier",
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
           "rank": 3
+        },
+        {
+          "id": "Stamina_Up_3",
+          "name": "Eternal Engine",
+          "rank": 4
         }
       ],
       "owner": "Theo"
@@ -91245,37 +90759,42 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 97,
+        "hp": 92,
         "melee": 0,
         "shot": 85,
-        "defense": 41
+        "defense": 81
       },
       "power_stats": {
-        "hp": 588,
-        "atk": 14,
-        "def": 10
+        "hp": 1027,
+        "atk": 90,
+        "def": 99
       },
       "souls": 0,
       "passives": [
         {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
           "rank": 3
         },
         {
-          "id": "SalePrice_Up_2",
-          "name": "Fine Furs",
-          "rank": 1
-        },
-        {
-          "id": "PAL_FullStomach_Down_1",
-          "name": "Frugal",
-          "rank": 1
+          "id": "PAL_ALLAttack_down2",
+          "name": "Biais d'omission",
+          "rank": -3
         }
       ],
       "owner": "Theo"
@@ -91290,27 +90809,32 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 97,
+        "hp": 92,
         "melee": 0,
         "shot": 95,
-        "defense": 81
+        "defense": 70
       },
       "power_stats": {
-        "hp": 588,
-        "atk": 19,
-        "def": 13
+        "hp": 587,
+        "atk": 14,
+        "def": 12
       },
       "souls": 0,
       "passives": [
         {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
           "rank": 3
         },
         {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        },
+        {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
         }
       ],
       "owner": "Theo"
@@ -91452,38 +90976,28 @@ window.PALWORLD_DATA = {
       "talents": {
         "hp": 97,
         "melee": 0,
-        "shot": 85,
-        "defense": 59
+        "shot": 95,
+        "defense": 81
       },
       "power_stats": {
         "hp": 588,
-        "atk": 16,
-        "def": 14
+        "atk": 19,
+        "def": 13
       },
       "souls": 0,
       "passives": [
         {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
           "rank": 3
         },
         {
           "id": "Legend",
           "name": "Légende",
           "rank": 4
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Arsox",
@@ -91570,6 +91084,36 @@ window.PALWORLD_DATA = {
       "owner": "Theo"
     },
     {
+      "nickname": "Necromus",
+      "species": "BlackCentaur",
+      "species_name": "Necromus",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 37,
+        "defense": 69
+      },
+      "power_stats": {
+        "hp": 588,
+        "atk": 15,
+        "def": 12
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        }
+      ],
+      "owner": "Theo"
+    },
+    {
       "nickname": "Jolthog Cryst",
       "species": "Hedgehog_Ice",
       "species_name": "Jolthog Cryst",
@@ -91633,6 +91177,51 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
+    },
+    {
+      "nickname": "Necromus",
+      "species": "BlackCentaur",
+      "species_name": "Necromus",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 95,
+        "defense": 12
+      },
+      "power_stats": {
+        "hp": 588,
+        "atk": 19,
+        "def": 12
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        }
+      ],
+      "owner": "Theo"
     },
     {
       "nickname": "Braloha",
@@ -91779,22 +91368,27 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 7,
+        "hp": 97,
         "melee": 0,
-        "shot": 95,
-        "defense": 19
+        "shot": 56,
+        "defense": 73
       },
       "power_stats": {
-        "hp": 571,
-        "atk": 14,
-        "def": 9
+        "hp": 588,
+        "atk": 15,
+        "def": 14
       },
       "souls": 0,
       "passives": [
         {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
+        },
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
         }
       ],
       "owner": "Theo"
@@ -91835,24 +91429,34 @@ window.PALWORLD_DATA = {
       "talents": {
         "hp": 92,
         "melee": 0,
-        "shot": 80,
-        "defense": 66
+        "shot": 76,
+        "defense": 93
       },
       "power_stats": {
         "hp": 587,
         "atk": 16,
-        "def": 12
+        "def": 14
       },
       "souls": 0,
       "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
         {
           "id": "Legend",
           "name": "Légende",
           "rank": 4
         },
         {
-          "id": "PAL_Sanity_Down_1",
-          "name": "Positif",
+          "id": "SwimSpeed_up_3",
+          "name": "King of the Waves",
+          "rank": 4
+        },
+        {
+          "id": "Deffence_up1",
+          "name": "Peau dure",
           "rank": 1
         }
       ],
@@ -91977,6 +91581,51 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
+    },
+    {
+      "nickname": "Necromus",
+      "species": "BlackCentaur",
+      "species_name": "Necromus",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 81,
+        "defense": 8
+      },
+      "power_stats": {
+        "hp": 588,
+        "atk": 16,
+        "def": 9
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
+        },
+        {
+          "id": "Stamina_Down_1",
+          "name": "Sickly",
+          "rank": -1
+        }
+      ],
+      "owner": "Theo"
     },
     {
       "nickname": "Bushi",
@@ -92317,27 +91966,32 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
+      "level": 6,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 7,
+        "hp": 97,
         "melee": 0,
-        "shot": 8,
+        "shot": 95,
         "defense": 81
       },
       "power_stats": {
-        "hp": 571,
-        "atk": 14,
-        "def": 13
+        "hp": 1033,
+        "atk": 92,
+        "def": 85
       },
       "souls": 0,
       "passives": [
         {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Deffence_up2",
+          "name": "Corps robuste",
+          "rank": 3
         },
         {
           "id": "ElementResist_Earth_1_PAL",
@@ -92466,51 +92120,6 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 6,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 85,
-        "defense": 81
-      },
-      "power_stats": {
-        "hp": 1027,
-        "atk": 90,
-        "def": 99
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "Legend",
-          "name": "Légende",
-          "rank": 4
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "PAL_ALLAttack_down2",
-          "name": "Biais d'omission",
-          "rank": -3
-        }
-      ],
-      "owner": "inconnu"
     },
     {
       "nickname": "Herbil",
@@ -92738,36 +92347,6 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 85,
-        "defense": 13
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 14,
-        "def": 9
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
       "nickname": "Reindrix",
       "species": "IceDeer",
       "species_name": "Reindrix",
@@ -92829,7 +92408,7 @@ window.PALWORLD_DATA = {
     },
     {
       "nickname": "Necromus",
-      "species": "BOSS_BlackCentaur",
+      "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
       "level": 1,
@@ -92837,22 +92416,37 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 92,
+        "hp": 97,
         "melee": 0,
-        "shot": 89,
-        "defense": 66
+        "shot": 72,
+        "defense": 87
       },
       "power_stats": {
-        "hp": 604,
-        "atk": 14,
-        "def": 12
+        "hp": 588,
+        "atk": 16,
+        "def": 15
       },
       "souls": 0,
       "passives": [
         {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ElementResist_Earth_1_PAL",
+          "name": "Constitution parasismique",
+          "rank": 1
+        },
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
           "rank": 3
+        },
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
         }
       ],
       "owner": "Theo"
@@ -92870,12 +92464,12 @@ window.PALWORLD_DATA = {
         "hp": 97,
         "melee": 0,
         "shot": 85,
-        "defense": 66
+        "defense": 81
       },
       "power_stats": {
         "hp": 588,
         "atk": 16,
-        "def": 10
+        "def": 11
       },
       "souls": 0,
       "passives": [
@@ -92885,63 +92479,13 @@ window.PALWORLD_DATA = {
           "rank": 3
         },
         {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
+          "id": "SalePrice_Up_1",
+          "name": "Noble",
           "rank": 3
         },
         {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "CraftSpeed_down1",
-          "name": "Maladroit",
-          "rank": -1
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 5,
-        "defense": 51
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 12,
-        "def": 13
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        },
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "TrainerDEF_UP_1",
-          "name": "Stratège de forteresse",
-          "rank": 3
-        },
-        {
-          "id": "SalePrice_Up_2",
-          "name": "Fine Furs",
+          "id": "ElementBoost_Leaf_1_PAL",
+          "name": "Fragrance boisée",
           "rank": 1
         }
       ],
@@ -92981,36 +92525,6 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 92,
-        "melee": 0,
-        "shot": 89,
-        "defense": 33
-      },
-      "power_stats": {
-        "hp": 587,
-        "atk": 16,
-        "def": 9
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
     },
     {
       "nickname": "Fuack",
@@ -93112,15 +92626,15 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
-        "hp": 97,
+        "hp": 92,
         "melee": 0,
-        "shot": 85,
-        "defense": 66
+        "shot": 39,
+        "defense": 2
       },
       "power_stats": {
-        "hp": 588,
-        "atk": 19,
-        "def": 12
+        "hp": 587,
+        "atk": 15,
+        "def": 10
       },
       "souls": 0,
       "passives": [
@@ -93133,56 +92647,6 @@ window.PALWORLD_DATA = {
           "id": "Legend",
           "name": "Légende",
           "rank": 4
-        },
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        }
-      ],
-      "owner": "Theo"
-    },
-    {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 1,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 85,
-        "defense": 81
-      },
-      "power_stats": {
-        "hp": 588,
-        "atk": 16,
-        "def": 11
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "ElementBoost_Dark_2_PAL",
-          "name": "Hadès",
-          "rank": 3
-        },
-        {
-          "id": "SalePrice_Up_1",
-          "name": "Noble",
-          "rank": 3
-        },
-        {
-          "id": "ElementBoost_Leaf_1_PAL",
-          "name": "Fragrance boisée",
-          "rank": 1
         }
       ],
       "owner": "Theo"
@@ -93248,46 +92712,6 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
-      "nickname": "Necromus",
-      "species": "BlackCentaur",
-      "species_name": "Necromus",
-      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 6,
-      "rank": 0,
-      "is_alpha": false,
-      "is_awakened": false,
-      "talents": {
-        "hp": 97,
-        "melee": 0,
-        "shot": 95,
-        "defense": 81
-      },
-      "power_stats": {
-        "hp": 1033,
-        "atk": 92,
-        "def": 85
-      },
-      "souls": 0,
-      "passives": [
-        {
-          "id": "SelfDeathAddItemDrop_up_2",
-          "name": "Service-Minded",
-          "rank": 3
-        },
-        {
-          "id": "Deffence_up2",
-          "name": "Corps robuste",
-          "rank": 3
-        },
-        {
-          "id": "ElementResist_Earth_1_PAL",
-          "name": "Constitution parasismique",
-          "rank": 1
-        }
-      ],
-      "owner": "inconnu"
-    },
-    {
       "nickname": "Reindrix",
       "species": "IceDeer",
       "species_name": "Reindrix",
@@ -93326,11 +92750,11 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Theo",
-        "pal_count": 880
+        "pal_count": 864
       },
       {
         "owner": "LawzZ",
-        "pal_count": 646
+        "pal_count": 647
       },
       {
         "owner": "takitome",
@@ -93348,7 +92772,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2626435
+        "total_power": 2618098
       },
       {
         "owner": "Martial",
@@ -93356,7 +92780,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 2083880
+        "total_power": 2091566
       },
       {
         "owner": "takitome",
@@ -93364,7 +92788,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 382592
+        "total_power": 381488
       },
       {
         "owner": "Prismiti",
