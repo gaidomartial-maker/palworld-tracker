@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T05:31:17.701536+00:00",
+  "generated_at": "2026-07-24T05:41:06.588067+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 59.0,
+      "ping": 66.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -23169,7 +23169,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Loupmoon",
@@ -51419,7 +51419,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Jelliette",
@@ -91547,7 +91547,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Theo",
-        "pal_count": 832
+        "pal_count": 830
       },
       {
         "owner": "LawzZ",
@@ -91559,7 +91559,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "pal_count": 70
+        "pal_count": 72
       },
       {
         "owner": "Prismiti",
@@ -91569,7 +91569,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2551909
+        "total_power": 2526657
       },
       {
         "owner": "Martial",
@@ -91585,7 +91585,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 370219
+        "total_power": 395471
       },
       {
         "owner": "Prismiti",
@@ -91595,7 +91595,7 @@ window.PALWORLD_DATA = {
     "species_bonus": [
       {
         "owner": "Theo",
-        "species_bonus_count": 97
+        "species_bonus_count": 99
       },
       {
         "owner": "Martial",
