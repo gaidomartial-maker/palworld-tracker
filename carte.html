@@ -66,10 +66,14 @@
   .subtitle{color:var(--muted); font-size:14px; margin:0; max-width:640px; margin:0 auto;}
 
   .map-frame-wrap{
-    margin-top:30px; border-radius:var(--radius); overflow:hidden; border:1px solid var(--line-soft);
+    margin-top:30px; border-radius:var(--radius); overflow:auto; border:1px solid var(--line-soft);
     box-shadow:0 20px 60px rgba(0,0,0,0.4); background:var(--panel);
+    position:relative; width:100%; max-width:1000px; margin-left:auto; margin-right:auto;
+    height:950px;
   }
-  iframe{width:100%; height:78vh; min-height:560px; border:0; display:block;}
+  .map-frame-wrap iframe{
+    position:absolute; top:-310px; left:0; width:1000px; height:3900px; border:0;
+  }
 
   .credit{margin-top:14px; text-align:center; color:var(--muted); font-size:12px;}
   footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--line-soft); text-align:center; color:var(--muted); font-size:12px; font-family:'JetBrains Mono', monospace;}
