@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T02:51:01.956545+00:00",
+  "generated_at": "2026-07-24T03:01:23.275908+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 72.0,
+      "ping": 68,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 42.0,
+      "ping": 39.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 75,
       "building_count": null,
-      "ping": 57.0,
+      "ping": 53.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -37,7 +37,7 @@ window.PALWORLD_DATA = {
       "name": "takitome",
       "level": 56,
       "building_count": null,
-      "ping": 76.0,
+      "ping": 68.0,
       "online": true,
       "playerId": "266A5F29000000000000000000000000"
     },
@@ -4327,7 +4327,7 @@ window.PALWORLD_DATA = {
       "species": "Deer",
       "species_name": "Eikthyrdeer",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Deer_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -4338,9 +4338,9 @@ window.PALWORLD_DATA = {
         "defense": 20
       },
       "power_stats": {
-        "hp": 2570,
-        "atk": 277,
-        "def": 265
+        "hp": 2631,
+        "atk": 285,
+        "def": 272
       },
       "souls": 0,
       "passives": [
@@ -9359,7 +9359,7 @@ window.PALWORLD_DATA = {
       "species": "RobinHood",
       "species_name": "Robinquill",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_RobinHood_icon_normal.webp",
-      "level": 35,
+      "level": 36,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -9370,9 +9370,9 @@ window.PALWORLD_DATA = {
         "defense": 42
       },
       "power_stats": {
-        "hp": 2481,
-        "atk": 333,
-        "def": 262
+        "hp": 2538,
+        "atk": 343,
+        "def": 270
       },
       "souls": 0,
       "passives": [],
@@ -13347,7 +13347,7 @@ window.PALWORLD_DATA = {
       "species": "Plesiosaur",
       "species_name": "Braloha",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Plesiosaur_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -13358,9 +13358,9 @@ window.PALWORLD_DATA = {
         "defense": 28
       },
       "power_stats": {
-        "hp": 2939,
-        "atk": 330,
-        "def": 427
+        "hp": 3011,
+        "atk": 339,
+        "def": 440
       },
       "souls": 0,
       "passives": [
@@ -15172,7 +15172,7 @@ window.PALWORLD_DATA = {
       "species": "WingGolem",
       "species_name": "en_text",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_WingGolem_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -15183,9 +15183,9 @@ window.PALWORLD_DATA = {
         "defense": 20
       },
       "power_stats": {
-        "hp": 2931,
-        "atk": 378,
-        "def": 466
+        "hp": 3003,
+        "atk": 389,
+        "def": 481
       },
       "souls": 0,
       "passives": [
@@ -16583,7 +16583,7 @@ window.PALWORLD_DATA = {
       "species": "FairyDragon_Water",
       "species_name": "Elphidran Aqua",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FairyDragon_Water_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -16594,9 +16594,9 @@ window.PALWORLD_DATA = {
         "defense": 70
       },
       "power_stats": {
-        "hp": 2759,
-        "atk": 280,
-        "def": 318
+        "hp": 2826,
+        "atk": 288,
+        "def": 327
       },
       "souls": 0,
       "passives": [
@@ -17632,7 +17632,7 @@ window.PALWORLD_DATA = {
       "species": "Yeti_Grass",
       "species_name": "Wumpo Botan",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_Yeti_Grass_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -17643,9 +17643,9 @@ window.PALWORLD_DATA = {
         "defense": 29
       },
       "power_stats": {
-        "hp": 3199,
-        "atk": 347,
-        "def": 394
+        "hp": 3279,
+        "atk": 357,
+        "def": 406
       },
       "souls": 0,
       "passives": [
@@ -19032,7 +19032,7 @@ window.PALWORLD_DATA = {
       "species": "HadesBird_Electric",
       "species_name": "Helzephyr Lux",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_HadesBird_Electric_icon_normal.webp",
-      "level": 34,
+      "level": 35,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -19043,9 +19043,9 @@ window.PALWORLD_DATA = {
         "defense": 11
       },
       "power_stats": {
-        "hp": 2626,
-        "atk": 378,
-        "def": 259
+        "hp": 2688,
+        "atk": 388,
+        "def": 267
       },
       "souls": 0,
       "passives": [
@@ -25852,7 +25852,7 @@ window.PALWORLD_DATA = {
       "species": "FlowerDoll",
       "species_name": "Petallia",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlowerDoll_icon_normal.webp",
-      "level": 32,
+      "level": 33,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -25863,9 +25863,9 @@ window.PALWORLD_DATA = {
         "defense": 89
       },
       "power_stats": {
-        "hp": 2490,
-        "atk": 308,
-        "def": 328
+        "hp": 2552,
+        "atk": 317,
+        "def": 337
       },
       "souls": 0,
       "passives": [
@@ -31452,9 +31452,9 @@ window.PALWORLD_DATA = {
         "defense": 68
       },
       "power_stats": {
-        "hp": 5116,
-        "atk": 659,
-        "def": 860
+        "hp": 5400,
+        "atk": 689,
+        "def": 868
       },
       "souls": 0,
       "passives": [
@@ -43995,9 +43995,9 @@ window.PALWORLD_DATA = {
         "defense": 99
       },
       "power_stats": {
-        "hp": 6400,
-        "atk": 1058,
-        "def": 1030
+        "hp": 6535,
+        "atk": 1070,
+        "def": 1037
       },
       "souls": 0,
       "passives": [
@@ -51459,9 +51459,9 @@ window.PALWORLD_DATA = {
         "defense": 67
       },
       "power_stats": {
-        "hp": 7053,
-        "atk": 1396,
-        "def": 1011
+        "hp": 7148,
+        "atk": 1406,
+        "def": 1024
       },
       "souls": 0,
       "passives": [
@@ -63134,6 +63134,51 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 7,
+        "melee": 0,
+        "shot": 65,
+        "defense": 93
+      },
+      "power_stats": {
+        "hp": 566,
+        "atk": 15,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Blazehowl",
       "species": "Manticore",
       "species_name": "Blazehowl",
@@ -68794,6 +68839,41 @@ window.PALWORLD_DATA = {
       "owner": "LawzZ"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 100,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 15,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Blue Slime",
       "species": "YakushimaMonster001_Blue",
       "species_name": "Blue Slime",
@@ -68822,6 +68902,41 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 10,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 11,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Digtoise",
@@ -69007,6 +69122,46 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "LawzZ"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 7,
+        "melee": 0,
+        "shot": 4,
+        "defense": 78
+      },
+      "power_stats": {
+        "hp": 566,
+        "atk": 7,
+        "def": 10
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Dragon_1_PAL",
+          "name": "Sang de dragon",
+          "rank": 1
+        },
+        {
+          "id": "Deffence_down1",
+          "name": "Vulnérable aux coups",
+          "rank": -1
+        },
+        {
+          "id": "PAL_CorporateSlave",
+          "name": "Soumis",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Purple Slime",
@@ -70746,6 +70901,36 @@ window.PALWORLD_DATA = {
           "id": "Deffence_up3",
           "name": "Diamond Body",
           "rank": 4
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 3,
+        "melee": 0,
+        "shot": 96,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 565,
+        "atk": 12,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
         }
       ],
       "owner": "Martial"
@@ -73719,7 +73904,7 @@ window.PALWORLD_DATA = {
       "species": "SnakeGirl",
       "species_name": "Venusa",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_SnakeGirl_icon_normal.webp",
-      "level": 31,
+      "level": 32,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -73730,9 +73915,9 @@ window.PALWORLD_DATA = {
         "defense": 37
       },
       "power_stats": {
-        "hp": 2036,
-        "atk": 257,
-        "def": 306
+        "hp": 2085,
+        "atk": 266,
+        "def": 315
       },
       "souls": 0,
       "passives": [
@@ -83475,6 +83660,41 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
+        "hp": 30,
+        "melee": 0,
+        "shot": 100,
+        "defense": 79
+      },
+      "power_stats": {
+        "hp": 570,
+        "atk": 13,
+        "def": 12
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
         "hp": 100,
         "melee": 0,
         "shot": 100,
@@ -83966,6 +84186,41 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 35,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 13,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Katress",
       "species": "CatMage",
       "species_name": "Katress",
@@ -84366,6 +84621,46 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 100,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 596,
+        "atk": 16,
+        "def": 18
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ReloadSpeedUp_Passive",
+          "name": "Reload Master",
+          "rank": 3
+        },
+        {
+          "id": "Deffence_up2_2",
+          "name": "Heavyweight",
+          "rank": 2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Tarantriss",
       "species": "PurpleSpider",
       "species_name": "Tarantriss",
@@ -84521,6 +84816,41 @@ window.PALWORLD_DATA = {
           "id": "Deffence_down1",
           "name": "Vulnérable aux coups",
           "rank": -1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 7,
+        "melee": 0,
+        "shot": 10,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 566,
+        "atk": 13,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "ElementResist_Dragon_1_PAL",
+          "name": "Tueur de dragons",
+          "rank": 1
         }
       ],
       "owner": "Martial"
@@ -85485,6 +85815,46 @@ window.PALWORLD_DATA = {
       "is_alpha": false,
       "is_awakened": false,
       "talents": {
+        "hp": 8,
+        "melee": 0,
+        "shot": 100,
+        "defense": 72
+      },
+      "power_stats": {
+        "hp": 576,
+        "atk": 19,
+        "def": 12
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "PAL_ALLAttack_up2",
+          "name": "Féroce",
+          "rank": 3
+        },
+        {
+          "id": "Test_PalEgg_HatchingSpeed_Up",
+          "name": "Philanthropist",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
         "hp": 100,
         "melee": 0,
         "shot": 95,
@@ -85504,6 +85874,36 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "Martial"
+    },
+    {
+      "nickname": "Elgrove Cryst",
+      "species": "GrassMinotaur_Ice",
+      "species_name": "Elgrove Cryst",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassMinotaur_Ice_icon_normal.webp",
+      "level": 75,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 57,
+        "melee": 0,
+        "shot": 24,
+        "defense": 46
+      },
+      "power_stats": {
+        "hp": 6144,
+        "atk": 715,
+        "def": 728
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SalePrice_Up_2",
+          "name": "Fine Furs",
+          "rank": 1
+        }
+      ],
+      "owner": "LawzZ"
     },
     {
       "nickname": "Needoll",
@@ -85546,6 +85946,51 @@ window.PALWORLD_DATA = {
           "id": "PAL_Sanity_Up_2",
           "name": "Comportement destructeur",
           "rank": -2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 54,
+        "melee": 0,
+        "shot": 33,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 574,
+        "atk": 14,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        },
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
         }
       ],
       "owner": "Martial"
@@ -85646,6 +86091,86 @@ window.PALWORLD_DATA = {
           "id": "ElementBoost_Dragon_1_PAL",
           "name": "Sang de dragon",
           "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 36,
+        "melee": 0,
+        "shot": 96,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 571,
+        "atk": 15,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 100,
+        "defense": 47
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 16,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "ElementResist_Aqua_1_PAL",
+          "name": "Imperméabilité",
+          "rank": 1
+        },
+        {
+          "id": "PAL_FullStomach_Up_1",
+          "name": "Glouton",
+          "rank": -1
         }
       ],
       "owner": "Martial"
@@ -86566,6 +87091,46 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 100,
+        "defense": 15
+      },
+      "power_stats": {
+        "hp": 596,
+        "atk": 14,
+        "def": 10
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_2",
+          "name": "Nutritionniste",
+          "rank": 3
+        },
+        {
+          "id": "PAL_FullStomach_Down_1",
+          "name": "Frugal",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Earth_1_PAL",
+          "name": "Force tellurique",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Shadowbeak",
       "species": "BlackGriffon",
       "species_name": "Shadowbeak",
@@ -86681,6 +87246,76 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 100,
+        "defense": 87
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 16,
+        "def": 14
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
+        },
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        },
+        {
+          "id": "SalePrice_Up_2",
+          "name": "Fine Furs",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 11,
+        "melee": 0,
+        "shot": 10,
+        "defense": 10
+      },
+      "power_stats": {
+        "hp": 566,
+        "atk": 11,
+        "def": 10
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Braloha",
       "species": "Plesiosaur",
       "species_name": "Braloha",
@@ -86706,6 +87341,46 @@ window.PALWORLD_DATA = {
           "id": "Deffence_up2_2",
           "name": "Heavyweight",
           "rank": 2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 100,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 16,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "PlayerSP_DecreaseRate_Passive",
+          "name": "Wellness Watcher",
+          "rank": 3
         }
       ],
       "owner": "Martial"
@@ -86806,6 +87481,51 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 45,
+        "defense": 27
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 13,
+        "def": 9
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        },
+        {
+          "id": "PAL_sadist",
+          "name": "Sadique",
+          "rank": 1
+        },
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "PAL_FullStomach_Up_2",
+          "name": "Estomac sans fond",
+          "rank": -2
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Palumba",
       "species": "TropicalOstrich",
       "species_name": "Palumba",
@@ -86871,6 +87591,46 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 76,
+        "melee": 0,
+        "shot": 100,
+        "defense": 24
+      },
+      "power_stats": {
+        "hp": 578,
+        "atk": 15,
+        "def": 9
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_sadist",
+          "name": "Sadique",
+          "rank": 1
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        },
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Mozzarina",
       "species": "CowPal",
       "species_name": "Mozzarina",
@@ -86906,6 +87666,36 @@ window.PALWORLD_DATA = {
       "owner": "takitome"
     },
     {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 61,
+        "defense": 53
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 13,
+        "def": 11
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_FullStomach_Down_2",
+          "name": "Nutritionniste",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Mossanda Lux",
       "species": "BOSS_GrassPanda_Electric",
       "species_name": "Mossanda Lux",
@@ -86934,6 +87724,91 @@ window.PALWORLD_DATA = {
         }
       ],
       "owner": "takitome"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 88,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 16,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 10,
+        "defense": 85
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 10,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Ice_1_PAL",
+          "name": "Sang froid",
+          "rank": 1
+        },
+        {
+          "id": "Stamina_Up_2",
+          "name": "Fit as a Fiddle",
+          "rank": 1
+        },
+        {
+          "id": "SalePrice_Up_1",
+          "name": "Noble",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
     },
     {
       "nickname": "Rushoar",
@@ -87011,6 +87886,51 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 100,
+        "melee": 0,
+        "shot": 100,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 583,
+        "atk": 16,
+        "def": 13
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "NonKilling",
+          "name": "Mercy Hit",
+          "rank": -1
+        },
+        {
+          "id": "TrainerMining_up1",
+          "name": "Chef d'extraction",
+          "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -87041,6 +87961,51 @@ window.PALWORLD_DATA = {
           "id": "PAL_FullStomach_Down_2",
           "name": "Nutritionniste",
           "rank": 3
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Shadowbeak",
+      "species": "BlackGriffon",
+      "species_name": "Shadowbeak",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackGriffon_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 14,
+        "melee": 0,
+        "shot": 100,
+        "defense": 1
+      },
+      "power_stats": {
+        "hp": 567,
+        "atk": 18,
+        "def": 8
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "SelfDeathAddItemDrop_up_2",
+          "name": "Service-Minded",
+          "rank": 3
+        },
+        {
+          "id": "CoolTimeReduction_Up_1",
+          "name": "Serenity",
+          "rank": 3
+        },
+        {
+          "id": "Noukin",
+          "name": "Impulsif",
+          "rank": 2
+        },
+        {
+          "id": "PAL_sadist",
+          "name": "Sadique",
+          "rank": 1
         }
       ],
       "owner": "Martial"
@@ -87086,6 +88051,81 @@ window.PALWORLD_DATA = {
           "id": "PAL_masochist",
           "name": "Masochiste",
           "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 100,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 16,
+        "def": 14
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "ElementBoost_Dark_2_PAL",
+          "name": "Hadès",
+          "rank": 3
+        },
+        {
+          "id": "PAL_ALLAttack_up2",
+          "name": "Féroce",
+          "rank": 3
+        },
+        {
+          "id": "PAL_FullStomach_Down_2",
+          "name": "Nutritionniste",
+          "rank": 3
+        },
+        {
+          "id": "PAL_masochist",
+          "name": "Masochiste",
+          "rank": 1
+        }
+      ],
+      "owner": "Martial"
+    },
+    {
+      "nickname": "Frostallion Noct",
+      "species": "IceHorse_Dark",
+      "species_name": "Frostallion Noct",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceHorse_Dark_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 97,
+        "melee": 0,
+        "shot": 43,
+        "defense": 100
+      },
+      "power_stats": {
+        "hp": 595,
+        "atk": 14,
+        "def": 15
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "Legend",
+          "name": "Légende",
+          "rank": 4
         }
       ],
       "owner": "Martial"
@@ -87140,7 +88180,7 @@ window.PALWORLD_DATA = {
     "most_pals": [
       {
         "owner": "Martial",
-        "pal_count": 897
+        "pal_count": 923
       },
       {
         "owner": "Theo",
@@ -87148,7 +88188,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "pal_count": 644
+        "pal_count": 645
       },
       {
         "owner": "takitome",
@@ -87170,19 +88210,19 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "Martial",
-        "total_power": 2224747
+        "total_power": 2240685
       },
       {
         "owner": "LawzZ",
-        "total_power": 2083295
+        "total_power": 2091204
       },
       {
         "owner": "takitome",
-        "total_power": 520635
+        "total_power": 520753
       },
       {
         "owner": "inconnu",
-        "total_power": 348820
+        "total_power": 349576
       },
       {
         "owner": "Prismiti",
@@ -87214,7 +88254,7 @@ window.PALWORLD_DATA = {
     "paldeck": [
       {
         "owner": "LawzZ",
-        "paldeck_count": 233
+        "paldeck_count": 234
       },
       {
         "owner": "Theo",
