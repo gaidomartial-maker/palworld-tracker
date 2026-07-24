@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T07:01:29.194304+00:00",
+  "generated_at": "2026-07-24T07:10:58.198378+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 61.0,
+      "ping": 58.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 51.0,
+      "ping": 41.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -1001,7 +1001,7 @@ window.PALWORLD_DATA = {
       "species": "JetDragon",
       "species_name": "Jetragon",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_JetDragon_icon_normal.webp",
-      "level": 40,
+      "level": 41,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -1012,9 +1012,9 @@ window.PALWORLD_DATA = {
         "defense": 75
       },
       "power_stats": {
-        "hp": 3662,
-        "atk": 663,
-        "def": 565
+        "hp": 3741,
+        "atk": 679,
+        "def": 578
       },
       "souls": 0,
       "passives": [
@@ -2063,7 +2063,7 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 35,
+      "level": 37,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -2074,9 +2074,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 3612,
-        "atk": 649,
-        "def": 483
+        "hp": 3789,
+        "atk": 686,
+        "def": 510
       },
       "souls": 0,
       "passives": [
@@ -11753,7 +11753,7 @@ window.PALWORLD_DATA = {
       "species": "LeafMomonga",
       "species_name": "Herbil",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LeafMomonga_icon_normal.webp",
-      "level": 47,
+      "level": 48,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -11764,9 +11764,9 @@ window.PALWORLD_DATA = {
         "defense": 54
       },
       "power_stats": {
-        "hp": 3372,
-        "atk": 397,
-        "def": 374
+        "hp": 3432,
+        "atk": 405,
+        "def": 381
       },
       "souls": 0,
       "passives": [
@@ -65159,9 +65159,9 @@ window.PALWORLD_DATA = {
         "defense": 50
       },
       "power_stats": {
-        "hp": 6936,
-        "atk": 1652,
-        "def": 1267
+        "hp": 7064,
+        "atk": 1663,
+        "def": 1282
       },
       "souls": 0,
       "passives": [
@@ -92963,7 +92963,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2619702
+        "total_power": 2620172
       },
       {
         "owner": "Martial",
@@ -92971,7 +92971,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 2080906
+        "total_power": 2081014
       },
       {
         "owner": "takitome",
