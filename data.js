@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T08:20:59.915206+00:00",
+  "generated_at": "2026-07-24T08:31:08.478700+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 59.0,
+      "ping": 63.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 43.0,
+      "ping": 49.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -2278,7 +2278,7 @@ window.PALWORLD_DATA = {
       "species": "BlackCentaur",
       "species_name": "Necromus",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_BlackCentaur_icon_normal.webp",
-      "level": 44,
+      "level": 45,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -2289,9 +2289,9 @@ window.PALWORLD_DATA = {
         "defense": 66
       },
       "power_stats": {
-        "hp": 4484,
-        "atk": 820,
-        "def": 616
+        "hp": 4574,
+        "atk": 838,
+        "def": 630
       },
       "souls": 0,
       "passives": [
@@ -31153,7 +31153,7 @@ window.PALWORLD_DATA = {
       "species": "GrassGolem",
       "species_name": "Dualith",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_GrassGolem_icon_normal.webp",
-      "level": 38,
+      "level": 39,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -31164,9 +31164,9 @@ window.PALWORLD_DATA = {
         "defense": 22
       },
       "power_stats": {
-        "hp": 3218,
-        "atk": 400,
-        "def": 488
+        "hp": 3290,
+        "atk": 410,
+        "def": 501
       },
       "souls": 0,
       "passives": [
@@ -94901,7 +94901,7 @@ window.PALWORLD_DATA = {
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2670616
+        "total_power": 2670738
       },
       {
         "owner": "Martial",
@@ -94917,7 +94917,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 383506
+        "total_power": 383601
       },
       {
         "owner": "Prismiti",
