@@ -1,5 +1,5 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T03:01:23.275908+00:00",
+  "generated_at": "2026-07-24T03:10:57.010408+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 68,
+      "ping": 63.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -21,7 +21,7 @@ window.PALWORLD_DATA = {
       "name": "LawzZ",
       "level": 79,
       "building_count": null,
-      "ping": 39.0,
+      "ping": 50.0,
       "online": true,
       "playerId": "67587A0F000000000000000000000000"
     },
@@ -29,7 +29,7 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 75,
       "building_count": null,
-      "ping": 53.0,
+      "ping": 51.0,
       "online": true,
       "playerId": "75567350000000000000000000000000"
     },
@@ -37,7 +37,7 @@ window.PALWORLD_DATA = {
       "name": "takitome",
       "level": 56,
       "building_count": null,
-      "ping": 68.0,
+      "ping": 71.0,
       "online": true,
       "playerId": "266A5F29000000000000000000000000"
     },
@@ -13955,7 +13955,7 @@ window.PALWORLD_DATA = {
       "species": "LavaGirl",
       "species_name": "Flambelle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LavaGirl_icon_normal.webp",
-      "level": 25,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -13966,9 +13966,9 @@ window.PALWORLD_DATA = {
         "defense": 19
       },
       "power_stats": {
-        "hp": 1584,
-        "atk": 200,
-        "def": 176
+        "hp": 1627,
+        "atk": 209,
+        "def": 183
       },
       "souls": 0,
       "passives": [
@@ -25757,7 +25757,7 @@ window.PALWORLD_DATA = {
       "species": "LavaGirl",
       "species_name": "Flambelle",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_LavaGirl_icon_normal.webp",
-      "level": 25,
+      "level": 26,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -25768,9 +25768,9 @@ window.PALWORLD_DATA = {
         "defense": 98
       },
       "power_stats": {
-        "hp": 1523,
-        "atk": 189,
-        "def": 212
+        "hp": 1564,
+        "atk": 198,
+        "def": 220
       },
       "souls": 0,
       "passives": [
@@ -83716,6 +83716,76 @@ window.PALWORLD_DATA = {
       "owner": "Martial"
     },
     {
+      "nickname": "Petallia Ignis",
+      "species": "FlowerDoll_Fire",
+      "species_name": "Petallia Ignis",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_FlowerDoll_Fire_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 78,
+        "melee": 0,
+        "shot": 20,
+        "defense": 57
+      },
+      "power_stats": {
+        "hp": 563,
+        "atk": 9,
+        "def": 8
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "CoolTimeReduction_Up_2",
+          "name": "Impatient",
+          "rank": 1
+        }
+      ],
+      "owner": "LawzZ"
+    },
+    {
+      "nickname": "Whalaska Ignis",
+      "species": "IceNarwhal_Fire",
+      "species_name": "Whalaska Ignis",
+      "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_IceNarwhal_Fire_icon_normal.webp",
+      "level": 1,
+      "rank": 0,
+      "is_alpha": false,
+      "is_awakened": false,
+      "talents": {
+        "hp": 20,
+        "melee": 0,
+        "shot": 41,
+        "defense": 94
+      },
+      "power_stats": {
+        "hp": 560,
+        "atk": 8,
+        "def": 10
+      },
+      "souls": 0,
+      "passives": [
+        {
+          "id": "PAL_ALLAttack_down2",
+          "name": "Biais d'omission",
+          "rank": -3
+        },
+        {
+          "id": "Stamina_Up_2",
+          "name": "Fit as a Fiddle",
+          "rank": 1
+        },
+        {
+          "id": "ElementResist_Normal_1_PAL",
+          "name": "Anormal",
+          "rank": 1
+        }
+      ],
+      "owner": "LawzZ"
+    },
+    {
       "nickname": "Frostallion Noct",
       "species": "IceHorse_Dark",
       "species_name": "Frostallion Noct",
@@ -88188,7 +88258,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "pal_count": 645
+        "pal_count": 647
       },
       {
         "owner": "takitome",
@@ -88214,7 +88284,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "LawzZ",
-        "total_power": 2091204
+        "total_power": 2092362
       },
       {
         "owner": "takitome",
@@ -88222,7 +88292,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 349576
+        "total_power": 349693
       },
       {
         "owner": "Prismiti",
@@ -88266,7 +88336,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "takitome",
-        "paldeck_count": 115
+        "paldeck_count": 116
       },
       {
         "owner": "Prismiti",
