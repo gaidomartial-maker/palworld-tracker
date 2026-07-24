@@ -1,10 +1,10 @@
 window.PALWORLD_DATA = {
-  "generated_at": "2026-07-24T00:31:10.304940+00:00",
+  "generated_at": "2026-07-24T00:40:57.478879+00:00",
   "server": {
     "name": "Serveur Palworld DES COP1",
     "description": "Serv Palworld herbergé par Martial",
     "online": true,
-    "current_players": 1,
+    "current_players": 2,
     "max_players": 15,
     "version": "v1.0.1.100619"
   },
@@ -13,7 +13,7 @@ window.PALWORLD_DATA = {
       "name": "Theo",
       "level": 80,
       "building_count": null,
-      "ping": 53.0,
+      "ping": 72.0,
       "online": true,
       "playerId": "9B41274E000000000000000000000000"
     },
@@ -29,8 +29,8 @@ window.PALWORLD_DATA = {
       "name": "Martial",
       "level": 74,
       "building_count": null,
-      "ping": null,
-      "online": false,
+      "ping": 45,
+      "online": true,
       "playerId": "75567350000000000000000000000000"
     },
     {
@@ -1461,7 +1461,7 @@ window.PALWORLD_DATA = {
       "species": "ChickenPal",
       "species_name": "Chikipi",
       "icon": "https://raw.githubusercontent.com/deafdudecomputers/PalworldSaveTools/main/resources/game_data/icons/pals/T_ChickenPal_icon_normal.webp",
-      "level": 30,
+      "level": 31,
       "rank": 0,
       "is_alpha": false,
       "is_awakened": false,
@@ -1472,9 +1472,9 @@ window.PALWORLD_DATA = {
         "defense": 42
       },
       "power_stats": {
-        "hp": 1555,
-        "atk": 244,
-        "def": 156
+        "hp": 1590,
+        "atk": 252,
+        "def": 162
       },
       "souls": 0,
       "passives": [
@@ -32572,7 +32572,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Tocotoco",
@@ -32722,7 +32722,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Beakon",
@@ -33250,7 +33250,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Rayhound",
@@ -40409,7 +40409,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Swee",
@@ -47803,7 +47803,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Dazzi",
@@ -57597,7 +57597,7 @@ window.PALWORLD_DATA = {
           "rank": -1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Azurobe Cryst",
@@ -58270,7 +58270,7 @@ window.PALWORLD_DATA = {
           "rank": 1
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Tetroise ",
@@ -68445,7 +68445,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Dumud Gild",
@@ -73798,7 +73798,7 @@ window.PALWORLD_DATA = {
           "rank": 3
         }
       ],
-      "owner": "Theo"
+      "owner": "inconnu"
     },
     {
       "nickname": "Panthalus (Boss)",
@@ -82634,7 +82634,7 @@ window.PALWORLD_DATA = {
     "most_pals": [
       {
         "owner": "Theo",
-        "pal_count": 828
+        "pal_count": 819
       },
       {
         "owner": "Martial",
@@ -82654,13 +82654,13 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "pal_count": 48
+        "pal_count": 57
       }
     ],
     "strongest_team": [
       {
         "owner": "Theo",
-        "total_power": 2577487
+        "total_power": 2528398
       },
       {
         "owner": "LawzZ",
@@ -82676,7 +82676,7 @@ window.PALWORLD_DATA = {
       },
       {
         "owner": "inconnu",
-        "total_power": 192334
+        "total_power": 241472
       },
       {
         "owner": "Prismiti",
